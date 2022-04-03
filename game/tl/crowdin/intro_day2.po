@@ -575,8 +575,8 @@ msgid "Manager || [r], what the hell!? How many times do I have to tell you that
 msgstr "Manager || [r], what the hell!? How many times do I have to tell you that you have to wear a bra?"
 
 # game/intro_day2.rpy:192 ## translate crowdin intro_day2_2_badfc039:
-msgid "r "I-I'm sorry, sir."
-msgstr "r "I-I'm sorry, sir."
+msgid "[r] I-I'm sorry, sir."
+msgstr "[r] I-I'm sorry, sir."
 
 # game/intro_day2.rpy:194 ## translate crowdin intro_day2_2_c3851b52:
 msgid "Manager || You're sorry?! [r] you shouldn't be sorry, you should be ashamed!"
@@ -587,8 +587,8 @@ msgid "Manager || We have standards in this hotel, [r]! Your shameful behavior a
 msgstr "Manager || We have standards in this hotel, [r]! Your shameful behavior already got the attention of some of our guests. That's not acceptable."
 
 # game/intro_day2.rpy:196 ## translate crowdin intro_day2_2_0906f490:
-msgid "r "I'm sorry, sir. I-It's just that the technician still didn't fix the AC and it's so hot in here."
-msgstr "r "I'm sorry, sir. I-It's just that the technician still didn't fix the AC and it's so hot in here."
+msgid "[r] I'm sorry, sir. I-It's just that the technician still didn't fix the AC and it's so hot in here."
+msgstr "[r] I'm sorry, sir. I-It's just that the technician still didn't fix the AC and it's so hot in here."
 
 # game/intro_day2.rpy:197 ## translate crowdin intro_day2_2_bc1774a0:
 msgid "Manager || That's no excuse for dressing like a whore!"
@@ -599,32 +599,32 @@ msgid "[pcthink] Whoa, that's a bit harsh..."
 msgstr "[pcthink] Whoa, that's a bit harsh..."
 
 # game/intro_day2.rpy:199 ## translate crowdin intro_day2_2_03697de9:
-msgid "r "I'm sorry, sir..."
-msgstr "r "I'm sorry, sir..."
+msgid "[r] I'm sorry, sir..."
+msgstr "[r] I'm sorry, sir..."
 
 # game/intro_day2.rpy:200 ## translate crowdin intro_day2_2_97d4b59e:
 msgid "Manager || I'm tired of your excuses, [r]. I've had enough of this now. Get your stuff and leave."
 msgstr "Manager || I'm tired of your excuses, [r]. I've had enough of this now. Get your stuff and leave."
 
 # game/intro_day2.rpy:201 ## translate crowdin intro_day2_2_44ee4b94:
-msgid "r "B-but sir! Please, I-I need the money, you can't just throw me out!?"
-msgstr "r "B-but sir! Please, I-I need the money, you can't just throw me out!?"
+msgid "[r] B-but sir! Please, I-I need the money, you can't just throw me out!?"
+msgstr "[r] B-but sir! Please, I-I need the money, you can't just throw me out!?"
 
 # game/intro_day2.rpy:202 ## translate crowdin intro_day2_2_feab064c:
 msgid "Manager || Don't make a scene now, it's your own fault, I've given you enough warnings!"
 msgstr "Manager || Don't make a scene now, it's your own fault, I've given you enough warnings!"
 
 # game/intro_day2.rpy:203 ## translate crowdin intro_day2_2_fee0cc03:
-msgid "r "I'm sorry..."
-msgstr "r "I'm sorry..."
+msgid "[r] I'm sorry..."
+msgstr "[r] I'm sorry..."
 
 # game/intro_day2.rpy:204 ## translate crowdin intro_day2_2_391b8c26:
 msgid "Manager || I'll send George over to take care of the reception and I expect you to be gone in half an hour at the latest!"
 msgstr "Manager || I'll send George over to take care of the reception and I expect you to be gone in half an hour at the latest!"
 
 # game/intro_day2.rpy:206 ## translate crowdin intro_day2_2_5357dc76:
-msgid "r "Yes, sir..."
-msgstr "r "Yes, sir..."
+msgid "[r] Yes, sir..."
+msgstr "[r] Yes, sir..."
 
 # game/intro_day2.rpy:207 ## translate crowdin intro_day2_2_170e3937:
 msgid "[pcthink] Damn, seems like I'm not the only one having a bad day..."
