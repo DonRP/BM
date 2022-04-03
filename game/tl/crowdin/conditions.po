@@ -47,92 +47,74 @@ msgid "[pcthink] Uhh..."
 msgstr "[pcthink] Uhh..."
 
 # XXtranslate crowdin strings:XX# XX## game/conditions.rpy:10
-msgid  "Mr."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Mr."
+msgid "[mschoice] Mr."
+msgstr "[mschoice] Mr."
 
 # XX## game/conditions.rpy:11
-msgid  "he"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "he"
+msgid "[mschoice] he"
+msgstr "[mschoice] he"
 
 # XX## game/conditions.rpy:12
-msgid  "boy"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "boy"
+msgid "[mschoice] boy"
+msgstr "[mschoice] boy"
 
 # XX## game/conditions.rpy:13
-msgid  "Daddy"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Daddy"
+msgid "[mschoice] Daddy"
+msgstr "[mschoice] Daddy"
 
 # XX## game/conditions.rpy:14
-msgid  "son"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "son"
+msgid "[mschoice] son"
+msgstr "[mschoice] son"
 
 # XX## game/conditions.rpy:15
-msgid  "him"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "him"
+msgid "[mschoice] him"
+msgstr "[mschoice] him"
 
 # XX## game/conditions.rpy:16
-msgid  "John"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "John"
+msgid "[mschoice] John"
+msgstr "[mschoice] John"
 
 # XX## game/conditions.rpy:17
-msgid  "brother"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "brother"
+msgid "[mschoice] brother"
+msgstr "[mschoice] brother"
 
 # XX## game/conditions.rpy:18
-msgid  "his"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "his"
+msgid "[mschoice] his"
+msgstr "[mschoice] his"
 
 # XX## game/conditions.rpy:21
-msgid  "male"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "male"
+msgid "[mschoice] male"
+msgstr "[mschoice] male"
 
 # XX## game/conditions.rpy:22
-msgid  "Doe"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Doe"
+msgid "[mschoice] Doe"
+msgstr "[mschoice] Doe"
 
 # XX## game/conditions.rpy:1752
-msgid  "Take a nap"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Take a nap"
+msgid "[mschoice] Take a nap"
+msgstr "[mschoice] Take a nap"
 
 # XX## game/conditions.rpy:1752
-msgid  "Look for [e]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Look for [e]"
+msgid "[mschoice] Look for [e]"
+msgstr "[mschoice] Look for [e]"
 
 # XX## game/conditions.rpy:1752
-msgid  "Look for [m]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Look for [m]"
+msgid "[mschoice] Look for [m]"
+msgstr "[mschoice] Look for [m]"
 
 # XX## game/conditions.rpy:1752
-msgid  "Turn the pc on"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Turn the pc on"
+msgid "[mschoice] Turn the pc on"
+msgstr "[mschoice] Turn the pc on"
 
 # XX## game/conditions.rpy:1752
-msgid  "Leave"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Leave"
+msgid "[mschoice] Leave"
+msgstr "[mschoice] Leave"
 
 # XX## game/conditions.rpy:1752
-msgid  "Look around"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Look around"
+msgid "[mschoice] Look around"
+msgstr "[mschoice] Look around"
 
 # XX## game/conditions.rpy:1861
-msgid  "Look"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Look"
+msgid "[mschoice] Look"
+msgstr "[mschoice] Look"
 

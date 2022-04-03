@@ -51,28 +51,28 @@ msgid "[pcthink] Naaah, whatever, I'm too curious right now. I'll have a look!"
 msgstr "[pcthink] Naaah, whatever, I'm too curious right now. I'll have a look!"
 
 # game/intro.rpy:25 ## translate crowdin intro_ef06476f:
-msgid "Cab driver || Alright, that's as close as we can get."
-msgstr "Cab driver || Alright, that's as close as we can get."
+msgid "Cab driver" "Alright, that's as close as we can get."
+msgstr "Cab driver" "Alright, that's as close as we can get."
 
 # game/intro.rpy:26 ## translate crowdin intro_dbcbd63e:
-msgid "Cab driver || As I said earlier, the road is blocked by construction work, but it's not far from here anyway."
-msgstr "Cab driver || As I said earlier, the road is blocked by construction work, but it's not far from here anyway."
+msgid "Cab driver" "As I said earlier, the road is blocked by construction work, but it's not far from here anyway."
+msgstr "Cab driver" "As I said earlier, the road is blocked by construction work, but it's not far from here anyway."
 
 # game/intro.rpy:27 ## translate crowdin intro_25e6aa2b:
 msgid "[pc] That's okay, I'll walk."
 msgstr "[pc] That's okay, I'll walk."
 
 # game/intro.rpy:28 ## translate crowdin intro_40374778:
-msgid "Cab driver || You know the way?"
-msgstr "Cab driver || You know the way?"
+msgid "Cab driver" "You know the way?"
+msgstr "Cab driver" "You know the way?"
 
 # game/intro.rpy:29 ## translate crowdin intro_6f4510a3:
 msgid "[pc] Yeah, I grew up in this town."
 msgstr "[pc] Yeah, I grew up in this town."
 
 # game/intro.rpy:30 ## translate crowdin intro_f5a5e7ce:
-msgid "Cab driver || 'Kay, good luck."
-msgstr "Cab driver || 'Kay, good luck."
+msgid "Cab driver" "'Kay, good luck."
+msgstr "Cab driver" "'Kay, good luck."
 
 # game/intro.rpy:32 ## translate crowdin intro_942da871:
 msgid "[n] You give the driver his money and walk towards your new apartment, using some side roads you still remember from the past."
@@ -259,12 +259,10 @@ msgid "[pc] I better go to bed... I can't do anything at this time anyway."
 msgstr "[pc] I better go to bed... I can't do anything at this time anyway."
 
 # XXtranslate crowdin strings:XX# XX## game/intro.rpy:85
-msgid  "Choose your first name."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Choose your first name."
+msgid "[mschoice] Choose your first name."
+msgstr "[mschoice] Choose your first name."
 
 # XX## game/intro.rpy:86
-msgid  "Choose your last name."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Choose your last name."
+msgid "[mschoice] Choose your last name."
+msgstr "[mschoice] Choose your last name."
 

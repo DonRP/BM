@@ -39,57 +39,46 @@ msgid "[n] Congratulation! You broke her heart...idiot!"
 msgstr "[n] Congratulation! You broke her heart...idiot!"
 
 # XXtranslate crowdin strings:XX# XX## game/script.rpy:352
-msgid  "Play as Man"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Play as Man"
+msgid "[mschoice] Play as Man"
+msgstr "[mschoice] Play as Man"
 
 # XX## game/script.rpy:352
-msgid  "Play as Woman (lesbian)"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Play as Woman (lesbian)"
+msgid "[mschoice] Play as Woman (lesbian)"
+msgstr "[mschoice] Play as Woman (lesbian)"
 
 # XX## game/script.rpy:363
-msgid  "female"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "female"
+msgid "[mschoice] female"
+msgstr "[mschoice] female"
 
 # XX## game/script.rpy:365
-msgid  "Ms."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Ms."
+msgid "[mschoice] Ms."
+msgstr "[mschoice] Ms."
 
 # XX## game/script.rpy:366
-msgid  "she"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "she"
+msgid "[mschoice] she"
+msgstr "[mschoice] she"
 
 # XX## game/script.rpy:367
-msgid  "girl"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "girl"
+msgid "[mschoice] girl"
+msgstr "[mschoice] girl"
 
 # XX## game/script.rpy:368
-msgid  "Mommy"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Mommy"
+msgid "[mschoice] Mommy"
+msgstr "[mschoice] Mommy"
 
 # XX## game/script.rpy:369
-msgid  "daughter"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "daughter"
+msgid "[mschoice] daughter"
+msgstr "[mschoice] daughter"
 
 # XX## game/script.rpy:370
-msgid  "her"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "her"
+msgid "[mschoice] her"
+msgstr "[mschoice] her"
 
 # XX## game/script.rpy:371
-msgid  "Jill"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Jill"
+msgid "[mschoice] Jill"
+msgstr "[mschoice] Jill"
 
 # XX## game/script.rpy:372
-msgid  "sister"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "sister"
+msgid "[mschoice] sister"
+msgstr "[mschoice] sister"
 

@@ -723,8 +723,8 @@ msgid "[n] Suddenly you hear a voice from behind you."
 msgstr "[n] Suddenly you hear a voice from behind you."
 
 # game/events_mc.rpy:317 ## translate crowdin getEfromSchool1_9a3323ff:
-msgid "Voice || Hey! Stop right there!"
-msgstr "Voice || Hey! Stop right there!"
+msgid "Voice" "Hey! Stop right there!"
+msgstr "Voice" "Hey! Stop right there!"
 
 # game/events_mc.rpy:318 ## translate crowdin getEfromSchool1_32ead6f8:
 msgid "[pcthink] Huh?"
@@ -3519,8 +3519,8 @@ msgid "[n] A while later..."
 msgstr "[n] A while later..."
 
 # game/events_mc.rpy:1451 ## translate crowdin porn_vr_4_7cd59846:
-msgid "Voice || Mphh... mphhh..."
-msgstr "Voice || Mphh... mphhh..."
+msgid "Voice" "Mphh... mphhh..."
+msgstr "Voice" "Mphh... mphhh..."
 
 # game/events_mc.rpy:1456 ## translate crowdin porn_vr_4_594132e1:
 msgid "[pcthink] Gawd, I love these girls!"
@@ -5675,8 +5675,8 @@ msgid "[pcthink] Anyway, time to sleep."
 msgstr "[pcthink] Anyway, time to sleep."
 
 # game/events_mc.rpy:2460 ## translate crowdin d9dream_99c802ff:
-msgid "Voice || *Sniff*"
-msgstr "Voice || *Sniff*"
+msgid "Voice" "*Sniff*"
+msgstr "Voice" "*Sniff*"
 
 # game/events_mc.rpy:2461 ## translate crowdin d9dream_8f56933b:
 msgid "[n] You can hear a weeping noise."
@@ -5687,52 +5687,52 @@ msgid "[pc] Dad?"
 msgstr "[pc] Dad?"
 
 # game/events_mc.rpy:2463 ## translate crowdin d9dream_9aef7dc5:
-msgid "Dad || Oh hey, [pc]... *sniff*"
-msgstr "Dad || Oh hey, [pc]... *sniff*"
+msgid "Dad" "Oh hey, [pc]... *sniff*"
+msgstr "Dad" "Oh hey, [pc]... *sniff*"
 
 # game/events_mc.rpy:2464 ## translate crowdin d9dream_e6e5c075:
 msgid "[n] He wipes tears from his eyes. You can see him holding a photo of your mom in his hands."
 msgstr "[n] He wipes tears from his eyes. You can see him holding a photo of your mom in his hands."
 
 # game/events_mc.rpy:2465 ## translate crowdin d9dream_84c70355:
-msgid "Dad || You're back early..."
-msgstr "Dad || You're back early..."
+msgid "Dad" "You're back early..."
+msgstr "Dad" "You're back early..."
 
 # game/events_mc.rpy:2466 ## translate crowdin d9dream_96535a88:
 msgid "[pc] Are you crying, Dad?"
 msgstr "[pc] Are you crying, Dad?"
 
 # game/events_mc.rpy:2467 ## translate crowdin d9dream_e24b33bd:
-msgid "Dad || No... *sniff* ...must've gotten something in my eye..."
-msgstr "Dad || No... *sniff* ...must've gotten something in my eye..."
+msgid "Dad" "No... *sniff* ...must've gotten something in my eye..."
+msgstr "Dad" "No... *sniff* ...must've gotten something in my eye..."
 
 # game/events_mc.rpy:2468 ## translate crowdin d9dream_a69377ef:
 msgid "[pc] ..."
 msgstr "[pc] ..."
 
 # game/events_mc.rpy:2469 ## translate crowdin d9dream_da7061f8:
-msgid "Dad || Do you miss your mom, [pc]?"
-msgstr "Dad || Do you miss your mom, [pc]?"
+msgid "Dad" "Do you miss your mom, [pc]?"
+msgstr "Dad" "Do you miss your mom, [pc]?"
 
 # game/events_mc.rpy:2470 ## translate crowdin d9dream_3b5608b8:
 msgid "[pc] Yes..."
 msgstr "[pc] Yes..."
 
 # game/events_mc.rpy:2471 ## translate crowdin d9dream_234a4777:
-msgid "Dad || Hm... you should forget about her..."
-msgstr "Dad || Hm... you should forget about her..."
+msgid "Dad" "Hm... you should forget about her..."
+msgstr "Dad" "Hm... you should forget about her..."
 
 # game/events_mc.rpy:2472 ## translate crowdin d9dream_0628eca5:
 msgid "[pc] I don't want to forget her!"
 msgstr "[pc] I don't want to forget her!"
 
 # game/events_mc.rpy:2473 ## translate crowdin d9dream_d262fbf2:
-msgid "Dad || But it's better for you... for both of us..."
-msgstr "Dad || But it's better for you... for both of us..."
+msgid "Dad" "But it's better for you... for both of us..."
+msgstr "Dad" "But it's better for you... for both of us..."
 
 # game/events_mc.rpy:2474 ## translate crowdin d9dream_85c0867b:
-msgid "Dad || ...and do yourself a favor and never fall in love..."
-msgstr "Dad || ...and do yourself a favor and never fall in love..."
+msgid "Dad" "...and do yourself a favor and never fall in love..."
+msgstr "Dad" "...and do yourself a favor and never fall in love..."
 
 # game/events_mc.rpy:2475 ## translate crowdin d9dream_a69377ef_1:
 msgid "[pc] ..."
@@ -5747,28 +5747,28 @@ msgid "[pc] Don't you love [m], Dad?"
 msgstr "[pc] Don't you love [m], Dad?"
 
 # game/events_mc.rpy:2478 ## translate crowdin d9dream_51070d0f:
-msgid "Dad || [m]?! Pff..."
-msgstr "Dad || [m]?! Pff..."
+msgid "Dad" "[m]?! Pff..."
+msgstr "Dad" "[m]?! Pff..."
 
 # game/events_mc.rpy:2479 ## translate crowdin d9dream_14cfced5:
-msgid "Dad || That b... she doesn't even know how to cook a proper meal, let alone how to suck a..."
-msgstr "Dad || That b... she doesn't even know how to cook a proper meal, let alone how to suck a..."
+msgid "Dad" "That b... she doesn't even know how to cook a proper meal, let alone how to suck a..."
+msgstr "Dad" "That b... she doesn't even know how to cook a proper meal, let alone how to suck a..."
 
 # game/events_mc.rpy:2480 ## translate crowdin d9dream_8854a3cf:
-msgid "Dad || Uch... damn it..."
-msgstr "Dad || Uch... damn it..."
+msgid "Dad" "Uch... damn it..."
+msgstr "Dad" "Uch... damn it..."
 
 # game/events_mc.rpy:2481 ## translate crowdin d9dream_d582bfa7:
-msgid "Dad || Just always remember that she's not your mom, even if she tries to be... she's useless and she'll never be your mom!"
-msgstr "Dad || Just always remember that she's not your mom, even if she tries to be... she's useless and she'll never be your mom!"
+msgid "Dad" "Just always remember that she's not your mom, even if she tries to be... she's useless and she'll never be your mom!"
+msgstr "Dad" "Just always remember that she's not your mom, even if she tries to be... she's useless and she'll never be your mom!"
 
 # game/events_mc.rpy:2482 ## translate crowdin d9dream_5d7119e2:
 msgid "[pc] ...okay..."
 msgstr "[pc] ...okay..."
 
 # game/events_mc.rpy:2483 ## translate crowdin d9dream_155a3712:
-msgid "Dad || Now go back to your room or go out and play or whatever you do..."
-msgstr "Dad || Now go back to your room or go out and play or whatever you do..."
+msgid "Dad" "Now go back to your room or go out and play or whatever you do..."
+msgstr "Dad" "Now go back to your room or go out and play or whatever you do..."
 
 # game/events_mc.rpy:2484 ## translate crowdin d9dream_880b4aa8:
 msgid "[pc] Okay..."
@@ -5779,28 +5779,28 @@ msgid "[n] You're about to leave the room..."
 msgstr "[n] You're about to leave the room..."
 
 # game/events_mc.rpy:2486 ## translate crowdin d9dream_14e7ad76:
-msgid "Dad || [pc]?"
-msgstr "Dad || [pc]?"
+msgid "Dad" "[pc]?"
+msgstr "Dad" "[pc]?"
 
 # game/events_mc.rpy:2487 ## translate crowdin d9dream_bbe33639:
 msgid "[pc] Yes, Dad?"
 msgstr "[pc] Yes, Dad?"
 
 # game/events_mc.rpy:2488 ## translate crowdin d9dream_0b01384d:
-msgid "Dad || I'm sorry that I..."
-msgstr "Dad || I'm sorry that I..."
+msgid "Dad" "I'm sorry that I..."
+msgstr "Dad" "I'm sorry that I..."
 
 # game/events_mc.rpy:2489 ## translate crowdin d9dream_503d5266:
-msgid "Dad || ...sometimes..."
-msgstr "Dad || ...sometimes..."
+msgid "Dad" "...sometimes..."
+msgstr "Dad" "...sometimes..."
 
 # game/events_mc.rpy:2490 ## translate crowdin d9dream_cde1b3be:
-msgid "Dad || ..."
-msgstr "Dad || ..."
+msgid "Dad" "..."
+msgstr "Dad" "..."
 
 # game/events_mc.rpy:2491 ## translate crowdin d9dream_b283b4e3:
-msgid "Dad || Never mind, just go..."
-msgstr "Dad || Never mind, just go..."
+msgid "Dad" "Never mind, just go..."
+msgstr "Dad" "Never mind, just go..."
 
 # game/events_mc.rpy:2497 ## translate crowdin d10wakeup_e2ee86ba:
 msgid "[pc] Uhh..."
@@ -6223,20 +6223,20 @@ msgid "[n] It's quite late already, so everyone quickly goes to bed after dinner
 msgstr "[n] It's quite late already, so everyone quickly goes to bed after dinner, you decide do the same."
 
 # game/events_mc.rpy:2701 ## translate crowdin d10nightsex_38cd2de2:
-msgid "Voice || Wakey wakey. [withslowdissolve]"
-msgstr "Voice || Wakey wakey. [withslowdissolve]"
+msgid "Voice" "Wakey wakey. [withslowdissolve]"
+msgstr "Voice" "Wakey wakey. [withslowdissolve]"
 
 # game/events_mc.rpy:2702 ## translate crowdin d10nightsex_9f4f5a57:
 msgid "[pc] Uhh... is it morning already?"
 msgstr "[pc] Uhh... is it morning already?"
 
 # game/events_mc.rpy:2703 ## translate crowdin d10nightsex_9bdc0426:
-msgid "Voice || No, Silly, it's still night!"
-msgstr "Voice || No, Silly, it's still night!"
+msgid "Voice" "No, Silly, it's still night!"
+msgstr "Voice" "No, Silly, it's still night!"
 
 # game/events_mc.rpy:2704 ## translate crowdin d10nightsex_109cf5a7:
-msgid "Voice || Khehehe."
-msgstr "Voice || Khehehe."
+msgid "Voice" "Khehehe."
+msgstr "Voice" "Khehehe."
 
 # game/events_mc.rpy:2706 ## translate crowdin d10nightsex_61e4f5ac:
 msgid "[pc] Huh?!"
@@ -7175,137 +7175,110 @@ msgid "[j] Oh no, I hope it's not that weird cop again..."
 msgstr "[j] Oh no, I hope it's not that weird cop again..."
 
 # XXtranslate crowdin strings:XX# XX## game/events_mc.rpy:249
-msgid  "Watch TV in the living room"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Watch TV in the living room"
+msgid "[mschoice] Watch TV in the living room"
+msgstr "[mschoice] Watch TV in the living room"
 
 # XX## game/events_mc.rpy:505
-msgid  "{i}(Damn, I love the idea...){/i}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "{i}(Damn, I love the idea...){/i}"
+msgid "[mschoice] {i}(Damn, I love the idea...){/i}"
+msgstr "[mschoice] {i}(Damn, I love the idea...){/i}"
 
 # XX## game/events_mc.rpy:505
-msgid  "{i}(There is no way I would ever do that!){/i}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "{i}(There is no way I would ever do that!){/i}"
+msgid "[mschoice] {i}(There is no way I would ever do that!){/i}"
+msgstr "[mschoice] {i}(There is no way I would ever do that!){/i}"
 
 # XX## game/events_mc.rpy:572
-msgid  "She will come over tonight anyway... gimme porn!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "She will come over tonight anyway... gimme porn!"
+msgid "[mschoice] She will come over tonight anyway... gimme porn!"
+msgstr "[mschoice] She will come over tonight anyway... gimme porn!"
 
 # XX## game/events_mc.rpy:572
-msgid  "I should really talk to her now!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "I should really talk to her now!"
+msgid "[mschoice] I should really talk to her now!"
+msgstr "[mschoice] I should really talk to her now!"
 
 # XX## game/events_mc.rpy:707
-msgid  "Introduce yourself."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Introduce yourself."
+msgid "[mschoice] Introduce yourself."
+msgstr "[mschoice] Introduce yourself."
 
 # XX## game/events_mc.rpy:707
-msgid  "Say good bye and leave."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Say good bye and leave."
+msgid "[mschoice] Say good bye and leave."
+msgstr "[mschoice] Say good bye and leave."
 
 # XX## game/events_mc.rpy:1518
-msgid  "Call her?"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Call her?"
+msgid "[mschoice] Call her?"
+msgstr "[mschoice] Call her?"
 
 # XX## game/events_mc.rpy:1518
-msgid  "Call her!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Call her!"
+msgid "[mschoice] Call her!"
+msgstr "[mschoice] Call her!"
 
 # XX## game/events_mc.rpy:1518
-msgid  "Nah, not now."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Nah, not now."
+msgid "[mschoice] Nah, not now."
+msgstr "[mschoice] Nah, not now."
 
 # XX## game/events_mc.rpy:1620
-msgid  "Push [j] out of the bed."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Push [j] out of the bed."
+msgid "[mschoice] Push [j] out of the bed."
+msgstr "[mschoice] Push [j] out of the bed."
 
 # XX## game/events_mc.rpy:1620
-msgid  "Hide [e] under the blanket."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Hide [e] under the blanket."
+msgid "[mschoice] Hide [e] under the blanket."
+msgstr "[mschoice] Hide [e] under the blanket."
 
 # XX## game/events_mc.rpy:1735
-msgid  "Tell them you're sorry."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Tell them you're sorry."
+msgid "[mschoice] Tell them you're sorry."
+msgstr "[mschoice] Tell them you're sorry."
 
 # XX## game/events_mc.rpy:1735
-msgid  "Talk about the weather."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Talk about the weather."
+msgid "[mschoice] Talk about the weather."
+msgstr "[mschoice] Talk about the weather."
 
 # XX## game/events_mc.rpy:2197
-msgid  "Call her Mom."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Call her Mom."
+msgid "[mschoice] Call her Mom."
+msgstr "[mschoice] Call her Mom."
 
 # XX## game/events_mc.rpy:2197
-msgid  "Change the topic."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Change the topic."
+msgid "[mschoice] Change the topic."
+msgstr "[mschoice] Change the topic."
 
 # XX## game/events_mc.rpy:2320
-msgid  "The good news."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "The good news."
+msgid "[mschoice] The good news."
+msgstr "[mschoice] The good news."
 
 # XX## game/events_mc.rpy:2320
-msgid  "The bad news."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "The bad news."
+msgid "[mschoice] The bad news."
+msgstr "[mschoice] The bad news."
 
 # XX## game/events_mc.rpy:2772
-msgid  "[e]."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "[e]."
+msgid "[mschoice] [e]."
+msgstr "[mschoice] [e]."
 
 # XX## game/events_mc.rpy:2772
-msgid  "[j]."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "[j]."
+msgid "[mschoice] [j]."
+msgstr "[mschoice] [j]."
 
 # XX## game/events_mc.rpy:2817
-msgid  "Switch to [j]."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Switch to [j]."
+msgid "[mschoice] Switch to [j]."
+msgstr "[mschoice] Switch to [j]."
 
 # XX## game/events_mc.rpy:2817
-msgid  "Go on, [e]."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Go on, [e]."
+msgid "[mschoice] Go on, [e]."
+msgstr "[mschoice] Go on, [e]."
 
 # XX## game/events_mc.rpy:2817
-msgid  "Cum."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Cum."
+msgid "[mschoice] Cum."
+msgstr "[mschoice] Cum."
 
 # XX## game/events_mc.rpy:2857
-msgid  "Switch to [e]."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Switch to [e]."
+msgid "[mschoice] Switch to [e]."
+msgstr "[mschoice] Switch to [e]."
 
 # XX## game/events_mc.rpy:2857
-msgid  "Go on, [j]."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Go on, [j]."
+msgid "[mschoice] Go on, [j]."
+msgstr "[mschoice] Go on, [j]."
 
 # XX## game/events_mc.rpy:2926
-msgid  "Switch to fuck [j]."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Switch to fuck [j]."
+msgid "[mschoice] Switch to fuck [j]."
+msgstr "[mschoice] Switch to fuck [j]."
 
 # XX## game/events_mc.rpy:2971
-msgid  "Switch to fuck [e]."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Switch to fuck [e]."
+msgid "[mschoice] Switch to fuck [e]."
+msgstr "[mschoice] Switch to fuck [e]."
 

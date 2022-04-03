@@ -1,450 +1,360 @@
 ﻿# TODO: Translation updated at 2022-04-03 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:208
-msgid  "{b}Show dialogue background box?{/b}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "{b}Show dialogue background box?{/b}"
+msgid "[mschoice] {b}Show dialogue background box?{/b}"
+msgstr "[mschoice] {b}Show dialogue background box?{/b}"
 
 # XX## game/screens.rpy:209
-msgid  "{i}(You can change this again in the Preferences.){/i}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "{i}(You can change this again in the Preferences.){/i}"
+msgid "[mschoice] {i}(You can change this again in the Preferences.){/i}"
+msgstr "[mschoice] {i}(You can change this again in the Preferences.){/i}"
 
 # XX## game/screens.rpy:210
-msgid  "Yes"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Yes"
+msgid "[mschoice] Yes"
+msgstr "[mschoice] Yes"
 
 # XX## game/screens.rpy:211
-msgid  "No"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "No"
+msgid "[mschoice] No"
+msgstr "[mschoice] No"
 
 # XX## game/screens.rpy:317
-msgid  "Back"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Back"
+msgid "[mschoice] Back"
+msgstr "[mschoice] Back"
 
 # XX## game/screens.rpy:318
-msgid  "History"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "History"
+msgid "[mschoice] History"
+msgstr "[mschoice] History"
 
 # XX## game/screens.rpy:319
-msgid  "Hide"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Hide"
+msgid "[mschoice] Hide"
+msgstr "[mschoice] Hide"
 
 # XX## game/screens.rpy:320
-msgid  "Skip"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Skip"
+msgid "[mschoice] Skip"
+msgstr "[mschoice] Skip"
 
 # XX## game/screens.rpy:321
-msgid  "Auto"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Auto"
+msgid "[mschoice] Auto"
+msgstr "[mschoice] Auto"
 
 # XX## game/screens.rpy:322
-msgid  "Q.Save"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Q.Save"
+msgid "[mschoice] Q.Save"
+msgstr "[mschoice] Q.Save"
 
 # XX## game/screens.rpy:323
-msgid  "Q.Load"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Q.Load"
+msgid "[mschoice] Q.Load"
+msgstr "[mschoice] Q.Load"
 
 # XX## game/screens.rpy:324
-msgid  "Menu"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Menu"
+msgid "[mschoice] Menu"
+msgstr "[mschoice] Menu"
 
 # XX## game/screens.rpy:376
-msgid  "Save"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Save"
+msgid "[mschoice] Save"
+msgstr "[mschoice] Save"
 
 # XX## game/screens.rpy:378
-msgid  "Load"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Load"
+msgid "[mschoice] Load"
+msgstr "[mschoice] Load"
 
 # XX## game/screens.rpy:380
-msgid  "Preferences"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Preferences"
+msgid "[mschoice] Preferences"
+msgstr "[mschoice] Preferences"
 
 # XX## game/screens.rpy:384
-msgid  "End Replay"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "End Replay"
+msgid "[mschoice] End Replay"
+msgstr "[mschoice] End Replay"
 
 # XX## game/screens.rpy:388
-msgid  "Main Menu"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Main Menu"
+msgid "[mschoice] Main Menu"
+msgstr "[mschoice] Main Menu"
 
 # XX## game/screens.rpy:390
-msgid  "About"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "About"
+msgid "[mschoice] About"
+msgstr "[mschoice] About"
 
 # XX## game/screens.rpy:395
-msgid  "Help"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Help"
+msgid "[mschoice] Help"
+msgstr "[mschoice] Help"
 
 # XX## game/screens.rpy:398
-msgid  "Quit"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Quit"
+msgid "[mschoice] Quit"
+msgstr "[mschoice] Quit"
 
 # XX## game/screens.rpy:556
-msgid  "Return"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Return"
+msgid "[mschoice] Return"
+msgstr "[mschoice] Return"
 
 # XX## game/screens.rpy:640
-msgid  "Version [config.version!t]\n"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Version [config.version!t]\n"
+msgid "[mschoice] Version [config.version!t]\n"
+msgstr "[mschoice] Version [config.version!t]\n"
 
 # XX## game/screens.rpy:646
-msgid  "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+msgid "[mschoice] Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+msgstr "[mschoice] Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
 # XX## game/screens.rpy:686
-msgid  "Page {}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Page {}"
+msgid "[mschoice] Page {}"
+msgstr "[mschoice] Page {}"
 
 # XX## game/screens.rpy:686
-msgid  "Automatic saves"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Automatic saves"
+msgid "[mschoice] Automatic saves"
+msgstr "[mschoice] Automatic saves"
 
 # XX## game/screens.rpy:686
-msgid  "Quick saves"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Quick saves"
+msgid "[mschoice] Quick saves"
+msgstr "[mschoice] Quick saves"
 
 # XX## game/screens.rpy:729
-msgid  "{#file_time}%a, %b %d %Y, %H:%M"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "{#file_time}%a, %b %d %Y, %H:%M"
+msgid "[mschoice] {#file_time}%a, %b %d %Y, %H:%M"
+msgstr "[mschoice] {#file_time}%a, %b %d %Y, %H:%M"
 
 # XX## game/screens.rpy:729
-msgid  "empty slot"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "empty slot"
+msgid "[mschoice] empty slot"
+msgstr "[mschoice] empty slot"
 
 # XX## game/screens.rpy:748
-msgid  "<"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "<"
+msgid "[mschoice] <"
+msgstr "[mschoice] <"
 
 # XX## game/screens.rpy:751
-msgid  "{#auto_page}A"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "{#auto_page}A"
+msgid "[mschoice] {#auto_page}A"
+msgstr "[mschoice] {#auto_page}A"
 
 # XX## game/screens.rpy:754
-msgid  "{#quick_page}Q"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "{#quick_page}Q"
+msgid "[mschoice] {#quick_page}Q"
+msgstr "[mschoice] {#quick_page}Q"
 
 # XX## game/screens.rpy:767
-msgid  ">"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  ">"
+msgid "[mschoice] >"
+msgstr "[mschoice] >"
 
 # XX## game/screens.rpy:828
-msgid  "Display"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Display"
+msgid "[mschoice] Display"
+msgstr "[mschoice] Display"
 
 # XX## game/screens.rpy:829
-msgid  "Window"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Window"
+msgid "[mschoice] Window"
+msgstr "[mschoice] Window"
 
 # XX## game/screens.rpy:830
-msgid  "Fullscreen"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Fullscreen"
+msgid "[mschoice] Fullscreen"
+msgstr "[mschoice] Fullscreen"
 
 # XX## game/screens.rpy:834
-msgid  "Rollback Side"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Rollback Side"
+msgid "[mschoice] Rollback Side"
+msgstr "[mschoice] Rollback Side"
 
 # XX## game/screens.rpy:835
-msgid  "Disable"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Disable"
+msgid "[mschoice] Disable"
+msgstr "[mschoice] Disable"
 
 # XX## game/screens.rpy:836
-msgid  "Left"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Left"
+msgid "[mschoice] Left"
+msgstr "[mschoice] Left"
 
 # XX## game/screens.rpy:837
-msgid  "Right"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Right"
+msgid "[mschoice] Right"
+msgstr "[mschoice] Right"
 
 # XX## game/screens.rpy:842
-msgid  "Unseen Text"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Unseen Text"
+msgid "[mschoice] Unseen Text"
+msgstr "[mschoice] Unseen Text"
 
 # XX## game/screens.rpy:843
-msgid  "After Choices"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "After Choices"
+msgid "[mschoice] After Choices"
+msgstr "[mschoice] After Choices"
 
 # XX## game/screens.rpy:844
-msgid  "Transitions"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Transitions"
+msgid "[mschoice] Transitions"
+msgstr "[mschoice] Transitions"
 
 # XX## game/screens.rpy:850
-msgid  "Show Textbox"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Show Textbox"
+msgid "[mschoice] Show Textbox"
+msgstr "[mschoice] Show Textbox"
 
 # XX## game/screens.rpy:856
-msgid  "Language"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Language"
+msgid "[mschoice] Language"
+msgstr "[mschoice] Language"
 
 # XX## game/screens.rpy:879
-msgid  "Text Speed"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Text Speed"
+msgid "[mschoice] Text Speed"
+msgstr "[mschoice] Text Speed"
 
 # XX## game/screens.rpy:883
-msgid  "Auto-Forward Time"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Auto-Forward Time"
+msgid "[mschoice] Auto-Forward Time"
+msgstr "[mschoice] Auto-Forward Time"
 
 # XX## game/screens.rpy:890
-msgid  "Music Volume"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Music Volume"
+msgid "[mschoice] Music Volume"
+msgstr "[mschoice] Music Volume"
 
 # XX## game/screens.rpy:897
-msgid  "Sound Volume"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Sound Volume"
+msgid "[mschoice] Sound Volume"
+msgstr "[mschoice] Sound Volume"
 
 # XX## game/screens.rpy:903
-msgid  "Test"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Test"
+msgid "[mschoice] Test"
+msgstr "[mschoice] Test"
 
 # XX## game/screens.rpy:907
-msgid  "Voice Volume"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Voice Volume"
+msgid "[mschoice] Voice Volume"
+msgstr "[mschoice] Voice Volume"
 
 # XX## game/screens.rpy:919
-msgid  "Mute All"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Mute All"
+msgid "[mschoice] Mute All"
+msgstr "[mschoice] Mute All"
 
 # XX## game/screens.rpy:923
-msgid  "Reset"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Reset"
+msgid "[mschoice] Reset"
+msgstr "[mschoice] Reset"
 
 # XX## game/screens.rpy:934
-msgid  "Text Size Scaling"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Text Size Scaling"
+msgid "[mschoice] Text Size Scaling"
+msgstr "[mschoice] Text Size Scaling"
 
 # XX## game/screens.rpy:946
-msgid  "Line Spacing Scaling"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Line Spacing Scaling"
+msgid "[mschoice] Line Spacing Scaling"
+msgstr "[mschoice] Line Spacing Scaling"
 
 # XX## game/screens.rpy:1070
-msgid  "The dialogue history is empty."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "The dialogue history is empty."
+msgid "[mschoice] The dialogue history is empty."
+msgstr "[mschoice] The dialogue history is empty."
 
 # XX## game/screens.rpy:1140
-msgid  "Keyboard"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Keyboard"
+msgid "[mschoice] Keyboard"
+msgstr "[mschoice] Keyboard"
 
 # XX## game/screens.rpy:1141
-msgid  "Mouse"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Mouse"
+msgid "[mschoice] Mouse"
+msgstr "[mschoice] Mouse"
 
 # XX## game/screens.rpy:1144
-msgid  "Gamepad"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Gamepad"
+msgid "[mschoice] Gamepad"
+msgstr "[mschoice] Gamepad"
 
 # XX## game/screens.rpy:1157
-msgid  "Enter"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Enter"
+msgid "[mschoice] Enter"
+msgstr "[mschoice] Enter"
 
 # XX## game/screens.rpy:1158
-msgid  "Advances dialogue and activates the interface."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Advances dialogue and activates the interface."
+msgid "[mschoice] Advances dialogue and activates the interface."
+msgstr "[mschoice] Advances dialogue and activates the interface."
 
 # XX## game/screens.rpy:1161
-msgid  "Space"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Space"
+msgid "[mschoice] Space"
+msgstr "[mschoice] Space"
 
 # XX## game/screens.rpy:1162
-msgid  "Advances dialogue without selecting choices."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Advances dialogue without selecting choices."
+msgid "[mschoice] Advances dialogue without selecting choices."
+msgstr "[mschoice] Advances dialogue without selecting choices."
 
 # XX## game/screens.rpy:1165
-msgid  "Arrow Keys"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Arrow Keys"
+msgid "[mschoice] Arrow Keys"
+msgstr "[mschoice] Arrow Keys"
 
 # XX## game/screens.rpy:1166
-msgid  "Navigate the interface."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Navigate the interface."
+msgid "[mschoice] Navigate the interface."
+msgstr "[mschoice] Navigate the interface."
 
 # XX## game/screens.rpy:1169
-msgid  "Escape"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Escape"
+msgid "[mschoice] Escape"
+msgstr "[mschoice] Escape"
 
 # XX## game/screens.rpy:1170
-msgid  "Accesses the game menu."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Accesses the game menu."
+msgid "[mschoice] Accesses the game menu."
+msgstr "[mschoice] Accesses the game menu."
 
 # XX## game/screens.rpy:1173
-msgid  "Ctrl"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Ctrl"
+msgid "[mschoice] Ctrl"
+msgstr "[mschoice] Ctrl"
 
 # XX## game/screens.rpy:1174
-msgid  "Skips dialogue while held down."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Skips dialogue while held down."
+msgid "[mschoice] Skips dialogue while held down."
+msgstr "[mschoice] Skips dialogue while held down."
 
 # XX## game/screens.rpy:1177
-msgid  "Tab"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Tab"
+msgid "[mschoice] Tab"
+msgstr "[mschoice] Tab"
 
 # XX## game/screens.rpy:1178
-msgid  "Toggles dialogue skipping."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Toggles dialogue skipping."
+msgid "[mschoice] Toggles dialogue skipping."
+msgstr "[mschoice] Toggles dialogue skipping."
 
 # XX## game/screens.rpy:1181
-msgid  "Page Up"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Page Up"
+msgid "[mschoice] Page Up"
+msgstr "[mschoice] Page Up"
 
 # XX## game/screens.rpy:1182
-msgid  "Rolls back to earlier dialogue."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Rolls back to earlier dialogue."
+msgid "[mschoice] Rolls back to earlier dialogue."
+msgstr "[mschoice] Rolls back to earlier dialogue."
 
 # XX## game/screens.rpy:1185
-msgid  "Page Down"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Page Down"
+msgid "[mschoice] Page Down"
+msgstr "[mschoice] Page Down"
 
 # XX## game/screens.rpy:1186
-msgid  "Rolls forward to later dialogue."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Rolls forward to later dialogue."
+msgid "[mschoice] Rolls forward to later dialogue."
+msgstr "[mschoice] Rolls forward to later dialogue."
 
 # XX## game/screens.rpy:1190
-msgid  "Hides the user interface."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Hides the user interface."
+msgid "[mschoice] Hides the user interface."
+msgstr "[mschoice] Hides the user interface."
 
 # XX## game/screens.rpy:1194
-msgid  "Takes a screenshot."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Takes a screenshot."
+msgid "[mschoice] Takes a screenshot."
+msgstr "[mschoice] Takes a screenshot."
 
 # XX## game/screens.rpy:1198
-msgid  "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgid "[mschoice] Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgstr "[mschoice] Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
 # XX## game/screens.rpy:1204
-msgid  "Left Click"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Left Click"
+msgid "[mschoice] Left Click"
+msgstr "[mschoice] Left Click"
 
 # XX## game/screens.rpy:1208
-msgid  "Middle Click"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Middle Click"
+msgid "[mschoice] Middle Click"
+msgstr "[mschoice] Middle Click"
 
 # XX## game/screens.rpy:1212
-msgid  "Right Click"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Right Click"
+msgid "[mschoice] Right Click"
+msgstr "[mschoice] Right Click"
 
 # XX## game/screens.rpy:1216
-msgid  "Mouse Wheel Up\nClick Rollback Side"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Mouse Wheel Up\nClick Rollback Side"
+msgid "[mschoice] Mouse Wheel Up\nClick Rollback Side"
+msgstr "[mschoice] Mouse Wheel Up\nClick Rollback Side"
 
 # XX## game/screens.rpy:1220
-msgid  "Mouse Wheel Down"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Mouse Wheel Down"
+msgid "[mschoice] Mouse Wheel Down"
+msgstr "[mschoice] Mouse Wheel Down"
 
 # XX## game/screens.rpy:1227
-msgid  "Right Trigger\nA/Bottom Button"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Right Trigger\nA/Bottom Button"
+msgid "[mschoice] Right Trigger\nA/Bottom Button"
+msgstr "[mschoice] Right Trigger\nA/Bottom Button"
 
 # XX## game/screens.rpy:1231
-msgid  "Left Trigger\nLeft Shoulder"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Left Trigger\nLeft Shoulder"
+msgid "[mschoice] Left Trigger\nLeft Shoulder"
+msgstr "[mschoice] Left Trigger\nLeft Shoulder"
 
 # XX## game/screens.rpy:1235
-msgid  "Right Shoulder"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Right Shoulder"
+msgid "[mschoice] Right Shoulder"
+msgstr "[mschoice] Right Shoulder"
 
 # XX## game/screens.rpy:1240
-msgid  "D-Pad, Sticks"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "D-Pad, Sticks"
+msgid "[mschoice] D-Pad, Sticks"
+msgstr "[mschoice] D-Pad, Sticks"
 
 # XX## game/screens.rpy:1244
-msgid  "Start, Guide"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Start, Guide"
+msgid "[mschoice] Start, Guide"
+msgstr "[mschoice] Start, Guide"
 
 # XX## game/screens.rpy:1248
-msgid  "Y/Top Button"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Y/Top Button"
+msgid "[mschoice] Y/Top Button"
+msgstr "[mschoice] Y/Top Button"
 
 # XX## game/screens.rpy:1251
-msgid  "Calibrate"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Calibrate"
+msgid "[mschoice] Calibrate"
+msgstr "[mschoice] Calibrate"
 
 # XX## game/screens.rpy:1363
-msgid  "Skipping"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Skipping"
+msgid "[mschoice] Skipping"
+msgstr "[mschoice] Skipping"
 

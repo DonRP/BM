@@ -223,8 +223,8 @@ msgid "[pcthink] Huh? isn't that the guy from the other shift?"
 msgstr "[pcthink] Huh? isn't that the guy from the other shift?"
 
 # game/events_other.rpy:103 ## translate crowdin cafe_d6_27ab3e4b:
-msgid "Guy || Humph..."
-msgstr "Guy || Humph..."
+msgid "Guy" "Humph..."
+msgstr "Guy" "Humph..."
 
 # game/events_other.rpy:104 ## translate crowdin cafe_d6_3f057ea7:
 msgid "[pcthink] Hum?"
@@ -599,8 +599,8 @@ msgid "[st] ...and then you can bring the new components to the testing area."
 msgstr "[st] ...and then you can bring the new components to the testing area."
 
 # game/events_other.rpy:260 ## translate crowdin job_d6_79a2b683:
-msgid "Guy || Okay."
-msgstr "Guy || Okay."
+msgid "Guy" "Okay."
+msgstr "Guy" "Okay."
 
 # game/events_other.rpy:262 ## translate crowdin job_d6_bee3d30d:
 msgid "[pc] Hey, [st]."
@@ -4691,127 +4691,102 @@ msgid "[pc] I see, then I'm glad I'm such a special customer."
 msgstr "[pc] I see, then I'm glad I'm such a special customer."
 
 # XXtranslate crowdin strings:XX# XX## game/events_other.rpy:283
-msgid  "Ask if she needs help."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Ask if she needs help."
+msgid "[mschoice] Ask if she needs help."
+msgstr "[mschoice] Ask if she needs help."
 
 # XX## game/events_other.rpy:433
-msgid  "Help her up."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Help her up."
+msgid "[mschoice] Help her up."
+msgstr "[mschoice] Help her up."
 
 # XX## game/events_other.rpy:433
-msgid  "Ignore them."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Ignore them."
+msgid "[mschoice] Ignore them."
+msgstr "[mschoice] Ignore them."
 
 # XX## game/events_other.rpy:521
-msgid  "Must be her clothes."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Must be her clothes."
+msgid "[mschoice] Must be her clothes."
+msgstr "[mschoice] Must be her clothes."
 
 # XX## game/events_other.rpy:521
-msgid  "(Joke) It's the hair!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "(Joke) It's the hair!"
+msgid "[mschoice] (Joke) It's the hair!"
+msgstr "[mschoice] (Joke) It's the hair!"
 
 # XX## game/events_other.rpy:521
-msgid  "Make-up and glasses."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Make-up and glasses."
+msgid "[mschoice] Make-up and glasses."
+msgstr "[mschoice] Make-up and glasses."
 
 # XX## game/events_other.rpy:634
-msgid  "(Yeah, she's hot, so let's try!)"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "(Yeah, she's hot, so let's try!)"
+msgid "[mschoice] (Yeah, she's hot, so let's try!)"
+msgstr "[mschoice] (Yeah, she's hot, so let's try!)"
 
 # XX## game/events_other.rpy:634
-msgid  "(Nah, I better let her be, I'm not interested anyway.)"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "(Nah, I better let her be, I'm not interested anyway.)"
+msgid "[mschoice] (Nah, I better let her be, I'm not interested anyway.)"
+msgstr "[mschoice] (Nah, I better let her be, I'm not interested anyway.)"
 
 # XX## game/events_other.rpy:1061
-msgid  "Push."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Push."
+msgid "[mschoice] Push."
+msgstr "[mschoice] Push."
 
 # XX## game/events_other.rpy:1071
-msgid  "Push again."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Push again."
+msgid "[mschoice] Push again."
+msgstr "[mschoice] Push again."
 
 # XX## game/events_other.rpy:1081
-msgid  "Push once more."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Push once more."
+msgid "[mschoice] Push once more."
+msgstr "[mschoice] Push once more."
 
 # XX## game/events_other.rpy:1157
-msgid  "Peek."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Peek."
+msgid "[mschoice] Peek."
+msgstr "[mschoice] Peek."
 
 # XX## game/events_other.rpy:1335
-msgid  "Look back."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Look back."
+msgid "[mschoice] Look back."
+msgstr "[mschoice] Look back."
 
 # XX## game/events_other.rpy:1569
-msgid  "Not really."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Not really."
+msgid "[mschoice] Not really."
+msgstr "[mschoice] Not really."
 
 # XX## game/events_other.rpy:1569
-msgid  "Only of [jess]."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Only of [jess]."
+msgid "[mschoice] Only of [jess]."
+msgstr "[mschoice] Only of [jess]."
 
 # XX## game/events_other.rpy:1706
-msgid  "Yeah, let's go see [h]."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Yeah, let's go see [h]."
+msgid "[mschoice] Yeah, let's go see [h]."
+msgstr "[mschoice] Yeah, let's go see [h]."
 
 # XX## game/events_other.rpy:1706
-msgid  "Nah, I'm good."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Nah, I'm good."
+msgid "[mschoice] Nah, I'm good."
+msgstr "[mschoice] Nah, I'm good."
 
 # XX## game/events_other.rpy:2087
-msgid  "Gently bite her clit."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Gently bite her clit."
+msgid "[mschoice] Gently bite her clit."
+msgstr "[mschoice] Gently bite her clit."
 
 # XX## game/events_other.rpy:2087
-msgid  "Just go on."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Just go on."
+msgid "[mschoice] Just go on."
+msgstr "[mschoice] Just go on."
 
 # XX## game/events_other.rpy:2161
-msgid  "Not so deep."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Not so deep."
+msgid "[mschoice] Not so deep."
+msgstr "[mschoice] Not so deep."
 
 # XX## game/events_other.rpy:2161
-msgid  "Deeper."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Deeper."
+msgid "[mschoice] Deeper."
+msgstr "[mschoice] Deeper."
 
 # XX## game/events_other.rpy:2161
-msgid  "Go on."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Go on."
+msgid "[mschoice] Go on."
+msgstr "[mschoice] Go on."
 
 # XX## game/events_other.rpy:2201
-msgid  "Suck it."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Suck it."
+msgid "[mschoice] Suck it."
+msgstr "[mschoice] Suck it."
 
 # XX## game/events_other.rpy:2201
-msgid  "Lick it."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Lick it."
+msgid "[mschoice] Lick it."
+msgstr "[mschoice] Lick it."
 
 # XX## game/events_other.rpy:2201
-msgid  "Cum"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Cum"
+msgid "[mschoice] Cum"
+msgstr "[mschoice] Cum"
 

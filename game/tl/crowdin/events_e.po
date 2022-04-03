@@ -899,16 +899,16 @@ msgid "[pcthink] I hope she doesn't have a hangover as bad as [m]..."
 msgstr "[pcthink] I hope she doesn't have a hangover as bad as [m]..."
 
 # game/events_e.rpy:443 ## translate crowdin eKitten_a490b195:
-msgid "Voice || {size=-10}Nya!{/size}"
-msgstr "Voice || {size=-10}Nya!{/size}"
+msgid "Voice" "{size=-10}Nya!{/size}"
+msgstr "Voice" "{size=-10}Nya!{/size}"
 
 # game/events_e.rpy:444 ## translate crowdin eKitten_9525ded8:
 msgid "[pcthink] Huh? What was that?"
 msgstr "[pcthink] Huh? What was that?"
 
 # game/events_e.rpy:445 ## translate crowdin eKitten_750ee628:
-msgid "Voice || {size=-10}Nya nya nya...{/size}"
-msgstr "Voice || {size=-10}Nya nya nya...{/size}"
+msgid "Voice" "{size=-10}Nya nya nya...{/size}"
+msgstr "Voice" "{size=-10}Nya nya nya...{/size}"
 
 # game/events_e.rpy:446 ## translate crowdin eKitten_068749fe:
 msgid "[pcthink] Is that [e]?"
@@ -2427,107 +2427,86 @@ msgid "[pcthink] ..."
 msgstr "[pcthink] ..."
 
 # XXtranslate crowdin strings:XX# XX## game/events_e.rpy:6
-msgid  "get closer"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "get closer"
+msgid "[mschoice] get closer"
+msgstr "[mschoice] get closer"
 
 # XX## game/events_e.rpy:15
-msgid  "get really close"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "get really close"
+msgid "[mschoice] get really close"
+msgstr "[mschoice] get really close"
 
 # XX## game/events_e.rpy:19
-msgid  "Wake her up"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Wake her up"
+msgid "[mschoice] Wake her up"
+msgstr "[mschoice] Wake her up"
 
 # XX## game/events_e.rpy:19
-msgid  "Just look"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Just look"
+msgid "[mschoice] Just look"
+msgstr "[mschoice] Just look"
 
 # XX## game/events_e.rpy:305
-msgid  "Look for her."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Look for her."
+msgid "[mschoice] Look for her."
+msgstr "[mschoice] Look for her."
 
 # XX## game/events_e.rpy:305
-msgid  "Don't look for her."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Don't look for her."
+msgid "[mschoice] Don't look for her."
+msgstr "[mschoice] Don't look for her."
 
 # XX## game/events_e.rpy:310
-msgid  "Get closer."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Get closer."
+msgid "[mschoice] Get closer."
+msgstr "[mschoice] Get closer."
 
 # XX## game/events_e.rpy:310
-msgid  "Leave."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Leave."
+msgid "[mschoice] Leave."
+msgstr "[mschoice] Leave."
 
 # XX## game/events_e.rpy:675
-msgid  "Shit this is..."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Shit this is..."
+msgid "[mschoice] Shit this is..."
+msgstr "[mschoice] Shit this is..."
 
 # XX## game/events_e.rpy:675
-msgid  "...so wrong, I need to stop her!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "...so wrong, I need to stop her!"
+msgid "[mschoice] ...so wrong, I need to stop her!"
+msgstr "[mschoice] ...so wrong, I need to stop her!"
 
 # XX## game/events_e.rpy:675
-msgid  "...so hot, I can't believe she's doing this!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "...so hot, I can't believe she's doing this!"
+msgid "[mschoice] ...so hot, I can't believe she's doing this!"
+msgstr "[mschoice] ...so hot, I can't believe she's doing this!"
 
 # XX## game/events_e.rpy:857
-msgid  "Her bed."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Her bed."
+msgid "[mschoice] Her bed."
+msgstr "[mschoice] Her bed."
 
 # XX## game/events_e.rpy:857
-msgid  "Your bed."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Your bed."
+msgid "[mschoice] Your bed."
+msgstr "[mschoice] Your bed."
 
 # XX## game/events_e.rpy:935
-msgid  "(Make a noise)"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "(Make a noise)"
+msgid "[mschoice] (Make a noise)"
+msgstr "[mschoice] (Make a noise)"
 
 # XX## game/events_e.rpy:935
-msgid  "(Wait)"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "(Wait)"
+msgid "[mschoice] (Wait)"
+msgstr "[mschoice] (Wait)"
 
 # XX## game/events_e.rpy:1201
-msgid  "Looks great, I like it."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Looks great, I like it."
+msgid "[mschoice] Looks great, I like it."
+msgstr "[mschoice] Looks great, I like it."
 
 # XX## game/events_e.rpy:1201
-msgid  "Nah, your normal outfit looks better."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Nah, your normal outfit looks better."
+msgid "[mschoice] Nah, your normal outfit looks better."
+msgstr "[mschoice] Nah, your normal outfit looks better."
 
 # XX## game/events_e.rpy:1211
-msgid  "Hot!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Hot!"
+msgid "[mschoice] Hot!"
+msgstr "[mschoice] Hot!"
 
 # XX## game/events_e.rpy:1211
-msgid  "Nah, that's too goth style."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Nah, that's too goth style."
+msgid "[mschoice] Nah, that's too goth style."
+msgstr "[mschoice] Nah, that's too goth style."
 
 # XX## game/events_e.rpy:1220
-msgid  "Looks great, but isn't that a little bit too much for everyday use?"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Looks great, but isn't that a little bit too much for everyday use?"
+msgid "[mschoice] Looks great, but isn't that a little bit too much for everyday use?"
+msgstr "[mschoice] Looks great, but isn't that a little bit too much for everyday use?"
 
 # XX## game/events_e.rpy:1220
-msgid  "Luscious! I love it!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Luscious! I love it!"
+msgid "[mschoice] Luscious! I love it!"
+msgstr "[mschoice] Luscious! I love it!"
 
