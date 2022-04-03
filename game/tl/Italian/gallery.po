@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-03 12:35\n"
+"PO-Revision-Date: 2022-04-03 12:54\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# XXtranslate crowdin strings:XX# XX## game/gallery.rpy:113
 msgid "One of my ealiest test render from when I was working on the livingroom, added a char to test the lighting, kudos to you if you recognize the character, it's a really early version ;)"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Uno dei miei più esaltanti rendering di prova da quando stavo lavorando sul soggiorno, ha aggiunto un char per testare l'illuminazione, kudos a te se riconosci il personaggio, è una versione davvero precoce ;)"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/gallery.rpy:113
 msgid "360° VR test render of Ellie. She looks great in VR ;)"
