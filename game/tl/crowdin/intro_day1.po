@@ -23,8 +23,8 @@ msgid "[pc] Yeah?"
 msgstr "[pc] Yeah?"
 
 # game/intro_day1.rpy:13 ## translate crowdin intro_day1_6c2bd191:
-msgid "Voice" "Hello [mrms] [pcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
-msgstr "Voice" "Hello [mrms] [pcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
+msgid "Voice || Hello [mrms] [pcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
+msgstr "Voice || Hello [mrms] [pcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
 
 # game/intro_day1.rpy:14 ## translate crowdin intro_day1_e76b2b51:
 msgid "[pcthink] Ah, Maggy, the office secretary from the rental company."
@@ -39,80 +39,80 @@ msgid "[pc] Hey Maggy. I know about the fire already."
 msgstr "[pc] Hey Maggy. I know about the fire already."
 
 # game/intro_day1.rpy:17 ## translate crowdin intro_day1_5889fa60:
-msgid "Maggy" "You know that the apartment burned down?"
-msgstr "Maggy" "You know that the apartment burned down?"
+msgid "Maggy || You know that the apartment burned down?"
+msgstr "Maggy || You know that the apartment burned down?"
 
 # game/intro_day1.rpy:18 ## translate crowdin intro_day1_6742a0b1:
 msgid "[pc] Yeah, I arrived yesterday and wanted to have a look at the apartment."
 msgstr "[pc] Yeah, I arrived yesterday and wanted to have a look at the apartment."
 
 # game/intro_day1.rpy:19 ## translate crowdin intro_day1_f6bfe289:
-msgid "Maggy" "Oh no, that must have been a shock to you."
-msgstr "Maggy" "Oh no, that must have been a shock to you."
+msgid "Maggy || Oh no, that must have been a shock to you."
+msgstr "Maggy || Oh no, that must have been a shock to you."
 
 # game/intro_day1.rpy:20 ## translate crowdin intro_day1_c396e8dd:
 msgid "[pc] It was quite a surprise..."
 msgstr "[pc] It was quite a surprise..."
 
 # game/intro_day1.rpy:21 ## translate crowdin intro_day1_fe20b456:
-msgid "Maggy" "I'm so sorry [mrms] [pcsure]. Do you have somewhere else to stay?"
-msgstr "Maggy" "I'm so sorry [mrms] [pcsure]. Do you have somewhere else to stay?"
+msgid "Maggy || I'm so sorry [mrms] [pcsure]. Do you have somewhere else to stay?"
+msgstr "Maggy || I'm so sorry [mrms] [pcsure]. Do you have somewhere else to stay?"
 
 # game/intro_day1.rpy:22 ## translate crowdin intro_day1_b1b648a5:
 msgid "[pc] Yeah, I have a hotel room for a few days until my stuff arrives."
 msgstr "[pc] Yeah, I have a hotel room for a few days until my stuff arrives."
 
 # game/intro_day1.rpy:23 ## translate crowdin intro_day1_1642f9e0:
-msgid "Maggy" "That's good to hear."
-msgstr "Maggy" "That's good to hear."
+msgid "Maggy || That's good to hear."
+msgstr "Maggy || That's good to hear."
 
 # game/intro_day1.rpy:24 ## translate crowdin intro_day1_15ea5f47:
 msgid "[pc] So... what about a replacement? Are there any other apartments?"
 msgstr "[pc] So... what about a replacement? Are there any other apartments?"
 
 # game/intro_day1.rpy:25 ## translate crowdin intro_day1_1dd487f2:
-msgid "Maggy" "No, I'm sorry [mrms] [pcsure], there are no apartments free at the moment."
-msgstr "Maggy" "No, I'm sorry [mrms] [pcsure], there are no apartments free at the moment."
+msgid "Maggy || No, I'm sorry [mrms] [pcsure], there are no apartments free at the moment."
+msgstr "Maggy || No, I'm sorry [mrms] [pcsure], there are no apartments free at the moment."
 
 # game/intro_day1.rpy:26 ## translate crowdin intro_day1_e734f5df:
-msgid "Maggy" "There is not much I can do, but you can be sure to get your money back and I promise to call you as soon as we have another apartment for you."
-msgstr "Maggy" "There is not much I can do, but you can be sure to get your money back and I promise to call you as soon as we have another apartment for you."
+msgid "Maggy || There is not much I can do, but you can be sure to get your money back and I promise to call you as soon as we have another apartment for you."
+msgstr "Maggy || There is not much I can do, but you can be sure to get your money back and I promise to call you as soon as we have another apartment for you."
 
 # game/intro_day1.rpy:27 ## translate crowdin intro_day1_6971775b:
 msgid "[pc] That's nice and all, but I can't go back to my old flat and I cannot live in a hotel forever. Don't you know anywhere else I could get an apartment, Maggy?"
 msgstr "[pc] That's nice and all, but I can't go back to my old flat and I cannot live in a hotel forever. Don't you know anywhere else I could get an apartment, Maggy?"
 
 # game/intro_day1.rpy:28 ## translate crowdin intro_day1_830b6420:
-msgid "Maggy" "..."
-msgstr "Maggy" "..."
+msgid "Maggy || ..."
+msgstr "Maggy || ..."
 
 # game/intro_day1.rpy:29 ## translate crowdin intro_day1_34d02470:
-msgid "Maggy" "I... I might... but I have to make a few calls first."
-msgstr "Maggy" "I... I might... but I have to make a few calls first."
+msgid "Maggy || I... I might... but I have to make a few calls first."
+msgstr "Maggy || I... I might... but I have to make a few calls first."
 
 # game/intro_day1.rpy:30 ## translate crowdin intro_day1_77c1565b:
 msgid "[pc] Great! Thanks Maggy. Really!"
 msgstr "[pc] Great! Thanks Maggy. Really!"
 
 # game/intro_day1.rpy:31 ## translate crowdin intro_day1_adf9cc71:
-msgid "Maggy" "Don't celebrate just yet. I can't promise anything. I'll try my best, but you should also have a look around for yourself [mrms] [pcsure]."
-msgstr "Maggy" "Don't celebrate just yet. I can't promise anything. I'll try my best, but you should also have a look around for yourself [mrms] [pcsure]."
+msgid "Maggy || Don't celebrate just yet. I can't promise anything. I'll try my best, but you should also have a look around for yourself [mrms] [pcsure]."
+msgstr "Maggy || Don't celebrate just yet. I can't promise anything. I'll try my best, but you should also have a look around for yourself [mrms] [pcsure]."
 
 # game/intro_day1.rpy:32 ## translate crowdin intro_day1_7232f241:
 msgid "[pc] Of course, but at least you've given me some hope."
 msgstr "[pc] Of course, but at least you've given me some hope."
 
 # game/intro_day1.rpy:33 ## translate crowdin intro_day1_b61b07dd:
-msgid "Maggy" "Okay then, I will call you as soon as I know something [mrms] [pcsure]."
-msgstr "Maggy" "Okay then, I will call you as soon as I know something [mrms] [pcsure]."
+msgid "Maggy || Okay then, I will call you as soon as I know something [mrms] [pcsure]."
+msgstr "Maggy || Okay then, I will call you as soon as I know something [mrms] [pcsure]."
 
 # game/intro_day1.rpy:34 ## translate crowdin intro_day1_8931345c:
 msgid "[pc] Thanks Maggy, and call me [pc]."
 msgstr "[pc] Thanks Maggy, and call me [pc]."
 
 # game/intro_day1.rpy:35 ## translate crowdin intro_day1_827a732c:
-msgid "Maggy" "Good bye [mrms].... ahem, [pc]."
-msgstr "Maggy" "Good bye [mrms].... ahem, [pc]."
+msgid "Maggy || Good bye [mrms].... ahem, [pc]."
+msgstr "Maggy || Good bye [mrms].... ahem, [pc]."
 
 # game/intro_day1.rpy:36 ## translate crowdin intro_day1_a77f3932:
 msgid "[pc] Bye Maggy."
@@ -159,20 +159,20 @@ msgid "[pc] Hey Maggy. Please tell me something positive."
 msgstr "[pc] Hey Maggy. Please tell me something positive."
 
 # game/intro_day1.rpy:50 ## translate crowdin intro_day1_80fb1595:
-msgid "Maggy" "Hey [mrms]..[pc]. Yes I might have something for you, but you have to hurry."
-msgstr "Maggy" "Hey [mrms]..[pc]. Yes I might have something for you, but you have to hurry."
+msgid "Maggy || Hey [mrms]..[pc]. Yes I might have something for you, but you have to hurry."
+msgstr "Maggy || Hey [mrms]..[pc]. Yes I might have something for you, but you have to hurry."
 
 # game/intro_day1.rpy:51 ## translate crowdin intro_day1_5b7ef6d3:
-msgid "Maggy" "It's an apartment in a nice part of town and it won't take long before it's gone again."
-msgstr "Maggy" "It's an apartment in a nice part of town and it won't take long before it's gone again."
+msgid "Maggy || It's an apartment in a nice part of town and it won't take long before it's gone again."
+msgstr "Maggy || It's an apartment in a nice part of town and it won't take long before it's gone again."
 
 # game/intro_day1.rpy:53 ## translate crowdin intro_day1_3dcfbf46:
 msgid "[pc] Great! Thanks Maggy. You just saved my day!"
 msgstr "[pc] Great! Thanks Maggy. You just saved my day!"
 
 # game/intro_day1.rpy:54 ## translate crowdin intro_day1_3d21c59c:
-msgid "Maggy" "Haha, glad to help."
-msgstr "Maggy" "Haha, glad to help."
+msgid "Maggy || Haha, glad to help."
+msgstr "Maggy || Haha, glad to help."
 
 # game/intro_day1.rpy:56 ## translate crowdin intro_day1_237e9798:
 msgid "[n] You save the address Maggy gives you in your smartphone and immediately go on your way after saying your goodbyes."
@@ -211,12 +211,12 @@ msgid "[pc] No, a friend gave me the address."
 msgstr "[pc] No, a friend gave me the address."
 
 # game/intro_day1.rpy:76 ## translate crowdin intro_day1_deb7173e:
-msgid "Guy" "You're too late, man."
-msgstr "Guy" "You're too late, man."
+msgid "Guy || You're too late, man."
+msgstr "Guy || You're too late, man."
 
 # game/intro_day1.rpy:78 ## translate crowdin intro_day1_8b6d7015:
-msgid "Guy" "You're too late. It's sold!"
-msgstr "Guy" "You're too late. It's sold!"
+msgid "Guy || You're too late. It's sold!"
+msgstr "Guy || You're too late. It's sold!"
 
 # game/intro_day1.rpy:80 ## translate crowdin intro_day1_e507774e:
 msgid "Broker" "Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
@@ -251,8 +251,8 @@ msgid "Random Guy" "Oh and don't forget the other Ramen, and the Negi."
 msgstr "Random Guy" "Oh and don't forget the other Ramen, and the Negi."
 
 # game/intro_day1.rpy:92 ## translate crowdin intro_day1_ec6c00f8:
-msgid "Girl" "Of course!"
-msgstr "Girl" "Of course!"
+msgid "Girl || Of course!"
+msgstr "Girl || Of course!"
 
 # game/intro_day1.rpy:93 ## translate crowdin intro_day1_f0cac90d:
 msgid "[pcthink] ..."

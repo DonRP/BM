@@ -15,8 +15,8 @@ msgid "[n] You open the door and..."
 msgstr "[n] You open the door and..."
 
 # game/events_j.rpy:9 ## translate crowdin jadaFirstMeet_1c30cb5a:
-msgid "Girl" "Owww... [withhpunch]"
-msgstr "Girl" "Owww... [withhpunch]"
+msgid "Girl || Owww... [withhpunch]"
+msgstr "Girl || Owww... [withhpunch]"
 
 # game/events_j.rpy:10 ## translate crowdin jadaFirstMeet_26b08e4a:
 msgid "[pc] Fuck!"
@@ -31,20 +31,20 @@ msgid "[pc] Ugh! Are you okay?"
 msgstr "[pc] Ugh! Are you okay?"
 
 # game/events_j.rpy:14 ## translate crowdin jadaFirstMeet_fd6ca95e:
-msgid "Girl" "Uhh... yeah... I-I guess."
-msgstr "Girl" "Uhh... yeah... I-I guess."
+msgid "Girl || Uhh... yeah... I-I guess."
+msgstr "Girl || Uhh... yeah... I-I guess."
 
 # game/events_j.rpy:15 ## translate crowdin jadaFirstMeet_bb5b0f28:
 msgid "[pc] Sorry, I didn't see you."
 msgstr "[pc] Sorry, I didn't see you."
 
 # game/events_j.rpy:16 ## translate crowdin jadaFirstMeet_8cf10d47:
-msgid "Girl" "No, I'm sorry, I didn't expect somebody coming out of this room."
-msgstr "Girl" "No, I'm sorry, I didn't expect somebody coming out of this room."
+msgid "Girl || No, I'm sorry, I didn't expect somebody coming out of this room."
+msgstr "Girl || No, I'm sorry, I didn't expect somebody coming out of this room."
 
 # game/events_j.rpy:18 ## translate crowdin jadaFirstMeet_8e6bf8f7:
-msgid "Girl" "I'm [j] by the way. You're [e]'s big [bs], right?"
-msgstr "Girl" "I'm [j] by the way. You're [e]'s big [bs], right?"
+msgid "Girl || I'm [j] by the way. You're [e]'s big [bs], right?"
+msgstr "Girl || I'm [j] by the way. You're [e]'s big [bs], right?"
 
 # game/events_j.rpy:19 ## translate crowdin jadaFirstMeet_59478f5c:
 msgid "[pc] Yes, [pc]."
@@ -311,16 +311,16 @@ msgid "[n] a while later [withdissolve]"
 msgstr "[n] a while later [withdissolve]"
 
 # game/events_j.rpy:128 ## translate crowdin JVREbirthday_3713fca7:
-msgid "{color=#570058}Girl1{/color}" "AHN, AH, HA, HAA..."
-msgstr "{color=#570058}Girl1{/color}" "AHN, AH, HA, HAA..."
+msgid "{color=#570058}Girl1{/color} || AHN, AH, HA, HAA..."
+msgstr "{color=#570058}Girl1{/color} || AHN, AH, HA, HAA..."
 
 # game/events_j.rpy:132 ## translate crowdin JVREbirthday_44228de8:
 msgid "[pcthink] Damn this is so hot!"
 msgstr "[pcthink] Damn this is so hot!"
 
 # game/events_j.rpy:133 ## translate crowdin JVREbirthday_b1766523:
-msgid "{color=#570058}Girl1{/color}" "HAA, HA, NHHH!"
-msgstr "{color=#570058}Girl1{/color}" "HAA, HA, NHHH!"
+msgid "{color=#570058}Girl1{/color} || HAA, HA, NHHH!"
+msgstr "{color=#570058}Girl1{/color} || HAA, HA, NHHH!"
 
 # game/events_j.rpy:134 ## translate crowdin JVREbirthday_b509d9ed:
 msgid "{color=#cc5dcd}Girl2{/color}" "Yeees, fuck [himher], fuck [himher] \"Landlady\"!"
@@ -331,20 +331,20 @@ msgid "[pcthink] Ugh... when did they start doing this in porn?"
 msgstr "[pcthink] Ugh... when did they start doing this in porn?"
 
 # game/events_j.rpy:136 ## translate crowdin JVREbirthday_58e40556:
-msgid "{color=#570058}Girl1{/color}" "Haa, Yes! Babe, I'm close!"
-msgstr "{color=#570058}Girl1{/color}" "Haa, Yes! Babe, I'm close!"
+msgid "{color=#570058}Girl1{/color} || Haa, Yes! Babe, I'm close!"
+msgstr "{color=#570058}Girl1{/color} || Haa, Yes! Babe, I'm close!"
 
 # game/events_j.rpy:139 ## translate crowdin JVREbirthday_1901fd06:
 msgid "[pc] Shit, it's still hot!"
 msgstr "[pc] Shit, it's still hot!"
 
 # game/events_j.rpy:140 ## translate crowdin JVREbirthday_a5e2a79f:
-msgid "Voice" "Holy shit, it's {i}really{/i} hot!"
-msgstr "Voice" "Holy shit, it's {i}really{/i} hot!"
+msgid "Voice || Holy shit, it's {i}really{/i} hot!"
+msgstr "Voice || Holy shit, it's {i}really{/i} hot!"
 
 # game/events_j.rpy:141 ## translate crowdin JVREbirthday_1a1fd458:
-msgid "{color=#570058}Girl1{/color}" "HAA, HAA, HNAAH! YES! OH YES!"
-msgstr "{color=#570058}Girl1{/color}" "HAA, HAA, HNAAH! YES! OH YES!"
+msgid "{color=#570058}Girl1{/color} || HAA, HAA, HNAAH! YES! OH YES!"
+msgstr "{color=#570058}Girl1{/color} || HAA, HAA, HNAAH! YES! OH YES!"
 
 # game/events_j.rpy:142 ## translate crowdin JVREbirthday_75c7eb86:
 msgid "{color=#cc5dcd}Girl2{/color}" "She's going to cum!"
@@ -355,8 +355,8 @@ msgid "[pc] Yeah babe, cum for me!"
 msgstr "[pc] Yeah babe, cum for me!"
 
 # game/events_j.rpy:144 ## translate crowdin JVREbirthday_517c84dc:
-msgid "Voice" "Yeah, cum for us!"
-msgstr "Voice" "Yeah, cum for us!"
+msgid "Voice || Yeah, cum for us!"
+msgstr "Voice || Yeah, cum for us!"
 
 # game/events_j.rpy:145 ## translate crowdin JVREbirthday_4de1330c:
 msgid "[pc] Eh?!"
@@ -2551,16 +2551,16 @@ msgid "[pcthink] What the hell?"
 msgstr "[pcthink] What the hell?"
 
 # game/events_j.rpy:1099 ## translate crowdin d7_motel_465da924:
-msgid "Girl" "Yeah how lazy is that?"
-msgstr "Girl" "Yeah how lazy is that?"
+msgid "Girl || Yeah how lazy is that?"
+msgstr "Girl || Yeah how lazy is that?"
 
 # game/events_j.rpy:1101 ## translate crowdin d7_motel_225fadf5:
 msgid "[pc] Huh?"
 msgstr "[pc] Huh?"
 
 # game/events_j.rpy:1102 ## translate crowdin d7_motel_afc5ac67:
-msgid "Girl" "Yes, can you believe it? They're so bad!"
-msgstr "Girl" "Yes, can you believe it? They're so bad!"
+msgid "Girl || Yes, can you believe it? They're so bad!"
+msgstr "Girl || Yes, can you believe it? They're so bad!"
 
 # game/events_j.rpy:1104 ## translate crowdin d7_motel_df6afe22:
 msgid "[pcthink] Oh she's talking on the phone..."
@@ -3135,28 +3135,28 @@ msgid "[n] As you leave the apartment..."
 msgstr "[n] As you leave the apartment..."
 
 # game/events_j.rpy:1376 ## translate crowdin d7_motel_r_4ac9dc6d:
-msgid "Girl" "Yes, I could hear it all, she was like \"yes [pcmd], give it to me [pcmd]\", haha."
-msgstr "Girl" "Yes, I could hear it all, she was like \"yes [pcmd], give it to me [pcmd]\", haha."
+msgid "Girl || Yes, I could hear it all, she was like \"yes [pcmd], give it to me [pcmd]\", haha."
+msgstr "Girl || Yes, I could hear it all, she was like \"yes [pcmd], give it to me [pcmd]\", haha."
 
 # game/events_j.rpy:1377 ## translate crowdin d7_motel_r_905acf6d:
 msgid "[pcthink] Oh shit..."
 msgstr "[pcthink] Oh shit..."
 
 # game/events_j.rpy:1378 ## translate crowdin d7_motel_r_d9a79da0:
-msgid "Girl" "[heshe!c] must be really good..."
-msgstr "Girl" "[heshe!c] must be really good..."
+msgid "Girl || [heshe!c] must be really good..."
+msgstr "Girl || [heshe!c] must be really good..."
 
 # game/events_j.rpy:1381 ## translate crowdin d7_motel_r_fa79e39f:
-msgid "Girl" "Ah, err..."
-msgstr "Girl" "Ah, err..."
+msgid "Girl || Ah, err..."
+msgstr "Girl || Ah, err..."
 
 # game/events_j.rpy:1383 ## translate crowdin d7_motel_r_7b8ffb21:
-msgid "Girl" "... t-that's what happens in the movie I told you about earlier... haha."
-msgstr "Girl" "... t-that's what happens in the movie I told you about earlier... haha."
+msgid "Girl || ... t-that's what happens in the movie I told you about earlier... haha."
+msgstr "Girl || ... t-that's what happens in the movie I told you about earlier... haha."
 
 # game/events_j.rpy:1387 ## translate crowdin d7_motel_r_c21b7fb6:
-msgid "Girl" "Yes..."
-msgstr "Girl" "Yes..."
+msgid "Girl || Yes..."
+msgstr "Girl || Yes..."
 
 # game/events_j.rpy:1388 ## translate crowdin d7_motel_r_a69377ef_3:
 msgid "[pc] ..."

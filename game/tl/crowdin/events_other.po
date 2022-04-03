@@ -223,8 +223,8 @@ msgid "[pcthink] Huh? isn't that the guy from the other shift?"
 msgstr "[pcthink] Huh? isn't that the guy from the other shift?"
 
 # game/events_other.rpy:103 ## translate crowdin cafe_d6_27ab3e4b:
-msgid "Guy" "Humph..."
-msgstr "Guy" "Humph..."
+msgid "Guy || Humph..."
+msgstr "Guy || Humph..."
 
 # game/events_other.rpy:104 ## translate crowdin cafe_d6_3f057ea7:
 msgid "[pcthink] Hum?"
@@ -251,8 +251,8 @@ msgid "[h] ...and here's your mocha!"
 msgstr "[h] ...and here's your mocha!"
 
 # game/events_other.rpy:113 ## translate crowdin cafe_d6_2c72ca38:
-msgid "Woman" "Thanks [h]."
-msgstr "Woman" "Thanks [h]."
+msgid "Woman || Thanks [h]."
+msgstr "Woman || Thanks [h]."
 
 # game/events_other.rpy:114 ## translate crowdin cafe_d6_6c7e8b07:
 msgid "[h] Enjoy~"
@@ -319,24 +319,24 @@ msgid "[h] Why do you think that it's a \"him\"?"
 msgstr "[h] Why do you think that it's a \"him\"?"
 
 # game/events_other.rpy:139 ## translate crowdin cafe_d6_426a1e87:
-msgid "Woman" "Hey, [h], is [heshe] the reason why you're working on your day off?"
-msgstr "Woman" "Hey, [h], is [heshe] the reason why you're working on your day off?"
+msgid "Woman || Hey, [h], is [heshe] the reason why you're working on your day off?"
+msgstr "Woman || Hey, [h], is [heshe] the reason why you're working on your day off?"
 
 # game/events_other.rpy:141 ## translate crowdin cafe_d6_8b1e859e:
 msgid "[h] Ehh...hahah, I have no idea what you're talking about, Jenny..."
 msgstr "[h] Ehh...hahah, I have no idea what you're talking about, Jenny..."
 
 # game/events_other.rpy:142 ## translate crowdin cafe_d6_316345e8:
-msgid "Woman" "No? Didn't you just storm in here 10 minutes ago, and begged Jason to take his shift?"
-msgstr "Woman" "No? Didn't you just storm in here 10 minutes ago, and begged Jason to take his shift?"
+msgid "Woman || No? Didn't you just storm in here 10 minutes ago, and begged Jason to take his shift?"
+msgstr "Woman || No? Didn't you just storm in here 10 minutes ago, and begged Jason to take his shift?"
 
 # game/events_other.rpy:144 ## translate crowdin cafe_d6_595b14b2:
 msgid "[h] Whaa, nonono, you got it all wrong!"
 msgstr "[h] Whaa, nonono, you got it all wrong!"
 
 # game/events_other.rpy:146 ## translate crowdin cafe_d6_4eb69eb5:
-msgid "Woman" "She even put perfume on while coming half changed out of the locker room."
-msgstr "Woman" "She even put perfume on while coming half changed out of the locker room."
+msgid "Woman || She even put perfume on while coming half changed out of the locker room."
+msgstr "Woman || She even put perfume on while coming half changed out of the locker room."
 
 # game/events_other.rpy:148 ## translate crowdin cafe_d6_b267cd97:
 msgid "[h] I-I'll be right back..."
@@ -599,8 +599,8 @@ msgid "[st] ...and then you can bring the new components to the testing area."
 msgstr "[st] ...and then you can bring the new components to the testing area."
 
 # game/events_other.rpy:260 ## translate crowdin job_d6_79a2b683:
-msgid "Guy" "Okay."
-msgstr "Guy" "Okay."
+msgid "Guy || Okay."
+msgstr "Guy || Okay."
 
 # game/events_other.rpy:262 ## translate crowdin job_d6_bee3d30d:
 msgid "[pc] Hey, [st]."
@@ -983,8 +983,8 @@ msgid "[pcthink] Have I seen her before?"
 msgstr "[pcthink] Have I seen her before?"
 
 # game/events_other.rpy:421 ## translate crowdin porngirls_35b14644:
-msgid "{color=#570058}Girl1{/color}" "Ouch! [withhpunch]"
-msgstr "{color=#570058}Girl1{/color}" "Ouch! [withhpunch]"
+msgid "{color=#570058}Girl1{/color} || Ouch! [withhpunch]"
+msgstr "{color=#570058}Girl1{/color} || Ouch! [withhpunch]"
 
 # game/events_other.rpy:423 ## translate crowdin porngirls_ad0a542c:
 msgid "[pc] Whoa, shit!"
@@ -1007,24 +1007,24 @@ msgid "[pc] Hey, she didn't watch out either!"
 msgstr "[pc] Hey, she didn't watch out either!"
 
 # game/events_other.rpy:429 ## translate crowdin porngirls_91b098eb:
-msgid "{color=#570058}Girl1{/color}" "Unn..."
-msgstr "{color=#570058}Girl1{/color}" "Unn..."
+msgid "{color=#570058}Girl1{/color} || Unn..."
+msgstr "{color=#570058}Girl1{/color} || Unn..."
 
 # game/events_other.rpy:437 ## translate crowdin porngirls_59629574:
 msgid "[pc] Sorry, I was lost in thought..."
 msgstr "[pc] Sorry, I was lost in thought..."
 
 # game/events_other.rpy:439 ## translate crowdin porngirls_4c8fc039:
-msgid "{color=#570058}Girl1{/color}" "It's okay, I didn't watch out either."
-msgstr "{color=#570058}Girl1{/color}" "It's okay, I didn't watch out either."
+msgid "{color=#570058}Girl1{/color} || It's okay, I didn't watch out either."
+msgstr "{color=#570058}Girl1{/color} || It's okay, I didn't watch out either."
 
 # game/events_other.rpy:440 ## translate crowdin porngirls_fa75bbc3:
 msgid "[pc] Are you okay?"
 msgstr "[pc] Are you okay?"
 
 # game/events_other.rpy:441 ## translate crowdin porngirls_4be0ccaa:
-msgid "{color=#570058}Girl1{/color}" "Yes, I'm good, thanks."
-msgstr "{color=#570058}Girl1{/color}" "Yes, I'm good, thanks."
+msgid "{color=#570058}Girl1{/color} || Yes, I'm good, thanks."
+msgstr "{color=#570058}Girl1{/color} || Yes, I'm good, thanks."
 
 # game/events_other.rpy:443 ## translate crowdin porngirls_5458163c:
 msgid "{color=#cc5dcd}Girl2{/color}" "Come on [em], don't waste time with [himher]!"

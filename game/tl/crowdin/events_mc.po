@@ -723,8 +723,8 @@ msgid "[n] Suddenly you hear a voice from behind you."
 msgstr "[n] Suddenly you hear a voice from behind you."
 
 # game/events_mc.rpy:317 ## translate crowdin getEfromSchool1_9a3323ff:
-msgid "Voice" "Hey! Stop right there!"
-msgstr "Voice" "Hey! Stop right there!"
+msgid "Voice || Hey! Stop right there!"
+msgstr "Voice || Hey! Stop right there!"
 
 # game/events_mc.rpy:318 ## translate crowdin getEfromSchool1_32ead6f8:
 msgid "[pcthink] Huh?"
@@ -735,60 +735,60 @@ msgid "[pcthink] Oh no... not this guy again..."
 msgstr "[pcthink] Oh no... not this guy again..."
 
 # game/events_mc.rpy:323 ## translate crowdin getEfromSchool1_f21e3a4e:
-msgid "Cop" "Hey... *pant* ...I said... *pant* ... stop right there!"
-msgstr "Cop" "Hey... *pant* ...I said... *pant* ... stop right there!"
+msgid "Cop || Hey... *pant* ...I said... *pant* ... stop right there!"
+msgstr "Cop || Hey... *pant* ...I said... *pant* ... stop right there!"
 
 # game/events_mc.rpy:324 ## translate crowdin getEfromSchool1_5a35ce3d:
 msgid "[pc] I'm just standing here Officer..."
 msgstr "[pc] I'm just standing here Officer..."
 
 # game/events_mc.rpy:325 ## translate crowdin getEfromSchool1_c7dd96ed:
-msgid "Cop" "You... *pant* ... shit..."
-msgstr "Cop" "You... *pant* ... shit..."
+msgid "Cop || You... *pant* ... shit..."
+msgstr "Cop || You... *pant* ... shit..."
 
 # game/events_mc.rpy:326 ## translate crowdin getEfromSchool1_38aa9b62:
 msgid "[pc] A little out of shape Officer?"
 msgstr "[pc] A little out of shape Officer?"
 
 # game/events_mc.rpy:328 ## translate crowdin getEfromSchool1_b5c7bd7a:
-msgid "Cop" "You better shut it... *pant* ...smart ass."
-msgstr "Cop" "You better shut it... *pant* ...smart ass."
+msgid "Cop || You better shut it... *pant* ...smart ass."
+msgstr "Cop || You better shut it... *pant* ...smart ass."
 
 # game/events_mc.rpy:330 ## translate crowdin getEfromSchool1_04e1c72c:
-msgid "Cop" "Just so you know... I know about you... I have seen your files!"
-msgstr "Cop" "Just so you know... I know about you... I have seen your files!"
+msgid "Cop || Just so you know... I know about you... I have seen your files!"
+msgstr "Cop || Just so you know... I know about you... I have seen your files!"
 
 # game/events_mc.rpy:331 ## translate crowdin getEfromSchool1_a69377ef:
 msgid "[pc] ..."
 msgstr "[pc] ..."
 
 # game/events_mc.rpy:333 ## translate crowdin getEfromSchool1_4071f137:
-msgid "Cop" "What?! Surprised?"
-msgstr "Cop" "What?! Surprised?"
+msgid "Cop || What?! Surprised?"
+msgstr "Cop || What?! Surprised?"
 
 # game/events_mc.rpy:335 ## translate crowdin getEfromSchool1_5bd96603:
-msgid "Cop" "It wasn't easy to get them *gasp* and my colleagues even told me to let it go, but I'm not a lazy bum like they are."
-msgstr "Cop" "It wasn't easy to get them *gasp* and my colleagues even told me to let it go, but I'm not a lazy bum like they are."
+msgid "Cop || It wasn't easy to get them *gasp* and my colleagues even told me to let it go, but I'm not a lazy bum like they are."
+msgstr "Cop || It wasn't easy to get them *gasp* and my colleagues even told me to let it go, but I'm not a lazy bum like they are."
 
 # game/events_mc.rpy:336 ## translate crowdin getEfromSchool1_e91b54e7:
-msgid "Cop" "The case might be closed, but I know you have skeletons in your closet!"
-msgstr "Cop" "The case might be closed, but I know you have skeletons in your closet!"
+msgid "Cop || The case might be closed, but I know you have skeletons in your closet!"
+msgstr "Cop || The case might be closed, but I know you have skeletons in your closet!"
 
 # game/events_mc.rpy:337 ## translate crowdin getEfromSchool1_a08e5c45:
 msgid "[pcthink] Shit!"
 msgstr "[pcthink] Shit!"
 
 # game/events_mc.rpy:339 ## translate crowdin getEfromSchool1_b385900b:
-msgid "Cop" "I'll be keeping an eye on you!"
-msgstr "Cop" "I'll be keeping an eye on you!"
+msgid "Cop || I'll be keeping an eye on you!"
+msgstr "Cop || I'll be keeping an eye on you!"
 
 # game/events_mc.rpy:340 ## translate crowdin getEfromSchool1_22c9823e:
 msgid "[pc] Well, I hope you have fun with that. I have things to do..."
 msgstr "[pc] Well, I hope you have fun with that. I have things to do..."
 
 # game/events_mc.rpy:341 ## translate crowdin getEfromSchool1_9d86ab89:
-msgid "Cop" "I'm watching you!"
-msgstr "Cop" "I'm watching you!"
+msgid "Cop || I'm watching you!"
+msgstr "Cop || I'm watching you!"
 
 # game/events_mc.rpy:343 ## translate crowdin getEfromSchool1_1f323051:
 msgid "[pc] Yeah... bye..."
@@ -1547,16 +1547,16 @@ msgid "Dude" "Thanks."
 msgstr "Dude" "Thanks."
 
 # game/events_mc.rpy:684 ## translate crowdin pcCityDay3_2d94c374:
-msgid "Girl" "{size=-10}Yeah, bye!{/size}"
-msgstr "Girl" "{size=-10}Yeah, bye!{/size}"
+msgid "Girl || {size=-10}Yeah, bye!{/size}"
+msgstr "Girl || {size=-10}Yeah, bye!{/size}"
 
 # game/events_mc.rpy:685 ## translate crowdin pcCityDay3_df2388d3:
 msgid "[pcthink] That's the barista from last time."
 msgstr "[pcthink] That's the barista from last time."
 
 # game/events_mc.rpy:687 ## translate crowdin pcCityDay3_f6920ce9:
-msgid "Girl" "Oh, you."
-msgstr "Girl" "Oh, you."
+msgid "Girl || Oh, you."
+msgstr "Girl || Oh, you."
 
 # game/events_mc.rpy:688 ## translate crowdin pcCityDay3_9f72f07c:
 msgid "[pc] Me?"
@@ -1567,40 +1567,40 @@ msgid "[pcthink] Looks like she's remembering me as well."
 msgstr "[pcthink] Looks like she's remembering me as well."
 
 # game/events_mc.rpy:691 ## translate crowdin pcCityDay3_d16d473d:
-msgid "Girl" "Ah sorry, haha. You looked really tired last time, that's why I remember you, haha."
-msgstr "Girl" "Ah sorry, haha. You looked really tired last time, that's why I remember you, haha."
+msgid "Girl || Ah sorry, haha. You looked really tired last time, that's why I remember you, haha."
+msgstr "Girl || Ah sorry, haha. You looked really tired last time, that's why I remember you, haha."
 
 # game/events_mc.rpy:692 ## translate crowdin pcCityDay3_528a0c0a:
 msgid "[pc] Yeah that sounds like me... I hope I didn't look too scary?"
 msgstr "[pc] Yeah that sounds like me... I hope I didn't look too scary?"
 
 # game/events_mc.rpy:693 ## translate crowdin pcCityDay3_d7aed506:
-msgid "Girl" "Haha no, not at all. Err... how is your friend?"
-msgstr "Girl" "Haha no, not at all. Err... how is your friend?"
+msgid "Girl || Haha no, not at all. Err... how is your friend?"
+msgstr "Girl || Haha no, not at all. Err... how is your friend?"
 
 # game/events_mc.rpy:694 ## translate crowdin pcCityDay3_0ea4f12e:
 msgid "[pc] Friend?"
 msgstr "[pc] Friend?"
 
 # game/events_mc.rpy:695 ## translate crowdin pcCityDay3_14a251d1:
-msgid "Girl" "The older woman..."
-msgstr "Girl" "The older woman..."
+msgid "Girl || The older woman..."
+msgstr "Girl || The older woman..."
 
 # game/events_mc.rpy:696 ## translate crowdin pcCityDay3_26a6d4b5:
-msgid "Girl" "Oh that sounds mean. I didn't mean that she looks old or something, haha. She's a regular."
-msgstr "Girl" "Oh that sounds mean. I didn't mean that she looks old or something, haha. She's a regular."
+msgid "Girl || Oh that sounds mean. I didn't mean that she looks old or something, haha. She's a regular."
+msgstr "Girl || Oh that sounds mean. I didn't mean that she looks old or something, haha. She's a regular."
 
 # game/events_mc.rpy:697 ## translate crowdin pcCityDay3_2643ac94:
-msgid "Girl" "...but she looked really sad when she left the other day. I hope she's alright?"
-msgstr "Girl" "...but she looked really sad when she left the other day. I hope she's alright?"
+msgid "Girl || ...but she looked really sad when she left the other day. I hope she's alright?"
+msgstr "Girl || ...but she looked really sad when she left the other day. I hope she's alright?"
 
 # game/events_mc.rpy:698 ## translate crowdin pcCityDay3_b3701ceb:
 msgid "[pc] I guess you mean [m]... yeah she's fine."
 msgstr "[pc] I guess you mean [m]... yeah she's fine."
 
 # game/events_mc.rpy:699 ## translate crowdin pcCityDay3_1bd56328:
-msgid "Girl" "Did you break up with her?"
-msgstr "Girl" "Did you break up with her?"
+msgid "Girl || Did you break up with her?"
+msgstr "Girl || Did you break up with her?"
 
 # game/events_mc.rpy:700 ## translate crowdin pcCityDay3_c251847b:
 msgid "[pc] Break up? Hell no! She's not my girlfriend."
@@ -1611,16 +1611,16 @@ msgid "Dude" "Hey [h], stop chattering, I want to go home!"
 msgstr "Dude" "Hey [h], stop chattering, I want to go home!"
 
 # game/events_mc.rpy:703 ## translate crowdin pcCityDay3_897e803a:
-msgid "Girl" "Ugh... Looks like I have to start my shift."
-msgstr "Girl" "Ugh... Looks like I have to start my shift."
+msgid "Girl || Ugh... Looks like I have to start my shift."
+msgstr "Girl || Ugh... Looks like I have to start my shift."
 
 # game/events_mc.rpy:704 ## translate crowdin pcCityDay3_0bea89ce:
 msgid "[pc] Yeah, too bad."
 msgstr "[pc] Yeah, too bad."
 
 # game/events_mc.rpy:706 ## translate crowdin pcCityDay3_6be367f3:
-msgid "Girl" "I'm [h] by the way."
-msgstr "Girl" "I'm [h] by the way."
+msgid "Girl || I'm [h] by the way."
+msgstr "Girl || I'm [h] by the way."
 
 # game/events_mc.rpy:710 ## translate crowdin pcCityDay3_1ca71d76:
 msgid "[pc] [pc], nice to meet you."
@@ -2579,32 +2579,32 @@ msgid "[pc] Hey! Hey you!"
 msgstr "[pc] Hey! Hey you!"
 
 # game/events_mc.rpy:1085 ## translate crowdin officeFirst_4f3b0408:
-msgid "Woman" "Y-yes?!"
-msgstr "Woman" "Y-yes?!"
+msgid "Woman || Y-yes?!"
+msgstr "Woman || Y-yes?!"
 
 # game/events_mc.rpy:1086 ## translate crowdin officeFirst_51a6f7e0:
 msgid "[pc] Is this Atomic Aeronautics?"
 msgstr "[pc] Is this Atomic Aeronautics?"
 
 # game/events_mc.rpy:1087 ## translate crowdin officeFirst_eeaceb23:
-msgid "Woman" "Y-yes!"
-msgstr "Woman" "Y-yes!"
+msgid "Woman || Y-yes!"
+msgstr "Woman || Y-yes!"
 
 # game/events_mc.rpy:1088 ## translate crowdin officeFirst_b6ac243e:
 msgid "[pc] I'm [pc]... [pc] [pcsure]."
 msgstr "[pc] I'm [pc]... [pc] [pcsure]."
 
 # game/events_mc.rpy:1089 ## translate crowdin officeFirst_ba58eaa8:
-msgid "Woman" "[pc] [pcsure]?"
-msgstr "Woman" "[pc] [pcsure]?"
+msgid "Woman || [pc] [pcsure]?"
+msgstr "Woman || [pc] [pcsure]?"
 
 # game/events_mc.rpy:1090 ## translate crowdin officeFirst_5cf9f3a1:
 msgid "[pc] Yes, I'm starting work here tomorrow!"
 msgstr "[pc] Yes, I'm starting work here tomorrow!"
 
 # game/events_mc.rpy:1091 ## translate crowdin officeFirst_c9aca35f:
-msgid "Woman" "O-oh, that's you... please, let's go inside!"
-msgstr "Woman" "O-oh, that's you... please, let's go inside!"
+msgid "Woman || O-oh, that's you... please, let's go inside!"
+msgstr "Woman || O-oh, that's you... please, let's go inside!"
 
 # game/events_mc.rpy:1093 ## translate crowdin officeFirst_d97311e5:
 msgid "You follow her."
@@ -2615,40 +2615,40 @@ msgid "[pc] Finally out of the rain..."
 msgstr "[pc] Finally out of the rain..."
 
 # game/events_mc.rpy:1096 ## translate crowdin officeFirst_ea7019d0:
-msgid "Woman" "Why are you here?"
-msgstr "Woman" "Why are you here?"
+msgid "Woman || Why are you here?"
+msgstr "Woman || Why are you here?"
 
 # game/events_mc.rpy:1097 ## translate crowdin officeFirst_225fadf5:
 msgid "[pc] Huh?"
 msgstr "[pc] Huh?"
 
 # game/events_mc.rpy:1098 ## translate crowdin officeFirst_2f424692:
-msgid "Woman" "I-I mean, you're starting tomorrow, why are you here today?"
-msgstr "Woman" "I-I mean, you're starting tomorrow, why are you here today?"
+msgid "Woman || I-I mean, you're starting tomorrow, why are you here today?"
+msgstr "Woman || I-I mean, you're starting tomorrow, why are you here today?"
 
 # game/events_mc.rpy:1099 ## translate crowdin officeFirst_10609a33:
 msgid "[pc] Well... it's been a while since I left town, and I don't know this area, so I thought it might be a good idea to have a look before I start."
 msgstr "[pc] Well... it's been a while since I left town, and I don't know this area, so I thought it might be a good idea to have a look before I start."
 
 # game/events_mc.rpy:1100 ## translate crowdin officeFirst_0651871c:
-msgid "Woman" "I see."
-msgstr "Woman" "I see."
+msgid "Woman || I see."
+msgstr "Woman || I see."
 
 # game/events_mc.rpy:1101 ## translate crowdin officeFirst_0368c379:
 msgid "[pc] I could ask you the same question by the way. It's Sunday, what are you doing here?"
 msgstr "[pc] I could ask you the same question by the way. It's Sunday, what are you doing here?"
 
 # game/events_mc.rpy:1102 ## translate crowdin officeFirst_f2fbbb51:
-msgid "Woman" "I... C.J... the boss asked me to bring in some papers."
-msgstr "Woman" "I... C.J... the boss asked me to bring in some papers."
+msgid "Woman || I... C.J... the boss asked me to bring in some papers."
+msgstr "Woman || I... C.J... the boss asked me to bring in some papers."
 
 # game/events_mc.rpy:1103 ## translate crowdin officeFirst_c7965c80:
 msgid "[pc] He's here, too?"
 msgstr "[pc] He's here, too?"
 
 # game/events_mc.rpy:1104 ## translate crowdin officeFirst_225cc38a:
-msgid "Woman" "Yes, like almost every Sunday."
-msgstr "Woman" "Yes, like almost every Sunday."
+msgid "Woman || Yes, like almost every Sunday."
+msgstr "Woman || Yes, like almost every Sunday."
 
 # game/events_mc.rpy:1105 ## translate crowdin officeFirst_cb272a23:
 msgid "[pcthink] WTF, he must be a workaholic..."
@@ -2659,24 +2659,24 @@ msgid "[pc] Every Sunday?"
 msgstr "[pc] Every Sunday?"
 
 # game/events_mc.rpy:1108 ## translate crowdin officeFirst_202424ff:
-msgid "Woman" "Yes... I can tell him that you are here."
-msgstr "Woman" "Yes... I can tell him that you are here."
+msgid "Woman || Yes... I can tell him that you are here."
+msgstr "Woman || Yes... I can tell him that you are here."
 
 # game/events_mc.rpy:1109 ## translate crowdin officeFirst_c3f1eb0b:
 msgid "[pc] Yeah, why not. Can I have a look around?"
 msgstr "[pc] Yeah, why not. Can I have a look around?"
 
 # game/events_mc.rpy:1110 ## translate crowdin officeFirst_04e2f270:
-msgid "Woman" "Uhm... I can show you a bit, why don't you follow me."
-msgstr "Woman" "Uhm... I can show you a bit, why don't you follow me."
+msgid "Woman || Uhm... I can show you a bit, why don't you follow me."
+msgstr "Woman || Uhm... I can show you a bit, why don't you follow me."
 
 # game/events_mc.rpy:1111 ## translate crowdin officeFirst_d688a87b:
 msgid "[pc] Yeah, sure. What's your name by the way?"
 msgstr "[pc] Yeah, sure. What's your name by the way?"
 
 # game/events_mc.rpy:1112 ## translate crowdin officeFirst_dbc67763:
-msgid "Woman" "Stephanie..."
-msgstr "Woman" "Stephanie..."
+msgid "Woman || Stephanie..."
+msgstr "Woman || Stephanie..."
 
 # game/events_mc.rpy:1113 ## translate crowdin officeFirst_f7e59657:
 msgid "[pc] Well, nice to meet you, Stephanie."
@@ -2875,16 +2875,16 @@ msgid "[pcthink] Yep, it is... damn she's so cute."
 msgstr "[pcthink] Yep, it is... damn she's so cute."
 
 # game/events_mc.rpy:1187 ## translate crowdin officeFirst_53981479:
-msgid "Cop" "Ouuch!"
-msgstr "Cop" "Ouuch!"
+msgid "Cop || Ouuch!"
+msgstr "Cop || Ouuch!"
 
 # game/events_mc.rpy:1188 ## translate crowdin officeFirst_26b08e4a:
 msgid "[pc] Fuck!"
 msgstr "[pc] Fuck!"
 
 # game/events_mc.rpy:1191 ## translate crowdin officeFirst_228fb161:
-msgid "Cop" "YOU!"
-msgstr "Cop" "YOU!"
+msgid "Cop || YOU!"
+msgstr "Cop || YOU!"
 
 # game/events_mc.rpy:1192 ## translate crowdin officeFirst_95710a31:
 msgid "[pc] Oh, no..."
@@ -2895,8 +2895,8 @@ msgid "[pcthink] Not this guy again..."
 msgstr "[pcthink] Not this guy again..."
 
 # game/events_mc.rpy:1195 ## translate crowdin officeFirst_4acfd17a:
-msgid "Cop" "So-so, not watching where we're going, are we?"
-msgstr "Cop" "So-so, not watching where we're going, are we?"
+msgid "Cop || So-so, not watching where we're going, are we?"
+msgstr "Cop || So-so, not watching where we're going, are we?"
 
 # game/events_mc.rpy:1196 ## translate crowdin officeFirst_25d64821:
 msgid "[pc] I doubt that {b}you{/b} were looking, idiot..."
@@ -2907,16 +2907,16 @@ msgid "[pcthink] Shit, I shouldn't have said that!"
 msgstr "[pcthink] Shit, I shouldn't have said that!"
 
 # game/events_mc.rpy:1199 ## translate crowdin officeFirst_9a256965:
-msgid "Cop" "What was that? Insulting an officer? W-wait... you ran into me, that was obviously an attack! Ha! Now I got you!"
-msgstr "Cop" "What was that? Insulting an officer? W-wait... you ran into me, that was obviously an attack! Ha! Now I got you!"
+msgid "Cop || What was that? Insulting an officer? W-wait... you ran into me, that was obviously an attack! Ha! Now I got you!"
+msgstr "Cop || What was that? Insulting an officer? W-wait... you ran into me, that was obviously an attack! Ha! Now I got you!"
 
 # game/events_mc.rpy:1200 ## translate crowdin officeFirst_2ea675f7:
 msgid "[pc] What? That's bullshit and you know it!"
 msgstr "[pc] What? That's bullshit and you know it!"
 
 # game/events_mc.rpy:1202 ## translate crowdin officeFirst_f40d5809:
-msgid "Cop" "Hands where I can see them, turn around, asshole!"
-msgstr "Cop" "Hands where I can see them, turn around, asshole!"
+msgid "Cop || Hands where I can see them, turn around, asshole!"
+msgstr "Cop || Hands where I can see them, turn around, asshole!"
 
 # game/events_mc.rpy:1203 ## translate crowdin officeFirst_5fdae6d7:
 msgid "[pcthink] Fuck... what an idiot..."
@@ -3519,8 +3519,8 @@ msgid "[n] A while later..."
 msgstr "[n] A while later..."
 
 # game/events_mc.rpy:1451 ## translate crowdin porn_vr_4_7cd59846:
-msgid "Voice" "Mphh... mphhh..."
-msgstr "Voice" "Mphh... mphhh..."
+msgid "Voice || Mphh... mphhh..."
+msgstr "Voice || Mphh... mphhh..."
 
 # game/events_mc.rpy:1456 ## translate crowdin porn_vr_4_594132e1:
 msgid "[pcthink] Gawd, I love these girls!"
@@ -5675,8 +5675,8 @@ msgid "[pcthink] Anyway, time to sleep."
 msgstr "[pcthink] Anyway, time to sleep."
 
 # game/events_mc.rpy:2460 ## translate crowdin d9dream_99c802ff:
-msgid "Voice" "*Sniff*"
-msgstr "Voice" "*Sniff*"
+msgid "Voice || *Sniff*"
+msgstr "Voice || *Sniff*"
 
 # game/events_mc.rpy:2461 ## translate crowdin d9dream_8f56933b:
 msgid "[n] You can hear a weeping noise."
@@ -5687,52 +5687,52 @@ msgid "[pc] Dad?"
 msgstr "[pc] Dad?"
 
 # game/events_mc.rpy:2463 ## translate crowdin d9dream_9aef7dc5:
-msgid "Dad" "Oh hey, [pc]... *sniff*"
-msgstr "Dad" "Oh hey, [pc]... *sniff*"
+msgid "Dad || Oh hey, [pc]... *sniff*"
+msgstr "Dad || Oh hey, [pc]... *sniff*"
 
 # game/events_mc.rpy:2464 ## translate crowdin d9dream_e6e5c075:
 msgid "[n] He wipes tears from his eyes. You can see him holding a photo of your mom in his hands."
 msgstr "[n] He wipes tears from his eyes. You can see him holding a photo of your mom in his hands."
 
 # game/events_mc.rpy:2465 ## translate crowdin d9dream_84c70355:
-msgid "Dad" "You're back early..."
-msgstr "Dad" "You're back early..."
+msgid "Dad || You're back early..."
+msgstr "Dad || You're back early..."
 
 # game/events_mc.rpy:2466 ## translate crowdin d9dream_96535a88:
 msgid "[pc] Are you crying, Dad?"
 msgstr "[pc] Are you crying, Dad?"
 
 # game/events_mc.rpy:2467 ## translate crowdin d9dream_e24b33bd:
-msgid "Dad" "No... *sniff* ...must've gotten something in my eye..."
-msgstr "Dad" "No... *sniff* ...must've gotten something in my eye..."
+msgid "Dad || No... *sniff* ...must've gotten something in my eye..."
+msgstr "Dad || No... *sniff* ...must've gotten something in my eye..."
 
 # game/events_mc.rpy:2468 ## translate crowdin d9dream_a69377ef:
 msgid "[pc] ..."
 msgstr "[pc] ..."
 
 # game/events_mc.rpy:2469 ## translate crowdin d9dream_da7061f8:
-msgid "Dad" "Do you miss your mom, [pc]?"
-msgstr "Dad" "Do you miss your mom, [pc]?"
+msgid "Dad || Do you miss your mom, [pc]?"
+msgstr "Dad || Do you miss your mom, [pc]?"
 
 # game/events_mc.rpy:2470 ## translate crowdin d9dream_3b5608b8:
 msgid "[pc] Yes..."
 msgstr "[pc] Yes..."
 
 # game/events_mc.rpy:2471 ## translate crowdin d9dream_234a4777:
-msgid "Dad" "Hm... you should forget about her..."
-msgstr "Dad" "Hm... you should forget about her..."
+msgid "Dad || Hm... you should forget about her..."
+msgstr "Dad || Hm... you should forget about her..."
 
 # game/events_mc.rpy:2472 ## translate crowdin d9dream_0628eca5:
 msgid "[pc] I don't want to forget her!"
 msgstr "[pc] I don't want to forget her!"
 
 # game/events_mc.rpy:2473 ## translate crowdin d9dream_d262fbf2:
-msgid "Dad" "But it's better for you... for both of us..."
-msgstr "Dad" "But it's better for you... for both of us..."
+msgid "Dad || But it's better for you... for both of us..."
+msgstr "Dad || But it's better for you... for both of us..."
 
 # game/events_mc.rpy:2474 ## translate crowdin d9dream_85c0867b:
-msgid "Dad" "...and do yourself a favor and never fall in love..."
-msgstr "Dad" "...and do yourself a favor and never fall in love..."
+msgid "Dad || ...and do yourself a favor and never fall in love..."
+msgstr "Dad || ...and do yourself a favor and never fall in love..."
 
 # game/events_mc.rpy:2475 ## translate crowdin d9dream_a69377ef_1:
 msgid "[pc] ..."
@@ -5747,28 +5747,28 @@ msgid "[pc] Don't you love [m], Dad?"
 msgstr "[pc] Don't you love [m], Dad?"
 
 # game/events_mc.rpy:2478 ## translate crowdin d9dream_51070d0f:
-msgid "Dad" "[m]?! Pff..."
-msgstr "Dad" "[m]?! Pff..."
+msgid "Dad || [m]?! Pff..."
+msgstr "Dad || [m]?! Pff..."
 
 # game/events_mc.rpy:2479 ## translate crowdin d9dream_14cfced5:
-msgid "Dad" "That b... she doesn't even know how to cook a proper meal, let alone how to suck a..."
-msgstr "Dad" "That b... she doesn't even know how to cook a proper meal, let alone how to suck a..."
+msgid "Dad || That b... she doesn't even know how to cook a proper meal, let alone how to suck a..."
+msgstr "Dad || That b... she doesn't even know how to cook a proper meal, let alone how to suck a..."
 
 # game/events_mc.rpy:2480 ## translate crowdin d9dream_8854a3cf:
-msgid "Dad" "Uch... damn it..."
-msgstr "Dad" "Uch... damn it..."
+msgid "Dad || Uch... damn it..."
+msgstr "Dad || Uch... damn it..."
 
 # game/events_mc.rpy:2481 ## translate crowdin d9dream_d582bfa7:
-msgid "Dad" "Just always remember that she's not your mom, even if she tries to be... she's useless and she'll never be your mom!"
-msgstr "Dad" "Just always remember that she's not your mom, even if she tries to be... she's useless and she'll never be your mom!"
+msgid "Dad || Just always remember that she's not your mom, even if she tries to be... she's useless and she'll never be your mom!"
+msgstr "Dad || Just always remember that she's not your mom, even if she tries to be... she's useless and she'll never be your mom!"
 
 # game/events_mc.rpy:2482 ## translate crowdin d9dream_5d7119e2:
 msgid "[pc] ...okay..."
 msgstr "[pc] ...okay..."
 
 # game/events_mc.rpy:2483 ## translate crowdin d9dream_155a3712:
-msgid "Dad" "Now go back to your room or go out and play or whatever you do..."
-msgstr "Dad" "Now go back to your room or go out and play or whatever you do..."
+msgid "Dad || Now go back to your room or go out and play or whatever you do..."
+msgstr "Dad || Now go back to your room or go out and play or whatever you do..."
 
 # game/events_mc.rpy:2484 ## translate crowdin d9dream_880b4aa8:
 msgid "[pc] Okay..."
@@ -5779,28 +5779,28 @@ msgid "[n] You're about to leave the room..."
 msgstr "[n] You're about to leave the room..."
 
 # game/events_mc.rpy:2486 ## translate crowdin d9dream_14e7ad76:
-msgid "Dad" "[pc]?"
-msgstr "Dad" "[pc]?"
+msgid "Dad || [pc]?"
+msgstr "Dad || [pc]?"
 
 # game/events_mc.rpy:2487 ## translate crowdin d9dream_bbe33639:
 msgid "[pc] Yes, Dad?"
 msgstr "[pc] Yes, Dad?"
 
 # game/events_mc.rpy:2488 ## translate crowdin d9dream_0b01384d:
-msgid "Dad" "I'm sorry that I..."
-msgstr "Dad" "I'm sorry that I..."
+msgid "Dad || I'm sorry that I..."
+msgstr "Dad || I'm sorry that I..."
 
 # game/events_mc.rpy:2489 ## translate crowdin d9dream_503d5266:
-msgid "Dad" "...sometimes..."
-msgstr "Dad" "...sometimes..."
+msgid "Dad || ...sometimes..."
+msgstr "Dad || ...sometimes..."
 
 # game/events_mc.rpy:2490 ## translate crowdin d9dream_cde1b3be:
-msgid "Dad" "..."
-msgstr "Dad" "..."
+msgid "Dad || ..."
+msgstr "Dad || ..."
 
 # game/events_mc.rpy:2491 ## translate crowdin d9dream_b283b4e3:
-msgid "Dad" "Never mind, just go..."
-msgstr "Dad" "Never mind, just go..."
+msgid "Dad || Never mind, just go..."
+msgstr "Dad || Never mind, just go..."
 
 # game/events_mc.rpy:2497 ## translate crowdin d10wakeup_e2ee86ba:
 msgid "[pc] Uhh..."
@@ -6223,20 +6223,20 @@ msgid "[n] It's quite late already, so everyone quickly goes to bed after dinner
 msgstr "[n] It's quite late already, so everyone quickly goes to bed after dinner, you decide do the same."
 
 # game/events_mc.rpy:2701 ## translate crowdin d10nightsex_38cd2de2:
-msgid "Voice" "Wakey wakey. [withslowdissolve]"
-msgstr "Voice" "Wakey wakey. [withslowdissolve]"
+msgid "Voice || Wakey wakey. [withslowdissolve]"
+msgstr "Voice || Wakey wakey. [withslowdissolve]"
 
 # game/events_mc.rpy:2702 ## translate crowdin d10nightsex_9f4f5a57:
 msgid "[pc] Uhh... is it morning already?"
 msgstr "[pc] Uhh... is it morning already?"
 
 # game/events_mc.rpy:2703 ## translate crowdin d10nightsex_9bdc0426:
-msgid "Voice" "No, Silly, it's still night!"
-msgstr "Voice" "No, Silly, it's still night!"
+msgid "Voice || No, Silly, it's still night!"
+msgstr "Voice || No, Silly, it's still night!"
 
 # game/events_mc.rpy:2704 ## translate crowdin d10nightsex_109cf5a7:
-msgid "Voice" "Khehehe."
-msgstr "Voice" "Khehehe."
+msgid "Voice || Khehehe."
+msgstr "Voice || Khehehe."
 
 # game/events_mc.rpy:2706 ## translate crowdin d10nightsex_61e4f5ac:
 msgid "[pc] Huh?!"

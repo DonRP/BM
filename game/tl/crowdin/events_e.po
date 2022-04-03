@@ -899,16 +899,16 @@ msgid "[pcthink] I hope she doesn't have a hangover as bad as [m]..."
 msgstr "[pcthink] I hope she doesn't have a hangover as bad as [m]..."
 
 # game/events_e.rpy:443 ## translate crowdin eKitten_a490b195:
-msgid "Voice" "{size=-10}Nya!{/size}"
-msgstr "Voice" "{size=-10}Nya!{/size}"
+msgid "Voice || {size=-10}Nya!{/size}"
+msgstr "Voice || {size=-10}Nya!{/size}"
 
 # game/events_e.rpy:444 ## translate crowdin eKitten_9525ded8:
 msgid "[pcthink] Huh? What was that?"
 msgstr "[pcthink] Huh? What was that?"
 
 # game/events_e.rpy:445 ## translate crowdin eKitten_750ee628:
-msgid "Voice" "{size=-10}Nya nya nya...{/size}"
-msgstr "Voice" "{size=-10}Nya nya nya...{/size}"
+msgid "Voice || {size=-10}Nya nya nya...{/size}"
+msgstr "Voice || {size=-10}Nya nya nya...{/size}"
 
 # game/events_e.rpy:446 ## translate crowdin eKitten_068749fe:
 msgid "[pcthink] Is that [e]?"
