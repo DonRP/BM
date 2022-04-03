@@ -1,12 +1,10 @@
-﻿# TODO: Translation updated at 2022-04-03 12:54
-
-# game/script.rpy:346 ## translate crowdin start_7dd9eee1:
-msgid "[n] This game is a work of fiction, all characters are at least 99 years old and obviously not related to any living persons.\n" with fade
-msgstr "[n] This game is a work of fiction, all characters are at least 99 years old and obviously not related to any living persons.\n" with fade
+﻿# TODO: Translation updated at 2022-04-03 HH:HH# game/script.rpy:346 ## translate crowdin start_7dd9eee1:
+msgid "[n] This game is a work of fiction, all characters are at least 99 years old and obviously not related to any living persons.\n [withfade]"
+msgstr "[n] This game is a work of fiction, all characters are at least 99 years old and obviously not related to any living persons.\n [withfade]"
 
 # game/script.rpy:348 ## translate crowdin start_af67b41c:
-msgid "[n] This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old. None of the characters are in any way related to any living persons.\n" with fade
-msgstr "[n] This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old. None of the characters are in any way related to any living persons.\n" with fade
+msgid "[n] This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old. None of the characters are in any way related to any living persons.\n [withfade]"
+msgstr "[n] This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old. None of the characters are in any way related to any living persons.\n [withfade]"
 
 # game/script.rpy:349 ## translate crowdin start_36a0049e:
 msgid "[n] If you're not an adult, close the game now, delete it, and burn your computer/mac/phone! DON'T CLICK AGAIN, OR...\n"

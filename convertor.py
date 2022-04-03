@@ -15,6 +15,7 @@ msgid \"""",
     """    old \"""": """msgid  \"""",
     """    new \"""": """msgid_plural "Ignore this. translate only: One"\nmsgstr[0]  \"""",
     """\" nointeract""": """ [nointeract]\"""",
+    """\" with fade""": """ [withfade]\"""",
     """\" with Dissolve(2.0)""": """ [withDissolve(2.0)]\"""",
     """\n    """: """\nmsgstr \"""",
     # ch
@@ -23,6 +24,7 @@ msgid \"""",
     """ \"pc \"""": """ \"[pc] """,
     """ \"m \"""": """ \"[m] """,
     """ \"j \"""": """ \"[j] """,
+    """ \"pcthink \"""": """ \"[pcthink] """,
 
     """ \"extend \"""": """ \"[extend] """,
     # Fix
@@ -32,8 +34,8 @@ msgid \"""",
     """\n ## translate crowdin strings:\n\n""": """\n\n# XXtranslate crowdin strings:XX\n""",
     """:XX\n# XX## game""": """:XX# XX## game""",
     # date
-    """12:20\n\n# game""": """HH:HH# game""",
-    """12:20\n\n# XXtranslate""": """HH:HH# XXtranslate""",
+    """12:54\n\n# game""": """HH:HH# game""",
+    """12:54\n\n# XXtranslate""": """HH:HH# XXtranslate""",
     # only rpytopo
     """msgid \"\"""": """msgid \"""",
     """msgstr \"\"""": """msgstr \"""",

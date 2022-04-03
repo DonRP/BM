@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-03 12:54
-
-# game/intro_day1.rpy:3 ## translate crowdin intro_day1_26086d61:
+﻿# TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day1.rpy:3 ## translate crowdin intro_day1_26086d61:
 msgid "[n] Next Day" with dissolve
 msgstr "[n] Next Day" with dissolve
 
@@ -29,12 +27,12 @@ msgid "Voice" "Hello [mrms] [pcsure], this is Maggy Shelter. I'm sorry but I hav
 msgstr "Voice" "Hello [mrms] [pcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
 
 # game/intro_day1.rpy:14 ## translate crowdin intro_day1_e76b2b51:
-msgid "pcthink "Ah, Maggy, the office secretary from the rental company."
-msgstr "pcthink "Ah, Maggy, the office secretary from the rental company."
+msgid "[pcthink] Ah, Maggy, the office secretary from the rental company."
+msgstr "[pcthink] Ah, Maggy, the office secretary from the rental company."
 
 # game/intro_day1.rpy:15 ## translate crowdin intro_day1_fd84307b:
-msgid "pcthink "She's obviously about to tell me about the apartment. She doesn't know I was there..."
-msgstr "pcthink "She's obviously about to tell me about the apartment. She doesn't know I was there..."
+msgid "[pcthink] She's obviously about to tell me about the apartment. She doesn't know I was there..."
+msgstr "[pcthink] She's obviously about to tell me about the apartment. She doesn't know I was there..."
 
 # game/intro_day1.rpy:16 ## translate crowdin intro_day1_7b411acf:
 msgid "[pc] Hey Maggy. I know about the fire already."
@@ -121,16 +119,16 @@ msgid "[pc] Bye Maggy."
 msgstr "[pc] Bye Maggy."
 
 # game/intro_day1.rpy:37 ## translate crowdin intro_day1_ac93afbc:
-msgid "pcthink "Damn that girl has a nice voice..."
-msgstr "pcthink "Damn that girl has a nice voice..."
+msgid "[pcthink] Damn that girl has a nice voice..."
+msgstr "[pcthink] Damn that girl has a nice voice..."
 
 # game/intro_day1.rpy:38 ## translate crowdin intro_day1_f418612c:
-msgid "pcthink "I wonder what she looks like."
-msgstr "pcthink "I wonder what she looks like."
+msgid "[pcthink] I wonder what she looks like."
+msgstr "[pcthink] I wonder what she looks like."
 
 # game/intro_day1.rpy:39 ## translate crowdin intro_day1_c1b3223b:
-msgid "pcthink "Anyway, she's right. I better get up and have look for another apartment myself."
-msgstr "pcthink "Anyway, she's right. I better get up and have look for another apartment myself."
+msgid "[pcthink] Anyway, she's right. I better get up and have look for another apartment myself."
+msgstr "[pcthink] Anyway, she's right. I better get up and have look for another apartment myself."
 
 # game/intro_day1.rpy:42 ## translate crowdin intro_day1_6245def4:
 msgid "[n] You get up, take a quick shower and spend a few hours browsing the web for an apartment."
@@ -153,8 +151,8 @@ msgid "[n] The moment you're about to give up, you get another call."
 msgstr "[n] The moment you're about to give up, you get another call."
 
 # game/intro_day1.rpy:47 ## translate crowdin intro_day1_6be6ff8e:
-msgid "pcthink "Huh? Must be Maggy again..."
-msgstr "pcthink "Huh? Must be Maggy again..."
+msgid "[pcthink] Huh? Must be Maggy again..."
+msgstr "[pcthink] Huh? Must be Maggy again..."
 
 # game/intro_day1.rpy:49 ## translate crowdin intro_day1_c7379241:
 msgid "[pc] Hey Maggy. Please tell me something positive."
@@ -185,12 +183,12 @@ msgid "[n] Half an hour later" with dissolve
 msgstr "[n] Half an hour later" with dissolve
 
 # game/intro_day1.rpy:61 ## translate crowdin intro_day1_12255e40:
-msgid "pcthink "Okay, this is the address... looks okay I guess... hmm, I like the annex."
-msgstr "pcthink "Okay, this is the address... looks okay I guess... hmm, I like the annex."
+msgid "[pcthink] Okay, this is the address... looks okay I guess... hmm, I like the annex."
+msgstr "[pcthink] Okay, this is the address... looks okay I guess... hmm, I like the annex."
 
 # game/intro_day1.rpy:63 ## translate crowdin intro_day1_5236aee1:
-msgid "pcthink "Shit, this doesn't look good..."
-msgstr "pcthink "Shit, this doesn't look good..."
+msgid "[pcthink] Shit, this doesn't look good..."
+msgstr "[pcthink] Shit, this doesn't look good..."
 
 # game/intro_day1.rpy:65 ## translate crowdin intro_day1_68797a1a:
 msgid "[pc] Uh, hey I'm here for the apartment."
@@ -225,24 +223,24 @@ msgid "Broker" "Well I'm sorry [mrms] [pcsure]. This lovely couple here just clo
 msgstr "Broker" "Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
 
 # game/intro_day1.rpy:81 ## translate crowdin intro_day1_99dfcf7e:
-msgid "pcthink "Shit, this sucks... all the haste for nothing."
-msgstr "pcthink "Shit, this sucks... all the haste for nothing."
+msgid "[pcthink] Shit, this sucks... all the haste for nothing."
+msgstr "[pcthink] Shit, this sucks... all the haste for nothing."
 
 # game/intro_day1.rpy:82 ## translate crowdin intro_day1_b1807a72:
-msgid "pcthink "Looks like I have to continue searching..."
-msgstr "pcthink "Looks like I have to continue searching..."
+msgid "[pcthink] Looks like I have to continue searching..."
+msgstr "[pcthink] Looks like I have to continue searching..."
 
 # game/intro_day1.rpy:85 ## translate crowdin intro_day1_6c67ca50:
-msgid "pcthink "Well I guess I'll head back to the hotel..."
-msgstr "pcthink "Well I guess I'll head back to the hotel..."
+msgid "[pcthink] Well I guess I'll head back to the hotel..."
+msgstr "[pcthink] Well I guess I'll head back to the hotel..."
 
 # game/intro_day1.rpy:86 ## translate crowdin intro_day1_2d8c3578:
 msgid "[pc] *stomach rumble*"
 msgstr "[pc] *stomach rumble*"
 
 # game/intro_day1.rpy:87 ## translate crowdin intro_day1_6f7d35d7:
-msgid "pcthink "...or get a snack first."
-msgstr "pcthink "...or get a snack first."
+msgid "[pcthink] ...or get a snack first."
+msgstr "[pcthink] ...or get a snack first."
 
 # game/intro_day1.rpy:88 ## translate crowdin intro_day1_e73c363b:
 msgid "[n] On your way back you stop for a small snack."
@@ -257,32 +255,32 @@ msgid "Girl" "Of course!"
 msgstr "Girl" "Of course!"
 
 # game/intro_day1.rpy:93 ## translate crowdin intro_day1_f0cac90d:
-msgid "pcthink "..."
-msgstr "pcthink "..."
+msgid "[pcthink] ..."
+msgstr "[pcthink] ..."
 
 # game/intro_day1.rpy:95 ## translate crowdin intro_day1_f8b5811f:
-msgid "pcthink "What the... is that... [m]?"
-msgstr "pcthink "What the... is that... [m]?"
+msgid "[pcthink] What the... is that... [m]?"
+msgstr "[pcthink] What the... is that... [m]?"
 
 # game/intro_day1.rpy:96 ## translate crowdin intro_day1_415ae20c:
-msgid "pcthink "Fuck!"
-msgstr "pcthink "Fuck!"
+msgid "[pcthink] Fuck!"
+msgstr "[pcthink] Fuck!"
 
 # game/intro_day1.rpy:100 ## translate crowdin intro_day1_b83ed222:
-msgid "pcthink "This can't be fucking true!"
-msgstr "pcthink "This can't be fucking true!"
+msgid "[pcthink] This can't be fucking true!"
+msgstr "[pcthink] This can't be fucking true!"
 
 # game/intro_day1.rpy:101 ## translate crowdin intro_day1_1efb0ba2:
-msgid "pcthink "The day got even worse just by seeing her... The one person I never wanted to see again. One of the reasons why I left this town."
-msgstr "pcthink "The day got even worse just by seeing her... The one person I never wanted to see again. One of the reasons why I left this town."
+msgid "[pcthink] The day got even worse just by seeing her... The one person I never wanted to see again. One of the reasons why I left this town."
+msgstr "[pcthink] The day got even worse just by seeing her... The one person I never wanted to see again. One of the reasons why I left this town."
 
 # game/intro_day1.rpy:102 ## translate crowdin intro_day1_26236927:
-msgid "pcthink "I’ll just pretend I haven’t seen her and leave right now..."
-msgstr "pcthink "I’ll just pretend I haven’t seen her and leave right now..."
+msgid "[pcthink] I’ll just pretend I haven’t seen her and leave right now..."
+msgstr "[pcthink] I’ll just pretend I haven’t seen her and leave right now..."
 
 # game/intro_day1.rpy:103 ## translate crowdin intro_day1_74bf3e68:
-msgid "pcthink "I might lose it and slap her right in the face if I stay..."
-msgstr "pcthink "I might lose it and slap her right in the face if I stay..."
+msgid "[pcthink] I might lose it and slap her right in the face if I stay..."
+msgstr "[pcthink] I might lose it and slap her right in the face if I stay..."
 
 # game/intro_day1.rpy:105 ## translate crowdin intro_day1_b2b82112:
 msgid "[n] You quickly turn in the opposite direction and hope she doesn't recognise you after all these years."
@@ -293,8 +291,8 @@ msgid "[m] [pc]? Is that you?" with vpunch
 msgstr "[m] [pc]? Is that you?" with vpunch
 
 # game/intro_day1.rpy:107 ## translate crowdin intro_day1_90a099af:
-msgid "pcthink "Fuck..."
-msgstr "pcthink "Fuck..."
+msgid "[pcthink] Fuck..."
+msgstr "[pcthink] Fuck..."
 
 # game/intro_day1.rpy:109 ## translate crowdin intro_day1_6fbac882:
 msgid "[pc] Uh... hey [m]."
@@ -321,8 +319,8 @@ msgid "[m] I don't blame you."
 msgstr "[m] I don't blame you."
 
 # game/intro_day1.rpy:117 ## translate crowdin intro_day1_4aaebaf7:
-msgid "pcthink "Why is she so friendly?"
-msgstr "pcthink "Why is she so friendly?"
+msgid "[pcthink] Why is she so friendly?"
+msgstr "[pcthink] Why is she so friendly?"
 
 # game/intro_day1.rpy:118 ## translate crowdin intro_day1_715efcc0:
 msgid "[m] To be honest, I didn't expect to see you ever again."
@@ -333,16 +331,16 @@ msgid "[pc] ..."
 msgstr "[pc] ..."
 
 # game/intro_day1.rpy:120 ## translate crowdin intro_day1_752a743c:
-msgid "pcthink "I would’ve preferred it that way..."
-msgstr "pcthink "I would’ve preferred it that way..."
+msgid "[pcthink] I would’ve preferred it that way..."
+msgstr "[pcthink] I would’ve preferred it that way..."
 
 # game/intro_day1.rpy:122 ## translate crowdin intro_day1_c854c817:
 msgid "[m] I guess it must be fate then."
 msgstr "[m] I guess it must be fate then."
 
 # game/intro_day1.rpy:123 ## translate crowdin intro_day1_2ec1ddf5:
-msgid "pcthink "Or bad luck. I seem to have a lot of it lately..."
-msgstr "pcthink "Or bad luck. I seem to have a lot of it lately..."
+msgid "[pcthink] Or bad luck. I seem to have a lot of it lately..."
+msgstr "[pcthink] Or bad luck. I seem to have a lot of it lately..."
 
 # game/intro_day1.rpy:124 ## translate crowdin intro_day1_e2b5906f:
 msgid "[m] What brings you back? Are you visiting some old friends?"
@@ -361,24 +359,24 @@ msgid "[pc] Yeah..."
 msgstr "[pc] Yeah..."
 
 # game/intro_day1.rpy:128 ## translate crowdin intro_day1_5780b8c4:
-msgid "pcthink "Shit, why did I tell her about that..."
-msgstr "pcthink "Shit, why did I tell her about that..."
+msgid "[pcthink] Shit, why did I tell her about that..."
+msgstr "[pcthink] Shit, why did I tell her about that..."
 
 # game/intro_day1.rpy:129 ## translate crowdin intro_day1_52c1edbe:
 msgid "[m] Wow, that's great news!"
 msgstr "[m] Wow, that's great news!"
 
 # game/intro_day1.rpy:130 ## translate crowdin intro_day1_d5a9da1c:
-msgid "pcthink "...and why is she acting like she is happy to see me?"
-msgstr "pcthink "...and why is she acting like she is happy to see me?"
+msgid "[pcthink] ...and why is she acting like she is happy to see me?"
+msgstr "[pcthink] ...and why is she acting like she is happy to see me?"
 
 # game/intro_day1.rpy:131 ## translate crowdin intro_day1_1012f0f3:
 msgid "[m] I guess we'll meet more often then."
 msgstr "[m] I guess we'll meet more often then."
 
 # game/intro_day1.rpy:132 ## translate crowdin intro_day1_c3ba3aba:
-msgid "pcthink "God please no!"
-msgstr "pcthink "God please no!"
+msgid "[pcthink] God please no!"
+msgstr "[pcthink] God please no!"
 
 # game/intro_day1.rpy:133 ## translate crowdin intro_day1_a69377ef_1:
 msgid "[pc] ..."
@@ -393,24 +391,24 @@ msgid "[m] Listen... I know you must still be mad at me, but..."
 msgstr "[m] Listen... I know you must still be mad at me, but..."
 
 # game/intro_day1.rpy:137 ## translate crowdin intro_day1_5fe6e05a:
-msgid "pcthink "Mad? I fucking hate this bitch!"
-msgstr "pcthink "Mad? I fucking hate this bitch!"
+msgid "[pcthink] Mad? I fucking hate this bitch!"
+msgstr "[pcthink] Mad? I fucking hate this bitch!"
 
 # game/intro_day1.rpy:138 ## translate crowdin intro_day1_519440ed:
 msgid "[m] Things have changed... I have changed..."
 msgstr "[m] Things have changed... I have changed..."
 
 # game/intro_day1.rpy:139 ## translate crowdin intro_day1_0cbb104e:
-msgid "pcthink "Yeah, as if..."
-msgstr "pcthink "Yeah, as if..."
+msgid "[pcthink] Yeah, as if..."
+msgstr "[pcthink] Yeah, as if..."
 
 # game/intro_day1.rpy:141 ## translate crowdin intro_day1_14af4d41:
 msgid "[m] I really wanted to talk to you and apologize for... well, everything."
 msgstr "[m] I really wanted to talk to you and apologize for... well, everything."
 
 # game/intro_day1.rpy:142 ## translate crowdin intro_day1_90a099af_1:
-msgid "pcthink "Fuck..."
-msgstr "pcthink "Fuck..."
+msgid "[pcthink] Fuck..."
+msgstr "[pcthink] Fuck..."
 
 # game/intro_day1.rpy:143 ## translate crowdin intro_day1_52e6c205:
 msgid "[pc] Are you serious? Now? After all these years?"
@@ -429,12 +427,12 @@ msgid "[pc] A letter?"
 msgstr "[pc] A letter?"
 
 # game/intro_day1.rpy:149 ## translate crowdin intro_day1_51fbc24e:
-msgid "pcthink "Now that she mentions it, I got a letter a few years ago... and burned it instantly when I saw her name on it..."
-msgstr "pcthink "Now that she mentions it, I got a letter a few years ago... and burned it instantly when I saw her name on it..."
+msgid "[pcthink] Now that she mentions it, I got a letter a few years ago... and burned it instantly when I saw her name on it..."
+msgstr "[pcthink] Now that she mentions it, I got a letter a few years ago... and burned it instantly when I saw her name on it..."
 
 # game/intro_day1.rpy:150 ## translate crowdin intro_day1_66a63599:
-msgid "pcthink "I still don't know how she got my address. I stayed away from every social media platform. Deleted every account she might have known about and still, she somehow managed to find my real life address..."
-msgstr "pcthink "I still don't know how she got my address. I stayed away from every social media platform. Deleted every account she might have known about and still, she somehow managed to find my real life address..."
+msgid "[pcthink] I still don't know how she got my address. I stayed away from every social media platform. Deleted every account she might have known about and still, she somehow managed to find my real life address..."
+msgstr "[pcthink] I still don't know how she got my address. I stayed away from every social media platform. Deleted every account she might have known about and still, she somehow managed to find my real life address..."
 
 # game/intro_day1.rpy:151 ## translate crowdin intro_day1_fb5871b4:
 msgid "[pc] Yeah, I didn't read it..."
@@ -445,8 +443,8 @@ msgid "[m] But you can't tell me I didn't try, right?"
 msgstr "[m] But you can't tell me I didn't try, right?"
 
 # game/intro_day1.rpy:154 ## translate crowdin intro_day1_ee854e73:
-msgid "pcthink "As if a letter would change anything."
-msgstr "pcthink "As if a letter would change anything."
+msgid "[pcthink] As if a letter would change anything."
+msgstr "[pcthink] As if a letter would change anything."
 
 # game/intro_day1.rpy:155 ## translate crowdin intro_day1_e612037c_1:
 msgid "[m] ..."
@@ -461,8 +459,8 @@ msgid "[m] Umm... well, I have a bit of time right now. Don't you think we could
 msgstr "[m] Umm... well, I have a bit of time right now. Don't you think we could have a cup of coffee together and talk a bit at least... after all this time..."
 
 # game/intro_day1.rpy:159 ## translate crowdin intro_day1_48847571:
-msgid "pcthink "Tch, seriously?..."
-msgstr "pcthink "Tch, seriously?..."
+msgid "[pcthink] Tch, seriously?..."
+msgstr "[pcthink] Tch, seriously?..."
 
 # game/intro_day1.rpy:160 ## translate crowdin intro_day1_db60ad02:
 msgid "[pc] Sorry, I don't have the time right now..."
@@ -473,20 +471,20 @@ msgid "[m] Really? Or do you just not want to talk to me?"
 msgstr "[m] Really? Or do you just not want to talk to me?"
 
 # game/intro_day1.rpy:162 ## translate crowdin intro_day1_4f08229f:
-msgid "pcthink "Ugh...she's so... different."
-msgstr "pcthink "Ugh...she's so... different."
+msgid "[pcthink] Ugh...she's so... different."
+msgstr "[pcthink] Ugh...she's so... different."
 
 # game/intro_day1.rpy:163 ## translate crowdin intro_day1_6fa95dd6:
-msgid "pcthink "...is she just acting?"
-msgstr "pcthink "...is she just acting?"
+msgid "[pcthink] ...is she just acting?"
+msgstr "[pcthink] ...is she just acting?"
 
 # game/intro_day1.rpy:164 ## translate crowdin intro_day1_6135c0b8:
 msgid "[m] ...hm?"
 msgstr "[m] ...hm?"
 
 # game/intro_day1.rpy:165 ## translate crowdin intro_day1_60dd7565:
-msgid "pcthink "There is definitely something different about her..."
-msgstr "pcthink "There is definitely something different about her..."
+msgid "[pcthink] There is definitely something different about her..."
+msgstr "[pcthink] There is definitely something different about her..."
 
 # game/intro_day1.rpy:166 ## translate crowdin intro_day1_97b13dc4:
 msgid "[m] I mean, it's okay if you don't want to... I would understand."
@@ -497,8 +495,8 @@ msgid "[n] You turn around and leave."
 msgstr "[n] You turn around and leave."
 
 # game/intro_day1.rpy:175 ## translate crowdin intro_day1_9ed1c9d2:
-msgid "pcthink "Fuck that bitch..."
-msgstr "pcthink "Fuck that bitch..."
+msgid "[pcthink] Fuck that bitch..."
+msgstr "[pcthink] Fuck that bitch..."
 
 # game/intro_day1.rpy:178 ## translate crowdin intro_day1_0074d843:
 msgid "[pc] Ugh... okay, fine... I guess I have a few minutes..."
@@ -513,8 +511,8 @@ msgid "[m] There is a nice small café over there. I bet you'll love it."
 msgstr "[m] There is a nice small café over there. I bet you'll love it."
 
 # game/intro_day1.rpy:184 ## translate crowdin intro_day1_3b445d96:
-msgid "pcthink "Damn, I hope I won't regret it..."
-msgstr "pcthink "Damn, I hope I won't regret it..."
+msgid "[pcthink] Damn, I hope I won't regret it..."
+msgstr "[pcthink] Damn, I hope I won't regret it..."
 
 # game/intro_day1.rpy:185 ## translate crowdin intro_day1_719102df:
 msgid "[n] A bit later" with dissolve
@@ -677,12 +675,12 @@ msgid "[pc] Fuck!"
 msgstr "[pc] Fuck!"
 
 # game/intro_day1.rpy:247 ## translate crowdin intro_day1_323f8958:
-msgid "pcthink "Why do {i}I{/i} feel bad now?!"
-msgstr "pcthink "Why do {i}I{/i} feel bad now?!"
+msgid "[pcthink] Why do {i}I{/i} feel bad now?!"
+msgstr "[pcthink] Why do {i}I{/i} feel bad now?!"
 
 # game/intro_day1.rpy:248 ## translate crowdin intro_day1_93b96f13:
-msgid "pcthink "She's the one who treated me like shit back then..."
-msgstr "pcthink "She's the one who treated me like shit back then..."
+msgid "[pcthink] She's the one who treated me like shit back then..."
+msgstr "[pcthink] She's the one who treated me like shit back then..."
 
 # game/intro_day1.rpy:250 ## translate crowdin intro_day1_a69377ef_8:
 msgid "[pc] ..."
@@ -693,24 +691,24 @@ msgid "[n] You pay the bill for both of you and head back to the hotel."
 msgstr "[n] You pay the bill for both of you and head back to the hotel."
 
 # game/intro_day1.rpy:257 ## translate crowdin intro_day1_2_a142a29c:
-msgid "pcthink "Damn what a fucked up day..."
-msgstr "pcthink "Damn what a fucked up day..."
+msgid "[pcthink] Damn what a fucked up day..."
+msgstr "[pcthink] Damn what a fucked up day..."
 
 # game/intro_day1.rpy:258 ## translate crowdin intro_day1_2_bf444cc4:
-msgid "pcthink "I'm starting to regret my decision to come back..."
-msgstr "pcthink "I'm starting to regret my decision to come back..."
+msgid "[pcthink] I'm starting to regret my decision to come back..."
+msgstr "[pcthink] I'm starting to regret my decision to come back..."
 
 # game/intro_day1.rpy:259 ## translate crowdin intro_day1_2_fa016ed7:
-msgid "pcthink "...hopefully I'll have more luck tomorrow..."
-msgstr "pcthink "...hopefully I'll have more luck tomorrow..."
+msgid "[pcthink] ...hopefully I'll have more luck tomorrow..."
+msgstr "[pcthink] ...hopefully I'll have more luck tomorrow..."
 
 # game/intro_day1.rpy:260 ## translate crowdin intro_day1_2_27e71253:
-msgid "pcthink "It's getting dark already..."
-msgstr "pcthink "It's getting dark already..."
+msgid "[pcthink] It's getting dark already..."
+msgstr "[pcthink] It's getting dark already..."
 
 # game/intro_day1.rpy:261 ## translate crowdin intro_day1_2_1891b64c:
-msgid "pcthink "I think I'm going to take a shower and just go to bed for now..."
-msgstr "pcthink "I think I'm going to take a shower and just go to bed for now..."
+msgid "[pcthink] I think I'm going to take a shower and just go to bed for now..."
+msgstr "[pcthink] I think I'm going to take a shower and just go to bed for now..."
 
 # game/intro_day1.rpy:263 ## translate crowdin intro_day1_2_e52e13f1:
 msgid "[n] You take a shower and go to bed, still thinking about today's events."

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-03 12:54
-
-# XXtranslate crowdin strings:XX# XX## game/gallery.rpy:113
+﻿# TODO: Translation updated at 2022-04-03 HH:HH# XXtranslate crowdin strings:XX# XX## game/gallery.rpy:113
 msgid  "One of my ealiest test render from when I was working on the livingroom, added a char to test the lighting, kudos to you if you recognize the character, it's a really early version ;)"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "One of my ealiest test render from when I was working on the livingroom, added a char to test the lighting, kudos to you if you recognize the character, it's a really early version ;)"

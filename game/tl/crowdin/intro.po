@@ -1,56 +1,54 @@
-﻿# TODO: Translation updated at 2022-04-03 12:54
-
-# game/intro.rpy:5 ## translate crowdin intro_af100c11:
+﻿# TODO: Translation updated at 2022-04-03 HH:HH# game/intro.rpy:5 ## translate crowdin intro_af100c11:
 msgid "[n] Somewhere in a cab."
 msgstr "[n] Somewhere in a cab."
 
 # game/intro.rpy:8 ## translate crowdin intro_e9f4d86d:
-msgid "pcthink "Alright, almost there..."
-msgstr "pcthink "Alright, almost there..."
+msgid "[pcthink] Alright, almost there..."
+msgstr "[pcthink] Alright, almost there..."
 
 # game/intro.rpy:9 ## translate crowdin intro_9348e6f1:
-msgid "pcthink "...it feels weird to come back here..."
-msgstr "pcthink "...it feels weird to come back here..."
+msgid "[pcthink] ...it feels weird to come back here..."
+msgstr "[pcthink] ...it feels weird to come back here..."
 
 # game/intro.rpy:10 ## translate crowdin intro_9cfdb5e2:
-msgid "pcthink "After all these years to be back in my hometown..."
-msgstr "pcthink "After all these years to be back in my hometown..."
+msgid "[pcthink] After all these years to be back in my hometown..."
+msgstr "[pcthink] After all these years to be back in my hometown..."
 
 # game/intro.rpy:11 ## translate crowdin intro_ba5dbe07:
-msgid "pcthink "Who would have guessed I'd ever come back..."
-msgstr "pcthink "Who would have guessed I'd ever come back..."
+msgid "[pcthink] Who would have guessed I'd ever come back..."
+msgstr "[pcthink] Who would have guessed I'd ever come back..."
 
 # game/intro.rpy:12 ## translate crowdin intro_02f782dd:
-msgid "pcthink "...just for a job."
-msgstr "pcthink "...just for a job."
+msgid "[pcthink] ...just for a job."
+msgstr "[pcthink] ...just for a job."
 
 # game/intro.rpy:13 ## translate crowdin intro_f0cac90d:
-msgid "pcthink "..."
-msgstr "pcthink "..."
+msgid "[pcthink] ..."
+msgstr "[pcthink] ..."
 
 # game/intro.rpy:16 ## translate crowdin intro_0160ca12:
-msgid "pcthink "We must be close to the hotel..."
-msgstr "pcthink "We must be close to the hotel..."
+msgid "[pcthink] We must be close to the hotel..."
+msgstr "[pcthink] We must be close to the hotel..."
 
 # game/intro.rpy:17 ## translate crowdin intro_68faa724:
-msgid "pcthink "I hope the new apartment is ready when I move in, in a few days..."
-msgstr "pcthink "I hope the new apartment is ready when I move in, in a few days..."
+msgid "[pcthink] I hope the new apartment is ready when I move in, in a few days..."
+msgstr "[pcthink] I hope the new apartment is ready when I move in, in a few days..."
 
 # game/intro.rpy:18 ## translate crowdin intro_adfaae7e:
-msgid "pcthink "And that it looks as good as it does in the pictures."
-msgstr "pcthink "And that it looks as good as it does in the pictures."
+msgid "[pcthink] And that it looks as good as it does in the pictures."
+msgstr "[pcthink] And that it looks as good as it does in the pictures."
 
 # game/intro.rpy:19 ## translate crowdin intro_5c7d7e30:
-msgid "pcthink "...maybe I should have a look before I go to the hotel?"
-msgstr "pcthink "...maybe I should have a look before I go to the hotel?"
+msgid "[pcthink] ...maybe I should have a look before I go to the hotel?"
+msgstr "[pcthink] ...maybe I should have a look before I go to the hotel?"
 
 # game/intro.rpy:20 ## translate crowdin intro_3e7c1fa3:
-msgid "pcthink "On the other hand, my stuff won't be shipped for another few days, and I can't move in yet anyway..."
-msgstr "pcthink "On the other hand, my stuff won't be shipped for another few days, and I can't move in yet anyway..."
+msgid "[pcthink] On the other hand, my stuff won't be shipped for another few days, and I can't move in yet anyway..."
+msgstr "[pcthink] On the other hand, my stuff won't be shipped for another few days, and I can't move in yet anyway..."
 
 # game/intro.rpy:21 ## translate crowdin intro_6dc07ea8:
-msgid "pcthink "Naaah, whatever, I'm too curious right now. I'll have a look!"
-msgstr "pcthink "Naaah, whatever, I'm too curious right now. I'll have a look!"
+msgid "[pcthink] Naaah, whatever, I'm too curious right now. I'll have a look!"
+msgstr "[pcthink] Naaah, whatever, I'm too curious right now. I'll have a look!"
 
 # game/intro.rpy:25 ## translate crowdin intro_ef06476f:
 msgid "Cab driver" "Alright, that's as close as we can get."
@@ -85,40 +83,40 @@ msgid "[n] As you turn into a small alley you notice a girl looking at you."
 msgstr "[n] As you turn into a small alley you notice a girl looking at you."
 
 # game/intro.rpy:35 ## translate crowdin intro_7efbc3bf:
-msgid "pcthink "Huh?! Why is that girl looking at me like that?"
-msgstr "pcthink "Huh?! Why is that girl looking at me like that?"
+msgid "[pcthink] Huh?! Why is that girl looking at me like that?"
+msgstr "[pcthink] Huh?! Why is that girl looking at me like that?"
 
 # game/intro.rpy:36 ## translate crowdin intro_09778f17:
-msgid "pcthink "Do I know her?"
-msgstr "pcthink "Do I know her?"
+msgid "[pcthink] Do I know her?"
+msgstr "[pcthink] Do I know her?"
 
 # game/intro.rpy:38 ## translate crowdin intro_593b24e3:
-msgid "pcthink "She's cute... I guess I'd remember her."
-msgstr "pcthink "She's cute... I guess I'd remember her."
+msgid "[pcthink] She's cute... I guess I'd remember her."
+msgstr "[pcthink] She's cute... I guess I'd remember her."
 
 # game/intro.rpy:40 ## translate crowdin intro_32799b50:
-msgid "pcthink "I love her hair..."
-msgstr "pcthink "I love her hair..."
+msgid "[pcthink] I love her hair..."
+msgstr "[pcthink] I love her hair..."
 
 # game/intro.rpy:41 ## translate crowdin intro_0c2cb0a0:
 msgid "[n] You give her a small smile as you walk by."
 msgstr "[n] You give her a small smile as you walk by."
 
 # game/intro.rpy:43 ## translate crowdin intro_02a9cf51:
-msgid "pcthink "She must have fallen for me at first sight...haha."
-msgstr "pcthink "She must have fallen for me at first sight...haha."
+msgid "[pcthink] She must have fallen for me at first sight...haha."
+msgstr "[pcthink] She must have fallen for me at first sight...haha."
 
 # game/intro.rpy:44 ## translate crowdin intro_26196185:
-msgid "pcthink "Anyway, my new apartment should be just around the corner."
-msgstr "pcthink "Anyway, my new apartment should be just around the corner."
+msgid "[pcthink] Anyway, my new apartment should be just around the corner."
+msgstr "[pcthink] Anyway, my new apartment should be just around the corner."
 
 # game/intro.rpy:45 ## translate crowdin intro_6bc4c69b:
-msgid "pcthink "My new home in my old hometown."
-msgstr "pcthink "My new home in my old hometown."
+msgid "[pcthink] My new home in my old hometown."
+msgstr "[pcthink] My new home in my old hometown."
 
 # game/intro.rpy:46 ## translate crowdin intro_253b5b06:
-msgid "pcthink "...What the?!"
-msgstr "pcthink "...What the?!"
+msgid "[pcthink] ...What the?!"
+msgstr "[pcthink] ...What the?!"
 
 # game/intro.rpy:50 ## translate crowdin intro_4f12e6ae:
 msgid "[n] As you go around the corner you see the building where your soon-to-be apartment is located in flames."
@@ -193,12 +191,12 @@ msgid "[pc] Yeah, yeah, sure..."
 msgstr "[pc] Yeah, yeah, sure..."
 
 # game/intro.rpy:72 ## translate crowdin intro_9495271e:
-msgid "pcthink "Asshole..."
-msgstr "pcthink "Asshole..."
+msgid "[pcthink] Asshole..."
+msgstr "[pcthink] Asshole..."
 
 # game/intro.rpy:75 ## translate crowdin intro_42cb46de:
-msgid "pcthink "Damn, the day started out so well and now this..."
-msgstr "pcthink "Damn, the day started out so well and now this..."
+msgid "[pcthink] Damn, the day started out so well and now this..."
+msgstr "[pcthink] Damn, the day started out so well and now this..."
 
 # game/intro.rpy:76 ## translate crowdin intro_932e84e0:
 msgid "[n] You head to the hotel..."
@@ -217,8 +215,8 @@ msgid "Receptionist" "Uhm... uh-huh, yes..."
 msgstr "Receptionist" "Uhm... uh-huh, yes..."
 
 # game/intro.rpy:110 ## translate crowdin intro_31133b56:
-msgid "pcthink "Hum... should I tell her that her areolas are peaking out of her top?"
-msgstr "pcthink "Hum... should I tell her that her areolas are peaking out of her top?"
+msgid "[pcthink] Hum... should I tell her that her areolas are peaking out of her top?"
+msgstr "[pcthink] Hum... should I tell her that her areolas are peaking out of her top?"
 
 # game/intro.rpy:112 ## translate crowdin intro_7dc85376:
 msgid "Receptionist" "It's room number 24 on the second floor."
