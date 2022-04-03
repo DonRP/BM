@@ -339,8 +339,8 @@ msgid "[pc] Shit, it's still hot!"
 msgstr "[pc] Shit, it's still hot!"
 
 # game/events_j.rpy:140 ## translate crowdin JVREbirthday_a5e2a79f:
-msgid "Voice" "Holy shit, it's {i}really{/i} hot!"
-msgstr "Voice" "Holy shit, it's {i}really{/i} hot!"
+msgid "Voice || Holy shit, it's {i}really{/i} hot!"
+msgstr "Voice || Holy shit, it's {i}really{/i} hot!"
 
 # game/events_j.rpy:141 ## translate crowdin JVREbirthday_1a1fd458:
 msgid "{color=#570058}Girl1{/color}" "HAA, HAA, HNAAH! YES! OH YES!"
@@ -355,8 +355,8 @@ msgid "[pc] Yeah babe, cum for me!"
 msgstr "[pc] Yeah babe, cum for me!"
 
 # game/events_j.rpy:144 ## translate crowdin JVREbirthday_517c84dc:
-msgid "Voice" "Yeah, cum for us!"
-msgstr "Voice" "Yeah, cum for us!"
+msgid "Voice || Yeah, cum for us!"
+msgstr "Voice || Yeah, cum for us!"
 
 # game/events_j.rpy:145 ## translate crowdin JVREbirthday_4de1330c:
 msgid "[pc] Eh?!"
@@ -2983,12 +2983,12 @@ msgid "[j] Fill me, fill my belly with your cum, [pcmd]!"
 msgstr "[j] Fill me, fill my belly with your cum, [pcmd]!"
 
 # game/events_j.rpy:1307 ## translate crowdin d7_motel_r_f40b5f90:
-msgid "[j] I'm... Nnnnnhaaaaa!" with flash
-msgstr "[j] I'm... Nnnnnhaaaaa!" with flash
+msgid "[j] I'm... Nnnnnhaaaaa! [withflash]"
+msgstr "[j] I'm... Nnnnnhaaaaa! [withflash]"
 
 # game/events_j.rpy:1309 ## translate crowdin d7_motel_r_b2de120e:
-msgid "[j] Haaaaa~haaa!" with flash
-msgstr "[j] Haaaaa~haaa!" with flash
+msgid "[j] Haaaaa~haaa! [withflash]"
+msgstr "[j] Haaaaa~haaa! [withflash]"
 
 # game/events_j.rpy:1311 ## translate crowdin d7_motel_r_d7f7f532:
 msgid "[j] Ha... ha... *pant*"
@@ -3523,16 +3523,16 @@ msgid "[pc] Oh shit, oh shit, oh shit!"
 msgstr "[pc] Oh shit, oh shit, oh shit!"
 
 # game/events_j.rpy:1571 ## translate crowdin d9_backhome_j_fun_a82cd9b3:
-msgid "[pc] I'm... cumming! Haa!" with flash
-msgstr "[pc] I'm... cumming! Haa!" with flash
+msgid "[pc] I'm... cumming! Haa! [withflash]"
+msgstr "[pc] I'm... cumming! Haa! [withflash]"
 
 # game/events_j.rpy:1572 ## translate crowdin d9_backhome_j_fun_71b5ee94:
-msgid "[pc] Haaa!" with flash
-msgstr "[pc] Haaa!" with flash
+msgid "[pc] Haaa! [withflash]"
+msgstr "[pc] Haaa! [withflash]"
 
 # game/events_j.rpy:1573 ## translate crowdin d9_backhome_j_fun_9941a339:
-msgid "[pc] Haa!" with flash
-msgstr "[pc] Haa!" with flash
+msgid "[pc] Haa! [withflash]"
+msgstr "[pc] Haa! [withflash]"
 
 # game/events_j.rpy:1575 ## translate crowdin d9_backhome_j_fun_301a07d8:
 msgid "[j] Thank you, [pcmd], that was delicious!"
@@ -4303,8 +4303,8 @@ msgid "[j] OH [pcmd], [pcmd]!"
 msgstr "[j] OH [pcmd], [pcmd]!"
 
 # game/events_j.rpy:1932 ## translate crowdin d11jbeforlsex_e6befaa2:
-msgid "[pc] Fuck!" with flash
-msgstr "[pc] Fuck!" with flash
+msgid "[pc] Fuck! [withflash]"
+msgstr "[pc] Fuck! [withflash]"
 
 # game/events_j.rpy:1934 ## translate crowdin d11jbeforlsex_63d07698:
 msgid "[j] Gimme your juicy cum, [pcmd]!"
@@ -4315,12 +4315,12 @@ msgid "[j] Fill me up, [pcmd], I want to feel your hot cum inside me, [pcmd]!"
 msgstr "[j] Fill me up, [pcmd], I want to feel your hot cum inside me, [pcmd]!"
 
 # game/events_j.rpy:1937 ## translate crowdin d11jbeforlsex_3ae6a016:
-msgid "[pc] Shit!" with flash
-msgstr "[pc] Shit!" with flash
+msgid "[pc] Shit! [withflash]"
+msgstr "[pc] Shit! [withflash]"
 
 # game/events_j.rpy:1938 ## translate crowdin d11jbeforlsex_68f9b6b5:
-msgid "[extend]  Shit!" with flash
-msgstr "[extend]  Shit!" with flash
+msgid "[extend]  Shit! [withflash]"
+msgstr "[extend]  Shit! [withflash]"
 
 # game/events_j.rpy:1943 ## translate crowdin d11jbeforlsex_68d1ad89:
 msgid "[extend]  Shit!" with vpunch

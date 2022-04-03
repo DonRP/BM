@@ -235,8 +235,8 @@ msgid "[pc] Yeah?"
 msgstr "[pc] Yeah?"
 
 # game/intro_day2.rpy:82 ## translate crowdin intro_day2_e9a37b17:
-msgid "Voice" "Hello [mrms] [pcsure], this is the reception desk. We have a call from a woman named [m], who wants to talk to you."
-msgstr "Voice" "Hello [mrms] [pcsure], this is the reception desk. We have a call from a woman named [m], who wants to talk to you."
+msgid "Voice || Hello [mrms] [pcsure], this is the reception desk. We have a call from a woman named [m], who wants to talk to you."
+msgstr "Voice || Hello [mrms] [pcsure], this is the reception desk. We have a call from a woman named [m], who wants to talk to you."
 
 # game/intro_day2.rpy:84 ## translate crowdin intro_day2_9f8e3996:
 msgid "[pcthink] [m]?! What does she want now?"
@@ -247,20 +247,20 @@ msgid "[pcthink] [m]?! How the fuck did she get the number?"
 msgstr "[pcthink] [m]?! How the fuck did she get the number?"
 
 # game/intro_day2.rpy:87 ## translate crowdin intro_day2_e0758e04:
-msgid "Voice" "Do you accept the call [mrms] [pcsure]?"
-msgstr "Voice" "Do you accept the call [mrms] [pcsure]?"
+msgid "Voice || Do you accept the call [mrms] [pcsure]?"
+msgstr "Voice || Do you accept the call [mrms] [pcsure]?"
 
 # game/intro_day2.rpy:90 ## translate crowdin intro_day2_fd18cf3d:
-msgid "Voice" "O-Oh... okay, I will tell her..."
-msgstr "Voice" "O-Oh... okay, I will tell her..."
+msgid "Voice || O-Oh... okay, I will tell her..."
+msgstr "Voice || O-Oh... okay, I will tell her..."
 
 # game/intro_day2.rpy:93 ## translate crowdin intro_day2_ce4ced57:
 msgid "[pcthink] Fucking hell, I can't believe it. Why can't she just let me be..."
 msgstr "[pcthink] Fucking hell, I can't believe it. Why can't she just let me be..."
 
 # game/intro_day2.rpy:97 ## translate crowdin intro_day2_4cbe1206:
-msgid "Voice" "Okay, one moment please..."
-msgstr "Voice" "Okay, one moment please..."
+msgid "Voice || Okay, one moment please..."
+msgstr "Voice || Okay, one moment please..."
 
 # game/intro_day2.rpy:98 ## translate crowdin intro_day2_bb2cf764_3:
 msgid "[n] ..."

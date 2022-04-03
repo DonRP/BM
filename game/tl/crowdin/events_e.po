@@ -899,16 +899,16 @@ msgid "[pcthink] I hope she doesn't have a hangover as bad as [m]..."
 msgstr "[pcthink] I hope she doesn't have a hangover as bad as [m]..."
 
 # game/events_e.rpy:443 ## translate crowdin eKitten_a490b195:
-msgid "Voice" "{size=-10}Nya!{/size}"
-msgstr "Voice" "{size=-10}Nya!{/size}"
+msgid "Voice || {size=-10}Nya!{/size}"
+msgstr "Voice || {size=-10}Nya!{/size}"
 
 # game/events_e.rpy:444 ## translate crowdin eKitten_9525ded8:
 msgid "[pcthink] Huh? What was that?"
 msgstr "[pcthink] Huh? What was that?"
 
 # game/events_e.rpy:445 ## translate crowdin eKitten_750ee628:
-msgid "Voice" "{size=-10}Nya nya nya...{/size}"
-msgstr "Voice" "{size=-10}Nya nya nya...{/size}"
+msgid "Voice || {size=-10}Nya nya nya...{/size}"
+msgstr "Voice || {size=-10}Nya nya nya...{/size}"
 
 # game/events_e.rpy:446 ## translate crowdin eKitten_068749fe:
 msgid "[pcthink] Is that [e]?"
@@ -1515,12 +1515,12 @@ msgid "[pc] Shit, I'm going to cum, [e]!"
 msgstr "[pc] Shit, I'm going to cum, [e]!"
 
 # game/events_e.rpy:733 ## translate crowdin eHumpNight5_r_a9a510d6:
-msgid "[e] Hnnn... haah..." with flash
-msgstr "[e] Hnnn... haah..." with flash
+msgid "[e] Hnnn... haah... [withflash]"
+msgstr "[e] Hnnn... haah... [withflash]"
 
 # game/events_e.rpy:737 ## translate crowdin eHumpNight5_r_ccfe6e9c:
-msgid "[e] Nnnhaaah!" with flash
-msgstr "[e] Nnnhaaah!" with flash
+msgid "[e] Nnnhaaah! [withflash]"
+msgstr "[e] Nnnhaaah! [withflash]"
 
 # game/events_e.rpy:739 ## translate crowdin eHumpNight5_r_848a432b:
 msgid "[e] Haa..."
@@ -2171,12 +2171,12 @@ msgid "[pc] Oh god, oh god... I'm gonna..."
 msgstr "[pc] Oh god, oh god... I'm gonna..."
 
 # game/events_e.rpy:1112 ## translate crowdin d9_pcroom_e01_9c0d642e:
-msgid "[e] HAAAA!" with flash
-msgstr "[e] HAAAA!" with flash
+msgid "[e] HAAAA! [withflash]"
+msgstr "[e] HAAAA! [withflash]"
 
 # game/events_e.rpy:1120 ## translate crowdin d9_pcroom_e01_a6fa37ed:
-msgid "[e] Hnaaa, haaa, haaaaa!" with flash
-msgstr "[e] Hnaaa, haaa, haaaaa!" with flash
+msgid "[e] Hnaaa, haaa, haaaaa! [withflash]"
+msgstr "[e] Hnaaa, haaa, haaaaa! [withflash]"
 
 # game/events_e.rpy:1131 ## translate crowdin d9_pcroom_e01_ac2fc58a:
 msgid "[pc] Fuck..."

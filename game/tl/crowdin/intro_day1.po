@@ -23,8 +23,8 @@ msgid "[pc] Yeah?"
 msgstr "[pc] Yeah?"
 
 # game/intro_day1.rpy:13 ## translate crowdin intro_day1_6c2bd191:
-msgid "Voice" "Hello [mrms] [pcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
-msgstr "Voice" "Hello [mrms] [pcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
+msgid "Voice || Hello [mrms] [pcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
+msgstr "Voice || Hello [mrms] [pcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
 
 # game/intro_day1.rpy:14 ## translate crowdin intro_day1_e76b2b51:
 msgid "[pcthink] Ah, Maggy, the office secretary from the rental company."
@@ -211,12 +211,12 @@ msgid "[pc] No, a friend gave me the address."
 msgstr "[pc] No, a friend gave me the address."
 
 # game/intro_day1.rpy:76 ## translate crowdin intro_day1_deb7173e:
-msgid "Guy" "You're too late, man."
-msgstr "Guy" "You're too late, man."
+msgid "Guy || You're too late, man."
+msgstr "Guy || You're too late, man."
 
 # game/intro_day1.rpy:78 ## translate crowdin intro_day1_8b6d7015:
-msgid "Guy" "You're too late. It's sold!"
-msgstr "Guy" "You're too late. It's sold!"
+msgid "Guy || You're too late. It's sold!"
+msgstr "Guy || You're too late. It's sold!"
 
 # game/intro_day1.rpy:80 ## translate crowdin intro_day1_e507774e:
 msgid "Broker" "Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."

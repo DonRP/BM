@@ -67,8 +67,8 @@ msgid "[n] *creak*{w=1}{nw} [withhpunch]"
 msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:32 ## translate crowdin intro_day3_4214b531:
-msgid "Voice" "{size=-10}Ahh, yes!{/size}"
-msgstr "Voice" "{size=-10}Ahh, yes!{/size}"
+msgid "Voice || {size=-10}Ahh, yes!{/size}"
+msgstr "Voice || {size=-10}Ahh, yes!{/size}"
 
 # game/intro_day3-4.rpy:33 ## translate crowdin intro_day3_be5544eb_5:
 msgid "[n] *creak*{w=1}{nw} [withhpunch]"
@@ -83,8 +83,8 @@ msgid "[n] *creak*{w=1}{nw} [withhpunch]"
 msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:36 ## translate crowdin intro_day3_af9ff73e:
-msgid "Voice" "{size=-10}Ahnn, babe!!{/size}"
-msgstr "Voice" "{size=-10}Ahnn, babe!!{/size}"
+msgid "Voice || {size=-10}Ahnn, babe!!{/size}"
+msgstr "Voice || {size=-10}Ahnn, babe!!{/size}"
 
 # game/intro_day3-4.rpy:37 ## translate crowdin intro_day3_6d74e256:
 msgid "[pcthink] Sounds like someone is having fun..."
@@ -223,8 +223,8 @@ msgid "[pcthink] Ugh... what am I thinking?!"
 msgstr "[pcthink] Ugh... what am I thinking?!"
 
 # game/intro_day3-4.rpy:88 ## translate crowdin intro_day3_c553ea32:
-msgid "Voice" "[pc]?"
-msgstr "Voice" "[pc]?"
+msgid "Voice || [pc]?"
+msgstr "Voice || [pc]?"
 
 # game/intro_day3-4.rpy:89 ## translate crowdin intro_day3_61e4f5ac:
 msgid "[pc] Huh?!"
