@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-03 13:39\n"
+"PO-Revision-Date: 2022-04-03 13:55\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro.rpy:5 ## translate crowdin intro_af100c11:
 msgid "[n] Somewhere in a cab."
@@ -217,7 +217,7 @@ msgid "[n] You head to the hotel..."
 msgstr ""
 
 # game/intro.rpy:80 ## translate crowdin intro_a09e7d34:
-msgid "Receptionist\" \"Good evening, how can I help you?"
+msgid "Receptionist || Good evening, how can I help you?"
 msgstr ""
 
 # game/intro.rpy:81 ## translate crowdin intro_da861a3e:
@@ -225,7 +225,7 @@ msgid "[pc] Hey, I booked a room for a few days, the name is..."
 msgstr ""
 
 # game/intro.rpy:109 ## translate crowdin intro_07b4f57e:
-msgid "Receptionist\" \"Uhm... uh-huh, yes..."
+msgid "Receptionist || Uhm... uh-huh, yes..."
 msgstr ""
 
 # game/intro.rpy:110 ## translate crowdin intro_31133b56:
@@ -233,11 +233,11 @@ msgid "[pcthink] Hum... should I tell her that her areolas are peaking out of he
 msgstr ""
 
 # game/intro.rpy:112 ## translate crowdin intro_7dc85376:
-msgid "Receptionist\" \"It's room number 24 on the second floor."
+msgid "Receptionist || It's room number 24 on the second floor."
 msgstr ""
 
 # game/intro.rpy:114 ## translate crowdin intro_e8b2bd40:
-msgid "Receptionist\" \"Here's the key. Have a pleasant stay!"
+msgid "Receptionist || Here's the key. Have a pleasant stay!"
 msgstr ""
 
 # game/intro.rpy:115 ## translate crowdin intro_0b71a1d8:
