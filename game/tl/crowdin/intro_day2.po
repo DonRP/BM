@@ -531,36 +531,36 @@ msgid "[pc] Hey I'd like to have the room for a bit longer."
 msgstr "[pc] Hey I'd like to have the room for a bit longer."
 
 # game/intro_day2.rpy:179 ## translate crowdin intro_day2_2_2fcaf026:
-msgid "Receptionist" "Oh, hello [mrms] [pcsure], I'm sorry, but that's not possible at the moment. We are awaiting a group of guests that arrive tomorrow."
-msgstr "Receptionist" "Oh, hello [mrms] [pcsure], I'm sorry, but that's not possible at the moment. We are awaiting a group of guests that arrive tomorrow."
+msgid "Receptionist || Oh, hello [mrms] [pcsure], I'm sorry, but that's not possible at the moment. We are awaiting a group of guests that arrive tomorrow."
+msgstr "Receptionist || Oh, hello [mrms] [pcsure], I'm sorry, but that's not possible at the moment. We are awaiting a group of guests that arrive tomorrow."
 
 # game/intro_day2.rpy:180 ## translate crowdin intro_day2_2_0df051d9:
 msgid "[pc] Okay, no problem. I'm not picky, I'd take any other room."
 msgstr "[pc] Okay, no problem. I'm not picky, I'd take any other room."
 
 # game/intro_day2.rpy:181 ## translate crowdin intro_day2_2_9a03b783:
-msgid "Receptionist" "Sorry [mrms] [pcsure], but in fact, all rooms are booked..."
-msgstr "Receptionist" "Sorry [mrms] [pcsure], but in fact, all rooms are booked..."
+msgid "Receptionist || Sorry [mrms] [pcsure], but in fact, all rooms are booked..."
+msgstr "Receptionist || Sorry [mrms] [pcsure], but in fact, all rooms are booked..."
 
 # game/intro_day2.rpy:182 ## translate crowdin intro_day2_2_4c5f1a6d:
 msgid "[pc] What?! Every single room?"
 msgstr "[pc] What?! Every single room?"
 
 # game/intro_day2.rpy:183 ## translate crowdin intro_day2_2_76c3a2c1:
-msgid "Receptionist" "Yes, there is an international trade fair over the next few weeks, so we are awaiting many guests."
-msgstr "Receptionist" "Yes, there is an international trade fair over the next few weeks, so we are awaiting many guests."
+msgid "Receptionist || Yes, there is an international trade fair over the next few weeks, so we are awaiting many guests."
+msgstr "Receptionist || Yes, there is an international trade fair over the next few weeks, so we are awaiting many guests."
 
 # game/intro_day2.rpy:184 ## translate crowdin intro_day2_2_b2cce3fa:
 msgid "[pc] Ugh... shit. But I really need a room."
 msgstr "[pc] Ugh... shit. But I really need a room."
 
 # game/intro_day2.rpy:185 ## translate crowdin intro_day2_2_c1b93604:
-msgid "Receptionist" "I'm sorry, [mrms] [pcsure]. I guess you have to book a room somewhere else, but it's most likely that all of the major hotels are fully booked."
-msgstr "Receptionist" "I'm sorry, [mrms] [pcsure]. I guess you have to book a room somewhere else, but it's most likely that all of the major hotels are fully booked."
+msgid "Receptionist || I'm sorry, [mrms] [pcsure]. I guess you have to book a room somewhere else, but it's most likely that all of the major hotels are fully booked."
+msgstr "Receptionist || I'm sorry, [mrms] [pcsure]. I guess you have to book a room somewhere else, but it's most likely that all of the major hotels are fully booked."
 
 # game/intro_day2.rpy:186 ## translate crowdin intro_day2_2_1fd8babd:
-msgid "Receptionist" "You could try some of the smaller motels around town. Maybe some of them still have rooms."
-msgstr "Receptionist" "You could try some of the smaller motels around town. Maybe some of them still have rooms."
+msgid "Receptionist || You could try some of the smaller motels around town. Maybe some of them still have rooms."
+msgstr "Receptionist || You could try some of the smaller motels around town. Maybe some of them still have rooms."
 
 # game/intro_day2.rpy:187 ## translate crowdin intro_day2_2_34bbc6f2:
 msgid "[pc] Yeah, I guess a motel will do..."
@@ -571,28 +571,28 @@ msgid "[n] The moment you're about to leave, a man looking like a manager shows 
 msgstr "[n] The moment you're about to leave, a man looking like a manager shows up and starts to argue with the receptionist."
 
 # game/intro_day2.rpy:191 ## translate crowdin intro_day2_2_09e731f4:
-msgid "Manager" "[r], what the hell!? How many times do I have to tell you that you have to wear a bra?"
-msgstr "Manager" "[r], what the hell!? How many times do I have to tell you that you have to wear a bra?"
+msgid "Manager || [r], what the hell!? How many times do I have to tell you that you have to wear a bra?"
+msgstr "Manager || [r], what the hell!? How many times do I have to tell you that you have to wear a bra?"
 
 # game/intro_day2.rpy:192 ## translate crowdin intro_day2_2_badfc039:
 msgid "r "I-I'm sorry, sir."
 msgstr "r "I-I'm sorry, sir."
 
 # game/intro_day2.rpy:194 ## translate crowdin intro_day2_2_c3851b52:
-msgid "Manager" "You're sorry?! [r] you shouldn't be sorry, you should be ashamed!"
-msgstr "Manager" "You're sorry?! [r] you shouldn't be sorry, you should be ashamed!"
+msgid "Manager || You're sorry?! [r] you shouldn't be sorry, you should be ashamed!"
+msgstr "Manager || You're sorry?! [r] you shouldn't be sorry, you should be ashamed!"
 
 # game/intro_day2.rpy:195 ## translate crowdin intro_day2_2_f496b078:
-msgid "Manager" "We have standards in this hotel, [r]! Your shameful behavior already got the attention of some of our guests. That's not acceptable."
-msgstr "Manager" "We have standards in this hotel, [r]! Your shameful behavior already got the attention of some of our guests. That's not acceptable."
+msgid "Manager || We have standards in this hotel, [r]! Your shameful behavior already got the attention of some of our guests. That's not acceptable."
+msgstr "Manager || We have standards in this hotel, [r]! Your shameful behavior already got the attention of some of our guests. That's not acceptable."
 
 # game/intro_day2.rpy:196 ## translate crowdin intro_day2_2_0906f490:
 msgid "r "I'm sorry, sir. I-It's just that the technician still didn't fix the AC and it's so hot in here."
 msgstr "r "I'm sorry, sir. I-It's just that the technician still didn't fix the AC and it's so hot in here."
 
 # game/intro_day2.rpy:197 ## translate crowdin intro_day2_2_bc1774a0:
-msgid "Manager" "That's no excuse for dressing like a whore!"
-msgstr "Manager" "That's no excuse for dressing like a whore!"
+msgid "Manager || That's no excuse for dressing like a whore!"
+msgstr "Manager || That's no excuse for dressing like a whore!"
 
 # game/intro_day2.rpy:198 ## translate crowdin intro_day2_2_132a713a:
 msgid "[pcthink] Whoa, that's a bit harsh..."
@@ -603,24 +603,24 @@ msgid "r "I'm sorry, sir..."
 msgstr "r "I'm sorry, sir..."
 
 # game/intro_day2.rpy:200 ## translate crowdin intro_day2_2_97d4b59e:
-msgid "Manager" "I'm tired of your excuses, [r]. I've had enough of this now. Get your stuff and leave."
-msgstr "Manager" "I'm tired of your excuses, [r]. I've had enough of this now. Get your stuff and leave."
+msgid "Manager || I'm tired of your excuses, [r]. I've had enough of this now. Get your stuff and leave."
+msgstr "Manager || I'm tired of your excuses, [r]. I've had enough of this now. Get your stuff and leave."
 
 # game/intro_day2.rpy:201 ## translate crowdin intro_day2_2_44ee4b94:
 msgid "r "B-but sir! Please, I-I need the money, you can't just throw me out!?"
 msgstr "r "B-but sir! Please, I-I need the money, you can't just throw me out!?"
 
 # game/intro_day2.rpy:202 ## translate crowdin intro_day2_2_feab064c:
-msgid "Manager" "Don't make a scene now, it's your own fault, I've given you enough warnings!"
-msgstr "Manager" "Don't make a scene now, it's your own fault, I've given you enough warnings!"
+msgid "Manager || Don't make a scene now, it's your own fault, I've given you enough warnings!"
+msgstr "Manager || Don't make a scene now, it's your own fault, I've given you enough warnings!"
 
 # game/intro_day2.rpy:203 ## translate crowdin intro_day2_2_fee0cc03:
 msgid "r "I'm sorry..."
 msgstr "r "I'm sorry..."
 
 # game/intro_day2.rpy:204 ## translate crowdin intro_day2_2_391b8c26:
-msgid "Manager" "I'll send George over to take care of the reception and I expect you to be gone in half an hour at the latest!"
-msgstr "Manager" "I'll send George over to take care of the reception and I expect you to be gone in half an hour at the latest!"
+msgid "Manager || I'll send George over to take care of the reception and I expect you to be gone in half an hour at the latest!"
+msgstr "Manager || I'll send George over to take care of the reception and I expect you to be gone in half an hour at the latest!"
 
 # game/intro_day2.rpy:206 ## translate crowdin intro_day2_2_5357dc76:
 msgid "r "Yes, sir..."

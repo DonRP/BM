@@ -2995,36 +2995,36 @@ msgid "Prostitute || Come on, sexy, I'll make it worth your time!"
 msgstr "Prostitute || Come on, sexy, I'll make it worth your time!"
 
 # game/events_mc.rpy:1240 ## translate crowdin officeFirst_3151510c:
-msgid "oc_ "Apart you two!"
-msgstr "oc_ "Apart you two!"
+msgid "[oc_] Apart you two!"
+msgstr "[oc_] Apart you two!"
 
 # game/events_mc.rpy:1242 ## translate crowdin officeFirst_df4ac260:
 msgid "Prostitute || Ughh, shit!"
 msgstr "Prostitute || Ughh, shit!"
 
 # game/events_mc.rpy:1243 ## translate crowdin officeFirst_bf282ccb:
-msgid "oc_ "Sam, aren't you in enough trouble already?"
-msgstr "oc_ "Sam, aren't you in enough trouble already?"
+msgid "[oc_] Sam, aren't you in enough trouble already?"
+msgstr "[oc_] Sam, aren't you in enough trouble already?"
 
 # game/events_mc.rpy:1245 ## translate crowdin officeFirst_086a64ed:
 msgid "Prostitute || Fuck off, old man, you're not my dad!"
 msgstr "Prostitute || Fuck off, old man, you're not my dad!"
 
 # game/events_mc.rpy:1246 ## translate crowdin officeFirst_90d23aed:
-msgid "oc_ "And you're lucky that I'm not..."
-msgstr "oc_ "And you're lucky that I'm not..."
+msgid "[oc_] And you're lucky that I'm not..."
+msgstr "[oc_] And you're lucky that I'm not..."
 
 # game/events_mc.rpy:1247 ## translate crowdin officeFirst_9df8f015:
 msgid "Prostitute || Pfft..."
 msgstr "Prostitute || Pfft..."
 
 # game/events_mc.rpy:1248 ## translate crowdin officeFirst_88d25c77:
-msgid "oc_ "Wait a minute..."
-msgstr "oc_ "Wait a minute..."
+msgid "[oc_] Wait a minute..."
+msgstr "[oc_] Wait a minute..."
 
 # game/events_mc.rpy:1249 ## translate crowdin officeFirst_e654f32d:
-msgid "oc_ "[pc]?"
-msgstr "oc_ "[pc]?"
+msgid "[oc_] [pc]?"
+msgstr "[oc_] [pc]?"
 
 # game/events_mc.rpy:1251 ## translate crowdin officeFirst_225fadf5_1:
 msgid "[pc] Huh?"
