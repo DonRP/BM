@@ -1,0 +1,11 @@
+﻿Bad-Memories.app
+game/images
+game/gui
+game/cache
+game/audio
+lib
+*.rpyc
+game/game.7z
+renpy
+res
+*.exe
