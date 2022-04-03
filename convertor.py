@@ -12,8 +12,8 @@ translate crowdin""": """ ## translate crowdin""",
 
     # """: """:
 msgid \"""",
-    """    old \"""": """msgid  \"""",
-    """    new \"""": """msgid_plural "Ignore this. translate only: One"\nmsgstr[0]  \"""",
+    """    old \"""": """msgid \"[mschoice] """,
+    """    new \"""": """msgstr \"[mschoice] """,
     """\" nointeract""": """ [nointeract]\"""",
     """\" with fade""": """ [withfade]\"""",
     """\" with dissolve""": """ [withdissolve]\"""",
