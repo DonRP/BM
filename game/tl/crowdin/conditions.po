@@ -1,148 +1,140 @@
 ﻿# TODO: Translation updated at 2022-04-03 12:54
 
-# game/conditions.rpy:1743
-translate crowdin dateTime_69645982:
+# game/conditions.rpy:1743 ## translate crowdin dateTime_69645982:
+msgid "[n] [currentDay]"
+msgstr "[n] [currentDay]"
 
-    # n "[currentDay]"
-    n "[currentDay]"
+# game/conditions.rpy:1752 ## translate crowdin whatToDoHome_970716ba:
+msgid "[q] What do you want to do? [nointeract]"
+msgstr "[q] What do you want to do? [nointeract]"
 
-# game/conditions.rpy:1752
-translate crowdin whatToDoHome_970716ba:
+# game/conditions.rpy:1756 ## translate crowdin whatToDoHome_87461463:
+msgid "pcthink "I guess I could use a bit more sleep. There's nothing to do anyway until my stuff arrives..."
+msgstr "pcthink "I guess I could use a bit more sleep. There's nothing to do anyway until my stuff arrives..."
 
-    # q "What do you want to do?" nointeract
-    q "What do you want to do?" nointeract
+# game/conditions.rpy:1776 ## translate crowdin whatToDoHome_70aa1e0b:
+msgid "[n] Later" with dissolve
+msgstr "[n] Later" with dissolve
 
-# game/conditions.rpy:1756
-translate crowdin whatToDoHome_87461463:
+# game/conditions.rpy:1788 ## translate crowdin hall_23b4c9e6:
+msgid "pcthink "Okay, the bathroom should be the last room on the left if I remember correctly..."
+msgstr "pcthink "Okay, the bathroom should be the last room on the left if I remember correctly..."
 
-    # pcthink "I guess I could use a bit more sleep. There's nothing to do anyway until my stuff arrives..."
-    pcthink "I guess I could use a bit more sleep. There's nothing to do anyway until my stuff arrives..."
+# game/conditions.rpy:1816 ## translate crowdin livingroom_c0f55507:
+msgid "[pc] S-shit, sorry."
+msgstr "[pc] S-shit, sorry."
 
-# game/conditions.rpy:1776
-translate crowdin whatToDoHome_70aa1e0b:
+# game/conditions.rpy:1831 ## translate crowdin pcStareMBath_85f8cf00:
+msgid "[m] Um... [pc]? Are you staring at me?"
+msgstr "[m] Um... [pc]? Are you staring at me?"
 
-    # n "Later" with dissolve
-    n "Later" with dissolve
+# game/conditions.rpy:1832 ## translate crowdin pcStareMBath_7d2421b6:
+msgid "[pc] Ugh... shit, s-sorry."
+msgstr "[pc] Ugh... shit, s-sorry."
 
-# game/conditions.rpy:1788
-translate crowdin hall_23b4c9e6:
+# game/conditions.rpy:1854 ## translate crowdin bathroom_fd2724fb:
+msgid "pcthink "Ups..."
+msgstr "pcthink "Ups..."
 
-    # pcthink "Okay, the bathroom should be the last room on the left if I remember correctly..."
-    pcthink "Okay, the bathroom should be the last room on the left if I remember correctly..."
+# game/conditions.rpy:1860 ## translate crowdin bathroom_e0ffe4b5:
+msgid "pcthink "Whoa... looks like [m] just got out of the shower."
+msgstr "pcthink "Whoa... looks like [m] just got out of the shower."
 
-# game/conditions.rpy:1816
-translate crowdin livingroom_c0f55507:
+# game/conditions.rpy:1864 ## translate crowdin bathroom_ed5a9fb8:
+msgid "[m] [pc]!?"
+msgstr "[m] [pc]!?"
 
-    # pc "S-shit, sorry."
-    pc "S-shit, sorry."
+# game/conditions.rpy:1865 ## translate crowdin bathroom_72087c33:
+msgid "pcthink "Uhh..."
+msgstr "pcthink "Uhh..."
 
-# game/conditions.rpy:1831
-translate crowdin pcStareMBath_85f8cf00:
+# XXtranslate crowdin strings:XX# XX## game/conditions.rpy:10
+msgid  "Mr."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Mr."
 
-    # m "Um... [pc]? Are you staring at me?"
-    m "Um... [pc]? Are you staring at me?"
+# XX## game/conditions.rpy:11
+msgid  "he"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "he"
 
-# game/conditions.rpy:1832
-translate crowdin pcStareMBath_7d2421b6:
+# XX## game/conditions.rpy:12
+msgid  "boy"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "boy"
 
-    # pc "Ugh... shit, s-sorry."
-    pc "Ugh... shit, s-sorry."
+# XX## game/conditions.rpy:13
+msgid  "Daddy"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Daddy"
 
-# game/conditions.rpy:1854
-translate crowdin bathroom_fd2724fb:
+# XX## game/conditions.rpy:14
+msgid  "son"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "son"
 
-    # pcthink "Ups..."
-    pcthink "Ups..."
+# XX## game/conditions.rpy:15
+msgid  "him"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "him"
 
-# game/conditions.rpy:1860
-translate crowdin bathroom_e0ffe4b5:
+# XX## game/conditions.rpy:16
+msgid  "John"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "John"
 
-    # pcthink "Whoa... looks like [m] just got out of the shower."
-    pcthink "Whoa... looks like [m] just got out of the shower."
+# XX## game/conditions.rpy:17
+msgid  "brother"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "brother"
 
-# game/conditions.rpy:1864
-translate crowdin bathroom_ed5a9fb8:
+# XX## game/conditions.rpy:18
+msgid  "his"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "his"
 
-    # m "[pc]!?"
-    m "[pc]!?"
+# XX## game/conditions.rpy:21
+msgid  "male"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "male"
 
-# game/conditions.rpy:1865
-translate crowdin bathroom_72087c33:
+# XX## game/conditions.rpy:22
+msgid  "Doe"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Doe"
 
-    # pcthink "Uhh..."
-    pcthink "Uhh..."
+# XX## game/conditions.rpy:1752
+msgid  "Take a nap"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Take a nap"
 
-translate crowdin strings:
+# XX## game/conditions.rpy:1752
+msgid  "Look for [e]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Look for [e]"
 
-    # game/conditions.rpy:10
-    old "Mr."
-    new "Mr."
+# XX## game/conditions.rpy:1752
+msgid  "Look for [m]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Look for [m]"
 
-    # game/conditions.rpy:11
-    old "he"
-    new "he"
+# XX## game/conditions.rpy:1752
+msgid  "Turn the pc on"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Turn the pc on"
 
-    # game/conditions.rpy:12
-    old "boy"
-    new "boy"
+# XX## game/conditions.rpy:1752
+msgid  "Leave"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Leave"
 
-    # game/conditions.rpy:13
-    old "Daddy"
-    new "Daddy"
+# XX## game/conditions.rpy:1752
+msgid  "Look around"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Look around"
 
-    # game/conditions.rpy:14
-    old "son"
-    new "son"
-
-    # game/conditions.rpy:15
-    old "him"
-    new "him"
-
-    # game/conditions.rpy:16
-    old "John"
-    new "John"
-
-    # game/conditions.rpy:17
-    old "brother"
-    new "brother"
-
-    # game/conditions.rpy:18
-    old "his"
-    new "his"
-
-    # game/conditions.rpy:21
-    old "male"
-    new "male"
-
-    # game/conditions.rpy:22
-    old "Doe"
-    new "Doe"
-
-    # game/conditions.rpy:1752
-    old "Take a nap"
-    new "Take a nap"
-
-    # game/conditions.rpy:1752
-    old "Look for [e]"
-    new "Look for [e]"
-
-    # game/conditions.rpy:1752
-    old "Look for [m]"
-    new "Look for [m]"
-
-    # game/conditions.rpy:1752
-    old "Turn the pc on"
-    new "Turn the pc on"
-
-    # game/conditions.rpy:1752
-    old "Leave"
-    new "Leave"
-
-    # game/conditions.rpy:1752
-    old "Look around"
-    new "Look around"
-
-    # game/conditions.rpy:1861
-    old "Look"
-    new "Look"
+# XX## game/conditions.rpy:1861
+msgid  "Look"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Look"
 

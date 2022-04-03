@@ -1,364 +1,452 @@
 ﻿# TODO: Translation updated at 2022-04-03 12:54
 
-translate crowdin strings:
-
-    # game/screens.rpy:208
-    old "{b}Show dialogue background box?{/b}"
-    new "{b}Show dialogue background box?{/b}"
-
-    # game/screens.rpy:209
-    old "{i}(You can change this again in the Preferences.){/i}"
-    new "{i}(You can change this again in the Preferences.){/i}"
-
-    # game/screens.rpy:210
-    old "Yes"
-    new "Yes"
-
-    # game/screens.rpy:211
-    old "No"
-    new "No"
-
-    # game/screens.rpy:317
-    old "Back"
-    new "Back"
-
-    # game/screens.rpy:318
-    old "History"
-    new "History"
-
-    # game/screens.rpy:319
-    old "Hide"
-    new "Hide"
-
-    # game/screens.rpy:320
-    old "Skip"
-    new "Skip"
-
-    # game/screens.rpy:321
-    old "Auto"
-    new "Auto"
-
-    # game/screens.rpy:322
-    old "Q.Save"
-    new "Q.Save"
-
-    # game/screens.rpy:323
-    old "Q.Load"
-    new "Q.Load"
-
-    # game/screens.rpy:324
-    old "Menu"
-    new "Menu"
-
-    # game/screens.rpy:376
-    old "Save"
-    new "Save"
-
-    # game/screens.rpy:378
-    old "Load"
-    new "Load"
-
-    # game/screens.rpy:380
-    old "Preferences"
-    new "Preferences"
-
-    # game/screens.rpy:384
-    old "End Replay"
-    new "End Replay"
-
-    # game/screens.rpy:388
-    old "Main Menu"
-    new "Main Menu"
-
-    # game/screens.rpy:390
-    old "About"
-    new "About"
-
-    # game/screens.rpy:395
-    old "Help"
-    new "Help"
-
-    # game/screens.rpy:398
-    old "Quit"
-    new "Quit"
-
-    # game/screens.rpy:556
-    old "Return"
-    new "Return"
-
-    # game/screens.rpy:640
-    old "Version [config.version!t]\n"
-    new "Version [config.version!t]\n"
-
-    # game/screens.rpy:646
-    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-
-    # game/screens.rpy:686
-    old "Page {}"
-    new "Page {}"
-
-    # game/screens.rpy:686
-    old "Automatic saves"
-    new "Automatic saves"
-
-    # game/screens.rpy:686
-    old "Quick saves"
-    new "Quick saves"
-
-    # game/screens.rpy:729
-    old "{#file_time}%a, %b %d %Y, %H:%M"
-    new "{#file_time}%a, %b %d %Y, %H:%M"
-
-    # game/screens.rpy:729
-    old "empty slot"
-    new "empty slot"
-
-    # game/screens.rpy:748
-    old "<"
-    new "<"
-
-    # game/screens.rpy:751
-    old "{#auto_page}A"
-    new "{#auto_page}A"
-
-    # game/screens.rpy:754
-    old "{#quick_page}Q"
-    new "{#quick_page}Q"
-
-    # game/screens.rpy:767
-    old ">"
-    new ">"
-
-    # game/screens.rpy:828
-    old "Display"
-    new "Display"
-
-    # game/screens.rpy:829
-    old "Window"
-    new "Window"
-
-    # game/screens.rpy:830
-    old "Fullscreen"
-    new "Fullscreen"
-
-    # game/screens.rpy:834
-    old "Rollback Side"
-    new "Rollback Side"
-
-    # game/screens.rpy:835
-    old "Disable"
-    new "Disable"
-
-    # game/screens.rpy:836
-    old "Left"
-    new "Left"
-
-    # game/screens.rpy:837
-    old "Right"
-    new "Right"
-
-    # game/screens.rpy:842
-    old "Unseen Text"
-    new "Unseen Text"
-
-    # game/screens.rpy:843
-    old "After Choices"
-    new "After Choices"
-
-    # game/screens.rpy:844
-    old "Transitions"
-    new "Transitions"
-
-    # game/screens.rpy:850
-    old "Show Textbox"
-    new "Show Textbox"
-
-    # game/screens.rpy:856
-    old "Language"
-    new "Language"
-
-    # game/screens.rpy:879
-    old "Text Speed"
-    new "Text Speed"
-
-    # game/screens.rpy:883
-    old "Auto-Forward Time"
-    new "Auto-Forward Time"
-
-    # game/screens.rpy:890
-    old "Music Volume"
-    new "Music Volume"
-
-    # game/screens.rpy:897
-    old "Sound Volume"
-    new "Sound Volume"
-
-    # game/screens.rpy:903
-    old "Test"
-    new "Test"
-
-    # game/screens.rpy:907
-    old "Voice Volume"
-    new "Voice Volume"
-
-    # game/screens.rpy:919
-    old "Mute All"
-    new "Mute All"
-
-    # game/screens.rpy:923
-    old "Reset"
-    new "Reset"
-
-    # game/screens.rpy:934
-    old "Text Size Scaling"
-    new "Text Size Scaling"
-
-    # game/screens.rpy:946
-    old "Line Spacing Scaling"
-    new "Line Spacing Scaling"
-
-    # game/screens.rpy:1070
-    old "The dialogue history is empty."
-    new "The dialogue history is empty."
-
-    # game/screens.rpy:1140
-    old "Keyboard"
-    new "Keyboard"
-
-    # game/screens.rpy:1141
-    old "Mouse"
-    new "Mouse"
-
-    # game/screens.rpy:1144
-    old "Gamepad"
-    new "Gamepad"
-
-    # game/screens.rpy:1157
-    old "Enter"
-    new "Enter"
-
-    # game/screens.rpy:1158
-    old "Advances dialogue and activates the interface."
-    new "Advances dialogue and activates the interface."
-
-    # game/screens.rpy:1161
-    old "Space"
-    new "Space"
-
-    # game/screens.rpy:1162
-    old "Advances dialogue without selecting choices."
-    new "Advances dialogue without selecting choices."
-
-    # game/screens.rpy:1165
-    old "Arrow Keys"
-    new "Arrow Keys"
-
-    # game/screens.rpy:1166
-    old "Navigate the interface."
-    new "Navigate the interface."
-
-    # game/screens.rpy:1169
-    old "Escape"
-    new "Escape"
-
-    # game/screens.rpy:1170
-    old "Accesses the game menu."
-    new "Accesses the game menu."
-
-    # game/screens.rpy:1173
-    old "Ctrl"
-    new "Ctrl"
-
-    # game/screens.rpy:1174
-    old "Skips dialogue while held down."
-    new "Skips dialogue while held down."
-
-    # game/screens.rpy:1177
-    old "Tab"
-    new "Tab"
-
-    # game/screens.rpy:1178
-    old "Toggles dialogue skipping."
-    new "Toggles dialogue skipping."
-
-    # game/screens.rpy:1181
-    old "Page Up"
-    new "Page Up"
-
-    # game/screens.rpy:1182
-    old "Rolls back to earlier dialogue."
-    new "Rolls back to earlier dialogue."
-
-    # game/screens.rpy:1185
-    old "Page Down"
-    new "Page Down"
-
-    # game/screens.rpy:1186
-    old "Rolls forward to later dialogue."
-    new "Rolls forward to later dialogue."
-
-    # game/screens.rpy:1190
-    old "Hides the user interface."
-    new "Hides the user interface."
-
-    # game/screens.rpy:1194
-    old "Takes a screenshot."
-    new "Takes a screenshot."
-
-    # game/screens.rpy:1198
-    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-
-    # game/screens.rpy:1204
-    old "Left Click"
-    new "Left Click"
-
-    # game/screens.rpy:1208
-    old "Middle Click"
-    new "Middle Click"
-
-    # game/screens.rpy:1212
-    old "Right Click"
-    new "Right Click"
-
-    # game/screens.rpy:1216
-    old "Mouse Wheel Up\nClick Rollback Side"
-    new "Mouse Wheel Up\nClick Rollback Side"
-
-    # game/screens.rpy:1220
-    old "Mouse Wheel Down"
-    new "Mouse Wheel Down"
-
-    # game/screens.rpy:1227
-    old "Right Trigger\nA/Bottom Button"
-    new "Right Trigger\nA/Bottom Button"
-
-    # game/screens.rpy:1231
-    old "Left Trigger\nLeft Shoulder"
-    new "Left Trigger\nLeft Shoulder"
-
-    # game/screens.rpy:1235
-    old "Right Shoulder"
-    new "Right Shoulder"
-
-    # game/screens.rpy:1240
-    old "D-Pad, Sticks"
-    new "D-Pad, Sticks"
-
-    # game/screens.rpy:1244
-    old "Start, Guide"
-    new "Start, Guide"
-
-    # game/screens.rpy:1248
-    old "Y/Top Button"
-    new "Y/Top Button"
-
-    # game/screens.rpy:1251
-    old "Calibrate"
-    new "Calibrate"
-
-    # game/screens.rpy:1363
-    old "Skipping"
-    new "Skipping"
+# XXtranslate crowdin strings:XX# XX## game/screens.rpy:208
+msgid  "{b}Show dialogue background box?{/b}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "{b}Show dialogue background box?{/b}"
+
+# XX## game/screens.rpy:209
+msgid  "{i}(You can change this again in the Preferences.){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "{i}(You can change this again in the Preferences.){/i}"
+
+# XX## game/screens.rpy:210
+msgid  "Yes"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Yes"
+
+# XX## game/screens.rpy:211
+msgid  "No"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "No"
+
+# XX## game/screens.rpy:317
+msgid  "Back"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Back"
+
+# XX## game/screens.rpy:318
+msgid  "History"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "History"
+
+# XX## game/screens.rpy:319
+msgid  "Hide"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Hide"
+
+# XX## game/screens.rpy:320
+msgid  "Skip"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Skip"
+
+# XX## game/screens.rpy:321
+msgid  "Auto"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Auto"
+
+# XX## game/screens.rpy:322
+msgid  "Q.Save"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Q.Save"
+
+# XX## game/screens.rpy:323
+msgid  "Q.Load"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Q.Load"
+
+# XX## game/screens.rpy:324
+msgid  "Menu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Menu"
+
+# XX## game/screens.rpy:376
+msgid  "Save"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Save"
+
+# XX## game/screens.rpy:378
+msgid  "Load"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Load"
+
+# XX## game/screens.rpy:380
+msgid  "Preferences"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Preferences"
+
+# XX## game/screens.rpy:384
+msgid  "End Replay"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "End Replay"
+
+# XX## game/screens.rpy:388
+msgid  "Main Menu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Main Menu"
+
+# XX## game/screens.rpy:390
+msgid  "About"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "About"
+
+# XX## game/screens.rpy:395
+msgid  "Help"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Help"
+
+# XX## game/screens.rpy:398
+msgid  "Quit"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Quit"
+
+# XX## game/screens.rpy:556
+msgid  "Return"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Return"
+
+# XX## game/screens.rpy:640
+msgid  "Version [config.version!t]\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Version [config.version!t]\n"
+
+# XX## game/screens.rpy:646
+msgid  "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+
+# XX## game/screens.rpy:686
+msgid  "Page {}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Page {}"
+
+# XX## game/screens.rpy:686
+msgid  "Automatic saves"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Automatic saves"
+
+# XX## game/screens.rpy:686
+msgid  "Quick saves"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Quick saves"
+
+# XX## game/screens.rpy:729
+msgid  "{#file_time}%a, %b %d %Y, %H:%M"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "{#file_time}%a, %b %d %Y, %H:%M"
+
+# XX## game/screens.rpy:729
+msgid  "empty slot"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "empty slot"
+
+# XX## game/screens.rpy:748
+msgid  "<"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "<"
+
+# XX## game/screens.rpy:751
+msgid  "{#auto_page}A"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "{#auto_page}A"
+
+# XX## game/screens.rpy:754
+msgid  "{#quick_page}Q"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "{#quick_page}Q"
+
+# XX## game/screens.rpy:767
+msgid  ">"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  ">"
+
+# XX## game/screens.rpy:828
+msgid  "Display"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Display"
+
+# XX## game/screens.rpy:829
+msgid  "Window"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Window"
+
+# XX## game/screens.rpy:830
+msgid  "Fullscreen"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Fullscreen"
+
+# XX## game/screens.rpy:834
+msgid  "Rollback Side"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Rollback Side"
+
+# XX## game/screens.rpy:835
+msgid  "Disable"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Disable"
+
+# XX## game/screens.rpy:836
+msgid  "Left"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Left"
+
+# XX## game/screens.rpy:837
+msgid  "Right"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Right"
+
+# XX## game/screens.rpy:842
+msgid  "Unseen Text"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Unseen Text"
+
+# XX## game/screens.rpy:843
+msgid  "After Choices"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "After Choices"
+
+# XX## game/screens.rpy:844
+msgid  "Transitions"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Transitions"
+
+# XX## game/screens.rpy:850
+msgid  "Show Textbox"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Show Textbox"
+
+# XX## game/screens.rpy:856
+msgid  "Language"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Language"
+
+# XX## game/screens.rpy:879
+msgid  "Text Speed"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Text Speed"
+
+# XX## game/screens.rpy:883
+msgid  "Auto-Forward Time"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Auto-Forward Time"
+
+# XX## game/screens.rpy:890
+msgid  "Music Volume"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Music Volume"
+
+# XX## game/screens.rpy:897
+msgid  "Sound Volume"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Sound Volume"
+
+# XX## game/screens.rpy:903
+msgid  "Test"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Test"
+
+# XX## game/screens.rpy:907
+msgid  "Voice Volume"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Voice Volume"
+
+# XX## game/screens.rpy:919
+msgid  "Mute All"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Mute All"
+
+# XX## game/screens.rpy:923
+msgid  "Reset"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Reset"
+
+# XX## game/screens.rpy:934
+msgid  "Text Size Scaling"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Text Size Scaling"
+
+# XX## game/screens.rpy:946
+msgid  "Line Spacing Scaling"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Line Spacing Scaling"
+
+# XX## game/screens.rpy:1070
+msgid  "The dialogue history is empty."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "The dialogue history is empty."
+
+# XX## game/screens.rpy:1140
+msgid  "Keyboard"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Keyboard"
+
+# XX## game/screens.rpy:1141
+msgid  "Mouse"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Mouse"
+
+# XX## game/screens.rpy:1144
+msgid  "Gamepad"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Gamepad"
+
+# XX## game/screens.rpy:1157
+msgid  "Enter"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Enter"
+
+# XX## game/screens.rpy:1158
+msgid  "Advances dialogue and activates the interface."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Advances dialogue and activates the interface."
+
+# XX## game/screens.rpy:1161
+msgid  "Space"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Space"
+
+# XX## game/screens.rpy:1162
+msgid  "Advances dialogue without selecting choices."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Advances dialogue without selecting choices."
+
+# XX## game/screens.rpy:1165
+msgid  "Arrow Keys"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Arrow Keys"
+
+# XX## game/screens.rpy:1166
+msgid  "Navigate the interface."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Navigate the interface."
+
+# XX## game/screens.rpy:1169
+msgid  "Escape"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Escape"
+
+# XX## game/screens.rpy:1170
+msgid  "Accesses the game menu."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Accesses the game menu."
+
+# XX## game/screens.rpy:1173
+msgid  "Ctrl"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Ctrl"
+
+# XX## game/screens.rpy:1174
+msgid  "Skips dialogue while held down."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Skips dialogue while held down."
+
+# XX## game/screens.rpy:1177
+msgid  "Tab"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Tab"
+
+# XX## game/screens.rpy:1178
+msgid  "Toggles dialogue skipping."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Toggles dialogue skipping."
+
+# XX## game/screens.rpy:1181
+msgid  "Page Up"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Page Up"
+
+# XX## game/screens.rpy:1182
+msgid  "Rolls back to earlier dialogue."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Rolls back to earlier dialogue."
+
+# XX## game/screens.rpy:1185
+msgid  "Page Down"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Page Down"
+
+# XX## game/screens.rpy:1186
+msgid  "Rolls forward to later dialogue."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Rolls forward to later dialogue."
+
+# XX## game/screens.rpy:1190
+msgid  "Hides the user interface."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Hides the user interface."
+
+# XX## game/screens.rpy:1194
+msgid  "Takes a screenshot."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Takes a screenshot."
+
+# XX## game/screens.rpy:1198
+msgid  "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+
+# XX## game/screens.rpy:1204
+msgid  "Left Click"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Left Click"
+
+# XX## game/screens.rpy:1208
+msgid  "Middle Click"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Middle Click"
+
+# XX## game/screens.rpy:1212
+msgid  "Right Click"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Right Click"
+
+# XX## game/screens.rpy:1216
+msgid  "Mouse Wheel Up\nClick Rollback Side"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Mouse Wheel Up\nClick Rollback Side"
+
+# XX## game/screens.rpy:1220
+msgid  "Mouse Wheel Down"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Mouse Wheel Down"
+
+# XX## game/screens.rpy:1227
+msgid  "Right Trigger\nA/Bottom Button"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Right Trigger\nA/Bottom Button"
+
+# XX## game/screens.rpy:1231
+msgid  "Left Trigger\nLeft Shoulder"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Left Trigger\nLeft Shoulder"
+
+# XX## game/screens.rpy:1235
+msgid  "Right Shoulder"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Right Shoulder"
+
+# XX## game/screens.rpy:1240
+msgid  "D-Pad, Sticks"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "D-Pad, Sticks"
+
+# XX## game/screens.rpy:1244
+msgid  "Start, Guide"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Start, Guide"
+
+# XX## game/screens.rpy:1248
+msgid  "Y/Top Button"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Y/Top Button"
+
+# XX## game/screens.rpy:1251
+msgid  "Calibrate"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Calibrate"
+
+# XX## game/screens.rpy:1363
+msgid  "Skipping"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Skipping"
 

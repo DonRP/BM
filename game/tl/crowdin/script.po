@@ -1,108 +1,97 @@
 ﻿# TODO: Translation updated at 2022-04-03 12:54
 
-# game/script.rpy:346
-translate crowdin start_7dd9eee1:
+# game/script.rpy:346 ## translate crowdin start_7dd9eee1:
+msgid "[n] This game is a work of fiction, all characters are at least 99 years old and obviously not related to any living persons.\n" with fade
+msgstr "[n] This game is a work of fiction, all characters are at least 99 years old and obviously not related to any living persons.\n" with fade
 
-    # n "This game is a work of fiction, all characters are at least 99 years old and obviously not related to any living persons.\n" with fade
-    n "This game is a work of fiction, all characters are at least 99 years old and obviously not related to any living persons.\n" with fade
+# game/script.rpy:348 ## translate crowdin start_af67b41c:
+msgid "[n] This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old. None of the characters are in any way related to any living persons.\n" with fade
+msgstr "[n] This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old. None of the characters are in any way related to any living persons.\n" with fade
 
-# game/script.rpy:348
-translate crowdin start_af67b41c:
+# game/script.rpy:349 ## translate crowdin start_36a0049e:
+msgid "[n] If you're not an adult, close the game now, delete it, and burn your computer/mac/phone! DON'T CLICK AGAIN, OR...\n"
+msgstr "[n] If you're not an adult, close the game now, delete it, and burn your computer/mac/phone! DON'T CLICK AGAIN, OR...\n"
 
-    # n "This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old. None of the characters are in any way related to any living persons.\n" with fade
-    n "This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old. None of the characters are in any way related to any living persons.\n" with fade
+# game/script.rpy:350 ## translate crowdin start_200b5921:
+msgid "[extend] ...or the game starts as usual ;_;"
+msgstr "[extend] ...or the game starts as usual ;_;"
 
-# game/script.rpy:349
-translate crowdin start_36a0049e:
+# game/script.rpy:389 ## translate crowdin start_rachel_aac27f06:
+msgid "[m] Hello [pc] [pcsure], this is a test!"
+msgstr "[m] Hello [pc] [pcsure], this is a test!"
 
-    # n "If you're not an adult, close the game now, delete it, and burn your computer/mac/phone! DON'T CLICK AGAIN, OR...\n"
-    n "If you're not an adult, close the game now, delete it, and burn your computer/mac/phone! DON'T CLICK AGAIN, OR...\n"
+# game/script.rpy:395 ## translate crowdin endGame_9b5f61b4:
+msgid "[n] This is the end of the current version, a quick save has been created."
+msgstr "[n] This is the end of the current version, a quick save has been created."
 
-# game/script.rpy:350
-translate crowdin start_200b5921:
+# game/script.rpy:396 ## translate crowdin endGame_e7eca580:
+msgid "[n] I hope you had fun! Be sure to check back soon. The story will progress a lot over time ;)"
+msgstr "[n] I hope you had fun! Be sure to check back soon. The story will progress a lot over time ;)"
 
-    # extend "...or the game starts as usual ;_;"
-    extend "...or the game starts as usual ;_;"
+# game/script.rpy:402 ## translate crowdin endGame_3ab21b59:
+msgid "[n] {size=+20}{b}Special thanks to all my {a=https://www.patreon.com/bmgames}{b}{color=#FF9D1F}Patrons{/color}{/b}{/a} and {a=https://subscribestar.adult/bm-games}{b}{color=#FF9D1F}Subscriber{/color}{/b}{/a}\nand everyone who helped me in some way.\nyou guys are awesome!{/b}{/size}"
+msgstr "[n] {size=+20}{b}Special thanks to all my {a=https://www.patreon.com/bmgames}{b}{color=#FF9D1F}Patrons{/color}{/b}{/a} and {a=https://subscribestar.adult/bm-games}{b}{color=#FF9D1F}Subscriber{/color}{/b}{/a}\nand everyone who helped me in some way.\nyou guys are awesome!{/b}{/size}"
 
-# game/script.rpy:389
-translate crowdin start_rachel_aac27f06:
+# game/script.rpy:404 ## translate crowdin endGame_a5f61313:
+msgid "[n] {size=+20}{b}Special thanks to all my supporters, testers and everyone who helped me in some way.\nyou guys are awesome!{/b}{/size}"
+msgstr "[n] {size=+20}{b}Special thanks to all my supporters, testers and everyone who helped me in some way.\nyou guys are awesome!{/b}{/size}"
 
-    # m "Hello [pc] [pcsure], this is a test!"
-    m "Hello [pc] [pcsure], this is a test!"
+# game/script.rpy:411 ## translate crowdin gameOverE_9ad555d3:
+msgid "[n] Congratulation! You broke her heart...idiot!"
+msgstr "[n] Congratulation! You broke her heart...idiot!"
 
-# game/script.rpy:395
-translate crowdin endGame_9b5f61b4:
+# XXtranslate crowdin strings:XX# XX## game/script.rpy:352
+msgid  "Play as Man"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Play as Man"
 
-    # n "This is the end of the current version, a quick save has been created."
-    n "This is the end of the current version, a quick save has been created."
+# XX## game/script.rpy:352
+msgid  "Play as Woman (lesbian)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Play as Woman (lesbian)"
 
-# game/script.rpy:396
-translate crowdin endGame_e7eca580:
+# XX## game/script.rpy:363
+msgid  "female"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "female"
 
-    # n "I hope you had fun! Be sure to check back soon. The story will progress a lot over time ;)"
-    n "I hope you had fun! Be sure to check back soon. The story will progress a lot over time ;)"
+# XX## game/script.rpy:365
+msgid  "Ms."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Ms."
 
-# game/script.rpy:402
-translate crowdin endGame_3ab21b59:
+# XX## game/script.rpy:366
+msgid  "she"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "she"
 
-    # n "{size=+20}{b}Special thanks to all my {a=https://www.patreon.com/bmgames}{b}{color=#FF9D1F}Patrons{/color}{/b}{/a} and {a=https://subscribestar.adult/bm-games}{b}{color=#FF9D1F}Subscriber{/color}{/b}{/a}\nand everyone who helped me in some way.\nyou guys are awesome!{/b}{/size}"
-    n "{size=+20}{b}Special thanks to all my {a=https://www.patreon.com/bmgames}{b}{color=#FF9D1F}Patrons{/color}{/b}{/a} and {a=https://subscribestar.adult/bm-games}{b}{color=#FF9D1F}Subscriber{/color}{/b}{/a}\nand everyone who helped me in some way.\nyou guys are awesome!{/b}{/size}"
+# XX## game/script.rpy:367
+msgid  "girl"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "girl"
 
-# game/script.rpy:404
-translate crowdin endGame_a5f61313:
+# XX## game/script.rpy:368
+msgid  "Mommy"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Mommy"
 
-    # n "{size=+20}{b}Special thanks to all my supporters, testers and everyone who helped me in some way.\nyou guys are awesome!{/b}{/size}"
-    n "{size=+20}{b}Special thanks to all my supporters, testers and everyone who helped me in some way.\nyou guys are awesome!{/b}{/size}"
+# XX## game/script.rpy:369
+msgid  "daughter"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "daughter"
 
-# game/script.rpy:411
-translate crowdin gameOverE_9ad555d3:
+# XX## game/script.rpy:370
+msgid  "her"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "her"
 
-    # n "Congratulation! You broke her heart...idiot!"
-    n "Congratulation! You broke her heart...idiot!"
+# XX## game/script.rpy:371
+msgid  "Jill"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Jill"
 
-translate crowdin strings:
-
-    # game/script.rpy:352
-    old "Play as Man"
-    new "Play as Man"
-
-    # game/script.rpy:352
-    old "Play as Woman (lesbian)"
-    new "Play as Woman (lesbian)"
-
-    # game/script.rpy:363
-    old "female"
-    new "female"
-
-    # game/script.rpy:365
-    old "Ms."
-    new "Ms."
-
-    # game/script.rpy:366
-    old "she"
-    new "she"
-
-    # game/script.rpy:367
-    old "girl"
-    new "girl"
-
-    # game/script.rpy:368
-    old "Mommy"
-    new "Mommy"
-
-    # game/script.rpy:369
-    old "daughter"
-    new "daughter"
-
-    # game/script.rpy:370
-    old "her"
-    new "her"
-
-    # game/script.rpy:371
-    old "Jill"
-    new "Jill"
-
-    # game/script.rpy:372
-    old "sister"
-    new "sister"
+# XX## game/script.rpy:372
+msgid  "sister"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "sister"
 
