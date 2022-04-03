@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-04-03 12:54\n"
+"PO-Revision-Date: 2022-04-03 13:31\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/script.rpy:346 ## translate crowdin start_7dd9eee1:
 msgid "[n] This game is a work of fiction, all characters are at least 99 years old and obviously not related to any living persons.\n"
@@ -58,90 +58,46 @@ msgid "[n] Congratulation! You broke her heart...idiot!"
 msgstr ""
 
 # XXtranslate crowdin strings:XX# XX## game/script.rpy:352
-msgid "Play as Man"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgid "[mschoice] Play as Man"
+msgstr ""
 
 # XX## game/script.rpy:352
-msgid "Play as Woman (lesbian)"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgid "[mschoice] Play as Woman (lesbian)"
+msgstr ""
 
 # XX## game/script.rpy:363
-msgid "female"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgid "[mschoice] female"
+msgstr ""
 
 # XX## game/script.rpy:365
-msgid "Ms."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgid "[mschoice] Ms."
+msgstr ""
 
 # XX## game/script.rpy:366
-msgid "she"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgid "[mschoice] she"
+msgstr ""
 
 # XX## game/script.rpy:367
-msgid "girl"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgid "[mschoice] girl"
+msgstr ""
 
 # XX## game/script.rpy:368
-msgid "Mommy"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgid "[mschoice] Mommy"
+msgstr ""
 
 # XX## game/script.rpy:369
-msgid "daughter"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgid "[mschoice] daughter"
+msgstr ""
 
 # XX## game/script.rpy:370
-msgid "her"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgid "[mschoice] her"
+msgstr ""
 
 # XX## game/script.rpy:371
-msgid "Jill"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgid "[mschoice] Jill"
+msgstr ""
 
 # XX## game/script.rpy:372
-msgid "sister"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgid "[mschoice] sister"
+msgstr ""
 
