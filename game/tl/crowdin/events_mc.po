@@ -1627,28 +1627,28 @@ msgid "[pc] [pc], nice to meet you."
 msgstr "[pc] [pc], nice to meet you."
 
 # game/events_mc.rpy:711 ## translate crowdin pcCityDay3_bdcb3934:
-msgid "h "Nice to meet you too. I hope you visit us more often from now on, we have the best coffee in town and the cutest barista too, haha."
-msgstr "h "Nice to meet you too. I hope you visit us more often from now on, we have the best coffee in town and the cutest barista too, haha."
+msgid "[h] Nice to meet you too. I hope you visit us more often from now on, we have the best coffee in town and the cutest barista too, haha."
+msgstr "[h] Nice to meet you too. I hope you visit us more often from now on, we have the best coffee in town and the cutest barista too, haha."
 
 # game/events_mc.rpy:712 ## translate crowdin pcCityDay3_6f8d404b:
 msgid "[pc] That's two really good reasons to come back. Especially the last one."
 msgstr "[pc] That's two really good reasons to come back. Especially the last one."
 
 # game/events_mc.rpy:713 ## translate crowdin pcCityDay3_f0e25423:
-msgid "h "Hehe, thanks."
-msgstr "h "Hehe, thanks."
+msgid "[h] Hehe, thanks."
+msgstr "[h] Hehe, thanks."
 
 # game/events_mc.rpy:714 ## translate crowdin pcCityDay3_607614bd:
 msgid "Dude" "[h]!"
 msgstr "Dude" "[h]!"
 
 # game/events_mc.rpy:716 ## translate crowdin pcCityDay3_1799137c:
-msgid "h "Yes, stop crying baby boy!"
-msgstr "h "Yes, stop crying baby boy!"
+msgid "[h] Yes, stop crying baby boy!"
+msgstr "[h] Yes, stop crying baby boy!"
 
 # game/events_mc.rpy:718 ## translate crowdin pcCityDay3_742f2057:
-msgid "h "Well, I have to go. See you soon~"
-msgstr "h "Well, I have to go. See you soon~"
+msgid "[h] Well, I have to go. See you soon~"
+msgstr "[h] Well, I have to go. See you soon~"
 
 # game/events_mc.rpy:719 ## translate crowdin pcCityDay3_188cbca6:
 msgid "[pc] Yeah, seeya."
@@ -1963,8 +1963,8 @@ msgid "[m] Oh [t], did you finish for today?"
 msgstr "[m] Oh [t], did you finish for today?"
 
 # game/events_mc.rpy:827 ## translate crowdin ebdPreps_7b962f4b:
-msgid "t "Yes, obviously."
-msgstr "t "Yes, obviously."
+msgid "[t] Yes, obviously."
+msgstr "[t] Yes, obviously."
 
 # game/events_mc.rpy:828 ## translate crowdin ebdPreps_9eed8506:
 msgid "[m] Nice, why don't you come and sit down with us for a while?"
@@ -1983,16 +1983,16 @@ msgid "[m] You should try my punch."
 msgstr "[m] You should try my punch."
 
 # game/events_mc.rpy:834 ## translate crowdin ebdPreps_3e298e1a:
-msgid "t "Sorry, I don't have time and I still have to drive."
-msgstr "t "Sorry, I don't have time and I still have to drive."
+msgid "[t] Sorry, I don't have time and I still have to drive."
+msgstr "[t] Sorry, I don't have time and I still have to drive."
 
 # game/events_mc.rpy:835 ## translate crowdin ebdPreps_66ad1b6c:
 msgid "[m] Oh, don't worry, there is no alcohol in it."
 msgstr "[m] Oh, don't worry, there is no alcohol in it."
 
 # game/events_mc.rpy:836 ## translate crowdin ebdPreps_b5fc3376:
-msgid "t "No I..."
-msgstr "t "No I..."
+msgid "[t] No I..."
+msgstr "[t] No I..."
 
 # game/events_mc.rpy:838 ## translate crowdin ebdPreps_09a94aa2:
 msgid "[j] Oh you HAVE to try it, I'm sure you've never had punch as good as [m]'s! Hehe."
@@ -2007,12 +2007,12 @@ msgid "[m] Why thank you [j]. See [t]? Come on, I'm sure your work can wait for 
 msgstr "[m] Why thank you [j]. See [t]? Come on, I'm sure your work can wait for a few minutes."
 
 # game/events_mc.rpy:843 ## translate crowdin ebdPreps_1bb01731:
-msgid "t "..."
-msgstr "t "..."
+msgid "[t] ..."
+msgstr "[t] ..."
 
 # game/events_mc.rpy:844 ## translate crowdin ebdPreps_5d1b27ce:
-msgid "t "Humph... fine, but just one glass."
-msgstr "t "Humph... fine, but just one glass."
+msgid "[t] Humph... fine, but just one glass."
+msgstr "[t] Humph... fine, but just one glass."
 
 # game/events_mc.rpy:851 ## translate crowdin ebd_81b263e7:
 msgid "[m] Oh [pc], do you know what got into [t]?"
@@ -3311,8 +3311,8 @@ msgid "[pcthink] Anyway, I better get some sleep..."
 msgstr "[pcthink] Anyway, I better get some sleep..."
 
 # game/events_mc.rpy:1357 ## translate crowdin homeday4night_956ae696:
-msgid "[m] [bpc]! WHAT THE HELL DID YOU DO THIS TIME?" with hpunch
-msgstr "[m] [bpc]! WHAT THE HELL DID YOU DO THIS TIME?" with hpunch
+msgid "[m] [bpc]! WHAT THE HELL DID YOU DO THIS TIME? [withhpunch]"
+msgstr "[m] [bpc]! WHAT THE HELL DID YOU DO THIS TIME? [withhpunch]"
 
 # game/events_mc.rpy:1358 ## translate crowdin homeday4night_5bd3bf2f:
 msgid "oc "Calm down, [m]. It doesn't help to yell at [himher]."
@@ -3679,68 +3679,68 @@ msgid "[pc] ..."
 msgstr "[pc] ..."
 
 # game/events_mc.rpy:1529 ## translate crowdin d6morning_227eb657:
-msgid "h "Yes?"
-msgstr "h "Yes?"
+msgid "[h] Yes?"
+msgstr "[h] Yes?"
 
 # game/events_mc.rpy:1530 ## translate crowdin d6morning_be61a613:
 msgid "[pc] Hey, it's me, [pc], the one from the..."
 msgstr "[pc] Hey, it's me, [pc], the one from the..."
 
 # game/events_mc.rpy:1531 ## translate crowdin d6morning_7e9d795c:
-msgid "h "Oh, hey, [pc]! Hi! How are you?! How have you been?"
-msgstr "h "Oh, hey, [pc]! Hi! How are you?! How have you been?"
+msgid "[h] Oh, hey, [pc]! Hi! How are you?! How have you been?"
+msgstr "[h] Oh, hey, [pc]! Hi! How are you?! How have you been?"
 
 # game/events_mc.rpy:1532 ## translate crowdin d6morning_f67a852d:
 msgid "[pc] Err, I'm good, how are you?"
 msgstr "[pc] Err, I'm good, how are you?"
 
 # game/events_mc.rpy:1533 ## translate crowdin d6morning_7fa6ffc2:
-msgid "h "Good, I'm really good, I've been waiting for... for you to show up at the cafe again, haha."
-msgstr "h "Good, I'm really good, I've been waiting for... for you to show up at the cafe again, haha."
+msgid "[h] Good, I'm really good, I've been waiting for... for you to show up at the cafe again, haha."
+msgstr "[h] Good, I'm really good, I've been waiting for... for you to show up at the cafe again, haha."
 
 # game/events_mc.rpy:1534 ## translate crowdin d6morning_02b345a1:
 msgid "[pc] Well I was about to go for a walk and get a coffee, are you there?"
 msgstr "[pc] Well I was about to go for a walk and get a coffee, are you there?"
 
 # game/events_mc.rpy:1535 ## translate crowdin d6morning_63ebac69:
-msgid "h "Yes! Of course! Oh you mean at the cafe, right? Haha."
-msgstr "h "Yes! Of course! Oh you mean at the cafe, right? Haha."
+msgid "[h] Yes! Of course! Oh you mean at the cafe, right? Haha."
+msgstr "[h] Yes! Of course! Oh you mean at the cafe, right? Haha."
 
 # game/events_mc.rpy:1536 ## translate crowdin d6morning_42feb7d0:
 msgid "[pc] Yeah. Aren't you working today?"
 msgstr "[pc] Yeah. Aren't you working today?"
 
 # game/events_mc.rpy:1537 ## translate crowdin d6morning_7746410b:
-msgid "h "I-I am, haha. Of course, I'll be there, just come over whenever you want!"
-msgstr "h "I-I am, haha. Of course, I'll be there, just come over whenever you want!"
+msgid "[h] I-I am, haha. Of course, I'll be there, just come over whenever you want!"
+msgstr "[h] I-I am, haha. Of course, I'll be there, just come over whenever you want!"
 
 # game/events_mc.rpy:1538 ## translate crowdin d6morning_812a8bad:
 msgid "[pc] Whenever I want?"
 msgstr "[pc] Whenever I want?"
 
 # game/events_mc.rpy:1539 ## translate crowdin d6morning_30ed2430:
-msgid "h "Yes, sure! Ehm... I mean, during working hours of course, haha... I mean... yes working hours... haha."
-msgstr "h "Yes, sure! Ehm... I mean, during working hours of course, haha... I mean... yes working hours... haha."
+msgid "[h] Yes, sure! Ehm... I mean, during working hours of course, haha... I mean... yes working hours... haha."
+msgstr "[h] Yes, sure! Ehm... I mean, during working hours of course, haha... I mean... yes working hours... haha."
 
 # game/events_mc.rpy:1540 ## translate crowdin d6morning_37bc2c3c:
 msgid "[pc] Heh, alright, I'll be there soon, reserve a table for me."
 msgstr "[pc] Heh, alright, I'll be there soon, reserve a table for me."
 
 # game/events_mc.rpy:1542 ## translate crowdin d6morning_d3c3bf69:
-msgid "h "Of course, sir! Haha."
-msgstr "h "Of course, sir! Haha."
+msgid "[h] Of course, sir! Haha."
+msgstr "[h] Of course, sir! Haha."
 
 # game/events_mc.rpy:1544 ## translate crowdin d6morning_bad8f7ec:
-msgid "h "Of course, ma'am! Haha."
-msgstr "h "Of course, ma'am! Haha."
+msgid "[h] Of course, ma'am! Haha."
+msgstr "[h] Of course, ma'am! Haha."
 
 # game/events_mc.rpy:1545 ## translate crowdin d6morning_7683043e:
 msgid "[pc] Haha, later, [h]."
 msgstr "[pc] Haha, later, [h]."
 
 # game/events_mc.rpy:1546 ## translate crowdin d6morning_c047c425:
-msgid "h "Later, [pc]."
-msgstr "h "Later, [pc]."
+msgid "[h] Later, [pc]."
+msgstr "[h] Later, [pc]."
 
 # game/events_mc.rpy:1548 ## translate crowdin d6morning_5329c3c2:
 msgid "[n] You wait for a second before hanging up, and you're sure that she didn't hang up before you."
@@ -3863,8 +3863,8 @@ msgid "[pc] Huh?"
 msgstr "[pc] Huh?"
 
 # game/events_mc.rpy:1617 ## translate crowdin d7_wakeup_cb44f5d6:
-msgid "[pc] What the?! [e]?" with hpunch
-msgstr "[pc] What the?! [e]?" with hpunch
+msgid "[pc] What the?! [e]? [withhpunch]"
+msgstr "[pc] What the?! [e]? [withhpunch]"
 
 # game/events_mc.rpy:1618 ## translate crowdin d7_wakeup_267417d2:
 msgid "[pcthink] Shit, shit, shit, this is bad! I need to do something!"
@@ -5479,16 +5479,16 @@ msgid "[pcthink] Maybe I should send her a message instead..."
 msgstr "[pcthink] Maybe I should send her a message instead..."
 
 # game/events_mc.rpy:2395 ## translate crowdin d9_backhome_pcroom_10363c10:
-msgid "h "Yes, yes, I'm awake! Ah... I mean... hi [pc]!"
-msgstr "h "Yes, yes, I'm awake! Ah... I mean... hi [pc]!"
+msgid "[h] Yes, yes, I'm awake! Ah... I mean... hi [pc]!"
+msgstr "[h] Yes, yes, I'm awake! Ah... I mean... hi [pc]!"
 
 # game/events_mc.rpy:2396 ## translate crowdin d9_backhome_pcroom_87896395:
 msgid "[pc] Oh shit, did I wake you up? I'm sorry..."
 msgstr "[pc] Oh shit, did I wake you up? I'm sorry..."
 
 # game/events_mc.rpy:2397 ## translate crowdin d9_backhome_pcroom_71f0a118:
-msgid "h "Nono, I'm totally awake, it's fine, really!"
-msgstr "h "Nono, I'm totally awake, it's fine, really!"
+msgid "[h] Nono, I'm totally awake, it's fine, really!"
+msgstr "[h] Nono, I'm totally awake, it's fine, really!"
 
 # game/events_mc.rpy:2398 ## translate crowdin d9_backhome_pcroom_b4ec99ba:
 msgid "[pcthink] Damn, she's cute."
@@ -5499,100 +5499,100 @@ msgid "[pc] I just saw that you tried to call me and thought I'd call back."
 msgstr "[pc] I just saw that you tried to call me and thought I'd call back."
 
 # game/events_mc.rpy:2401 ## translate crowdin d9_backhome_pcroom_7abd5452:
-msgid "h "Oh, haha, I was just... uhm... since you didn't text me..."
-msgstr "h "Oh, haha, I was just... uhm... since you didn't text me..."
+msgid "[h] Oh, haha, I was just... uhm... since you didn't text me..."
+msgstr "[h] Oh, haha, I was just... uhm... since you didn't text me..."
 
 # game/events_mc.rpy:2403 ## translate crowdin d9_backhome_pcroom_baec15ef:
 msgid "[pc] Yeah, sorry about that, it was a really busy week. Lots of stuff happened."
 msgstr "[pc] Yeah, sorry about that, it was a really busy week. Lots of stuff happened."
 
 # game/events_mc.rpy:2405 ## translate crowdin d9_backhome_pcroom_7bbac3ba:
-msgid "h "It did for sure!"
-msgstr "h "It did for sure!"
+msgid "[h] It did for sure!"
+msgstr "[h] It did for sure!"
 
 # game/events_mc.rpy:2406 ## translate crowdin d9_backhome_pcroom_f560ac96:
-msgid "h "So do you still want to go on a date tomorrow?"
-msgstr "h "So do you still want to go on a date tomorrow?"
+msgid "[h] So do you still want to go on a date tomorrow?"
+msgstr "[h] So do you still want to go on a date tomorrow?"
 
 # game/events_mc.rpy:2407 ## translate crowdin d9_backhome_pcroom_7e06d964:
 msgid "[pc] Yes, of course!"
 msgstr "[pc] Yes, of course!"
 
 # game/events_mc.rpy:2408 ## translate crowdin d9_backhome_pcroom_fb659fe9:
-msgid "h "{size=-20}Yes!{/size}... ahem... good, but uhm... the lock down basically disrupted all my plans..."
-msgstr "h "{size=-20}Yes!{/size}... ahem... good, but uhm... the lock down basically disrupted all my plans..."
+msgid "[h] {size=-20}Yes!{/size}... ahem... good, but uhm... the lock down basically disrupted all my plans..."
+msgstr "[h] {size=-20}Yes!{/size}... ahem... good, but uhm... the lock down basically disrupted all my plans..."
 
 # game/events_mc.rpy:2409 ## translate crowdin d9_backhome_pcroom_9bebaa59:
 msgid "[pc] Lock down?"
 msgstr "[pc] Lock down?"
 
 # game/events_mc.rpy:2410 ## translate crowdin d9_backhome_pcroom_7c618874:
-msgid "h "You didn't get the news yet? All public areas like restaurants, bars and so on are closed from tomorrow on."
-msgstr "h "You didn't get the news yet? All public areas like restaurants, bars and so on are closed from tomorrow on."
+msgid "[h] You didn't get the news yet? All public areas like restaurants, bars and so on are closed from tomorrow on."
+msgstr "[h] You didn't get the news yet? All public areas like restaurants, bars and so on are closed from tomorrow on."
 
 # game/events_mc.rpy:2411 ## translate crowdin d9_backhome_pcroom_a7483d27:
 msgid "[pc] What?! Why?"
 msgstr "[pc] What?! Why?"
 
 # game/events_mc.rpy:2412 ## translate crowdin d9_backhome_pcroom_e570a7e4:
-msgid "h "Uhh... you don't watch TV?"
-msgstr "h "Uhh... you don't watch TV?"
+msgid "[h] Uhh... you don't watch TV?"
+msgstr "[h] Uhh... you don't watch TV?"
 
 # game/events_mc.rpy:2413 ## translate crowdin d9_backhome_pcroom_52dde854:
 msgid "[pc] Not much lately..."
 msgstr "[pc] Not much lately..."
 
 # game/events_mc.rpy:2414 ## translate crowdin d9_backhome_pcroom_641e39b8:
-msgid "h "You've really been busy, haven't you?"
-msgstr "h "You've really been busy, haven't you?"
+msgid "[h] You've really been busy, haven't you?"
+msgstr "[h] You've really been busy, haven't you?"
 
 # game/events_mc.rpy:2415 ## translate crowdin d9_backhome_pcroom_429b9a1d:
 msgid "[pc] Yeah... sorry."
 msgstr "[pc] Yeah... sorry."
 
 # game/events_mc.rpy:2416 ## translate crowdin d9_backhome_pcroom_3f39ef32:
-msgid "h "It's okay, it's nice that you didn't forget about me."
-msgstr "h "It's okay, it's nice that you didn't forget about me."
+msgid "[h] It's okay, it's nice that you didn't forget about me."
+msgstr "[h] It's okay, it's nice that you didn't forget about me."
 
 # game/events_mc.rpy:2418 ## translate crowdin d9_backhome_pcroom_35c9fc02:
 msgid "[pc] How could I forget such a cute girl."
 msgstr "[pc] How could I forget such a cute girl."
 
 # game/events_mc.rpy:2419 ## translate crowdin d9_backhome_pcroom_d4e6c9d6:
-msgid "h "Haha, thanks!"
-msgstr "h "Haha, thanks!"
+msgid "[h] Haha, thanks!"
+msgstr "[h] Haha, thanks!"
 
 # game/events_mc.rpy:2420 ## translate crowdin d9_backhome_pcroom_8ddf7669:
 msgid "[pc] So where do you want to go tomorrow if everything's closed?"
 msgstr "[pc] So where do you want to go tomorrow if everything's closed?"
 
 # game/events_mc.rpy:2421 ## translate crowdin d9_backhome_pcroom_a39d5d94:
-msgid "h "Oh I have an idea already, but I won't tell, hehe."
-msgstr "h "Oh I have an idea already, but I won't tell, hehe."
+msgid "[h] Oh I have an idea already, but I won't tell, hehe."
+msgstr "[h] Oh I have an idea already, but I won't tell, hehe."
 
 # game/events_mc.rpy:2422 ## translate crowdin d9_backhome_pcroom_84edfdb0:
 msgid "[pc] Oh come on, that's mean."
 msgstr "[pc] Oh come on, that's mean."
 
 # game/events_mc.rpy:2423 ## translate crowdin d9_backhome_pcroom_121e0175:
-msgid "h "Hehe... well, there is a nice place I'd like to go."
-msgstr "h "Hehe... well, there is a nice place I'd like to go."
+msgid "[h] Hehe... well, there is a nice place I'd like to go."
+msgstr "[h] Hehe... well, there is a nice place I'd like to go."
 
 # game/events_mc.rpy:2424 ## translate crowdin d9_backhome_pcroom_227113d8:
 msgid "[pc] Where is it?"
 msgstr "[pc] Where is it?"
 
 # game/events_mc.rpy:2425 ## translate crowdin d9_backhome_pcroom_f6f5d842:
-msgid "h "Hmm... I'll tell you this much: It's a quiet and beautiful place."
-msgstr "h "Hmm... I'll tell you this much: It's a quiet and beautiful place."
+msgid "[h] Hmm... I'll tell you this much: It's a quiet and beautiful place."
+msgstr "[h] Hmm... I'll tell you this much: It's a quiet and beautiful place."
 
 # game/events_mc.rpy:2426 ## translate crowdin d9_backhome_pcroom_40891c8f:
 msgid "[pc] Quiet and beautiful, huh?"
 msgstr "[pc] Quiet and beautiful, huh?"
 
 # game/events_mc.rpy:2427 ## translate crowdin d9_backhome_pcroom_ba1b1223:
-msgid "h "Yes, I think you'll like it."
-msgstr "h "Yes, I think you'll like it."
+msgid "[h] Yes, I think you'll like it."
+msgstr "[h] Yes, I think you'll like it."
 
 # game/events_mc.rpy:2428 ## translate crowdin d9_backhome_pcroom_70cd033b:
 msgid "[pc] I bet!"
@@ -5607,52 +5607,52 @@ msgid "[pc] Do I need a fancy dress?"
 msgstr "[pc] Do I need a fancy dress?"
 
 # game/events_mc.rpy:2433 ## translate crowdin d9_backhome_pcroom_b39a23b4:
-msgid "h "Haha, no! You'll look good anyway..."
-msgstr "h "Haha, no! You'll look good anyway..."
+msgid "[h] Haha, no! You'll look good anyway..."
+msgstr "[h] Haha, no! You'll look good anyway..."
 
 # game/events_mc.rpy:2434 ## translate crowdin d9_backhome_pcroom_723709d4:
 msgid "[pc] Now you're making me blush."
 msgstr "[pc] Now you're making me blush."
 
 # game/events_mc.rpy:2435 ## translate crowdin d9_backhome_pcroom_84e2e925:
-msgid "h "Hehe... {size=-20}*yaaaaawn*{/size}"
-msgstr "h "Hehe... {size=-20}*yaaaaawn*{/size}"
+msgid "[h] Hehe... {size=-20}*yaaaaawn*{/size}"
+msgstr "[h] Hehe... {size=-20}*yaaaaawn*{/size}"
 
 # game/events_mc.rpy:2436 ## translate crowdin d9_backhome_pcroom_feedf2db:
 msgid "[pc] Well, I can't wait, but I better let you sleep now."
 msgstr "[pc] Well, I can't wait, but I better let you sleep now."
 
 # game/events_mc.rpy:2437 ## translate crowdin d9_backhome_pcroom_cd6fd29c:
-msgid "h "Oh I'm not tired, really!"
-msgstr "h "Oh I'm not tired, really!"
+msgid "[h] Oh I'm not tired, really!"
+msgstr "[h] Oh I'm not tired, really!"
 
 # game/events_mc.rpy:2438 ## translate crowdin d9_backhome_pcroom_034c3085:
 msgid "[pc] Heh, we'll have a lot of time to talk tomorrow, and you know what?"
 msgstr "[pc] Heh, we'll have a lot of time to talk tomorrow, and you know what?"
 
 # game/events_mc.rpy:2439 ## translate crowdin d9_backhome_pcroom_ff932e82:
-msgid "h "What?"
-msgstr "h "What?"
+msgid "[h] What?"
+msgstr "[h] What?"
 
 # game/events_mc.rpy:2440 ## translate crowdin d9_backhome_pcroom_54362f51:
 msgid "[pc] It will be even better, because we can see each other."
 msgstr "[pc] It will be even better, because we can see each other."
 
 # game/events_mc.rpy:2441 ## translate crowdin d9_backhome_pcroom_419d2aa8:
-msgid "h "Haha, right! And maybe even..."
-msgstr "h "Haha, right! And maybe even..."
+msgid "[h] Haha, right! And maybe even..."
+msgstr "[h] Haha, right! And maybe even..."
 
 # game/events_mc.rpy:2442 ## translate crowdin d9_backhome_pcroom_182bc93e:
-msgid "h "Touch... haha!"
-msgstr "h "Touch... haha!"
+msgid "[h] Touch... haha!"
+msgstr "[h] Touch... haha!"
 
 # game/events_mc.rpy:2443 ## translate crowdin d9_backhome_pcroom_09f0e787:
 msgid "[pc] Haha, you're cute! Good night and sweet dreams, [h]!"
 msgstr "[pc] Haha, you're cute! Good night and sweet dreams, [h]!"
 
 # game/events_mc.rpy:2444 ## translate crowdin d9_backhome_pcroom_79363e4c:
-msgid "h "You too! Sweet dreams, [pc]! See you tomorrow!"
-msgstr "h "You too! Sweet dreams, [pc]! See you tomorrow!"
+msgid "[h] You too! Sweet dreams, [pc]! See you tomorrow!"
+msgstr "[h] You too! Sweet dreams, [pc]! See you tomorrow!"
 
 # game/events_mc.rpy:2445 ## translate crowdin d9_backhome_pcroom_806f8391:
 msgid "[pc] See you tomorrow, [h]!"
@@ -5687,52 +5687,52 @@ msgid "[pc] Dad?"
 msgstr "[pc] Dad?"
 
 # game/events_mc.rpy:2463 ## translate crowdin d9dream_9aef7dc5:
-msgid "Dad" "Oh hey, [pc]... *sniff*"
-msgstr "Dad" "Oh hey, [pc]... *sniff*"
+msgid "Dad || Oh hey, [pc]... *sniff*"
+msgstr "Dad || Oh hey, [pc]... *sniff*"
 
 # game/events_mc.rpy:2464 ## translate crowdin d9dream_e6e5c075:
 msgid "[n] He wipes tears from his eyes. You can see him holding a photo of your mom in his hands."
 msgstr "[n] He wipes tears from his eyes. You can see him holding a photo of your mom in his hands."
 
 # game/events_mc.rpy:2465 ## translate crowdin d9dream_84c70355:
-msgid "Dad" "You're back early..."
-msgstr "Dad" "You're back early..."
+msgid "Dad || You're back early..."
+msgstr "Dad || You're back early..."
 
 # game/events_mc.rpy:2466 ## translate crowdin d9dream_96535a88:
 msgid "[pc] Are you crying, Dad?"
 msgstr "[pc] Are you crying, Dad?"
 
 # game/events_mc.rpy:2467 ## translate crowdin d9dream_e24b33bd:
-msgid "Dad" "No... *sniff* ...must've gotten something in my eye..."
-msgstr "Dad" "No... *sniff* ...must've gotten something in my eye..."
+msgid "Dad || No... *sniff* ...must've gotten something in my eye..."
+msgstr "Dad || No... *sniff* ...must've gotten something in my eye..."
 
 # game/events_mc.rpy:2468 ## translate crowdin d9dream_a69377ef:
 msgid "[pc] ..."
 msgstr "[pc] ..."
 
 # game/events_mc.rpy:2469 ## translate crowdin d9dream_da7061f8:
-msgid "Dad" "Do you miss your mom, [pc]?"
-msgstr "Dad" "Do you miss your mom, [pc]?"
+msgid "Dad || Do you miss your mom, [pc]?"
+msgstr "Dad || Do you miss your mom, [pc]?"
 
 # game/events_mc.rpy:2470 ## translate crowdin d9dream_3b5608b8:
 msgid "[pc] Yes..."
 msgstr "[pc] Yes..."
 
 # game/events_mc.rpy:2471 ## translate crowdin d9dream_234a4777:
-msgid "Dad" "Hm... you should forget about her..."
-msgstr "Dad" "Hm... you should forget about her..."
+msgid "Dad || Hm... you should forget about her..."
+msgstr "Dad || Hm... you should forget about her..."
 
 # game/events_mc.rpy:2472 ## translate crowdin d9dream_0628eca5:
 msgid "[pc] I don't want to forget her!"
 msgstr "[pc] I don't want to forget her!"
 
 # game/events_mc.rpy:2473 ## translate crowdin d9dream_d262fbf2:
-msgid "Dad" "But it's better for you... for both of us..."
-msgstr "Dad" "But it's better for you... for both of us..."
+msgid "Dad || But it's better for you... for both of us..."
+msgstr "Dad || But it's better for you... for both of us..."
 
 # game/events_mc.rpy:2474 ## translate crowdin d9dream_85c0867b:
-msgid "Dad" "...and do yourself a favor and never fall in love..."
-msgstr "Dad" "...and do yourself a favor and never fall in love..."
+msgid "Dad || ...and do yourself a favor and never fall in love..."
+msgstr "Dad || ...and do yourself a favor and never fall in love..."
 
 # game/events_mc.rpy:2475 ## translate crowdin d9dream_a69377ef_1:
 msgid "[pc] ..."
@@ -5747,28 +5747,28 @@ msgid "[pc] Don't you love [m], Dad?"
 msgstr "[pc] Don't you love [m], Dad?"
 
 # game/events_mc.rpy:2478 ## translate crowdin d9dream_51070d0f:
-msgid "Dad" "[m]?! Pff..."
-msgstr "Dad" "[m]?! Pff..."
+msgid "Dad || [m]?! Pff..."
+msgstr "Dad || [m]?! Pff..."
 
 # game/events_mc.rpy:2479 ## translate crowdin d9dream_14cfced5:
-msgid "Dad" "That b... she doesn't even know how to cook a proper meal, let alone how to suck a..."
-msgstr "Dad" "That b... she doesn't even know how to cook a proper meal, let alone how to suck a..."
+msgid "Dad || That b... she doesn't even know how to cook a proper meal, let alone how to suck a..."
+msgstr "Dad || That b... she doesn't even know how to cook a proper meal, let alone how to suck a..."
 
 # game/events_mc.rpy:2480 ## translate crowdin d9dream_8854a3cf:
-msgid "Dad" "Uch... damn it..."
-msgstr "Dad" "Uch... damn it..."
+msgid "Dad || Uch... damn it..."
+msgstr "Dad || Uch... damn it..."
 
 # game/events_mc.rpy:2481 ## translate crowdin d9dream_d582bfa7:
-msgid "Dad" "Just always remember that she's not your mom, even if she tries to be... she's useless and she'll never be your mom!"
-msgstr "Dad" "Just always remember that she's not your mom, even if she tries to be... she's useless and she'll never be your mom!"
+msgid "Dad || Just always remember that she's not your mom, even if she tries to be... she's useless and she'll never be your mom!"
+msgstr "Dad || Just always remember that she's not your mom, even if she tries to be... she's useless and she'll never be your mom!"
 
 # game/events_mc.rpy:2482 ## translate crowdin d9dream_5d7119e2:
 msgid "[pc] ...okay..."
 msgstr "[pc] ...okay..."
 
 # game/events_mc.rpy:2483 ## translate crowdin d9dream_155a3712:
-msgid "Dad" "Now go back to your room or go out and play or whatever you do..."
-msgstr "Dad" "Now go back to your room or go out and play or whatever you do..."
+msgid "Dad || Now go back to your room or go out and play or whatever you do..."
+msgstr "Dad || Now go back to your room or go out and play or whatever you do..."
 
 # game/events_mc.rpy:2484 ## translate crowdin d9dream_880b4aa8:
 msgid "[pc] Okay..."
@@ -5779,28 +5779,28 @@ msgid "[n] You're about to leave the room..."
 msgstr "[n] You're about to leave the room..."
 
 # game/events_mc.rpy:2486 ## translate crowdin d9dream_14e7ad76:
-msgid "Dad" "[pc]?"
-msgstr "Dad" "[pc]?"
+msgid "Dad || [pc]?"
+msgstr "Dad || [pc]?"
 
 # game/events_mc.rpy:2487 ## translate crowdin d9dream_bbe33639:
 msgid "[pc] Yes, Dad?"
 msgstr "[pc] Yes, Dad?"
 
 # game/events_mc.rpy:2488 ## translate crowdin d9dream_0b01384d:
-msgid "Dad" "I'm sorry that I..."
-msgstr "Dad" "I'm sorry that I..."
+msgid "Dad || I'm sorry that I..."
+msgstr "Dad || I'm sorry that I..."
 
 # game/events_mc.rpy:2489 ## translate crowdin d9dream_503d5266:
-msgid "Dad" "...sometimes..."
-msgstr "Dad" "...sometimes..."
+msgid "Dad || ...sometimes..."
+msgstr "Dad || ...sometimes..."
 
 # game/events_mc.rpy:2490 ## translate crowdin d9dream_cde1b3be:
-msgid "Dad" "..."
-msgstr "Dad" "..."
+msgid "Dad || ..."
+msgstr "Dad || ..."
 
 # game/events_mc.rpy:2491 ## translate crowdin d9dream_b283b4e3:
-msgid "Dad" "Never mind, just go..."
-msgstr "Dad" "Never mind, just go..."
+msgid "Dad || Never mind, just go..."
+msgstr "Dad || Never mind, just go..."
 
 # game/events_mc.rpy:2497 ## translate crowdin d10wakeup_e2ee86ba:
 msgid "[pc] Uhh..."
@@ -6223,8 +6223,8 @@ msgid "[n] It's quite late already, so everyone quickly goes to bed after dinner
 msgstr "[n] It's quite late already, so everyone quickly goes to bed after dinner, you decide do the same."
 
 # game/events_mc.rpy:2701 ## translate crowdin d10nightsex_38cd2de2:
-msgid "Voice" "Wakey wakey." with slowdissolve
-msgstr "Voice" "Wakey wakey." with slowdissolve
+msgid "Voice" "Wakey wakey. [withslowdissolve]"
+msgstr "Voice" "Wakey wakey. [withslowdissolve]"
 
 # game/events_mc.rpy:2702 ## translate crowdin d10nightsex_9f4f5a57:
 msgid "[pc] Uhh... is it morning already?"

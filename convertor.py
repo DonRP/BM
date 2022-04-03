@@ -17,6 +17,8 @@ msgid \"""",
     """\" nointeract""": """ [nointeract]\"""",
     """\" with fade""": """ [withfade]\"""",
     """\" with dissolve""": """ [withdissolve]\"""",
+    """\" with slowdissolve""": """ [withslowdissolve]\"""",
+    """\" with hpunch""": """ [withhpunch]\"""",
     """\" with Dissolve(2.0)""": """ [withDissolve(2.0)]\"""",
     """\n    """: """\nmsgstr \"""",
     # ch
@@ -26,11 +28,17 @@ msgid \"""",
     """ \"m \"""": """ \"[m] """,
     """ \"j \"""": """ \"[j] """,
     """ \"e \"""": """ \"[e] """,
-    """ \"Cab driver\" \"""": """ \"Cab driver || """,
-
+    """ \"t \"""": """ \"[t] """,
+    """ \"h \"""": """ \"[h] """,
     """ \"pcthink \"""": """ \"[pcthink] """,
 
     """ \"extend \"""": """ \"[extend] """,
+
+    """ \"Cab driver\" \"""": """ \"Cab driver || """,
+    """ \"Maggy\" \"""": """ \"Maggy || """,
+    """ \"Female Voice\" \"""": """ \"Female Voice || """,
+    """ \"Loud Voice\" \"""": """ \"Loud Voice || """,
+    """ \"Dad\" \"""": """ \"Dad || """,
     # Fix
     """msgstr \"\"[""": """msgstr \"[@""",
     """msgid \"\"[""": """msgid \"[@""",

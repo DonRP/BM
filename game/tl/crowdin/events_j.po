@@ -15,8 +15,8 @@ msgid "[n] You open the door and..."
 msgstr "[n] You open the door and..."
 
 # game/events_j.rpy:9 ## translate crowdin jadaFirstMeet_1c30cb5a:
-msgid "Girl" "Owww..." with hpunch
-msgstr "Girl" "Owww..." with hpunch
+msgid "Girl" "Owww... [withhpunch]"
+msgstr "Girl" "Owww... [withhpunch]"
 
 # game/events_j.rpy:10 ## translate crowdin jadaFirstMeet_26b08e4a:
 msgid "[pc] Fuck!"
@@ -1315,8 +1315,8 @@ msgid "[pcthink] Damn, I should've taken the long way, who knew that the old sho
 msgstr "[pcthink] Damn, I should've taken the long way, who knew that the old shortcut doesn't exist anymore..."
 
 # game/events_j.rpy:527 ## translate crowdin d6_wayBackHome_a7b1110d:
-msgid "t "{size=-10}LEAVE ME ALONE!{/size}"
-msgstr "t "{size=-10}LEAVE ME ALONE!{/size}"
+msgid "[t] {size=-10}LEAVE ME ALONE!{/size}"
+msgstr "[t] {size=-10}LEAVE ME ALONE!{/size}"
 
 # game/events_j.rpy:528 ## translate crowdin d6_wayBackHome_87dd07bf:
 msgid "[pcthink] Huh? Wasn't that [t]'s voice?"
@@ -1331,8 +1331,8 @@ msgid "[pcthink] Wow, someone like her has a boyfriend?"
 msgstr "[pcthink] Wow, someone like her has a boyfriend?"
 
 # game/events_j.rpy:534 ## translate crowdin d6_wayBackHome_d9d7e804:
-msgid "t "I told you, I'm not ready yet!"
-msgstr "t "I told you, I'm not ready yet!"
+msgid "[t] I told you, I'm not ready yet!"
+msgstr "[t] I told you, I'm not ready yet!"
 
 # game/events_j.rpy:535 ## translate crowdin d6_wayBackHome_b5ff0ab4:
 msgid "[pcthink] Ha, no wonder she gets off so fast..."
@@ -1343,16 +1343,16 @@ msgid "Man" "Come on [t], I don't want to wait any longer."
 msgstr "Man" "Come on [t], I don't want to wait any longer."
 
 # game/events_j.rpy:538 ## translate crowdin d6_wayBackHome_1b815189:
-msgid "t "I don't care! Don't touch me!"
-msgstr "t "I don't care! Don't touch me!"
+msgid "[t] I don't care! Don't touch me!"
+msgstr "[t] I don't care! Don't touch me!"
 
 # game/events_j.rpy:539 ## translate crowdin d6_wayBackHome_ff0cfe0c:
 msgid "Man" "What the fuck [t], we've been together for 2 months!"
 msgstr "Man" "What the fuck [t], we've been together for 2 months!"
 
 # game/events_j.rpy:540 ## translate crowdin d6_wayBackHome_039a1d72:
-msgid "t "Stop touching me, I'm warning you!"
-msgstr "t "Stop touching me, I'm warning you!"
+msgid "[t] Stop touching me, I'm warning you!"
+msgstr "[t] Stop touching me, I'm warning you!"
 
 # game/events_j.rpy:541 ## translate crowdin d6_wayBackHome_3733b784:
 msgid "Man" "You're warning me? Are you serious? What are you going to do, huh?!"
@@ -1363,20 +1363,20 @@ msgid "[pcthink] Looks like it's getting ugly... maybe I should help her..."
 msgstr "[pcthink] Looks like it's getting ugly... maybe I should help her..."
 
 # game/events_j.rpy:544 ## translate crowdin d6_wayBackHome_f4545f94:
-msgid "t "How about this!!!"
-msgstr "t "How about this!!!"
+msgid "[t] How about this!!!"
+msgstr "[t] How about this!!!"
 
 # game/events_j.rpy:546 ## translate crowdin d6_wayBackHome_247824fd:
-msgid "t "Haaaaya!" with hpunch
-msgstr "t "Haaaaya!" with hpunch
+msgid "[t] Haaaaya! [withhpunch]"
+msgstr "[t] Haaaaya! [withhpunch]"
 
 # game/events_j.rpy:547 ## translate crowdin d6_wayBackHome_28e59d42:
 msgid "[pcthink] Holy fuck!"
 msgstr "[pcthink] Holy fuck!"
 
 # game/events_j.rpy:548 ## translate crowdin d6_wayBackHome_3044cb62:
-msgid "t "How do you like that, asshole!"
-msgstr "t "How do you like that, asshole!"
+msgid "[t] How do you like that, asshole!"
+msgstr "[t] How do you like that, asshole!"
 
 # game/events_j.rpy:550 ## translate crowdin d6_wayBackHome_442fb92a:
 msgid "[n] *Honk* *Honk*"
@@ -1407,8 +1407,8 @@ msgid "[pc] [j]! What the..."
 msgstr "[pc] [j]! What the..."
 
 # game/events_j.rpy:564 ## translate crowdin d6_wayBackHome_e725b978:
-msgid "t "{size=-10}...and don't you dare talk to me ever again, asshole!{/size}"
-msgstr "t "{size=-10}...and don't you dare talk to me ever again, asshole!{/size}"
+msgid "[t] {size=-10}...and don't you dare talk to me ever again, asshole!{/size}"
+msgstr "[t] {size=-10}...and don't you dare talk to me ever again, asshole!{/size}"
 
 # game/events_j.rpy:567 ## translate crowdin d6_wayBackHome_64ff1d94:
 msgid "[pcthink] Damn, she could have easily knocked me out when I touched her... why didn't she?"
@@ -3163,8 +3163,8 @@ msgid "[pc] ..."
 msgstr "[pc] ..."
 
 # game/events_j.rpy:1397 ## translate crowdin d9_morning_wakeup_a2da44d8:
-msgid "[n] *Boink*" with hpunch
-msgstr "[n] *Boink*" with hpunch
+msgid "[n] *Boink* [withhpunch]"
+msgstr "[n] *Boink* [withhpunch]"
 
 # game/events_j.rpy:1400 ## translate crowdin d9_morning_wakeup_32ead6f8:
 msgid "[pcthink] Huh?"

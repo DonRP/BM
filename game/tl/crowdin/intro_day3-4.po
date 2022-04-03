@@ -43,44 +43,44 @@ msgid "[n] At night [withdissolve]"
 msgstr "[n] At night [withdissolve]"
 
 # game/intro_day3-4.rpy:25 ## translate crowdin intro_day3_be5544eb:
-msgid "[n] *creak*{w=1}{nw}" with hpunch
-msgstr "[n] *creak*{w=1}{nw}" with hpunch
+msgid "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:26 ## translate crowdin intro_day3_be5544eb_1:
-msgid "[n] *creak*{w=1}{nw}" with hpunch
-msgstr "[n] *creak*{w=1}{nw}" with hpunch
+msgid "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:27 ## translate crowdin intro_day3_be5544eb_2:
-msgid "[n] *creak*{w=1}{nw}" with hpunch
-msgstr "[n] *creak*{w=1}{nw}" with hpunch
+msgid "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:29 ## translate crowdin intro_day3_399aa3d1:
 msgid "[pcthink] Ughh, what's this..."
 msgstr "[pcthink] Ughh, what's this..."
 
 # game/intro_day3-4.rpy:30 ## translate crowdin intro_day3_be5544eb_3:
-msgid "[n] *creak*{w=1}{nw}" with hpunch
-msgstr "[n] *creak*{w=1}{nw}" with hpunch
+msgid "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:31 ## translate crowdin intro_day3_be5544eb_4:
-msgid "[n] *creak*{w=1}{nw}" with hpunch
-msgstr "[n] *creak*{w=1}{nw}" with hpunch
+msgid "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:32 ## translate crowdin intro_day3_4214b531:
 msgid "Voice" "{size=-10}Ahh, yes!{/size}"
 msgstr "Voice" "{size=-10}Ahh, yes!{/size}"
 
 # game/intro_day3-4.rpy:33 ## translate crowdin intro_day3_be5544eb_5:
-msgid "[n] *creak*{w=1}{nw}" with hpunch
-msgstr "[n] *creak*{w=1}{nw}" with hpunch
+msgid "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:34 ## translate crowdin intro_day3_be5544eb_6:
-msgid "[n] *creak*{w=1}{nw}" with hpunch
-msgstr "[n] *creak*{w=1}{nw}" with hpunch
+msgid "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:35 ## translate crowdin intro_day3_be5544eb_7:
-msgid "[n] *creak*{w=1}{nw}" with hpunch
-msgstr "[n] *creak*{w=1}{nw}" with hpunch
+msgid "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:36 ## translate crowdin intro_day3_af9ff73e:
 msgid "Voice" "{size=-10}Ahnn, babe!!{/size}"
@@ -95,12 +95,12 @@ msgid "[n] You turn around and try to sleep"
 msgstr "[n] You turn around and try to sleep"
 
 # game/intro_day3-4.rpy:40 ## translate crowdin intro_day3_be5544eb_8:
-msgid "[n] *creak*{w=1}{nw}" with hpunch
-msgstr "[n] *creak*{w=1}{nw}" with hpunch
+msgid "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:41 ## translate crowdin intro_day3_be5544eb_9:
-msgid "[n] *creak*{w=1}{nw}" with hpunch
-msgstr "[n] *creak*{w=1}{nw}" with hpunch
+msgid "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:42 ## translate crowdin intro_day3_a69377ef:
 msgid "[pc] ..."

@@ -5699,8 +5699,8 @@ msgid "[n] She also completely ignores that you have a boner..."
 msgstr "[n] She also completely ignores that you have a boner..."
 
 # game/events_m.rpy:2344 ## translate crowdin d10shower2_2aacafaf:
-msgid "[n] A little bit later." with slowdissolve
-msgstr "[n] A little bit later." with slowdissolve
+msgid "[n] A little bit later. [withslowdissolve]"
+msgstr "[n] A little bit later. [withslowdissolve]"
 
 # XXtranslate crowdin strings:XX# XX## game/events_m.rpy:75
 msgid  "Knock at the door"

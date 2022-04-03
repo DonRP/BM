@@ -7,84 +7,84 @@ msgid "[n] ..."
 msgstr "[n] ..."
 
 # game/intro_day2.rpy:9 ## translate crowdin intro_day2_0de96e02:
-msgid "Loud Voice" "I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN!" with vpunch
-msgstr "Loud Voice" "I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN!" with vpunch
+msgid "Loud Voice || I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN!" with vpunch
+msgstr "Loud Voice || I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN!" with vpunch
 
 # game/intro_day2.rpy:10 ## translate crowdin intro_day2_e7c86f6c:
-msgid "Female Voice" "I'm not lying, I didn't do anything. He was just talking to me!"
-msgstr "Female Voice" "I'm not lying, I didn't do anything. He was just talking to me!"
+msgid "Female Voice || I'm not lying, I didn't do anything. He was just talking to me!"
+msgstr "Female Voice || I'm not lying, I didn't do anything. He was just talking to me!"
 
 # game/intro_day2.rpy:11 ## translate crowdin intro_day2_46a27d87:
-msgid "Loud Voice" "I FUCKIN' TOLD YOU WHAT'S GOIN TO HAPPEN, YOU FUCKIN' SLUT!"
-msgstr "Loud Voice" "I FUCKIN' TOLD YOU WHAT'S GOIN TO HAPPEN, YOU FUCKIN' SLUT!"
+msgid "Loud Voice || I FUCKIN' TOLD YOU WHAT'S GOIN TO HAPPEN, YOU FUCKIN' SLUT!"
+msgstr "Loud Voice || I FUCKIN' TOLD YOU WHAT'S GOIN TO HAPPEN, YOU FUCKIN' SLUT!"
 
 # game/intro_day2.rpy:12 ## translate crowdin intro_day2_7b2b0f4d:
-msgid "Female Voice" "No, please. I swear I didn't..."
-msgstr "Female Voice" "No, please. I swear I didn't..."
+msgid "Female Voice || No, please. I swear I didn't..."
+msgstr "Female Voice || No, please. I swear I didn't..."
 
 # game/intro_day2.rpy:13 ## translate crowdin intro_day2_2d683f63:
-msgid "Loud Voice" "SHUT THE FUCK UP, SLUT!"
-msgstr "Loud Voice" "SHUT THE FUCK UP, SLUT!"
+msgid "Loud Voice || SHUT THE FUCK UP, SLUT!"
+msgstr "Loud Voice || SHUT THE FUCK UP, SLUT!"
 
 # game/intro_day2.rpy:15 ## translate crowdin intro_day2_dbd9bc4b:
-msgid "*SLAP*" with hpunch
-msgstr "*SLAP*" with hpunch
+msgid "*SLAP* [withhpunch]"
+msgstr "*SLAP* [withhpunch]"
 
 # game/intro_day2.rpy:16 ## translate crowdin intro_day2_234974f3:
-msgid "Female Voice" "Ahh... n-no, p-please..."
-msgstr "Female Voice" "Ahh... n-no, p-please..."
+msgid "Female Voice || Ahh... n-no, p-please..."
+msgstr "Female Voice || Ahh... n-no, p-please..."
 
 # game/intro_day2.rpy:18 ## translate crowdin intro_day2_dbd9bc4b_1:
-msgid "*SLAP*" with hpunch
-msgstr "*SLAP*" with hpunch
+msgid "*SLAP* [withhpunch]"
+msgstr "*SLAP* [withhpunch]"
 
 # game/intro_day2.rpy:19 ## translate crowdin intro_day2_3fe3cd48:
 msgid "*wimpering*"
 msgstr "*wimpering*"
 
 # game/intro_day2.rpy:20 ## translate crowdin intro_day2_e3206cca:
-msgid "Female Voice" "Please..."
-msgstr "Female Voice" "Please..."
+msgid "Female Voice || Please..."
+msgstr "Female Voice || Please..."
 
 # game/intro_day2.rpy:21 ## translate crowdin intro_day2_ab5649b7:
-msgid "Loud Voice" "I TOLD YOU TO SHUT UP SLUT!"
-msgstr "Loud Voice" "I TOLD YOU TO SHUT UP SLUT!"
+msgid "Loud Voice || I TOLD YOU TO SHUT UP SLUT!"
+msgstr "Loud Voice || I TOLD YOU TO SHUT UP SLUT!"
 
 # game/intro_day2.rpy:23 ## translate crowdin intro_day2_5dbe0428:
-msgid "*SMACK*" with hpunch
-msgstr "*SMACK*" with hpunch
+msgid "*SMACK* [withhpunch]"
+msgstr "*SMACK* [withhpunch]"
 
 # game/intro_day2.rpy:24 ## translate crowdin intro_day2_801a666c:
-msgid "Female Voice" "ACK"
-msgstr "Female Voice" "ACK"
+msgid "Female Voice || ACK"
+msgstr "Female Voice || ACK"
 
 # game/intro_day2.rpy:25 ## translate crowdin intro_day2_3fe3cd48_1:
 msgid "*wimpering*"
 msgstr "*wimpering*"
 
 # game/intro_day2.rpy:26 ## translate crowdin intro_day2_92c9fe5c:
-msgid "Female Voice" "I'm sorry... I'm sorry..."
-msgstr "Female Voice" "I'm sorry... I'm sorry..."
+msgid "Female Voice || I'm sorry... I'm sorry..."
+msgstr "Female Voice || I'm sorry... I'm sorry..."
 
 # game/intro_day2.rpy:27 ## translate crowdin intro_day2_6d188e1b:
-msgid "Loud Voice" "Yeah, you better be... now, suck it!"
-msgstr "Loud Voice" "Yeah, you better be... now, suck it!"
+msgid "Loud Voice || Yeah, you better be... now, suck it!"
+msgstr "Loud Voice || Yeah, you better be... now, suck it!"
 
 # game/intro_day2.rpy:28 ## translate crowdin intro_day2_3fe3cd48_2:
 msgid "*wimpering*"
 msgstr "*wimpering*"
 
 # game/intro_day2.rpy:29 ## translate crowdin intro_day2_912294a2:
-msgid "Loud Voice" "I TOLD YOU TO SUCK!"
-msgstr "Loud Voice" "I TOLD YOU TO SUCK!"
+msgid "Loud Voice || I TOLD YOU TO SUCK!"
+msgstr "Loud Voice || I TOLD YOU TO SUCK!"
 
 # game/intro_day2.rpy:30 ## translate crowdin intro_day2_420b7706:
-msgid "Female Voice" "Yes, yes, I'm sorry..."
-msgstr "Female Voice" "Yes, yes, I'm sorry..."
+msgid "Female Voice || Yes, yes, I'm sorry..."
+msgstr "Female Voice || Yes, yes, I'm sorry..."
 
 # game/intro_day2.rpy:31 ## translate crowdin intro_day2_c86c2e61:
-msgid "Female Voice" "Unn..."
-msgstr "Female Voice" "Unn..."
+msgid "Female Voice || Unn..."
+msgstr "Female Voice || Unn..."
 
 # game/intro_day2.rpy:33 ## translate crowdin intro_day2_a6b1be05:
 msgid "[n] *KNOCK* *KNOCK*"
@@ -95,28 +95,28 @@ msgid "[pc] D-Dad? What's going on, why are you screaming?"
 msgstr "[pc] D-Dad? What's going on, why are you screaming?"
 
 # game/intro_day2.rpy:35 ## translate crowdin intro_day2_7d00296a:
-msgid "Loud Voice" "FUCK!"
-msgstr "Loud Voice" "FUCK!"
+msgid "Loud Voice || FUCK!"
+msgstr "Loud Voice || FUCK!"
 
 # game/intro_day2.rpy:37 ## translate crowdin intro_day2_cb56ae6b:
 msgid "[n] The door opens slightly."
 msgstr "[n] The door opens slightly."
 
 # game/intro_day2.rpy:38 ## translate crowdin intro_day2_e0e49eec:
-msgid "Dad" "Hey, it's okay. [m] and I just had a small argument. Nothing special. Go to bed [boygirl]."
-msgstr "Dad" "Hey, it's okay. [m] and I just had a small argument. Nothing special. Go to bed [boygirl]."
+msgid "Dad || Hey, it's okay. [m] and I just had a small argument. Nothing special. Go to bed [boygirl]."
+msgstr "Dad || Hey, it's okay. [m] and I just had a small argument. Nothing special. Go to bed [boygirl]."
 
 # game/intro_day2.rpy:39 ## translate crowdin intro_day2_cfb4c32d:
 msgid "[pc] Um... Dad, [m] is bleeding..."
 msgstr "[pc] Um... Dad, [m] is bleeding..."
 
 # game/intro_day2.rpy:40 ## translate crowdin intro_day2_f9cf8ca5:
-msgid "Dad" "It's okay, she was too stupid to watch where she was going and stumbled over something."
-msgstr "Dad" "It's okay, she was too stupid to watch where she was going and stumbled over something."
+msgid "Dad || It's okay, she was too stupid to watch where she was going and stumbled over something."
+msgstr "Dad || It's okay, she was too stupid to watch where she was going and stumbled over something."
 
 # game/intro_day2.rpy:41 ## translate crowdin intro_day2_1e2dd096:
-msgid "Dad" "It's just a scratch, she's fine. Go to bed now."
-msgstr "Dad" "It's just a scratch, she's fine. Go to bed now."
+msgid "Dad || It's just a scratch, she's fine. Go to bed now."
+msgstr "Dad || It's just a scratch, she's fine. Go to bed now."
 
 # game/intro_day2.rpy:42 ## translate crowdin intro_day2_9914fdd0:
 msgid "[pc] Oh... okay."
@@ -131,16 +131,16 @@ msgid "[n] ..."
 msgstr "[n] ..."
 
 # game/intro_day2.rpy:46 ## translate crowdin intro_day2_c5c91f0a:
-msgid "Dad" "{size=-10}Are you happy now? You woke [himher] up with your stupid screaming!{/size}"
-msgstr "Dad" "{size=-10}Are you happy now? You woke [himher] up with your stupid screaming!{/size}"
+msgid "Dad || {size=-10}Are you happy now? You woke [himher] up with your stupid screaming!{/size}"
+msgstr "Dad || {size=-10}Are you happy now? You woke [himher] up with your stupid screaming!{/size}"
 
 # game/intro_day2.rpy:47 ## translate crowdin intro_day2_bf658c6a:
 msgid "[m] {size=-10}...I'm sorry...{/size}"
 msgstr "[m] {size=-10}...I'm sorry...{/size}"
 
 # game/intro_day2.rpy:48 ## translate crowdin intro_day2_c56ae62d:
-msgid "Dad" "{size=-10}Stupid bitch. Turn around!{/size}"
-msgstr "Dad" "{size=-10}Stupid bitch. Turn around!{/size}"
+msgid "Dad || {size=-10}Stupid bitch. Turn around!{/size}"
+msgstr "Dad || {size=-10}Stupid bitch. Turn around!{/size}"
 
 # game/intro_day2.rpy:50 ## translate crowdin intro_day2_a27dcaa7:
 msgid "[m] {size=-10}B-but I'm not on the pill, you know that!?{/size}"
@@ -151,8 +151,8 @@ msgid "[m] {size=-10}P-Please, it still hurts...{/size}"
 msgstr "[m] {size=-10}P-Please, it still hurts...{/size}"
 
 # game/intro_day2.rpy:53 ## translate crowdin intro_day2_1e4fe5fe:
-msgid "Dad" "SHUT UP! I don't fucking care!"
-msgstr "Dad" "SHUT UP! I don't fucking care!"
+msgid "Dad || SHUT UP! I don't fucking care!"
+msgstr "Dad || SHUT UP! I don't fucking care!"
 
 # game/intro_day2.rpy:54 ## translate crowdin intro_day2_63910f04:
 msgid "[n] *wimpering*"

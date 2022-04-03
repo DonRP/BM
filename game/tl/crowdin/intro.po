@@ -179,8 +179,8 @@ msgid "[n] You give him your ID and answer a lot of stupid questions while the o
 msgstr "[n] You give him your ID and answer a lot of stupid questions while the officer is treating you like a felonious gangster."
 
 # game/intro.rpy:68 ## translate crowdin intro_12354bf5:
-msgid "[n] After a while..." with slowdissolve
-msgstr "[n] After a while..." with slowdissolve
+msgid "[n] After a while... [withslowdissolve]"
+msgstr "[n] After a while... [withslowdissolve]"
 
 # game/intro.rpy:70 ## translate crowdin intro_69874e88:
 msgid "Cop" "...and you better stay in the city, or you'll be in trouble!"
