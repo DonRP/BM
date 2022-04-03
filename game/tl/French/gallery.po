@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-03 12:35\n"
+"PO-Revision-Date: 2022-04-03 12:54\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# XXtranslate crowdin strings:XX# XX## game/gallery.rpy:113
 msgid "One of my ealiest test render from when I was working on the livingroom, added a char to test the lighting, kudos to you if you recognize the character, it's a really early version ;)"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/gallery.rpy:113
 msgid "360° VR test render of Ellie. She looks great in VR ;)"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/gallery.rpy:113
 msgid "An early render of Ellie in a cake shop. I thought about adding a scene like that in the game, but didn't find an opportunity yet."
