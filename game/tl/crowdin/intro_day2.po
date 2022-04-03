@@ -7,8 +7,8 @@ msgid "[n] ..."
 msgstr "[n] ..."
 
 # game/intro_day2.rpy:9 ## translate crowdin intro_day2_0de96e02:
-msgid "Loud Voice || I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN!" with vpunch
-msgstr "Loud Voice || I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN!" with vpunch
+msgid "Loud Voice || I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN! [withvpunch]"
+msgstr "Loud Voice || I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN! [withvpunch]"
 
 # game/intro_day2.rpy:10 ## translate crowdin intro_day2_e7c86f6c:
 msgid "Female Voice || I'm not lying, I didn't do anything. He was just talking to me!"

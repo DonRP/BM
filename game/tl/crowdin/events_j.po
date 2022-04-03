@@ -2303,8 +2303,8 @@ msgid "[pc] Holy sh..."
 msgstr "[pc] Holy sh..."
 
 # game/events_j.rpy:1009 ## translate crowdin d6_gotobed_withj_31268906:
-msgid "[j] {cps=15}{size=+10}HAAAAAAAH...{/size}{/cps}" with vpunch
-msgstr "[j] {cps=15}{size=+10}HAAAAAAAH...{/size}{/cps}" with vpunch
+msgid "[j] {cps=15}{size=+10}HAAAAAAAH...{/size}{/cps} [withvpunch]"
+msgstr "[j] {cps=15}{size=+10}HAAAAAAAH...{/size}{/cps} [withvpunch]"
 
 # game/events_j.rpy:1012 ## translate crowdin d6_gotobed_withj_2f842aac:
 msgid "[j] Ohh... shit..."
@@ -4323,12 +4323,12 @@ msgid "[extend]  Shit! [withflash]"
 msgstr "[extend]  Shit! [withflash]"
 
 # game/events_j.rpy:1943 ## translate crowdin d11jbeforlsex_68d1ad89:
-msgid "[extend]  Shit!" with vpunch
-msgstr "[extend]  Shit!" with vpunch
+msgid "[extend]  Shit! [withvpunch]"
+msgstr "[extend]  Shit! [withvpunch]"
 
 # game/events_j.rpy:1949 ## translate crowdin d11jbeforlsex_68d1ad89_1:
-msgid "[extend]  Shit!" with vpunch
-msgstr "[extend]  Shit!" with vpunch
+msgid "[extend]  Shit! [withvpunch]"
+msgstr "[extend]  Shit! [withvpunch]"
 
 # game/events_j.rpy:1955 ## translate crowdin d11jbeforlsex_e9b271fa:
 msgid "[j] Sheeet, that was great!"

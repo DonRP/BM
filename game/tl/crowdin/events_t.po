@@ -47,8 +47,8 @@ msgid "[pc] She has her own therapist?"
 msgstr "[pc] She has her own therapist?"
 
 # game/events_t.rpy:29 ## translate crowdin tIntroductionDay1_6d770962:
-msgid "t1 "Of course."
-msgstr "t1 "Of course."
+msgid "[t1] Of course."
+msgstr "[t1] Of course."
 
 # game/events_t.rpy:30 ## translate crowdin tIntroductionDay1_a69377ef:
 msgid "[pc] ..."
@@ -59,8 +59,8 @@ msgid "[pc] I see... I didn't know."
 msgstr "[pc] I see... I didn't know."
 
 # game/events_t.rpy:32 ## translate crowdin tIntroductionDay1_b33f3940:
-msgid "t1 "Obviously."
-msgstr "t1 "Obviously."
+msgid "[t1] Obviously."
+msgstr "[t1] Obviously."
 
 # game/events_t.rpy:34 ## translate crowdin tIntroductionDay1_1df01319:
 msgid "[pcthink] Why does she have such a hostile attitude?"
@@ -71,36 +71,36 @@ msgid "[pc] Yeah... uh, aren't you a bit young to be a therapist?"
 msgstr "[pc] Yeah... uh, aren't you a bit young to be a therapist?"
 
 # game/events_t.rpy:37 ## translate crowdin tIntroductionDay1_7a7082a7:
-msgid "t1 "I don't see what my age has to do with my work."
-msgstr "t1 "I don't see what my age has to do with my work."
+msgid "[t1] I don't see what my age has to do with my work."
+msgstr "[t1] I don't see what my age has to do with my work."
 
 # game/events_t.rpy:39 ## translate crowdin tIntroductionDay1_4326d8af:
 msgid "[pc] ...yeah. I guess age doesn't matter when you're good at your job..."
 msgstr "[pc] ...yeah. I guess age doesn't matter when you're good at your job..."
 
 # game/events_t.rpy:41 ## translate crowdin tIntroductionDay1_62367340:
-msgid "t1 "Of course, and I am!"
-msgstr "t1 "Of course, and I am!"
+msgid "[t1] Of course, and I am!"
+msgstr "[t1] Of course, and I am!"
 
 # game/events_t.rpy:42 ## translate crowdin tIntroductionDay1_9c33afd3:
 msgid "[pcthink] Wow, what a smug..."
 msgstr "[pcthink] Wow, what a smug..."
 
 # game/events_t.rpy:44 ## translate crowdin tIntroductionDay1_4b54d6e8:
-msgid "t1 "So, [m] told me that [e] is quite... fond of you?"
-msgstr "t1 "So, [m] told me that [e] is quite... fond of you?"
+msgid "[t1] So, [m] told me that [e] is quite... fond of you?"
+msgstr "[t1] So, [m] told me that [e] is quite... fond of you?"
 
 # game/events_t.rpy:46 ## translate crowdin tIntroductionDay1_6ff7343e:
 msgid "[pc] Did she? Well I'm her [bs] after all."
 msgstr "[pc] Did she? Well I'm her [bs] after all."
 
 # game/events_t.rpy:48 ## translate crowdin tIntroductionDay1_80339907:
-msgid "t1 "Hm, I see."
-msgstr "t1 "Hm, I see."
+msgid "[t1] Hm, I see."
+msgstr "[t1] Hm, I see."
 
 # game/events_t.rpy:50 ## translate crowdin tIntroductionDay1_afc9ad29:
-msgid "t1 "Well, I'd prefer it if you leave us alone until I'm finished with my work."
-msgstr "t1 "Well, I'd prefer it if you leave us alone until I'm finished with my work."
+msgid "[t1] Well, I'd prefer it if you leave us alone until I'm finished with my work."
+msgstr "[t1] Well, I'd prefer it if you leave us alone until I'm finished with my work."
 
 # game/events_t.rpy:52 ## translate crowdin tIntroductionDay1_cba92d17:
 msgid "[pcthink] Work? Is [e] nothing but work to her?"

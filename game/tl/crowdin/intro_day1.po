@@ -287,8 +287,8 @@ msgid "[n] You quickly turn in the opposite direction and hope she doesn't recog
 msgstr "[n] You quickly turn in the opposite direction and hope she doesn't recognise you after all these years."
 
 # game/intro_day1.rpy:106 ## translate crowdin intro_day1_46387776:
-msgid "[m] [pc]? Is that you?" with vpunch
-msgstr "[m] [pc]? Is that you?" with vpunch
+msgid "[m] [pc]? Is that you? [withvpunch]"
+msgstr "[m] [pc]? Is that you? [withvpunch]"
 
 # game/intro_day1.rpy:107 ## translate crowdin intro_day1_90a099af:
 msgid "[pcthink] Fuck..."

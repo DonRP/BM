@@ -111,48 +111,48 @@ msgid "[n] Hours later [withdissolve]"
 msgstr "[n] Hours later [withdissolve]"
 
 # game/intro_day3-4.rpy:49 ## translate crowdin intro_day3_bb39f960:
-msgid "[n] *rumble*{w=0.5}{nw}" with vpunch
-msgstr "[n] *rumble*{w=0.5}{nw}" with vpunch
+msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:50 ## translate crowdin intro_day3_bb39f960_1:
-msgid "[n] *rumble*{w=0.5}{nw}" with vpunch
-msgstr "[n] *rumble*{w=0.5}{nw}" with vpunch
+msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:51 ## translate crowdin intro_day3_bb39f960_2:
-msgid "[n] *rumble*{w=0.5}{nw}" with vpunch
-msgstr "[n] *rumble*{w=0.5}{nw}" with vpunch
+msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:52 ## translate crowdin intro_day3_a69377ef_1:
 msgid "[pc] ..."
 msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:53 ## translate crowdin intro_day3_bb39f960_3:
-msgid "[n] *rumble*{w=0.5}{nw}" with vpunch
-msgstr "[n] *rumble*{w=0.5}{nw}" with vpunch
+msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:54 ## translate crowdin intro_day3_bb39f960_4:
-msgid "[n] *rumble*{w=0.5}{nw}" with vpunch
-msgstr "[n] *rumble*{w=0.5}{nw}" with vpunch
+msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:55 ## translate crowdin intro_day3_bb39f960_5:
-msgid "[n] *rumble*{w=0.5}{nw}" with vpunch
-msgstr "[n] *rumble*{w=0.5}{nw}" with vpunch
+msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:56 ## translate crowdin intro_day3_5a69a7fb:
 msgid "[pcthink] ...are you serious..."
 msgstr "[pcthink] ...are you serious..."
 
 # game/intro_day3-4.rpy:57 ## translate crowdin intro_day3_bb39f960_6:
-msgid "[n] *rumble*{w=0.5}{nw}" with vpunch
-msgstr "[n] *rumble*{w=0.5}{nw}" with vpunch
+msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:58 ## translate crowdin intro_day3_bb39f960_7:
-msgid "[n] *rumble*{w=0.5}{nw}" with vpunch
-msgstr "[n] *rumble*{w=0.5}{nw}" with vpunch
+msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:59 ## translate crowdin intro_day3_bb39f960_8:
-msgid "[n] *rumble*{w=0.5}{nw}" with vpunch
-msgstr "[n] *rumble*{w=0.5}{nw}" with vpunch
+msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:60 ## translate crowdin intro_day3_6aeae667:
 msgid "[pc] GOD DAMMIT!"
