@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-03 13:31\n"
+"PO-Revision-Date: 2022-04-03 13:39\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro.rpy:5 ## translate crowdin intro_af100c11:
 msgid "[n] Somewhere in a cab."
@@ -65,11 +65,11 @@ msgid "[pcthink] Naaah, whatever, I'm too curious right now. I'll have a look!"
 msgstr ""
 
 # game/intro.rpy:25 ## translate crowdin intro_ef06476f:
-msgid "Cab driver\" \"Alright, that's as close as we can get."
+msgid "Cab driver || Alright, that's as close as we can get."
 msgstr ""
 
 # game/intro.rpy:26 ## translate crowdin intro_dbcbd63e:
-msgid "Cab driver\" \"As I said earlier, the road is blocked by construction work, but it's not far from here anyway."
+msgid "Cab driver || As I said earlier, the road is blocked by construction work, but it's not far from here anyway."
 msgstr ""
 
 # game/intro.rpy:27 ## translate crowdin intro_25e6aa2b:
@@ -77,7 +77,7 @@ msgid "[pc] That's okay, I'll walk."
 msgstr ""
 
 # game/intro.rpy:28 ## translate crowdin intro_40374778:
-msgid "Cab driver\" \"You know the way?"
+msgid "Cab driver || You know the way?"
 msgstr ""
 
 # game/intro.rpy:29 ## translate crowdin intro_6f4510a3:
@@ -85,7 +85,7 @@ msgid "[pc] Yeah, I grew up in this town."
 msgstr ""
 
 # game/intro.rpy:30 ## translate crowdin intro_f5a5e7ce:
-msgid "Cab driver\" \"'Kay, good luck."
+msgid "Cab driver || 'Kay, good luck."
 msgstr ""
 
 # game/intro.rpy:32 ## translate crowdin intro_942da871:
@@ -141,7 +141,7 @@ msgid "[n] You run towards the building, but a cop stops you."
 msgstr ""
 
 # game/intro.rpy:53 ## translate crowdin intro_bd5fb625:
-msgid "Cop\" \"Hey! Stop! What do you think you're doing?"
+msgid "Cop || Hey! Stop! What do you think you're doing?"
 msgstr ""
 
 # game/intro.rpy:54 ## translate crowdin intro_f65bf6fb:
@@ -149,7 +149,7 @@ msgid "[pc] T-That is my new apartment!"
 msgstr ""
 
 # game/intro.rpy:55 ## translate crowdin intro_bfb964d4:
-msgid "Cop\" \"Your apartment?"
+msgid "Cop || Your apartment?"
 msgstr ""
 
 # game/intro.rpy:56 ## translate crowdin intro_01afdbd0:
@@ -157,11 +157,11 @@ msgid "[pc] Y-yeah, I mean, I haven't moved in yet, but still..."
 msgstr ""
 
 # game/intro.rpy:57 ## translate crowdin intro_55596f45:
-msgid "Cop\" \"You haven't move in yet, and it's already on fire?"
+msgid "Cop || You haven't move in yet, and it's already on fire?"
 msgstr ""
 
 # game/intro.rpy:59 ## translate crowdin intro_d011e9b5:
-msgid "Cop\" \"...that sounds fishy! Let me see your ID!"
+msgid "Cop || ...that sounds fishy! Let me see your ID!"
 msgstr ""
 
 # game/intro.rpy:60 ## translate crowdin intro_8be234d7:
@@ -169,7 +169,7 @@ msgid "[pc] What? I just arrived in the city! I haven't been here for years!!"
 msgstr ""
 
 # game/intro.rpy:61 ## translate crowdin intro_7144fd86:
-msgid "Cop\" \"Yeah, that's what they all say... Your ID!"
+msgid "Cop || Yeah, that's what they all say... Your ID!"
 msgstr ""
 
 # game/intro.rpy:62 ## translate crowdin intro_ddbf7dad:
@@ -177,7 +177,7 @@ msgid "[pc] Who are \"they\"? This doesn't make any sense!"
 msgstr ""
 
 # game/intro.rpy:63 ## translate crowdin intro_a512ea4d:
-msgid "Cop\" \"Listen, [boygirl]! If you don't show me your ID right now, I have some comfortable cuffs and a cosy little holding cell waiting for you."
+msgid "Cop || Listen, [boygirl]! If you don't show me your ID right now, I have some comfortable cuffs and a cosy little holding cell waiting for you."
 msgstr ""
 
 # game/intro.rpy:64 ## translate crowdin intro_e617caae:
@@ -197,7 +197,7 @@ msgid "[n] After a while... [withslowdissolve]"
 msgstr ""
 
 # game/intro.rpy:70 ## translate crowdin intro_69874e88:
-msgid "Cop\" \"...and you better stay in the city, or you'll be in trouble!"
+msgid "Cop || ...and you better stay in the city, or you'll be in trouble!"
 msgstr ""
 
 # game/intro.rpy:71 ## translate crowdin intro_37a87cb8:
