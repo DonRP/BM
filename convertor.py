@@ -16,6 +16,7 @@ msgid \"""",
     """    new \"""": """msgid_plural "Ignore this. translate only: One"\nmsgstr[0]  \"""",
     """\" nointeract""": """ [nointeract]\"""",
     """\" with fade""": """ [withfade]\"""",
+    """\" with dissolve""": """ [withdissolve]\"""",
     """\" with Dissolve(2.0)""": """ [withDissolve(2.0)]\"""",
     """\n    """: """\nmsgstr \"""",
     # ch
