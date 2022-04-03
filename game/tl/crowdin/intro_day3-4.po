@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day3-4.rpy:3 ## translate crowdin intro_day3_8046137e:
-msgid "[n] Next morning in the motel" with dissolve
-msgstr "[n] Next morning in the motel" with dissolve
+msgid "[n] Next morning in the motel [withdissolve]"
+msgstr "[n] Next morning in the motel [withdissolve]"
 
 # game/intro_day3-4.rpy:7 ## translate crowdin intro_day3_0d0ec209:
 msgid "[pcthink] Wow, this really {b}is{/b} a shit-hole..."
@@ -39,8 +39,8 @@ msgid "[pcthink] Argh, fuck it, I'm going to bed..."
 msgstr "[pcthink] Argh, fuck it, I'm going to bed..."
 
 # game/intro_day3-4.rpy:21 ## translate crowdin intro_day3_d8b6e64b:
-msgid "[n] At night" with dissolve
-msgstr "[n] At night" with dissolve
+msgid "[n] At night [withdissolve]"
+msgstr "[n] At night [withdissolve]"
 
 # game/intro_day3-4.rpy:25 ## translate crowdin intro_day3_be5544eb:
 msgid "[n] *creak*{w=1}{nw}" with hpunch
@@ -107,8 +107,8 @@ msgid "[pc] ..."
 msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:44 ## translate crowdin intro_day3_d40b86d0:
-msgid "[n] Hours later" with dissolve
-msgstr "[n] Hours later" with dissolve
+msgid "[n] Hours later [withdissolve]"
+msgstr "[n] Hours later [withdissolve]"
 
 # game/intro_day3-4.rpy:49 ## translate crowdin intro_day3_bb39f960:
 msgid "[n] *rumble*{w=0.5}{nw}" with vpunch
@@ -163,8 +163,8 @@ msgid "[pc] Fuck it, I'm outta here!"
 msgstr "[pc] Fuck it, I'm outta here!"
 
 # game/intro_day3-4.rpy:65 ## translate crowdin intro_day3_719102df:
-msgid "[n] A bit later" with dissolve
-msgstr "[n] A bit later" with dissolve
+msgid "[n] A bit later [withdissolve]"
+msgstr "[n] A bit later [withdissolve]"
 
 # game/intro_day3-4.rpy:69 ## translate crowdin intro_day3_a897bc95:
 msgid "Waitress" "Here you go."
@@ -443,8 +443,8 @@ msgid "[pcthink] God, am I really going to move in there again?"
 msgstr "[pcthink] God, am I really going to move in there again?"
 
 # game/intro_day3-4.rpy:158 ## translate crowdin intro_day3_b1fd587f:
-msgid "[n] Later that day." with dissolve
-msgstr "[n] Later that day." with dissolve
+msgid "[n] Later that day. [withdissolve]"
+msgstr "[n] Later that day. [withdissolve]"
 
 # game/intro_day3-4.rpy:162 ## translate crowdin intro_day3_da524ba3:
 msgid "[n] You arrive at your old home and spend a few moments thinking about the past."
@@ -803,6 +803,6 @@ msgid "[n] You fall asleep."
 msgstr "[n] You fall asleep."
 
 # game/intro_day3-4.rpy:290 ## translate crowdin intro_day3_1876c646:
-msgid "[n] Home Day 0" with dissolve
-msgstr "[n] Home Day 0" with dissolve
+msgid "[n] Home Day 0 [withdissolve]"
+msgstr "[n] Home Day 0 [withdissolve]"
 

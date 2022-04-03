@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2022-04-03 HH:HH# game/events_t.rpy:3 ## translate crowdin tIntroductionDay1_d40b86d0:
-msgid "[n] Hours later" with dissolve
-msgstr "[n] Hours later" with dissolve
+msgid "[n] Hours later [withdissolve]"
+msgstr "[n] Hours later [withdissolve]"
 
 # game/events_t.rpy:8 ## translate crowdin tIntroductionDay1_39855995:
 msgid "[pcthink] ...alright, back to the livingroom. At least [m] and [e] are back now, so it shouldn't be that boring anymore..."
@@ -195,8 +195,8 @@ msgid "[pcthink] Shit, maybe that was a bit too much. I hope [m] didn't hear tha
 msgstr "[pcthink] Shit, maybe that was a bit too much. I hope [m] didn't hear that..."
 
 # game/events_t.rpy:93 ## translate crowdin tLeavingDay1_5b8bbe35:
-msgid "e "Hehehe."
-msgstr "e "Hehehe."
+msgid "[e] Hehehe."
+msgstr "[e] Hehehe."
 
 # game/events_t.rpy:95 ## translate crowdin tLeavingDay1_5024d08a:
 msgid "[pc] Huh, [e]?"

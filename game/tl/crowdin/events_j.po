@@ -307,8 +307,8 @@ msgid "[pcthink] Damn, but first things first. I have to get some answers from [
 msgstr "[pcthink] Damn, but first things first. I have to get some answers from [m]!"
 
 # game/events_j.rpy:124 ## translate crowdin JVREbirthday_2efe3878:
-msgid "[n] a while later" with dissolve
-msgstr "[n] a while later" with dissolve
+msgid "[n] a while later [withdissolve]"
+msgstr "[n] a while later [withdissolve]"
 
 # game/events_j.rpy:128 ## translate crowdin JVREbirthday_3713fca7:
 msgid "{color=#570058}Girl1{/color}" "AHN, AH, HA, HAA..."
@@ -731,8 +731,8 @@ msgid "[pc] Yeah, take care..."
 msgstr "[pc] Yeah, take care..."
 
 # game/events_j.rpy:286 ## translate crowdin bringJadaHome_ffd9557d:
-msgid "[n] a bit later" with dissolve
-msgstr "[n] a bit later" with dissolve
+msgid "[n] a bit later [withdissolve]"
+msgstr "[n] a bit later [withdissolve]"
 
 # game/events_j.rpy:290 ## translate crowdin bringJadaHome_1580c5d9:
 msgid "[pc] Would you answer me a question, [j]?"

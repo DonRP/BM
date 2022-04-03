@@ -1975,8 +1975,8 @@ msgid "[pcthink] Shit, I better hurry."
 msgstr "[pcthink] Shit, I better hurry."
 
 # game/events_other.rpy:858 ## translate crowdin d10hdate_b79a98a4:
-msgid "[n] You rush back home, quickly change into something presentable, then make your way to the pier where [h] is already waiting." with dissolve
-msgstr "[n] You rush back home, quickly change into something presentable, then make your way to the pier where [h] is already waiting." with dissolve
+msgid "[n] You rush back home, quickly change into something presentable, then make your way to the pier where [h] is already waiting. [withdissolve]"
+msgstr "[n] You rush back home, quickly change into something presentable, then make your way to the pier where [h] is already waiting. [withdissolve]"
 
 # game/events_other.rpy:861 ## translate crowdin d10hdate_e4c20431:
 msgid "[pc] There she is, I hope I'm not too late."
@@ -3743,8 +3743,8 @@ msgid "[n] You upload the project onto the company's server and then show her th
 msgstr "[n] You upload the project onto the company's server and then show her the results of your work. She seems a little bit distracted at first, when you come closer to her to show your work, but you go on nonetheless."
 
 # game/events_other.rpy:1769 ## translate crowdin d11work_f0765b5a:
-msgid "[pc] ...and then it goes back to the full frame logo." with dissolve
-msgstr "[pc] ...and then it goes back to the full frame logo." with dissolve
+msgid "[pc] ...and then it goes back to the full frame logo. [withdissolve]"
+msgstr "[pc] ...and then it goes back to the full frame logo. [withdissolve]"
 
 # game/events_other.rpy:1771 ## translate crowdin d11work_d83bc318:
 msgid "st "This is a nice effect, I wouldn't have thought of that."
@@ -3827,16 +3827,16 @@ msgid "[pcthink] Wait a minute..."
 msgstr "[pcthink] Wait a minute..."
 
 # game/events_other.rpy:1799 ## translate crowdin d11work_744e563b:
-msgid "[n] There is nothing going on between us, so if you're interested in her, just go for it." with dissolve
-msgstr "[n] There is nothing going on between us, so if you're interested in her, just go for it." with dissolve
+msgid "[n] There is nothing going on between us, so if you're interested in her, just go for it. [withdissolve]"
+msgstr "[n] There is nothing going on between us, so if you're interested in her, just go for it. [withdissolve]"
 
 # game/events_other.rpy:1800 ## translate crowdin d11work_8ade2c3d:
 msgid "[pcthink] That was the first time meeting them... I didn't think much of it, just a misunderstanding, but..."
 msgstr "[pcthink] That was the first time meeting them... I didn't think much of it, just a misunderstanding, but..."
 
 # game/events_other.rpy:1803 ## translate crowdin d11work_367c8838:
-msgid "[n] ...I called [st] and she seems to have some ideas." with dissolve
-msgstr "[n] ...I called [st] and she seems to have some ideas." with dissolve
+msgid "[n] ...I called [st] and she seems to have some ideas. [withdissolve]"
+msgstr "[n] ...I called [st] and she seems to have some ideas. [withdissolve]"
 
 # game/events_other.rpy:1804 ## translate crowdin d11work_5ab73f49:
 msgid "[n] Oh? So that's why..."

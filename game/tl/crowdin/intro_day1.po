@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day1.rpy:3 ## translate crowdin intro_day1_26086d61:
-msgid "[n] Next Day" with dissolve
-msgstr "[n] Next Day" with dissolve
+msgid "[n] Next Day [withdissolve]"
+msgstr "[n] Next Day [withdissolve]"
 
 # game/intro_day1.rpy:4 ## translate crowdin intro_day1_c95d7cc7:
 msgid "[n] You're woken up by the sound of your mobile phone."
@@ -179,8 +179,8 @@ msgid "[n] You save the address Maggy gives you in your smartphone and immediate
 msgstr "[n] You save the address Maggy gives you in your smartphone and immediately go on your way after saying your goodbyes."
 
 # game/intro_day1.rpy:59 ## translate crowdin intro_day1_846bba63:
-msgid "[n] Half an hour later" with dissolve
-msgstr "[n] Half an hour later" with dissolve
+msgid "[n] Half an hour later [withdissolve]"
+msgstr "[n] Half an hour later [withdissolve]"
 
 # game/intro_day1.rpy:61 ## translate crowdin intro_day1_12255e40:
 msgid "[pcthink] Okay, this is the address... looks okay I guess... hmm, I like the annex."
@@ -515,8 +515,8 @@ msgid "[pcthink] Damn, I hope I won't regret it..."
 msgstr "[pcthink] Damn, I hope I won't regret it..."
 
 # game/intro_day1.rpy:185 ## translate crowdin intro_day1_719102df:
-msgid "[n] A bit later" with dissolve
-msgstr "[n] A bit later" with dissolve
+msgid "[n] A bit later [withdissolve]"
+msgstr "[n] A bit later [withdissolve]"
 
 # game/intro_day1.rpy:189 ## translate crowdin intro_day1_69397787:
 msgid "[m] ...and you moved all the way back just for that job?"

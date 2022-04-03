@@ -51,8 +51,8 @@ msgid "[pcthink] I guess I'll have to wait until she is done in there."
 msgstr "[pcthink] I guess I'll have to wait until she is done in there."
 
 # game/events_m.rpy:27 ## translate crowdin rachelBathroomDay0_38e53f54:
-msgid "[n] 1 Hour later" with dissolve
-msgstr "[n] 1 Hour later" with dissolve
+msgid "[n] 1 Hour later [withdissolve]"
+msgstr "[n] 1 Hour later [withdissolve]"
 
 # game/events_m.rpy:32 ## translate crowdin rachelBathroomDay0_5318f927:
 msgid "[pcthink] Phew that was too close..."
@@ -283,8 +283,8 @@ msgid "[pcthink] What was that all about? She seemed to be nervous..."
 msgstr "[pcthink] What was that all about? She seemed to be nervous..."
 
 # game/events_m.rpy:139 ## translate crowdin mTellNotToDisturb_719102df:
-msgid "[n] A bit later" with dissolve
-msgstr "[n] A bit later" with dissolve
+msgid "[n] A bit later [withdissolve]"
+msgstr "[n] A bit later [withdissolve]"
 
 # game/events_m.rpy:144 ## translate crowdin mTellNotToDisturb_ea854d01:
 msgid "[pcthink] Damn that was sticky. I should have used a fork..."
@@ -1459,8 +1459,8 @@ msgid "[pc] Humph..."
 msgstr "[pc] Humph..."
 
 # game/events_m.rpy:563 ## translate crowdin rachelElliesBDayReminder_686cd90a:
-msgid "[n] 30 minutes later" with dissolve
-msgstr "[n] 30 minutes later" with dissolve
+msgid "[n] 30 minutes later [withdissolve]"
+msgstr "[n] 30 minutes later [withdissolve]"
 
 # game/events_m.rpy:575 ## translate crowdin rachelPills3rd_24cda31b:
 msgid "[n] *knock* *knock*"
@@ -2051,8 +2051,8 @@ msgid "[pcthink] Damn, [m] must be the hottest milf on the planet!"
 msgstr "[pcthink] Damn, [m] must be the hottest milf on the planet!"
 
 # game/events_m.rpy:793 ## translate crowdin bathroomRAfterEBD_1df8a7df:
-msgid "[n] A bit later." with dissolve
-msgstr "[n] A bit later." with dissolve
+msgid "[n] A bit later. [withdissolve]"
+msgstr "[n] A bit later. [withdissolve]"
 
 # game/events_m.rpy:798 ## translate crowdin bathroomRAfterEBD_67e07758:
 msgid "[pc] ...not hungry?"
@@ -4579,8 +4579,8 @@ msgid "[j] Oh hey, [e]. Guess who's your new room mate, hehe."
 msgstr "[j] Oh hey, [e]. Guess who's your new room mate, hehe."
 
 # game/events_m.rpy:1781 ## translate crowdin d8_rachel_pills_1395e551:
-msgid "e "HN!"
-msgstr "e "HN!"
+msgid "[e] HN!"
+msgstr "[e] HN!"
 
 # game/events_m.rpy:1787 ## translate crowdin d9_backhome_364eaa4f:
 msgid "[pcthink] Finally back home..."

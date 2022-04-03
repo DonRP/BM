@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day2.rpy:3 ## translate crowdin intro_day2_d8b6e64b:
-msgid "[n] At night" with dissolve
-msgstr "[n] At night" with dissolve
+msgid "[n] At night [withdissolve]"
+msgstr "[n] At night [withdissolve]"
 
 # game/intro_day2.rpy:6 ## translate crowdin intro_day2_bb2cf764:
 msgid "[n] ..."
@@ -223,8 +223,8 @@ msgid "[pcthink] I need a shower..."
 msgstr "[pcthink] I need a shower..."
 
 # game/intro_day2.rpy:76 ## translate crowdin intro_day2_a3af40ea:
-msgid "[n] A few minutes later." with dissolve
-msgstr "[n] A few minutes later." with dissolve
+msgid "[n] A few minutes later. [withdissolve]"
+msgstr "[n] A few minutes later. [withdissolve]"
 
 # game/intro_day2.rpy:79 ## translate crowdin intro_day2_a982138e:
 msgid "[n] You hear the phone in your room ringing."
