@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-03 13:55\n"
+"PO-Revision-Date: 2022-04-04 01:57\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_t.rpy:3 ## translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[n] Hours later [withdissolve]"
@@ -302,15 +302,15 @@ msgstr ""
 
 # game/events_t.rpy:132 ## translate crowdin talkTone_b9b155fe:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_t.rpy:133 ## translate crowdin talkTone_b9b155fe_1:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_t.rpy:134 ## translate crowdin talkTone_b9b155fe_2:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_t.rpy:136 ## translate crowdin talkTone_1bb01731:
 msgid "[t] ..."
@@ -326,11 +326,11 @@ msgstr ""
 
 # game/events_t.rpy:145 ## translate crowdin talkTone_b9b155fe_3:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_t.rpy:146 ## translate crowdin talkTone_b9b155fe_4:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_t.rpy:150 ## translate crowdin talkTone_b17b9d8d:
 msgid "[pcthink] What's up with her?"
