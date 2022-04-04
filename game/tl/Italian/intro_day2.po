@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-04 01:57\n"
+"PO-Revision-Date: 2022-04-04 14:28\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day2.rpy:3 ## translate crowdin intro_day2_d8b6e64b:
 msgid "[n] At night [withdissolve]"
@@ -238,7 +238,7 @@ msgstr "[pcthink] Ho bisogno di una doccia..."
 
 # game/intro_day2.rpy:76 ## translate crowdin intro_day2_a3af40ea:
 msgid "[n] A few minutes later. [withdissolve]"
-msgstr ""
+msgstr "[n] Pochi minuti dopo. [withdissolve]"
 
 # game/intro_day2.rpy:79 ## translate crowdin intro_day2_a982138e:
 msgid "[n] You hear the phone in your room ringing."
@@ -494,7 +494,7 @@ msgstr ""
 
 # game/intro_day2.rpy:159 ## translate crowdin intro_day2_f12901fd:
 msgid "[pcthink] [e]..."
-msgstr ""
+msgstr "[pcthink] [e]..."
 
 # game/intro_day2.rpy:160 ## translate crowdin intro_day2_b83fd8cc:
 msgid "[pcthink] I wonder how she's been."
