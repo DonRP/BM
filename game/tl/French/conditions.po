@@ -10,125 +10,125 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-03 13:31\n"
+"PO-Revision-Date: 2022-04-04 14:28\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/conditions.rpy:1743 ## translate crowdin dateTime_69645982:
 msgid "[n] [currentDay]"
-msgstr ""
+msgstr "[n] [currentDay]"
 
 # game/conditions.rpy:1752 ## translate crowdin whatToDoHome_970716ba:
 msgid "[q] What do you want to do? [nointeract]"
-msgstr ""
+msgstr "[q] Que voulez-vous faire? [nointeract]"
 
 # game/conditions.rpy:1756 ## translate crowdin whatToDoHome_87461463:
 msgid "[pcthink] I guess I could use a bit more sleep. There's nothing to do anyway until my stuff arrives..."
-msgstr ""
+msgstr "[pcthink] Je suppose que je pourrais dormir un peu plus. Il n'y a rien à faire de toute façon jusqu'à ce que mes affaires reprennent..."
 
 # game/conditions.rpy:1776 ## translate crowdin whatToDoHome_70aa1e0b:
 msgid "[n] Later [withdissolve]"
-msgstr ""
+msgstr "[n] Plus tard [withdissolve]"
 
 # game/conditions.rpy:1788 ## translate crowdin hall_23b4c9e6:
 msgid "[pcthink] Okay, the bathroom should be the last room on the left if I remember correctly..."
-msgstr ""
+msgstr "[pcthink] D'accord, la salle de bain devrait être la dernière pièce à gauche si je me souviens bien..."
 
 # game/conditions.rpy:1816 ## translate crowdin livingroom_c0f55507:
 msgid "[pc] S-shit, sorry."
-msgstr ""
+msgstr "[pc] Merde, désolé."
 
 # game/conditions.rpy:1831 ## translate crowdin pcStareMBath_85f8cf00:
 msgid "[m] Um... [pc]? Are you staring at me?"
-msgstr ""
+msgstr "[m] Um... [pc]? Tu me regardes?"
 
 # game/conditions.rpy:1832 ## translate crowdin pcStareMBath_7d2421b6:
 msgid "[pc] Ugh... shit, s-sorry."
-msgstr ""
+msgstr "[pc] Pouah... merde, d-désolé."
 
 # game/conditions.rpy:1854 ## translate crowdin bathroom_fd2724fb:
 msgid "[pcthink] Ups..."
-msgstr ""
+msgstr "[pcthink] Ups..."
 
 # game/conditions.rpy:1860 ## translate crowdin bathroom_e0ffe4b5:
 msgid "[pcthink] Whoa... looks like [m] just got out of the shower."
-msgstr ""
+msgstr "[pcthink] Whoa... on dirait que [m] vient de sortir de la douche."
 
 # game/conditions.rpy:1864 ## translate crowdin bathroom_ed5a9fb8:
 msgid "[m] [pc]!?"
-msgstr ""
+msgstr "[m] [pc]!?"
 
 # game/conditions.rpy:1865 ## translate crowdin bathroom_72087c33:
 msgid "[pcthink] Uhh..."
-msgstr ""
+msgstr "[pcthink] Euhh..."
 
 # XXtranslate crowdin strings:XX# XX## game/conditions.rpy:10
 msgid "[mschoice] Mr."
-msgstr ""
+msgstr "[mschoice] M."
 
 # XX## game/conditions.rpy:11
 msgid "[mschoice] he"
-msgstr ""
+msgstr "[mschoice] il"
 
 # XX## game/conditions.rpy:12
 msgid "[mschoice] boy"
-msgstr ""
+msgstr "[mschoice] garçon"
 
 # XX## game/conditions.rpy:13
 msgid "[mschoice] Daddy"
-msgstr ""
+msgstr "[mschoice] Papa"
 
 # XX## game/conditions.rpy:14
 msgid "[mschoice] son"
-msgstr ""
+msgstr "[mschoice] fils"
 
 # XX## game/conditions.rpy:15
 msgid "[mschoice] him"
-msgstr ""
+msgstr "[mschoice] lui"
 
 # XX## game/conditions.rpy:16
 msgid "[mschoice] John"
-msgstr ""
+msgstr "[mschoice] John"
 
 # XX## game/conditions.rpy:17
 msgid "[mschoice] brother"
-msgstr ""
+msgstr "[mschoice] frère"
 
 # XX## game/conditions.rpy:18
 msgid "[mschoice] his"
-msgstr ""
+msgstr "[mschoice] son"
 
 # XX## game/conditions.rpy:21
 msgid "[mschoice] male"
-msgstr ""
+msgstr "[mschoice] homme"
 
 # XX## game/conditions.rpy:22
 msgid "[mschoice] Doe"
-msgstr ""
+msgstr "[mschoice] Doe"
 
 # XX## game/conditions.rpy:1752
 msgid "[mschoice] Take a nap"
-msgstr ""
+msgstr "[mschoice] Faire une sieste"
 
 # XX## game/conditions.rpy:1752
 msgid "[mschoice] Look for [e]"
-msgstr ""
+msgstr "[mschoice] Chercher pour [e]"
 
 # XX## game/conditions.rpy:1752
 msgid "[mschoice] Look for [m]"
-msgstr ""
+msgstr "[mschoice] Regarder pour [m]"
 
 # XX## game/conditions.rpy:1752
 msgid "[mschoice] Turn the pc on"
-msgstr ""
+msgstr "[mschoice] Allumer le PC"
 
 # XX## game/conditions.rpy:1752
 msgid "[mschoice] Leave"
-msgstr ""
+msgstr "[mschoice] Quitter"
 
 # XX## game/conditions.rpy:1752
 msgid "[mschoice] Look around"
-msgstr ""
+msgstr "[mschoice] Regarder autour de vous"
 
 # XX## game/conditions.rpy:1861
 msgid "[mschoice] Look"
-msgstr ""
+msgstr "[mschoice] Regarder"
 
