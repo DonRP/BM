@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-03 13:39\n"
+"PO-Revision-Date: 2022-04-04 01:57\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_e.rpy:4 ## translate crowdin elliePCRoomSleepDay0_28f54d83:
 msgid "[pcthink] What?! [e]?"
@@ -878,15 +878,15 @@ msgstr ""
 
 # game/events_e.rpy:430 ## translate crowdin ebdLookForE_b9b155fe:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_e.rpy:431 ## translate crowdin ebdLookForE_b9b155fe_1:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_e.rpy:432 ## translate crowdin ebdLookForE_b9b155fe_2:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_e.rpy:433 ## translate crowdin ebdLookForE_91475a02:
 msgid "[extend] keep."
@@ -934,7 +934,7 @@ msgstr ""
 
 # game/events_e.rpy:448 ## translate crowdin eKitten_15aab006:
 msgid "[pcthink] Well that's interesting..."
-msgstr ""
+msgstr "[pcthink] Beh, è interessante..."
 
 # game/events_e.rpy:449 ## translate crowdin eKitten_321a6bca:
 msgid "[pcthink] I guess it's time for a..."
