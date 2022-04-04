@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-03 13:55\n"
+"PO-Revision-Date: 2022-04-04 01:57\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_j.rpy:3 ## translate crowdin jadaFirstMeet_fbf6c787:
 msgid "[pcthink] I'm a bit hungry."
@@ -2558,7 +2558,7 @@ msgstr ""
 
 # game/events_j.rpy:1095 ## translate crowdin d7_motel_e48f5414:
 msgid "[pcthink] Huh? What's this?"
-msgstr ""
+msgstr "[pcthink] Huh? Che cos'è?"
 
 # game/events_j.rpy:1098 ## translate crowdin d7_motel_d26c6a27:
 msgid "[pcthink] What the hell?"
