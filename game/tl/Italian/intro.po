@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-04 01:57\n"
+"PO-Revision-Date: 2022-04-07 16:41\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro.rpy:5 ## translate crowdin intro_af100c11:
 msgid "[n] Somewhere in a cab."
@@ -38,7 +38,7 @@ msgstr "[pcthink] ...solo per un lavoro."
 
 # game/intro.rpy:13 ## translate crowdin intro_f0cac90d:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/intro.rpy:16 ## translate crowdin intro_0160ca12:
 msgid "[pcthink] We must be close to the hotel..."
@@ -250,7 +250,7 @@ msgstr "[pc] Almeno la stanza sembra essere giusta..."
 
 # game/intro.rpy:119 ## translate crowdin intro_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro.rpy:120 ## translate crowdin intro_0af51236:
 msgid "[pc] Looks like I need to find a new apartment... As soon as possible!"
