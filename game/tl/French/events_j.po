@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-04 14:28\n"
+"PO-Revision-Date: 2022-04-14 14:47\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_j.rpy:3 ## translate crowdin jadaFirstMeet_fbf6c787:
 msgid "[pcthink] I'm a bit hungry."
@@ -2946,7 +2946,7 @@ msgstr "[j] Je le pensais... peut-être que tu veux l'essayer sur moi?"
 
 # game/events_j.rpy:1267 ## translate crowdin d7_motel_r_e2ee86ba:
 msgid "[pc] Uhh..."
-msgstr "[pc] Euhh..."
+msgstr "[pc] Uhh..."
 
 # game/events_j.rpy:1271 ## translate crowdin d7_motel_r_27d75afd:
 msgid "[j] Awwww, come on, I've never tried it out... I really want you to bang me like a dirty little girl!"
