@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-04 14:27\n"
+"PO-Revision-Date: 2022-04-14 14:47\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day1.rpy:3 ## translate crowdin intro_day1_26086d61:
 msgid "[n] Next Day [withdissolve]"
@@ -22,7 +22,7 @@ msgstr "[n] Vous êtes réveillé par le son de votre téléphone portable."
 
 # game/intro_day1.rpy:6 ## translate crowdin intro_day1_e2ee86ba:
 msgid "[pc] Uhh..."
-msgstr "[pc] Euhh..."
+msgstr "[pc] Uhh..."
 
 # game/intro_day1.rpy:8 ## translate crowdin intro_day1_510548ac:
 msgid "[pc] What time is it?"
