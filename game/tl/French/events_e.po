@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-04 14:28\n"
+"PO-Revision-Date: 2022-04-14 14:47\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_e.rpy:4 ## translate crowdin elliePCRoomSleepDay0_28f54d83:
 msgid "[pcthink] What?! [e]?"
@@ -26,7 +26,7 @@ msgstr "[pcthink] Elle a l'air si mignonne quand elle dort..."
 
 # game/events_e.rpy:21 ## translate crowdin elliePCRoomSleepDay0_c36a94b8:
 msgid "[pc] Hey sleepyhead, wake up!"
-msgstr "[pc] Hé tête endormie, réveille-toi!"
+msgstr "[pc] Hé toi qui es endormie, réveille-toi!"
 
 # game/events_e.rpy:29 ## translate crowdin elliePCRoomSleepDay0_70ae8e19:
 msgid "[pcthink] Ugh... shit..."
@@ -34,7 +34,7 @@ msgstr "[pcthink] Pouah... merde..."
 
 # game/events_e.rpy:30 ## translate crowdin elliePCRoomSleepDay0_e2ee86ba:
 msgid "[pc] Uhh..."
-msgstr "[pc] Euhh..."
+msgstr "[pc] Uhh..."
 
 # game/events_e.rpy:34 ## translate crowdin ellieWakeup_8be38622:
 msgid "[pc] Good morning [e]..."
@@ -50,7 +50,7 @@ msgstr "[e] Sifflements..."
 
 # game/events_e.rpy:40 ## translate crowdin ellieWakeup_1681568b:
 msgid "[pc] WHOA WTF!!!"
-msgstr "[pc] WHOA WTF!!!"
+msgstr "[pc] WOUAAA WTF!!!"
 
 # game/events_e.rpy:42 ## translate crowdin ellieWakeup_01b39e2c:
 msgid "[e] Khehehe..."
