@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-04 14:27\n"
+"PO-Revision-Date: 2022-04-14 14:47\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_mc.rpy:5 ## translate crowdin day0Morning_65a592f9:
 msgid "[pc] YAAAHHWN..."
@@ -398,7 +398,7 @@ msgstr "[pc] ..."
 
 # game/events_mc.rpy:157 ## translate crowdin pcDream1_e2ee86ba:
 msgid "[pc] Uhh..."
-msgstr "[pc] Euhh..."
+msgstr "[pc] Uhh..."
 
 # game/events_mc.rpy:158 ## translate crowdin pcDream1_f4d55998:
 msgid "[pcthink] Shit... the memories keep coming back..."
@@ -4362,7 +4362,7 @@ msgstr "[n] * Toc * * Toc*"
 
 # game/events_mc.rpy:1915 ## translate crowdin d8_morning_e2ee86ba:
 msgid "[pc] Uhh..."
-msgstr "[pc] Euhh..."
+msgstr "[pc] Uhh..."
 
 # game/events_mc.rpy:1917 ## translate crowdin d8_morning_a2c50bf9:
 msgid "[m] Time to get up, [e]..."
@@ -5818,7 +5818,7 @@ msgstr "Papa / / Tant pis, va-t'en..."
 
 # game/events_mc.rpy:2497 ## translate crowdin d10wakeup_e2ee86ba:
 msgid "[pc] Uhh..."
-msgstr "[pc] Euhh..."
+msgstr "[pc] Uhh..."
 
 # game/events_mc.rpy:2498 ## translate crowdin d10wakeup_bfc6ca53:
 msgid "[pc] {cps=10}...{/cps}"
