@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-04 14:27\n"
+"PO-Revision-Date: 2022-04-14 14:47\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_t.rpy:3 ## translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[n] Hours later [withdissolve]"
@@ -1614,7 +1614,7 @@ msgstr "[pcthink] Merde, elle est vraiment douée pour ça..."
 
 # game/events_t.rpy:749 ## translate crowdin coerceT3_e2ee86ba:
 msgid "[pc] Uhh..."
-msgstr "[pc] Euhh..."
+msgstr "[pc] Uhh..."
 
 # game/events_t.rpy:750 ## translate crowdin coerceT3_482beb42:
 msgid "[pcthink] ...and despite her attitude, she's really giving it her all!"
