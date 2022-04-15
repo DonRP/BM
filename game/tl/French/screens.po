@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-04 14:28\n"
+"PO-Revision-Date: 2022-04-15 02:44\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:208
 msgid "[mschoice] {b}Show dialogue background box?{/b}"
-msgstr "[mschoice] {b}Afficher la boîte de dialogue d'arrière-plan?{/b}"
+msgstr "[mschoice] {b}Afficher la boîte de dialogue?{/b}"
 
 # XX## game/screens.rpy:209
 msgid "[mschoice] {i}(You can change this again in the Preferences.){/i}"
-msgstr "[mschoice] {i}(Vous pouvez le modifier à nouveau dans les préférences.){/je}"
+msgstr "[mschoice] {i}(Vous pouvez changer cela à nouveau dans les Préférences.){/i}"
 
 # XX## game/screens.rpy:210
 msgid "[mschoice] Yes"
@@ -42,19 +42,19 @@ msgstr "[mschoice] Cacher"
 
 # XX## game/screens.rpy:320
 msgid "[mschoice] Skip"
-msgstr "[mschoice] Ignorer"
+msgstr "[mschoice] Sauter"
 
 # XX## game/screens.rpy:321
 msgid "[mschoice] Auto"
-msgstr "[mschoice] Automatique"
+msgstr "[mschoice] Auto"
 
 # XX## game/screens.rpy:322
 msgid "[mschoice] Q.Save"
-msgstr "[mschoice] Q. Sauvegarder"
+msgstr "[mschoice] Q. Save"
 
 # XX## game/screens.rpy:323
 msgid "[mschoice] Q.Load"
-msgstr "[mschoice] Q. Chargement"
+msgstr "[mschoice] Q. Charger"
 
 # XX## game/screens.rpy:324
 msgid "[mschoice] Menu"
@@ -62,11 +62,11 @@ msgstr "[mschoice] Menu"
 
 # XX## game/screens.rpy:376
 msgid "[mschoice] Save"
-msgstr "[mschoice] Sauvegarder"
+msgstr "[mschoice] Enregistrer"
 
 # XX## game/screens.rpy:378
 msgid "[mschoice] Load"
-msgstr "[mschoice] Chargement"
+msgstr "[mschoice] Charger"
 
 # XX## game/screens.rpy:380
 msgid "[mschoice] Preferences"
@@ -82,7 +82,7 @@ msgstr "[mschoice] Menu principal"
 
 # XX## game/screens.rpy:390
 msgid "[mschoice] About"
-msgstr "[mschoice] À propos"
+msgstr "[mschoice] A propos de"
 
 # XX## game/screens.rpy:395
 msgid "[mschoice] Help"
@@ -103,8 +103,8 @@ msgstr "[mschoice] Version [config.version!t]\n"
 # XX## game/screens.rpy:646
 msgid "[mschoice] Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr "[mschoice] Fait avec {a=https: / /www.renpy.org/} Ren'Py {/a} [renpy.version_only].\n\n"
-"[renpy.licence!t]"
+msgstr "[mschoice] Fait avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
 
 # XX## game/screens.rpy:686
 msgid "[mschoice] Page {}"
@@ -156,7 +156,7 @@ msgstr "[mschoice] Plein écran"
 
 # XX## game/screens.rpy:834
 msgid "[mschoice] Rollback Side"
-msgstr "[mschoice] Côté restauration"
+msgstr "[mschoice] Retour en arrière"
 
 # XX## game/screens.rpy:835
 msgid "[mschoice] Disable"
@@ -168,15 +168,15 @@ msgstr "[mschoice] Gauche"
 
 # XX## game/screens.rpy:837
 msgid "[mschoice] Right"
-msgstr "[mschoice] À droite"
+msgstr "[mschoice] Droite"
 
 # XX## game/screens.rpy:842
 msgid "[mschoice] Unseen Text"
-msgstr "[mschoice] Texte Invisible"
+msgstr "[mschoice] Texte invisible"
 
 # XX## game/screens.rpy:843
 msgid "[mschoice] After Choices"
-msgstr "[mschoice] Après Choix"
+msgstr "[mschoice] Après les choix"
 
 # XX## game/screens.rpy:844
 msgid "[mschoice] Transitions"
@@ -184,7 +184,7 @@ msgstr "[mschoice] Transitions"
 
 # XX## game/screens.rpy:850
 msgid "[mschoice] Show Textbox"
-msgstr "[mschoice] Afficher la zone de texte"
+msgstr "[mschoice] Afficher boîte texte"
 
 # XX## game/screens.rpy:856
 msgid "[mschoice] Language"
@@ -192,15 +192,15 @@ msgstr "[mschoice] Langue"
 
 # XX## game/screens.rpy:879
 msgid "[mschoice] Text Speed"
-msgstr "[mschoice] Vitesse du Texte"
+msgstr "[mschoice] Vitesse du texte"
 
 # XX## game/screens.rpy:883
 msgid "[mschoice] Auto-Forward Time"
-msgstr "[mschoice] Temps de transfert automatique"
+msgstr "[mschoice] Temps pour l'avance auto"
 
 # XX## game/screens.rpy:890
 msgid "[mschoice] Music Volume"
-msgstr "[mschoice] Volume de musique"
+msgstr "[mschoice] Volume de la musique"
 
 # XX## game/screens.rpy:897
 msgid "[mschoice] Sound Volume"
@@ -208,7 +208,7 @@ msgstr "[mschoice] Volume sonore"
 
 # XX## game/screens.rpy:903
 msgid "[mschoice] Test"
-msgstr "[mschoice] Essai"
+msgstr "[mschoice] Test"
 
 # XX## game/screens.rpy:907
 msgid "[mschoice] Voice Volume"
@@ -216,23 +216,23 @@ msgstr "[mschoice] Volume de la voix"
 
 # XX## game/screens.rpy:919
 msgid "[mschoice] Mute All"
-msgstr "[mschoice] Tout désactiver"
+msgstr "[mschoice] Tout muet"
 
 # XX## game/screens.rpy:923
 msgid "[mschoice] Reset"
-msgstr "[mschoice] Réinitialiser"
+msgstr "[mschoice] Reset"
 
 # XX## game/screens.rpy:934
 msgid "[mschoice] Text Size Scaling"
-msgstr "[mschoice] Mise à l'échelle de la taille du Texte"
+msgstr "[mschoice] Mise à l'échelle \\nde la taille texte"
 
 # XX## game/screens.rpy:946
 msgid "[mschoice] Line Spacing Scaling"
-msgstr "[mschoice] Mise à l'échelle de l'espacement des lignes"
+msgstr "[mschoice] Mise à l'échelle \\nde l'interligne"
 
 # XX## game/screens.rpy:1070
 msgid "[mschoice] The dialogue history is empty."
-msgstr "[mschoice] L'historique des dialogues est vide."
+msgstr "[mschoice] L'historique de dialogue est vide."
 
 # XX## game/screens.rpy:1140
 msgid "[mschoice] Keyboard"
@@ -248,7 +248,7 @@ msgstr "[mschoice] Manette de jeu"
 
 # XX## game/screens.rpy:1157
 msgid "[mschoice] Enter"
-msgstr "[mschoice] Entrer"
+msgstr "[mschoice] Entrée"
 
 # XX## game/screens.rpy:1158
 msgid "[mschoice] Advances dialogue and activates the interface."
@@ -264,15 +264,15 @@ msgstr "[mschoice] Avance le dialogue sans sélectionner de choix."
 
 # XX## game/screens.rpy:1165
 msgid "[mschoice] Arrow Keys"
-msgstr "[mschoice] Touches Fléchées"
+msgstr "[mschoice] Touches fléchées"
 
 # XX## game/screens.rpy:1166
 msgid "[mschoice] Navigate the interface."
-msgstr "[mschoice] Naviguez dans l'interface."
+msgstr "[mschoice] Naviguer dans l'interface."
 
 # XX## game/screens.rpy:1169
 msgid "[mschoice] Escape"
-msgstr "[mschoice] Évasion"
+msgstr "[mschoice] Escape"
 
 # XX## game/screens.rpy:1170
 msgid "[mschoice] Accesses the game menu."
@@ -284,11 +284,11 @@ msgstr "[mschoice] Ctrl"
 
 # XX## game/screens.rpy:1174
 msgid "[mschoice] Skips dialogue while held down."
-msgstr "[mschoice] Ignore le dialogue lorsqu'il est maintenu enfoncé."
+msgstr "[mschoice] Saut dialogue lorsqu'il est maintenu enfoncé."
 
 # XX## game/screens.rpy:1177
 msgid "[mschoice] Tab"
-msgstr "[mschoice] Onglet"
+msgstr "[mschoice] Tab"
 
 # XX## game/screens.rpy:1178
 msgid "[mschoice] Toggles dialogue skipping."
@@ -296,15 +296,15 @@ msgstr "[mschoice] Active le saut de dialogue."
 
 # XX## game/screens.rpy:1181
 msgid "[mschoice] Page Up"
-msgstr "[mschoice] Page en haut"
+msgstr "[mschoice] Page haut"
 
 # XX## game/screens.rpy:1182
 msgid "[mschoice] Rolls back to earlier dialogue."
-msgstr "[mschoice] Revient à la boîte de dialogue précédente."
+msgstr "[mschoice] Retourne au dialogue précédent."
 
 # XX## game/screens.rpy:1185
 msgid "[mschoice] Page Down"
-msgstr "[mschoice] Page en bas"
+msgstr "[mschoice] Page bas"
 
 # XX## game/screens.rpy:1186
 msgid "[mschoice] Rolls forward to later dialogue."
@@ -312,7 +312,7 @@ msgstr "[mschoice] Avance vers un dialogue ultérieur."
 
 # XX## game/screens.rpy:1190
 msgid "[mschoice] Hides the user interface."
-msgstr "[mschoice] Masque l'interface utilisateur."
+msgstr "[mschoice] Cache l'interface utilisateur."
 
 # XX## game/screens.rpy:1194
 msgid "[mschoice] Takes a screenshot."
@@ -320,15 +320,15 @@ msgstr "[mschoice] Prend une capture d'écran."
 
 # XX## game/screens.rpy:1198
 msgid "[mschoice] Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-msgstr "[mschoice] Bascule l'assistance {a=https://www.renpy.org / l / voicing}auto-voicing {/a}."
+msgstr "[mschoice] Active l'assistant {a=https://www.renpy.org/l/voicing}auto-voicing{/a}."
 
 # XX## game/screens.rpy:1204
 msgid "[mschoice] Left Click"
-msgstr "[mschoice] Clic Gauche"
+msgstr "[mschoice] Clic gauche"
 
 # XX## game/screens.rpy:1208
 msgid "[mschoice] Middle Click"
-msgstr "[mschoice] Clic du milieu"
+msgstr "[mschoice] Clic central"
 
 # XX## game/screens.rpy:1212
 msgid "[mschoice] Right Click"
@@ -337,32 +337,32 @@ msgstr "[mschoice] Clic droit"
 # XX## game/screens.rpy:1216
 msgid "[mschoice] Mouse Wheel Up\n"
 "Click Rollback Side"
-msgstr "[mschoice] Molette de la Souris Vers le haut\n"
-"Cliquez sur le Côté de restauration"
+msgstr "[mschoice] Molette de la souris vers le haut\n"
+"Cliquez sur le côté retour en arrière"
 
 # XX## game/screens.rpy:1220
 msgid "[mschoice] Mouse Wheel Down"
-msgstr "[mschoice] Molette de la Souris Vers le Bas"
+msgstr "[mschoice] Molette de la souris vers le bas"
 
 # XX## game/screens.rpy:1227
 msgid "[mschoice] Right Trigger\n"
 "A/Bottom Button"
-msgstr "[mschoice] Gâchette droite\n"
-"Bouton A / Bas"
+msgstr "[mschoice] Déclencheur de droite\n"
+"Bouton A/Bas"
 
 # XX## game/screens.rpy:1231
 msgid "[mschoice] Left Trigger\n"
 "Left Shoulder"
-msgstr "[mschoice] Épaule gauche\n"
+msgstr "[mschoice] Gâchette gauche\n"
 "Épaule gauche"
 
 # XX## game/screens.rpy:1235
 msgid "[mschoice] Right Shoulder"
-msgstr "[mschoice] Épaule Droite"
+msgstr "[mschoice] Épaule droite"
 
 # XX## game/screens.rpy:1240
 msgid "[mschoice] D-Pad, Sticks"
-msgstr "[mschoice] D-Pad, Bâtons"
+msgstr "[mschoice] D-Pad, Sticks"
 
 # XX## game/screens.rpy:1244
 msgid "[mschoice] Start, Guide"
@@ -370,13 +370,13 @@ msgstr "[mschoice] Démarrage, Guide"
 
 # XX## game/screens.rpy:1248
 msgid "[mschoice] Y/Top Button"
-msgstr "[mschoice] Y / Bouton supérieur"
+msgstr "[mschoice] Bouton Y/Haut"
 
 # XX## game/screens.rpy:1251
 msgid "[mschoice] Calibrate"
-msgstr "[mschoice] Calibrer"
+msgstr "[mschoice] Calibrage"
 
 # XX## game/screens.rpy:1363
 msgid "[mschoice] Skipping"
-msgstr "[mschoice] Sauter"
+msgstr "[mschoice] Saut"
 
