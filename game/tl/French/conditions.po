@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-04 14:28\n"
+"PO-Revision-Date: 2022-04-15 02:44\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/conditions.rpy:1743 ## translate crowdin dateTime_69645982:
 msgid "[n] [currentDay]"
@@ -30,15 +30,15 @@ msgstr "[n] Plus tard [withdissolve]"
 
 # game/conditions.rpy:1788 ## translate crowdin hall_23b4c9e6:
 msgid "[pcthink] Okay, the bathroom should be the last room on the left if I remember correctly..."
-msgstr "[pcthink] D'accord, la salle de bain devrait être la dernière pièce à gauche si je me souviens bien..."
+msgstr "[pcthink] Ok, la salle de bain devrait être la dernière pièce sur la gauche si je me souviens bien..."
 
 # game/conditions.rpy:1816 ## translate crowdin livingroom_c0f55507:
 msgid "[pc] S-shit, sorry."
-msgstr "[pc] Merde, désolé."
+msgstr "[pc] M-merde, désolé."
 
 # game/conditions.rpy:1831 ## translate crowdin pcStareMBath_85f8cf00:
 msgid "[m] Um... [pc]? Are you staring at me?"
-msgstr "[m] Um... [pc]? Tu me regardes?"
+msgstr "[m] Um... [pc]? Est-ce que tu me fixes?"
 
 # game/conditions.rpy:1832 ## translate crowdin pcStareMBath_7d2421b6:
 msgid "[pc] Ugh... shit, s-sorry."
@@ -46,19 +46,19 @@ msgstr "[pc] Pouah... merde, d-désolé."
 
 # game/conditions.rpy:1854 ## translate crowdin bathroom_fd2724fb:
 msgid "[pcthink] Ups..."
-msgstr "[pcthink] Ups..."
+msgstr "[pcthink] Oups..."
 
 # game/conditions.rpy:1860 ## translate crowdin bathroom_e0ffe4b5:
 msgid "[pcthink] Whoa... looks like [m] just got out of the shower."
-msgstr "[pcthink] Whoa... on dirait que [m] vient de sortir de la douche."
+msgstr "[pcthink] Wouaa... on dirait que [m] vient de sortir de la douche."
 
 # game/conditions.rpy:1864 ## translate crowdin bathroom_ed5a9fb8:
 msgid "[m] [pc]!?"
-msgstr "[m] [pc]!?"
+msgstr "[m] [pc]! ?"
 
 # game/conditions.rpy:1865 ## translate crowdin bathroom_72087c33:
 msgid "[pcthink] Uhh..."
-msgstr "[pcthink] Euhh..."
+msgstr "[pcthink] Ouhh..."
 
 # XXtranslate crowdin strings:XX# XX## game/conditions.rpy:10
 msgid "[mschoice] Mr."
@@ -66,7 +66,7 @@ msgstr "[mschoice] M."
 
 # XX## game/conditions.rpy:11
 msgid "[mschoice] he"
-msgstr "[mschoice] il"
+msgstr "[mschoice] il "
 
 # XX## game/conditions.rpy:12
 msgid "[mschoice] boy"
@@ -98,7 +98,7 @@ msgstr "[mschoice] son"
 
 # XX## game/conditions.rpy:21
 msgid "[mschoice] male"
-msgstr "[mschoice] homme"
+msgstr "[mschoice] masculin"
 
 # XX## game/conditions.rpy:22
 msgid "[mschoice] Doe"
