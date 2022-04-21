@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-20 15:56\n"
+"PO-Revision-Date: 2022-04-21 13:31\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day1.rpy:3 ## translate crowdin intro_day1_26086d61:
 msgid "[n] Next Day [withdissolve]"
@@ -470,7 +470,7 @@ msgstr "[pc]..."
 
 # game/intro_day1.rpy:158 ## translate crowdin intro_day1_e0bec7d8:
 msgid "[m] Umm... well, I have a bit of time right now. Don't you think we could have a cup of coffee together and talk a bit at least... after all this time..."
-msgstr "[m] Umm... eh bien, j'ai un peu de temps en ce moment. Ne pensez-vous pas que nous pourrions prendre une tasse de café ensemble et parler un peu au moins ... après tout ce temps ..."
+msgstr "[m] Umm... eh bien, j'ai un peu de temps en ce moment. Ne penses-tu pas que nous pourrions prendre une tasse de café ensemble et parler un peu au moins... après tout ce temps ..."
 
 # game/intro_day1.rpy:159 ## translate crowdin intro_day1_48847571:
 msgid "[pcthink] Tch, seriously?..."
