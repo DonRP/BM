@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-15 02:44\n"
+"PO-Revision-Date: 2022-04-22 13:23\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_t.rpy:3 ## translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[n] Hours later [withdissolve]"
-msgstr "[n] Heures plus tard [withdissolve]"
+msgstr "[n] Quelques heures plus tard [withdissolve]"
 
 # game/events_t.rpy:8 ## translate crowdin tIntroductionDay1_39855995:
 msgid "[pcthink] ...alright, back to the livingroom. At least [m] and [e] are back now, so it shouldn't be that boring anymore..."
@@ -22,7 +22,7 @@ msgstr "[pcthink] ...d'accord, retour au salon. Au moins [m] et [e] sont de reto
 
 # game/events_t.rpy:12 ## translate crowdin tIntroductionDay1_49c00c69:
 msgid "Voice || {size=-10}Good afternoon [e]. How are you today? Did you do everything I told you?{/size}"
-msgstr "Voice || {size=-10}Bon après-midi [e]. Comment vas-tu aujourd'hui ? As-tu fait tout ce que je t'ai dit ? {/size}"
+msgstr "Voice || {size=-10}Bon après-midi [e]. Comment vas-tu aujourd'hui ? As-tu fait tout ce que je t'ai dit ?{/size}"
 
 # game/events_t.rpy:14 ## translate crowdin tIntroductionDay1_78c37348:
 msgid "[pcthink] Huh? Who's this?"
@@ -30,11 +30,11 @@ msgstr "[pcthink] Huh ? C'est qui ?"
 
 # game/events_t.rpy:16 ## translate crowdin tIntroductionDay1_7684f445:
 msgid "[pc] Hey [e], and..."
-msgstr "[pc] Hey [e], et..."
+msgstr "[pc] Hé [e], et..."
 
 # game/events_t.rpy:18 ## translate crowdin tIntroductionDay1_6195cba0:
 msgid "Woman || You must be [pc], I guess?"
-msgstr "Vous devez être [pc], je suppose ?"
+msgstr "Femme || Vous devez être [pc], je suppose ?"
 
 # game/events_t.rpy:19 ## translate crowdin tIntroductionDay1_c19d9253:
 msgid "[pc] Uh, yes and you are?"
@@ -42,7 +42,7 @@ msgstr "[pc] Euh, oui et vous êtes ?"
 
 # game/events_t.rpy:21 ## translate crowdin tIntroductionDay1_e98c5f0a:
 msgid "Woman || Oh? No one told you about me?"
-msgstr "Oh ? Personne ne vous a parlé de moi ?"
+msgstr "Femme || Oh ? Personne ne vous a parlé de moi ?"
 
 # game/events_t.rpy:22 ## translate crowdin tIntroductionDay1_daa5d770:
 msgid "[pc] No..."
@@ -54,7 +54,7 @@ msgstr "Femme || Je suis le thérapeute de [e]."
 
 # game/events_t.rpy:26 ## translate crowdin tIntroductionDay1_eb2004dd:
 msgid "[pcthink] Okay, no introduction then..."
-msgstr "[pcthink] Ok, pas d'introduction alors..."
+msgstr "[pcthink] Ok, pas de présentation..."
 
 # game/events_t.rpy:27 ## translate crowdin tIntroductionDay1_e62ed4d7:
 msgid "[pc] She has her own therapist?"
@@ -82,7 +82,7 @@ msgstr "[pcthink] Pourquoi a-t-elle une attitude aussi hostile ?"
 
 # game/events_t.rpy:35 ## translate crowdin tIntroductionDay1_ae442e8d:
 msgid "[pc] Yeah... uh, aren't you a bit young to be a therapist?"
-msgstr "[pc] Ouais... euh, tu n'es pas un peu jeune pour être thérapeute ?"
+msgstr "[pc] Ouais... euh, vous n'êtes pas un peu jeune pour être thérapeute ?"
 
 # game/events_t.rpy:37 ## translate crowdin tIntroductionDay1_7a7082a7:
 msgid "[t1] I don't see what my age has to do with my work."
@@ -102,7 +102,7 @@ msgstr "[pcthink] Wow, quel snobisme..."
 
 # game/events_t.rpy:44 ## translate crowdin tIntroductionDay1_4b54d6e8:
 msgid "[t1] So, [m] told me that [e] is quite... fond of you?"
-msgstr "[t1] Donc, [m] m'a dit que [e] est assez... attaché à toi ?"
+msgstr "[t1] Donc, [m] m'a dit que [e] est assez... attachée à vous ?"
 
 # game/events_t.rpy:46 ## translate crowdin tIntroductionDay1_6ff7343e:
 msgid "[pc] Did she? Well I'm her [bs] after all."
@@ -118,7 +118,7 @@ msgstr "[t1] Eh bien, je préférerais que vous nous laissiez tranquilles jusqu'
 
 # game/events_t.rpy:52 ## translate crowdin tIntroductionDay1_cba92d17:
 msgid "[pcthink] Work? Is [e] nothing but work to her?"
-msgstr "[pcthink] Travail ? Est-ce que [e] rien que du travail pour elle ?"
+msgstr "[pcthink] Travail? Est-ce que [e] n'est rien d'autre que du travail pour elle?"
 
 # game/events_t.rpy:53 ## translate crowdin tIntroductionDay1_79572587:
 msgid "[pc] Sure..."
@@ -134,7 +134,7 @@ msgstr "[pcthink] Qu'est-ce que... quelle salope !"
 
 # game/events_t.rpy:57 ## translate crowdin tIntroductionDay1_f3ec1b00:
 msgid "[pcthink] Why did [m] hire someone like her to take care of [e]?!"
-msgstr "[pcthink] Pourquoi est-ce que [m] a engagé quelqu'un comme elle pour s'occuper de [e]? !"
+msgstr "[pcthink] Pourquoi est-ce que [m] a engagé quelqu'un comme elle pour s'occuper de [e]?!"
 
 # game/events_t.rpy:58 ## translate crowdin tIntroductionDay1_f8359cf8:
 msgid "[pcthink] [e] didn't seem to be overly excited either... she almost looked like she wanted me to help her."
@@ -146,7 +146,7 @@ msgstr "[pcthink] Je dois en parler à [m] ."
 
 # game/events_t.rpy:67 ## translate crowdin tLeavingDay1_f97a045a:
 msgid "[n] As you are about to enter your room you hear [e]'s door open."
-msgstr "[n] Alors que vous êtes sur le point d'entrer dans votre chambre, vous entendez [e]'s door open."
+msgstr "[n] Alors que vous êtes sur le point d'entrer dans votre chambre, vous entendez la porte de [e] s'ouvrir."
 
 # game/events_t.rpy:69 ## translate crowdin tLeavingDay1_9f997bde:
 msgid "[t] {size=-10}...and don't forget to finish your tasks this time. I really don't feel like going through this every time I'm here!{/size}"
@@ -174,11 +174,11 @@ msgstr "[pc] ...juste pour dire."
 
 # game/events_t.rpy:80 ## translate crowdin tLeavingDay1_6e8a0f71:
 msgid "[t] Tch, it would have helped if you hadn't disturbed us at the beginning!"
-msgstr "[t] Tch, ça aurait aidé si tu ne nous avais pas dérangés au début !"
+msgstr "[t] Tch, ça aurait aidé si vous ne nous aviez pas dérangées au début !"
 
 # game/events_t.rpy:81 ## translate crowdin tLeavingDay1_68e27774:
 msgid "[pc] What?! How the hell did I disturb you?! You barely entered her room!?"
-msgstr "[pc] Quoi ? ! Comment diable ai-je pu vous déranger ? ! Vous êtes à peine entré dans sa chambre ! ?"
+msgstr "[pc] Quoi ?! Comment diable ai-je pu vous déranger ?! Vous êtes à peine entré dans sa chambre !?"
 
 # game/events_t.rpy:83 ## translate crowdin tLeavingDay1_3428f041:
 msgid "[t] You did disturb {b}her{/b}, not me! You don't know much about people, do you?!"
@@ -186,7 +186,7 @@ msgstr "[t] Tu l'as dérangée {b}elle{/b}, pas moi! Tu ne sais pas grand-chose 
 
 # game/events_t.rpy:85 ## translate crowdin tLeavingDay1_7e25f18f:
 msgid "[pc] {b}I{/b} don't know much about people?! You were the one who was unfriendly to start with, and by the way, you didn't even introduce yourself."
-msgstr "[pc] {b}Je ne connais pas grand chose aux gens ? ! C'est vous qui étiez antipathique au départ, et d'ailleurs, vous ne vous êtes même pas présenté."
+msgstr "[pc] {b}Je{/b} ne connais pas grand chose aux gens ?! C'est vous qui étiez antipathique au départ, et d'ailleurs, vous ne vous êtes même pas présenté."
 
 # game/events_t.rpy:86 ## translate crowdin tLeavingDay1_392965ff:
 msgid "[pc] If that's the way you work then I know why [e] doesn't like you."
@@ -202,15 +202,15 @@ msgstr "[t] Pour que ce soit clair, je préférerais que vous ne soyez pas là l
 
 # game/events_t.rpy:91 ## translate crowdin tLeavingDay1_9038d468:
 msgid "[pc] Yeah, go and I would prefer it if you'd never come back!"
-msgstr "[pc] Oui, vas-y et je préférerais que tu ne reviennes jamais !"
+msgstr "[pc] Oui, allez-y et je préférerais que vous ne reveniez jamais !"
 
 # game/events_t.rpy:92 ## translate crowdin tLeavingDay1_d7718496:
 msgid "[pcthink] Shit, maybe that was a bit too much. I hope [m] didn't hear that..."
-msgstr "[pcthink] Merde, c'était peut-être un peu trop. J'espère que [m] n'a pas entendu ça..."
+msgstr "[pcthink] Merde, c'était peut-être un peu trop. J'espère que [m] n'a pas entendu dire ça..."
 
 # game/events_t.rpy:93 ## translate crowdin tLeavingDay1_5b8bbe35:
 msgid "[e] Hehehe."
-msgstr "[e] Hehehe."
+msgstr "[e] Héhéhé."
 
 # game/events_t.rpy:95 ## translate crowdin tLeavingDay1_5024d08a:
 msgid "[pc] Huh, [e]?"
@@ -242,11 +242,11 @@ msgstr "[pcthink] C'est quoi ce bordel, elle est sérieuse ?"
 
 # game/events_t.rpy:114 ## translate crowdin talkTone_c836eca1:
 msgid "[pc] [e] is not home yet, same for [m]!"
-msgstr "[pc] [e] n'est pas encore chez lui, idem pour [m]!"
+msgstr "[pc] [e] n'est pas encore chez elle, idem pour [m]!"
 
 # game/events_t.rpy:116 ## translate crowdin talkTone_1a7d08cd:
 msgid "[t] Not home? Why?"
-msgstr "[t] Pas chez vous ? Pourquoi ?"
+msgstr "[t] Pas chez elle ? Pourquoi ?"
 
 # game/events_t.rpy:117 ## translate crowdin talkTone_6725ba2c:
 msgid "[pc] I don't know, [m] just told me on the phone."
@@ -254,7 +254,7 @@ msgstr "[pc] Je ne sais pas, [m] vient de me le dire au téléphone."
 
 # game/events_t.rpy:118 ## translate crowdin talkTone_0cb27f32:
 msgid "[t] Why didn't she call me?"
-msgstr "[t] Pourquoi ne m'a-t-elle pas appelé ?"
+msgstr "[t] Pourquoi ne m'a-t-elle pas appelée?"
 
 # game/events_t.rpy:119 ## translate crowdin talkTone_5bed270f:
 msgid "[pc] I guess she didn't see a need for it..."
@@ -266,7 +266,7 @@ msgstr "[t] Tch... bien je suppose qu'il n'y aura pas de session aujourd'hui alo
 
 # game/events_t.rpy:121 ## translate crowdin talkTone_3cbef9bc:
 msgid "[pc] They will be here in a few minutes."
-msgstr "[pc] Ils seront là dans quelques minutes."
+msgstr "[pc] Elles seront là dans quelques minutes."
 
 # game/events_t.rpy:122 ## translate crowdin talkTone_bf9c937b:
 msgid "[t] Humph... fine, I'll wait then..."
@@ -350,7 +350,7 @@ msgstr "[pcthink] C'est quoi ce bordel ?"
 
 # game/events_t.rpy:158 ## translate crowdin talkTone_e7c2f889:
 msgid "[pc] Are you writing something about me?"
-msgstr "[pc] Tu es en train d'écrire quelque chose à mon sujet ?"
+msgstr "[pc] Vous êtes en train d'écrire quelque chose à mon sujet ?"
 
 # game/events_t.rpy:159 ## translate crowdin talkTone_1bb01731_2:
 msgid "[t] ..."
@@ -358,7 +358,7 @@ msgstr "[t]..."
 
 # game/events_t.rpy:160 ## translate crowdin talkTone_8cac5dd8:
 msgid "[pc] Hey, I'm talking to you!"
-msgstr "[pc] Hé, je te parle !"
+msgstr "[pc] Hé, je vous parle !"
 
 # game/events_t.rpy:161 ## translate crowdin talkTone_e48a879c:
 msgid "[t] ...of course."
@@ -366,11 +366,11 @@ msgstr "[t] ...bien sûr."
 
 # game/events_t.rpy:162 ## translate crowdin talkTone_b07f5d55:
 msgid "[pc] Of course?! What the hell?!"
-msgstr "[pc] Bien sûr ? ! C'est quoi ce bordel ? !"
+msgstr "[pc] Bien sûr ?! C'est quoi ce bordel ?!"
 
 # game/events_t.rpy:163 ## translate crowdin talkTone_65130f8c:
 msgid "[t] ...I need to include all factors in [e]'s life for her therapy."
-msgstr "[t] ...Je dois inclure tous les facteurs de la vie de [e]'s pour sa thérapie."
+msgstr "[t] ...Je dois inclure tous les facteurs de la vie de [e] pour sa thérapie."
 
 # game/events_t.rpy:164 ## translate crowdin talkTone_a33f1a86:
 msgid "[pc] Factors? I'm not a fucking factor!"
@@ -390,7 +390,7 @@ msgstr "[t]..."
 
 # game/events_t.rpy:169 ## translate crowdin talkTone_bdbcc61f:
 msgid "[pcthink] Fuck this bitch. What the fuck is wrong with her?"
-msgstr "[pcthink] Baise cette salope. Qu'est-ce qui ne va pas chez elle ?"
+msgstr "[pcthink] Merde à cette salope. Qu'est-ce qui ne va pas chez elle ?"
 
 # game/events_t.rpy:170 ## translate crowdin talkTone_a69377ef_4:
 msgid "[pc] ..."
@@ -442,7 +442,7 @@ msgstr "[t] C'est bon, mais je dois le faire payer."
 
 # game/events_t.rpy:187 ## translate crowdin talkTone_63dc55b9:
 msgid "[pc] What?! Are you serious? It was barely ten minutes if at all!"
-msgstr "[pc] Quoi ? ! Vous êtes sérieux ? C'était à peine dix minutes, voire pas du tout !"
+msgstr "[pc] Quoi ?! Vous êtes sérieuse ? C'était à peine dix minutes, voire moins !"
 
 # game/events_t.rpy:189 ## translate crowdin talkTone_4195dc61:
 msgid "[t] Time is money..."
@@ -450,7 +450,7 @@ msgstr "[t] Le temps, c'est de l'argent..."
 
 # game/events_t.rpy:190 ## translate crowdin talkTone_9aa21a13:
 msgid "[m] [pc], it's okay. It was my fault, so I'll happily pay for it."
-msgstr "[m] [pc], c'est bon. C'était ma faute, alors je suis heureux de payer pour ça."
+msgstr "[m] [pc], c'est bon. C'était ma faute, alors je suis heureuse de payer pour ça."
 
 # game/events_t.rpy:191 ## translate crowdin talkTone_9e058329:
 msgid "[pc] Humph... well it's your money..."
@@ -470,7 +470,7 @@ msgstr "[n] [e] hausse les épaules et se rapproche de vous."
 
 # game/events_t.rpy:199 ## translate crowdin talkTone_b1e166ac:
 msgid "[m] Oh [e], come on, you know [t] is a busy woman. You can cuddle with your [bs] later."
-msgstr "[m] Oh [e], allez, tu sais que [t] est une femme occupée. Tu pourras faire des câlins à ton [bs] plus tard."
+msgstr "[m] Oh [e], aller, tu sais que [t] est une femme occupée. Tu pourras faire des câlins à ton [bs] plus tard."
 
 # game/events_t.rpy:200 ## translate crowdin talkTone_58b6458b:
 msgid "[n] She draws herself even closer."
@@ -498,7 +498,7 @@ msgstr "[pc] De toute façon, nous ne voulons pas que [m] paie plus que nécessa
 
 # game/events_t.rpy:210 ## translate crowdin talkTone_1f8593ae:
 msgid "[n] You give her a wink."
-msgstr "[n] Tu lui fais un clin d'oeil."
+msgstr "[n] Vous lui faites un clin d'œil."
 
 # game/events_t.rpy:211 ## translate crowdin talkTone_7eb3a119:
 msgid "[n] She smiles and gets up."
@@ -514,11 +514,11 @@ msgstr "[m] Merci, Hun."
 
 # game/events_t.rpy:220 ## translate crowdin talkTone_6ebe8d99:
 msgid "[m] And I'm sorry, I should have told you about the session today."
-msgstr "[m] Et je suis désolé, j'aurais dû vous parler de la session d'aujourd'hui."
+msgstr "[m] Et je suis désolé, j'aurais dû te parler de la session d'aujourd'hui."
 
 # game/events_t.rpy:221 ## translate crowdin talkTone_22ef892f:
 msgid "[pc] Yeah, you should have. I hope you told [e] at least."
-msgstr "[pc] Oui, tu aurais dû. J'espère que tu as dit [e] au moins."
+msgstr "[pc] Oui, tu aurais dû. J'espère que tu as dit à [e] au moins."
 
 # game/events_t.rpy:223 ## translate crowdin talkTone_89d5aa4d:
 msgid "[m] Oh, [e] knows about her sessions with [t]. Better than me actually."
@@ -530,7 +530,7 @@ msgstr "[pc]..."
 
 # game/events_t.rpy:225 ## translate crowdin talkTone_68d179b3:
 msgid "[m] Could you do me a favor [pc]?"
-msgstr "[m] Pourriez-vous me faire une faveur [pc]?"
+msgstr "[m] Pourrais-tu me faire une faveur [pc]?"
 
 # game/events_t.rpy:226 ## translate crowdin talkTone_4dd18129:
 msgid "[pc] What favor?"
@@ -546,7 +546,7 @@ msgstr "[pc] Quoi ? Pourquoi le ferais-je ? Elle a été une salope envers moi d
 
 # game/events_t.rpy:229 ## translate crowdin talkTone_9e0a896f:
 msgid "[m] Please, [pc]. She is all we have to help [e]..."
-msgstr "[m] S'il vous plaît, [pc]. Elle est tout ce que nous avons pour aider [e]..."
+msgstr "[m] S'il te plaît, [pc]. Elle est tout ce que nous avons pour aider [e]..."
 
 # game/events_t.rpy:230 ## translate crowdin talkTone_a69377ef_6:
 msgid "[pc] ..."
@@ -554,7 +554,7 @@ msgstr "[pc]..."
 
 # game/events_t.rpy:231 ## translate crowdin talkTone_8ce1ddce:
 msgid "[m] I told you she's the only one still willing to help her, so please? For [e]."
-msgstr "[m] Je vous ai dit que c'est la seule personne encore prête à l'aider, alors s'il vous plaît ? Pour [e]."
+msgstr "[m] Je t'ai dit que c'est la seule personne encore prête à l'aider, alors s'il te plaît ? Pour [e]."
 
 # game/events_t.rpy:232 ## translate crowdin talkTone_259d0bbe:
 msgid "[pc] Humph... fine, I'll try, but I won't promise anything..."
@@ -578,7 +578,7 @@ msgstr "[pc] Euh... ouais, n'importe quand..."
 
 # game/events_t.rpy:243 ## translate crowdin talkTone_1cf2ebb4:
 msgid "[m] Well, I don't want to disturb you any longer, so I'm going to prepare the cake for later."
-msgstr "[m] Bon, je ne veux pas vous déranger plus longtemps, donc je vais préparer le gâteau pour plus tard."
+msgstr "[m] Bon, je ne veux pas te déranger plus longtemps, donc je vais préparer le gâteau pour plus tard."
 
 # game/events_t.rpy:244 ## translate crowdin talkTone_1002bba8:
 msgid "[pc] ...sure..."
@@ -594,7 +594,7 @@ msgstr "[pcthink] Elle m'a regardé droit dans les yeux, presque comme si elle s
 
 # game/events_t.rpy:248 ## translate crowdin talkTone_4e097a61:
 msgid "[pcthink] Does she remember it?! Gawd, that would be awful!"
-msgstr "[pcthink] Est-ce qu'elle s'en souvient ? ! Mon Dieu, ce serait affreux !"
+msgstr "[pcthink] Est-ce qu'elle s'en souvient ?! Mon Dieu, ce serait affreux !"
 
 # game/events_t.rpy:249 ## translate crowdin talkTone_f0cac90d:
 msgid "[pcthink] ..."
@@ -622,11 +622,11 @@ msgstr "[pc] Très bien, c'est assez !"
 
 # game/events_t.rpy:263 ## translate crowdin coerceT1_1bca92a8:
 msgid "[t] Wha?!"
-msgstr "[t] Wha ?!"
+msgstr "[t] Quoi?!"
 
 # game/events_t.rpy:265 ## translate crowdin coerceT1_a76ebdec:
 msgid "[pc] I've had enough of your bitchy attitude now."
-msgstr "[pc] J'en ai assez de ton attitude de garce maintenant."
+msgstr "[pc] J'en ai assez de votre attitude de garce maintenant."
 
 # game/events_t.rpy:267 ## translate crowdin coerceT1_bca15824:
 msgid "[t] Tch! And what do you intend to do about it?"
@@ -634,19 +634,19 @@ msgstr "[t] Tch ! Et qu'avez-vous l'intention de faire à ce sujet ?"
 
 # game/events_t.rpy:268 ## translate crowdin coerceT1_356643dd:
 msgid "[t] Are you going to punch me like your dad did with [m]?"
-msgstr "[t] Tu vas me frapper comme ton père l'a fait avec [m]?"
+msgstr "[t] Vous allez me frapper comme votre père l'a fait avec [m]?"
 
 # game/events_t.rpy:269 ## translate crowdin coerceT1_601e06e5:
 msgid "[pc] What?!"
-msgstr "[pc] Quoi ? !"
+msgstr "[pc] Quoi ?!"
 
 # game/events_t.rpy:270 ## translate crowdin coerceT1_96899653:
 msgid "[pc] What the fuck is wrong with you?!"
-msgstr "[pc] Qu'est-ce qui ne va pas chez toi ? !"
+msgstr "[pc] Qu'est-ce qui ne va pas chez vous?!"
 
 # game/events_t.rpy:271 ## translate crowdin coerceT1_23e9ef9c:
 msgid "[pc] I'm not going to punch anyone, not even you!"
-msgstr "[pc] Je ne vais frapper personne, même pas toi !"
+msgstr "[pc] Je ne vais frapper personne, même pas vous !"
 
 # game/events_t.rpy:272 ## translate crowdin coerceT1_1c90e56b:
 msgid "[pc] Why the hell would you think I would do that?"
@@ -658,7 +658,7 @@ msgstr "[t] Je ne sais pas, dites-le moi !"
 
 # game/events_t.rpy:274 ## translate crowdin coerceT1_5cf0e16e:
 msgid "[pc] What the hell have I ever done to you, huh?!"
-msgstr "[pc] Qu'est-ce que j'ai bien pu te faire, hein ? !"
+msgstr "[pc] Qu'est-ce que j'ai bien pu vous faire, hein ?!"
 
 # game/events_t.rpy:275 ## translate crowdin coerceT1_39652b23:
 msgid "[t] Humph... more than enough..."
@@ -670,7 +670,7 @@ msgstr "[pcthink] Pourquoi est-ce qu'elle... rougit ?"
 
 # game/events_t.rpy:278 ## translate crowdin coerceT1_3ef8a3bf:
 msgid "[pc] You were the one who was acting like a bitch from the first day we met!"
-msgstr "[pc] C'est toi qui te comportais comme une garce dès le premier jour où nous nous sommes rencontrés !"
+msgstr "[pc] C'est vous qui vous comportiez comme une garce dès le premier jour où nous nous sommes rencontrés !"
 
 # game/events_t.rpy:279 ## translate crowdin coerceT1_1bb01731:
 msgid "[t] ..."
@@ -678,11 +678,11 @@ msgstr "[t]..."
 
 # game/events_t.rpy:280 ## translate crowdin coerceT1_2ece0882:
 msgid "[pcthink] Don't tell me she's intimidated..."
-msgstr "[pcthink] Ne me dites pas qu'elle est intimidée..."
+msgstr "[pcthink] Ne me dis pas qu'elle est intimidée..."
 
 # game/events_t.rpy:281 ## translate crowdin coerceT1_fa8dfb16:
 msgid "[pc] I'm talking to you!"
-msgstr "[pc] C'est à toi que je parle !"
+msgstr "[pc] C'est à vous que je parle !"
 
 # game/events_t.rpy:283 ## translate crowdin coerceT1_6bfe6878:
 msgid "[t] I don't care!"
@@ -702,11 +702,11 @@ msgstr "[t] Arrêtez de me fixer et laissez-moi partir !"
 
 # game/events_t.rpy:289 ## translate crowdin coerceT1_52f65fd6:
 msgid "[pc] Are you going to stop being such a bitch to everybody then?"
-msgstr "[pc] Tu vas arrêter d'être une telle garce avec tout le monde alors ?"
+msgstr "[pc] Vous allez arrêter d'être une telle garce avec tout le monde alors ?"
 
 # game/events_t.rpy:291 ## translate crowdin coerceT1_18d556a0:
 msgid "[pc] What the hell makes you even think I'd be like that piece of shit?!"
-msgstr "[pc] Qu'est-ce qui te fait penser que je serais comme cette merde ? !"
+msgstr "[pc] Qu'est-ce qui vous fait penser que je serais comme cette merde ?!"
 
 # game/events_t.rpy:292 ## translate crowdin coerceT1_311a65ff:
 msgid "[t] Uhn..."
@@ -718,7 +718,7 @@ msgstr "[n] Vous remarquez qu'elle tressaille légèrement pendant moins d'une s
 
 # game/events_t.rpy:294 ## translate crowdin coerceT1_5f186255:
 msgid "[pcthink] What's wrong with her?! I would have expected her to freak out and yell at me..."
-msgstr "[pcthink] Qu'est-ce qui ne va pas chez elle ? ! Je me serais attendu à ce qu'elle panique et me crie dessus..."
+msgstr "[pcthink] Qu'est-ce qui ne va pas chez elle ?! Je me serais attendu à ce qu'elle panique et me crie dessus..."
 
 # game/events_t.rpy:295 ## translate crowdin coerceT1_5bc150d6:
 msgid "[pcthink] ...but it feels more like she's kind of embarrassed, almost... excited."
@@ -746,15 +746,15 @@ msgstr "[pcthink] Ça pourrait vraiment l'exciter ?"
 
 # game/events_t.rpy:308 ## translate crowdin coerceT1_ebfc8133:
 msgid "[t] ...Fuck you! Let me go!"
-msgstr "[t] ...Va te faire foutre ! Laissez-moi partir !"
+msgstr "[t] ...Allez vous faire foutre ! Laissez-moi partir !"
 
 # game/events_t.rpy:309 ## translate crowdin coerceT1_15e4f062:
 msgid "[pc] I'm not even holding you anymore, but you're still here and blushing like a tomato..."
-msgstr "[pc] Je ne te tiens même plus, mais tu es toujours là et tu rougis comme une tomate..."
+msgstr "[pc] Je ne vous tiens même plus, mais vous êtes toujours là et vous rougissez comme une tomate..."
 
 # game/events_t.rpy:310 ## translate crowdin coerceT1_f0dbe5e0:
 msgid "[t] A-Asshole!"
-msgstr "[t] A-Asshole !"
+msgstr "[t] T-Trou du cul!"
 
 # game/events_t.rpy:312 ## translate crowdin coerceT1_5c96684d:
 msgid "[n] She storms off."
@@ -766,7 +766,7 @@ msgstr "[pc]..."
 
 # game/events_t.rpy:314 ## translate crowdin coerceT1_f9f04f06:
 msgid "[pc] *Exhale*"
-msgstr "[pc] *Exhale*"
+msgstr "[pc] *Expiration*"
 
 # game/events_t.rpy:316 ## translate crowdin coerceT1_d0b1cdff:
 msgid "[pcthink] Phew... somehow I get the feeling that she expected me to do something to her..."
@@ -782,7 +782,7 @@ msgstr "[pcthink] Hum... espérons qu'elle ne l'a dit à personne..."
 
 # game/events_t.rpy:322 ## translate crowdin coerceT1_c8bc0a06:
 msgid "[t] W-what are you doing? Don't touch me you pervert!"
-msgstr "[t] Q-Qu'est-ce que tu fais ? Ne me touche pas, pervers !"
+msgstr "[t] Q-Qu'est-ce que vous faites? Ne me touchez pas, pervers !"
 
 # game/events_t.rpy:324 ## translate crowdin coerceT1_11c5e036:
 msgid "[pcthink] Damn, she is extremely wet..."
@@ -798,7 +798,7 @@ msgstr "[t] Euh... vous.... Non !"
 
 # game/events_t.rpy:328 ## translate crowdin coerceT1_297d3c46:
 msgid "[t] S-stop that!"
-msgstr "[t] S-stop that !"
+msgstr "[t] A-arrête ça!"
 
 # game/events_t.rpy:336 ## translate crowdin coerceT1_e544c31a:
 msgid "[t] Ahhnn..."
@@ -822,19 +822,19 @@ msgstr "[pc] Non ? Ne me dis pas que tu t'es fait dessus."
 
 # game/events_t.rpy:350 ## translate crowdin coerceT1_e857fb65:
 msgid "[t] What?! N-no!! I'm.. haaah."
-msgstr "[t] Quoi ? ! N-non ! ! Je suis... haaah."
+msgstr "[t] Quoi ?! N-non !! Je suis... haaah."
 
 # game/events_t.rpy:357 ## translate crowdin coerceT1_e6ad8051:
 msgid "[pc] So you ARE wet!"
-msgstr "[pc] Donc vous êtes mouillé !"
+msgstr "[pc] Donc tu ES mouillée !"
 
 # game/events_t.rpy:359 ## translate crowdin coerceT1_8b1e45b0:
 msgid "[t] Nnnh *gasp* ... I'm not...hnn... let me go!"
-msgstr "[t] Nnnh *gasp* ... Je ne suis pas... hnn... laissez-moi partir !"
+msgstr "[t] Nonn *halètement* ... Je ne suis pas... hnn... laisses-moi partir !"
 
 # game/events_t.rpy:360 ## translate crowdin coerceT1_aba0dc7b:
 msgid "[pc] I'm not holding you."
-msgstr "[pc] Je ne vous retiens pas."
+msgstr "[pc] Je ne te retiens pas."
 
 # game/events_t.rpy:363 ## translate crowdin coerceT1_7498a700:
 msgid "[t] Nghh... ahh asshole!"
@@ -842,27 +842,27 @@ msgstr "[t] Nghh... ahh trou du cul !"
 
 # game/events_t.rpy:365 ## translate crowdin coerceT1_89f1e6fd:
 msgid "[t] Nghh... ahh bitch!"
-msgstr "[t] Nghh... ahh bitch !"
+msgstr "[t] Nghh... ahh salope!"
 
 # game/events_t.rpy:366 ## translate crowdin coerceT1_f7f581d1:
 msgid "[t] Stop it! Haaanngh"
-msgstr "[t] Arrêtez ça ! Haaanngh"
+msgstr "[t] Arrête ça ! Haaanngh"
 
 # game/events_t.rpy:378 ## translate crowdin coerceT1_4a850b8d:
 msgid "[t] Haa... aahnn... oh god, stop, please... aaahh!!"
-msgstr "[t] Haa... aahnn... oh mon dieu, arrêtez, s'il vous plaît... aaahh ! !!"
+msgstr "[t] Haa... aahnn... oh mon dieu, arrête, s'il te plaît... aaahh !!"
 
 # game/events_t.rpy:379 ## translate crowdin coerceT1_c2fc4cb0:
 msgid "[pc] Really? You want me to stop?"
-msgstr "[pc] Vraiment ? Vous voulez que je m'arrête ?"
+msgstr "[pc] Vraiment ? Tu veux que je m'arrête ?"
 
 # game/events_t.rpy:381 ## translate crowdin coerceT1_94109a44:
 msgid "[t] Ahnngh, y-yes, p-please, haaa..."
-msgstr "[t] Ahnngh, y-yes, p-please, haaa..."
+msgstr "[t] Ahnngh, o-oui, s-s'il te plaît, haaa..."
 
 # game/events_t.rpy:382 ## translate crowdin coerceT1_1638630b:
 msgid "[pc] So you have some manners after all."
-msgstr "[pc] Donc vous avez des manières après tout."
+msgstr "[pc] Donc tu as des manières après tout."
 
 # game/events_t.rpy:390 ## translate crowdin coerceT1_835387ca:
 msgid "[t] Haaah..."
@@ -874,11 +874,11 @@ msgstr "[pc] Qu'est-ce qui ne va pas ? Tu vas jouir ?"
 
 # game/events_t.rpy:393 ## translate crowdin coerceT1_c08dfb88:
 msgid "[t] Gnnhhh... n-no... ha...ha... aahnn..."
-msgstr "[t] Gnnhhh... n-no... ha...ha... aahnn..."
+msgstr "[t] Gnnhhh... n-non... ha...ha... aahnn..."
 
 # game/events_t.rpy:401 ## translate crowdin coerceT1_9f9109ce:
 msgid "[t] NNnnnnnh"
-msgstr "[t] NNnnnnnh"
+msgstr "[t] NNonnnnnh"
 
 # game/events_t.rpy:403 ## translate crowdin coerceT1_0caa5a7c:
 msgid "[t] AAHhhhh..."
@@ -890,7 +890,7 @@ msgstr "[pc] Wow, tu as giclé partout sur le sol..."
 
 # game/events_t.rpy:408 ## translate crowdin coerceT1_29c24c19:
 msgid "[t] Haaa...haaa.... *gasp*"
-msgstr "[t] Haaa...haaa.... *gasp*"
+msgstr "[t] Haaa...haaa.... *halètement*"
 
 # game/events_t.rpy:410 ## translate crowdin coerceT1_0f984cd0:
 msgid "[t] You pig! Hahhh... H-how could you..."
@@ -898,11 +898,11 @@ msgstr "[t] Espèce de porc ! Hahhh... Comment as-tu pu..."
 
 # game/events_t.rpy:412 ## translate crowdin coerceT1_f38328b1:
 msgid "[t] You dyke! Hahhh... H-how could you..."
-msgstr "[t] Vous gouine ! Hahhh... Comment as-tu pu..."
+msgstr "[t] Toi gouine! Hahhh... Comment as-tu pu..."
 
 # game/events_t.rpy:413 ## translate crowdin coerceT1_7f7cfa53:
 msgid "[pc] Looks like you needed it quite urgently."
-msgstr "[pc] On dirait que vous en aviez besoin de toute urgence."
+msgstr "[pc] On dirait que tu en avais besoin de toute urgence."
 
 # game/events_t.rpy:415 ## translate crowdin coerceT1_d44ef087:
 msgid "[t] ...Fuck you!"
@@ -918,7 +918,7 @@ msgstr "[pc]..."
 
 # game/events_t.rpy:419 ## translate crowdin coerceT1_f9f04f06_1:
 msgid "[pc] *Exhale*"
-msgstr "[pc] *Exhale*"
+msgstr "[pc] *Expiration*"
 
 # game/events_t.rpy:420 ## translate crowdin coerceT1_bb24becf:
 msgid "[pcthink] Phew... holy shit... I can't believe what I just did..."
@@ -938,7 +938,7 @@ msgstr "[n] Vous êtes sur le point de vous lever, quand soudain..."
 
 # game/events_t.rpy:434 ## translate crowdin tcoerce2_d3375c9a:
 msgid "[n] *Slam*"
-msgstr "[n] *Slam*"
+msgstr "[n] *Frappe*"
 
 # game/events_t.rpy:435 ## translate crowdin tcoerce2_ca581621:
 msgid "[pcthink] What the..."
@@ -946,7 +946,7 @@ msgstr "[pcthink] Qu'est-ce que..."
 
 # game/events_t.rpy:438 ## translate crowdin tcoerce2_7e8e15db:
 msgid "[pcthink] Her???"
-msgstr "[pcthink] Her ???"
+msgstr "[pcthink] Elle???"
 
 # game/events_t.rpy:439 ## translate crowdin tcoerce2_f27f7b11:
 msgid "[pc] What the fuck, can't you knock?"
@@ -958,7 +958,7 @@ msgstr "[t] Il faut qu'on parle !"
 
 # game/events_t.rpy:442 ## translate crowdin tcoerce2_bfa0a00c:
 msgid "[pcthink] Shit! This is probably about what happened in the bathroom at [e]'s birthday... I almost forgot about it after everything that happened..."
-msgstr "[pcthink] Merde ! C'est probablement à propos de ce qui s'est passé dans la salle de bain à l'anniversaire de [e]'s... J'ai failli l'oublier après tout ce qui s'est passé..."
+msgstr "[pcthink] Merde ! C'est probablement à propos de ce qui s'est passé dans la salle de bain à l'anniversaire de [e]... J'ai failli l'oublier après tout ce qui s'est passé..."
 
 # game/events_t.rpy:443 ## translate crowdin tcoerce2_e555c0c1:
 msgid "[t] I have a few questions."
@@ -970,7 +970,7 @@ msgstr "[pc] Huh ?"
 
 # game/events_t.rpy:445 ## translate crowdin tcoerce2_779768aa:
 msgid "[t] It's obvious that you play a big role in [e]'s condition, so I have to include you in my research..."
-msgstr "[t] Il est évident que tu joues un grand rôle dans la condition de [e]'s, donc je dois t'inclure dans ma recherche..."
+msgstr "[t] Il est évident que tu joues un grand rôle dans la condition de [e], donc je dois t'inclure dans ma recherche..."
 
 # game/events_t.rpy:446 ## translate crowdin tcoerce2_74865b68:
 msgid "[pc] Errr... okay?"
@@ -978,7 +978,7 @@ msgstr "[pc] Errr... ok ?"
 
 # game/events_t.rpy:448 ## translate crowdin tcoerce2_5ddfe741:
 msgid "[t] Good. Since you seem to be willing to cooperate, let's not waste time..."
-msgstr "[t] Bien. Puisque vous semblez vouloir coopérer, ne perdons pas de temps..."
+msgstr "[t] Bien. Puisque tu sembles vouloir coopérer, ne perdons pas de temps..."
 
 # game/events_t.rpy:449 ## translate crowdin tcoerce2_9b87e509:
 msgid "[pcthink] I didn't even agree..."
@@ -990,11 +990,11 @@ msgstr "[t] Quelle a été la dernière chose que tu as faite avec elle avant de
 
 # game/events_t.rpy:453 ## translate crowdin tcoerce2_dc0f5eab:
 msgid "[n] She starts to ask questions without hesitation."
-msgstr "[n] Elle commence à poser des questions sans hésitation."
+msgstr "[n] Elle commence à poser des questions sans hésiter."
 
 # game/events_t.rpy:454 ## translate crowdin tcoerce2_e12a1965:
 msgid "[n] You don't want to wake sleeping dogs, so you answer her questions as thoroughly as possible."
-msgstr "[n] Vous ne voulez pas réveiller les chiens qui dorment, alors vous répondez à ses questions aussi complètement que possible."
+msgstr "[n] Vous ne voulez pas réveiller de mauvais souvenirs, alors vous répondez à ses questions aussi complètement que possible."
 
 # game/events_t.rpy:455 ## translate crowdin tcoerce2_90ccf657:
 msgid "[n] Half an hour later..."
@@ -1010,11 +1010,11 @@ msgstr "[pc] Non, c'était juste cette fois-ci..."
 
 # game/events_t.rpy:459 ## translate crowdin tcoerce2_ef4592ee:
 msgid "[pcthink] Damn, I didn't expect her to ask so many questions... when will she stop?!"
-msgstr "[pcthink] Mince, je ne m'attendais pas à ce qu'elle pose autant de questions... quand est-ce qu'elle va s'arrêter ? !"
+msgstr "[pcthink] Mince, je ne m'attendais pas à ce qu'elle pose autant de questions... quand est-ce qu'elle va s'arrêter ?!"
 
 # game/events_t.rpy:460 ## translate crowdin tcoerce2_9fc45683:
 msgid "[t] Did she ever tell you that she wanted to marry you?"
-msgstr "[t] Vous a-t-elle déjà dit qu'elle voulait vous épouser ?"
+msgstr "[t] T'a-t-elle déjà dit qu'elle voulait t'épouser ?"
 
 # game/events_t.rpy:461 ## translate crowdin tcoerce2_41d602a9:
 msgid "[pc] What? What kind of question is that?"
@@ -1042,7 +1042,7 @@ msgstr "[pc] ...ugh, oui, elle l'a fait...."
 
 # game/events_t.rpy:473 ## translate crowdin tcoerce2_21069b5d:
 msgid "[t] I see... did you agree?"
-msgstr "[t] Je vois... vous êtes d'accord ?"
+msgstr "[t] Je vois... tu es d'accord ?"
 
 # game/events_t.rpy:475 ## translate crowdin tcoerce2_d36c363f:
 msgid "[pc] Why does it even matter? I mean, we were kids, it didn't mean anything!"
@@ -1050,7 +1050,7 @@ msgstr "[pc] Pourquoi ça a de l'importance ? Je veux dire, on était des enfant
 
 # game/events_t.rpy:477 ## translate crowdin tcoerce2_c795f961:
 msgid "[t] Did you?"
-msgstr "[t] L'avez-vous fait ?"
+msgstr "[t] L'as-tu fait ?"
 
 # game/events_t.rpy:479 ## translate crowdin tcoerce2_f176e573:
 msgid "[pcthink] Shit..."
@@ -1066,15 +1066,15 @@ msgstr "[pc] Bien sûr que non ! Elle ne comprenait même pas ce qu'elle demanda
 
 # game/events_t.rpy:487 ## translate crowdin tcoerce2_af6f2006:
 msgid "[t] I see... did you ever touch her or hold her so she cannot move?"
-msgstr "[t] Je vois... l'avez-vous déjà touchée ou tenue de façon à ce qu'elle ne puisse pas bouger ?"
+msgstr "[t] Je vois... l'as-tu déjà touchée ou tenue de façon à ce qu'elle ne puisse pas bouger ?"
 
 # game/events_t.rpy:488 ## translate crowdin tcoerce2_601e06e5:
 msgid "[pc] What?!"
-msgstr "[pc] Quoi ? !"
+msgstr "[pc] Quoi ?!"
 
 # game/events_t.rpy:490 ## translate crowdin tcoerce2_034b8a66:
 msgid "[t] ...or do you do that only to people you don't know?"
-msgstr "[t] ...ou faites-vous cela uniquement aux personnes que vous ne connaissez pas ?"
+msgstr "[t] ...ou fais-tu cela uniquement aux personnes que tu ne connais pas ?"
 
 # game/events_t.rpy:491 ## translate crowdin tcoerce2_4e0ae3ff:
 msgid "[pc] ...the fuck! I {b}never{/b} touched her {b}that{/b} way!"
@@ -1082,7 +1082,7 @@ msgstr "[pc] ...putain! Je ne {b}l'ai jamais{/b} touchée sur son, {b}ce{/b}, de
 
 # game/events_t.rpy:492 ## translate crowdin tcoerce2_1651e3f5:
 msgid "[t] ...so you are just a pervert..."
-msgstr "[t] ...donc vous êtes juste un pervers..."
+msgstr "[t] ...donc tu es juste un pervers..."
 
 # game/events_t.rpy:493 ## translate crowdin tcoerce2_c09dea9c:
 msgid "[pc] I'm not a fucking pervert!"
@@ -1090,11 +1090,11 @@ msgstr "[pc] Je ne suis pas un putain de pervers !"
 
 # game/events_t.rpy:494 ## translate crowdin tcoerce2_7a6b49b8:
 msgid "[t] You obviously {b}are{/b} a pervert!"
-msgstr "[t] Il est évident que vous {b}êtes{/b} un pervers !"
+msgstr "[t] Il est évident que tu {b}es{/b} un pervers !"
 
 # game/events_t.rpy:495 ## translate crowdin tcoerce2_e01f9c15:
 msgid "[pc] Wait a minute, why am I the pervert here? You were the one who was completely wet..."
-msgstr "[pc] Attends une minute, pourquoi c'est moi le pervers ici ? Tu étais celui qui était complètement mouillé..."
+msgstr "[pc] Attends une minute, pourquoi c'est moi le pervers ici ? Tu étais celle qui était complètement mouillée..."
 
 # game/events_t.rpy:497 ## translate crowdin tcoerce2_ec92c1f8:
 msgid "[pc] ...and it didn't even take a minute for you to cum!"
@@ -1106,7 +1106,7 @@ msgstr "[t] Q-Qu'est-ce que tu racontes ?"
 
 # game/events_t.rpy:502 ## translate crowdin tcoerce2_0f11775e:
 msgid "[pc] Did you think I wouldn't notice that smell last time in the bathroom? It was more than obvious!"
-msgstr "[pc] Vous pensiez que je ne remarquerais pas cette odeur la dernière fois dans la salle de bain ? C'était plus qu'évident !"
+msgstr "[pc] Tu pensais que je ne remarquerais pas cette odeur la dernière fois dans la salle de bain ? C'était plus qu'évident !"
 
 # game/events_t.rpy:504 ## translate crowdin tcoerce2_92e77fe7:
 msgid "[t] T-That had nothing to do with you!"
@@ -1122,7 +1122,7 @@ msgstr "[pc] Ah oui ? Attends, ne me dis pas que tu as fait quelque chose à [e]
 
 # game/events_t.rpy:510 ## translate crowdin tcoerce2_5581b5b1:
 msgid "[t] W-what? No, of course not!!"
-msgstr "[t] W-what ? Non, bien sûr que non !"
+msgstr "[t] Q-quoi ? Non, bien sûr que non !!"
 
 # game/events_t.rpy:511 ## translate crowdin tcoerce2_86fb0259:
 msgid "[pc] You better tell the truth!"
@@ -1138,7 +1138,7 @@ msgstr "[pc] Hmph... bien je suppose que ça fait de moi la seule raison possibl
 
 # game/events_t.rpy:514 ## translate crowdin tcoerce2_30b46fd1:
 msgid "[t] N-no! I..."
-msgstr "[t] N-non ! I..."
+msgstr "[t] N-non ! Je..."
 
 # game/events_t.rpy:515 ## translate crowdin tcoerce2_07448689:
 msgid "[t] It was just..."
@@ -1186,15 +1186,15 @@ msgstr "[pc] Jeez..."
 
 # game/events_t.rpy:543 ## translate crowdin tcoerce2_r_0f749a92:
 msgid "[pc] Heh, so by your logic, you wouldn't cum again if I touch you?"
-msgstr "[pc] Heh, donc selon ta logique, tu ne jouirais plus si je te touchais ?"
+msgstr "[pc] Hé, donc selon ta logique, tu ne jouirais plus si je te touchais ?"
 
 # game/events_t.rpy:546 ## translate crowdin tcoerce2_r_e4964f0a:
 msgid "[pc] Heh, so by your logic, you can't be wet right now, right?"
-msgstr "[pc] Heh, donc selon ta logique, tu ne peux pas être mouillé en ce moment, n'est-ce pas ?"
+msgstr "[pc] Hé, donc selon ta logique, tu ne peux pas être mouillée en ce moment, n'est-ce pas ?"
 
 # game/events_t.rpy:549 ## translate crowdin tcoerce2_r_eaf21e0d:
 msgid "[t] O-Of course! I..."
-msgstr "[t] O-Bien sûr ! I..."
+msgstr "[t] B-Bien sûr ! Je..."
 
 # game/events_t.rpy:551 ## translate crowdin tcoerce2_r_d7e0af46:
 msgid "[pc] Alright, why don't we try and see if that's the truth."
@@ -1202,11 +1202,11 @@ msgstr "[pc] Très bien, pourquoi ne pas essayer de voir si c'est la vérité."
 
 # game/events_t.rpy:553 ## translate crowdin tcoerce2_r_5764e7c2:
 msgid "[t] N-No, I didn't mean..."
-msgstr "[t] N-No, je ne voulais pas..."
+msgstr "[t] N-Non, je ne voulais pas..."
 
 # game/events_t.rpy:554 ## translate crowdin tcoerce2_r_d26f51bb:
 msgid "[pc] No? Yes? What? Can't decide?"
-msgstr "[pc] Non ? Oui ? Quoi ? Vous ne pouvez pas vous décider ?"
+msgstr "[pc] Non ? Oui ? Quoi ? Tu ne peux pas te décider ?"
 
 # game/events_t.rpy:556 ## translate crowdin tcoerce2_r_7ce04ae0:
 msgid "[t] T-That's not... aahhhn..."
@@ -1214,11 +1214,11 @@ msgstr "[t] C-Ce n'est pas... aahhhn..."
 
 # game/events_t.rpy:558 ## translate crowdin tcoerce2_r_b47be6cf:
 msgid "[pc] Well look at that, it seems like you've been waiting for it."
-msgstr "[pc] Eh bien, regardez ça, on dirait que vous l'attendiez."
+msgstr "[pc] Eh bien, regarde ça, on dirait que tu l'attendais."
 
 # game/events_t.rpy:559 ## translate crowdin tcoerce2_r_759b4f64:
 msgid "[t] Hnn...no... fuck you! Leave me alone!"
-msgstr "[t] Hnn...non... va te faire foutre ! Laissez-moi tranquille !"
+msgstr "[t] Hnn...non... va te faire foutre ! Laisse-moi tranquille !"
 
 # game/events_t.rpy:561 ## translate crowdin tcoerce2_r_c0ca0142:
 msgid "[pc] And if not?"
@@ -1234,11 +1234,11 @@ msgstr "[t] Ahnn..."
 
 # game/events_t.rpy:567 ## translate crowdin tcoerce2_r_36b58f84:
 msgid "[pc] Do it! Stop me if you want."
-msgstr "[pc] Faites-le ! Arrêtez-moi si vous voulez."
+msgstr "[pc] Fais-le ! Arrête-moi si tu veux."
 
 # game/events_t.rpy:569 ## translate crowdin tcoerce2_r_aa617b93:
 msgid "[t] Unnh... f-fuck you! Stop it!"
-msgstr "[t] Unnh... f-fuck you ! Stop it !"
+msgstr "[t] Unnh... V-va te faire foutre! Arrête ça !"
 
 # game/events_t.rpy:571 ## translate crowdin tcoerce2_r_c117cb2a:
 msgid "[t] Hnghh..."
@@ -1246,7 +1246,7 @@ msgstr "[t] Hnghh..."
 
 # game/events_t.rpy:572 ## translate crowdin tcoerce2_r_dc66c477:
 msgid "[pc] You really need this, don't you?"
-msgstr "[pc] Vous avez vraiment besoin de ça, n'est-ce pas ?"
+msgstr "[pc] Tu as vraiment besoin de ça, n'est-ce pas ?"
 
 # game/events_t.rpy:575 ## translate crowdin tcoerce2_r_1c2f725a:
 msgid "[t] Hnn... no... Pig!"
@@ -1254,11 +1254,11 @@ msgstr "[t] Hnn... non... Cochon !"
 
 # game/events_t.rpy:577 ## translate crowdin tcoerce2_r_44e72450:
 msgid "[t] Hnn... no... Dyke!"
-msgstr "[t] Hnn... non... Dyke !"
+msgstr "[t] Hnn... non... Cochonne !"
 
 # game/events_t.rpy:579 ## translate crowdin tcoerce2_r_9ac3038d:
 msgid "[pc] Oh I think you do and you know it!"
-msgstr "[pc] Oh je pense que tu le fais et tu le sais !"
+msgstr "[pc] Oh je pense que tu le veux et tu le sais !"
 
 # game/events_t.rpy:581 ## translate crowdin tcoerce2_r_f7b6af98:
 msgid "[t] Ahnnn... no... you're forcing me, pervert."
@@ -1298,27 +1298,27 @@ msgstr "[pc] Eh bien, c'était rapide."
 
 # game/events_t.rpy:600 ## translate crowdin tcoerce2_r_46627624:
 msgid "[t] *pant*"
-msgstr "[t] *pant*"
+msgstr "[t] *pantalon*"
 
 # game/events_t.rpy:601 ## translate crowdin tcoerce2_r_9d942cc2:
 msgid "[pc] What a squirter you are, and so needy."
-msgstr "[pc] Quel squirteur tu es, et si nécessiteux."
+msgstr "[pc] Quel gicleuse tu es, et c'était si nécessaire."
 
 # game/events_t.rpy:603 ## translate crowdin tcoerce2_r_1744a015:
 msgid "[t] Hnnn... *pant*"
-msgstr "[t] Hnnn... *pant*"
+msgstr "[t] Hnnn... *pantalon*"
 
 # game/events_t.rpy:604 ## translate crowdin tcoerce2_r_173cedb5:
 msgid "[pc] You should thank me you know..."
-msgstr "[pc] Vous devriez me remercier vous savez..."
+msgstr "[pc] Tu devrais me remercier tu sais..."
 
 # game/events_t.rpy:606 ## translate crowdin tcoerce2_r_becc9691:
 msgid "[t] W-what?! *gasp*"
-msgstr "[t] W-what ?! *gasp*"
+msgstr "[t] Q-quoi?! *halètement*"
 
 # game/events_t.rpy:607 ## translate crowdin tcoerce2_r_8477d2dd:
 msgid "[pc] I'm sure you heard me."
-msgstr "[pc] Je suis sûr que vous m'avez entendu."
+msgstr "[pc] Je suis sûr que tu m'as entendu."
 
 # game/events_t.rpy:608 ## translate crowdin tcoerce2_r_fd848b85:
 msgid "[t] W-why would I do that!? You molested me..."
@@ -1334,7 +1334,7 @@ msgstr "[t] C-c'est pas..."
 
 # game/events_t.rpy:611 ## translate crowdin tcoerce2_r_75e0bec6:
 msgid "[pc] Thank me!"
-msgstr "[pc] Merci !"
+msgstr "[pc] Remercie-moi!"
 
 # game/events_t.rpy:612 ## translate crowdin tcoerce2_r_c3f1bf25:
 msgid "[t] ...no!"
@@ -1342,7 +1342,7 @@ msgstr "[t] ...non !"
 
 # game/events_t.rpy:613 ## translate crowdin tcoerce2_r_dae8a1d5:
 msgid "[pc] Thank me, or leave!"
-msgstr "[pc] Remerciez-moi, ou partez !"
+msgstr "[pc] Remercie-moi, ou pars !"
 
 # game/events_t.rpy:615 ## translate crowdin tcoerce2_r_1bb01731:
 msgid "[t] ..."
@@ -1382,7 +1382,7 @@ msgstr "[pcthink] Wow..."
 
 # game/events_t.rpy:635 ## translate crowdin tcoerce2_r_f0859a26:
 msgid "[pcthink] What a little sub... and so feisty..."
-msgstr "[pcthink] Quel petit sous-marin... et si fougueux..."
+msgstr "[pcthink] Quel petite soumise... et si fougueuse..."
 
 # game/events_t.rpy:650 ## translate crowdin coerceT3_df4b35f8:
 msgid "[t] Huh?"
@@ -1394,11 +1394,11 @@ msgstr "[pc] On devrait parler."
 
 # game/events_t.rpy:653 ## translate crowdin coerceT3_74f9fbbe:
 msgid "[t] Whaa?!"
-msgstr "[t] Whaa ?!"
+msgstr "[t] Quoooiiii?!"
 
 # game/events_t.rpy:656 ## translate crowdin coerceT3_b9b52cbe:
 msgid "[t] A-Again?"
-msgstr "[t] Encore une fois ?"
+msgstr "[t] E-Encore?"
 
 # game/events_t.rpy:658 ## translate crowdin coerceT3_623b7610:
 msgid "[t] Humph... Why don't you just leave me alone, pervert!"
@@ -1418,7 +1418,7 @@ msgstr "[pc] Je t'ai vu en ville aujourd'hui, tu sais..."
 
 # game/events_t.rpy:662 ## translate crowdin coerceT3_9aa96391:
 msgid "[t] Oh really? I'm surprised you didn't try to molest me there too..."
-msgstr "[t] Oh vraiment ? Je suis surpris que tu n'aies pas essayé de m'agresser là aussi..."
+msgstr "[t] Oh vraiment ? Je suis surprise que tu n'aies pas essayé de m'agresser là aussi..."
 
 # game/events_t.rpy:663 ## translate crowdin coerceT3_69ecf6de:
 msgid "[pc] I didn't want to interfere."
@@ -1438,19 +1438,19 @@ msgstr "[t] Je-je n'ai pas de petit ami..."
 
 # game/events_t.rpy:670 ## translate crowdin coerceT3_f85386c0:
 msgid "[pc] Yeah, I guess that's true by now... and I bet he won't try to \"molest\" you again."
-msgstr "[pc] Ouais, je suppose que c'est vrai maintenant... et je parie qu'il n'essaiera plus de vous \"molester\"."
+msgstr "[pc] Ouais, je suppose que c'est vrai maintenant... et je parie qu'il n'essaiera plus de te 'molester'."
 
 # game/events_t.rpy:672 ## translate crowdin coerceT3_b99c40b4:
 msgid "[t] W-What are you talking about?!"
-msgstr "[t] Q-Qu'est-ce que tu racontes ? !"
+msgstr "[t] Q-Qu'est-ce que tu racontes ?!"
 
 # game/events_t.rpy:673 ## translate crowdin coerceT3_77fcb432:
 msgid "[pc] You could have knocked me out, too..."
-msgstr "[pc] Vous auriez pu m'assommer, aussi..."
+msgstr "[pc] Tu aurais pu m'assommer, aussi..."
 
 # game/events_t.rpy:675 ## translate crowdin coerceT3_35af925e:
 msgid "[pc] ...but you didn't even try..."
-msgstr "[pc] ...mais vous n'avez même pas essayé..."
+msgstr "[pc] ...mais tu n'as même pas essayée..."
 
 # game/events_t.rpy:676 ## translate crowdin coerceT3_a6362013:
 msgid "[t] I..."
@@ -1466,27 +1466,27 @@ msgstr "[pc] A genoux !"
 
 # game/events_t.rpy:680 ## translate crowdin coerceT3_86f0eea6:
 msgid "[t] W-what?"
-msgstr "[t] W-what ?"
+msgstr "[t] Q-quoi?"
 
 # game/events_t.rpy:681 ## translate crowdin coerceT3_f96470a6:
 msgid "[pc] You heard me."
-msgstr "[pc] Vous m'avez entendu."
+msgstr "[pc] Tu m'as entendu."
 
 # game/events_t.rpy:683 ## translate crowdin coerceT3_3a0bc214:
 msgid "[t] N-No, why would I?!"
-msgstr "[t] N-No, pourquoi le ferais-je ? !"
+msgstr "[t] N-Non, pourquoi le ferais-je ?!"
 
 # game/events_t.rpy:684 ## translate crowdin coerceT3_85430116:
 msgid "[pc] Because it's time for you to give something back!"
-msgstr "[pc] Parce qu'il est temps pour vous de donner quelque chose en retour !"
+msgstr "[pc] Parce qu'il est temps pour toi de donner quelque chose en retour !"
 
 # game/events_t.rpy:685 ## translate crowdin coerceT3_e4cfa39e:
 msgid "[t] What are you talking about?"
-msgstr "[t] De quoi parlez-vous ?"
+msgstr "[t] De quoi parles-tu?"
 
 # game/events_t.rpy:686 ## translate crowdin coerceT3_390aa2d3:
 msgid "[pc] You know what I'm talking about."
-msgstr "[pc] Vous savez de quoi je parle."
+msgstr "[pc] Tu sais de quoi je parle."
 
 # game/events_t.rpy:688 ## translate crowdin coerceT3_1bb01731:
 msgid "[t] ..."
@@ -1494,11 +1494,11 @@ msgstr "[t]..."
 
 # game/events_t.rpy:690 ## translate crowdin coerceT3_53e494fa:
 msgid "[pc] It's been two times already... you've had your fun and I've never asked for anything in return."
-msgstr "[pc] Cela fait déjà deux fois... vous vous êtes amusés et je n'ai jamais rien demandé en retour."
+msgstr "[pc] Cela fait déjà deux fois... tu t'es amusées et je n'ais jamais rien demandé en retour."
 
 # game/events_t.rpy:692 ## translate crowdin coerceT3_ebc164c6:
 msgid "[pc] I've caught you two times already... you've been dripping wet!"
-msgstr "[pc] Je t'ai déjà attrapé deux fois... tu étais tout mouillé !"
+msgstr "[pc] Je t'ai déjà attrapé deux fois... tu étais toute mouillée !"
 
 # game/events_t.rpy:694 ## translate crowdin coerceT3_72e0ece9:
 msgid "[t] T-That's not what was happening!"
@@ -1510,7 +1510,7 @@ msgstr "[pc] Non ? Je ne t'ai pas fait jouir ?"
 
 # game/events_t.rpy:699 ## translate crowdin coerceT3_1bcaae8b:
 msgid "[pc] I don't even need to see it to know that you're wet right now!"
-msgstr "[pc] Je n'ai même pas besoin de le voir pour savoir que tu es mouillé en ce moment !"
+msgstr "[pc] Je n'ai même pas besoin de le voir pour savoir que tu es mouillée en ce moment !"
 
 # game/events_t.rpy:701 ## translate crowdin coerceT3_cbdd0566:
 msgid "[t] That's not..."
@@ -1518,7 +1518,7 @@ msgstr "[t] Ce n'est pas..."
 
 # game/events_t.rpy:702 ## translate crowdin coerceT3_c8ab5d96:
 msgid "[pc] Stop being selfish and get on your knees."
-msgstr "[pc] Arrêtez d'être égoïste et mettez-vous à genoux."
+msgstr "[pc] Arrête d'être égoïste et mets-toi à genoux."
 
 # game/events_t.rpy:704 ## translate crowdin coerceT3_a6362013_1:
 msgid "[t] I..."
@@ -1526,7 +1526,7 @@ msgstr "[t] Je..."
 
 # game/events_t.rpy:705 ## translate crowdin coerceT3_82069a64:
 msgid "[pc] Do it!"
-msgstr "[pc] Faites-le !"
+msgstr "[pc] Fais-le !"
 
 # game/events_t.rpy:707 ## translate crowdin coerceT3_1bb01731_1:
 msgid "[t] ..."
@@ -1542,7 +1542,7 @@ msgstr "[pc] Eh bien..."
 
 # game/events_t.rpy:714 ## translate crowdin coerceT3_cc6aa786:
 msgid "[pc] You know what to do."
-msgstr "[pc] Vous savez quoi faire."
+msgstr "[pc] Tu sais quoi faire."
 
 # game/events_t.rpy:715 ## translate crowdin coerceT3_e3d8d10a:
 msgid "[t] Unn..."
@@ -1562,11 +1562,11 @@ msgstr "[pc] Hum, peut-être pas assez bien."
 
 # game/events_t.rpy:726 ## translate crowdin coerceT3_4a9cede2:
 msgid "[t] *Gag*"
-msgstr "[t] *Gag*"
+msgstr "[t] *Bâillon*"
 
 # game/events_t.rpy:728 ## translate crowdin coerceT3_fc067d80:
 msgid "[t] Unn... bitch..."
-msgstr "[t] Unn... bitch..."
+msgstr "[t] Unn... salope..."
 
 # game/events_t.rpy:729 ## translate crowdin coerceT3_e7282e99_1:
 msgid "[pc] Hum, maybe not good enough."
@@ -1630,15 +1630,15 @@ msgstr "[pc] Gaawwd..."
 
 # game/events_t.rpy:760 ## translate crowdin coerceT3_982eb900:
 msgid "[t] *Cough*"
-msgstr "[t] *Toux*"
+msgstr "[t] *Tousse*"
 
 # game/events_t.rpy:761 ## translate crowdin coerceT3_106c1472:
 msgid "[pc] Well that wasn't too bad, I hope you enjoyed it as much as I did."
-msgstr "[pc] Bon, ce n'était pas trop mal, j'espère que vous l'avez apprécié autant que moi."
+msgstr "[pc] Bon, ce n'était pas trop mal, j'espère que tu l'as apprécié autant que moi."
 
 # game/events_t.rpy:763 ## translate crowdin coerceT3_5bbabeea:
 msgid "[t] *Gulp* ...fuck you!"
-msgstr "[t] *Gulp* ...fuck you !"
+msgstr "[t] *Gorgée* ...Je t'emmerde!"
 
 # game/events_t.rpy:765 ## translate crowdin coerceT3_c2ebd5a8:
 msgid "[pc] Still the same attitude, eh?"
@@ -1698,7 +1698,7 @@ msgstr "[pc] ...Huh, est-ce [t]?"
 
 # game/events_t.rpy:791 ## translate crowdin d7_city_59b34dd4:
 msgid "[pcthink] Yeah, looking at the way she walks... that's clearly her attitude..."
-msgstr "[pcthink] Ouais, en regardant la façon dont elle marche... c'est clairement son attitude..."
+msgstr "[pcthink] Ouais, en regardant la façon dont elle marche... c'est clairement sa démarche..."
 
 # game/events_t.rpy:792 ## translate crowdin d7_city_5f76188d:
 msgid "[pcthink] What's up with her anyway, I don't get that woman."
@@ -1706,7 +1706,7 @@ msgstr "[pcthink] Qu'est-ce qu'elle a de toute façon, je ne comprends pas cette
 
 # game/events_t.rpy:794 ## translate crowdin d7_city_a67cf584:
 msgid "[pcthink] Looks like that grumpy guy has the morning shift..."
-msgstr "[pcthink] On dirait que ce grincheux est de service le matin..."
+msgstr "[pcthink] On dirait que cette grincheuse est de service le matin..."
 
 # game/events_t.rpy:796 ## translate crowdin d7_city_4fef3cd4:
 msgid "[pc] Hum... maybe I should follow [t]? This might be a good opportunity to learn a bit more about her."
@@ -1714,7 +1714,7 @@ msgstr "[pc] Hum... peut-être devrais-je suivre [t]? Cela pourrait être une bo
 
 # game/events_t.rpy:801 ## translate crowdin d7_city_9efdc055:
 msgid "[pcthink] Yeah, let's see where this goes. Maybe I can even have a normal talk with her..................oh who am I kidding..."
-msgstr "[pcthink] Ouais, voyons où ça va nous mener. Peut-être que je peux même avoir une conversation normale avec elle..................oh qui suis-je plaisante..."
+msgstr "[pcthink] Ouais, voyons où ça va nous mener. Peut-être que je peux même avoir une conversation normale avec elle..................oh je plaisante..."
 
 # game/events_t.rpy:804 ## translate crowdin d7_city_464e3662:
 msgid "Naw, fuck that, I need coffee!"
@@ -1750,7 +1750,7 @@ msgstr "[pcthink] Attends... ce n'est pas le vieux coin des drogués ?"
 
 # game/events_t.rpy:819 ## translate crowdin d7_city_404398ab:
 msgid "[pcthink] Don't tell me she's..."
-msgstr "[pcthink] Ne me dites pas qu'elle est..."
+msgstr "[pcthink] Ne me dis pas qu'elle est..."
 
 # game/events_t.rpy:821 ## translate crowdin d7_city_e0aee1ef:
 msgid "[pcthink] Shit... really, [t]?"
@@ -1762,19 +1762,19 @@ msgstr "[pcthink] Un terrain de jeu ?"
 
 # game/events_t.rpy:827 ## translate crowdin d7_city_1f2ce6d2:
 msgid "[pcthink] That definitely wasn't here when I visited this area the last time..."
-msgstr "[pcthink] Ce n'était définitivement pas là quand j'ai visité cette zone la dernière fois..."
+msgstr "[pcthink] Ce n'était certainement pas ici quand j'ai visité cette région la dernière fois..."
 
 # game/events_t.rpy:828 ## translate crowdin d7_city_99590f90:
 msgid "[pcthink] But it doesn't look new either..."
-msgstr "[pcthink] Mais il ne semble pas nouveau non plus..."
+msgstr "[pcthink] Mais ça n'a pas l'air nouveau non plus..."
 
 # game/events_t.rpy:831 ## translate crowdin d7_city_12de2011:
 msgid "Girl || Hey uncle, can you help me?"
-msgstr "Hé, mon oncle, tu peux m'aider ?"
+msgstr "Fille || Hé, mon oncle, tu peux m'aider ?"
 
 # game/events_t.rpy:833 ## translate crowdin d7_city_829e4c46:
 msgid "Girl || Hey auntie, can you help me?"
-msgstr "Hé, tatie, tu peux m'aider ?"
+msgstr "Fille || Hé, tatie, tu peux m'aider ?"
 
 # game/events_t.rpy:834 ## translate crowdin d7_city_b9a6cf60:
 msgid "[pc] Huh? What's up?"
@@ -1782,15 +1782,15 @@ msgstr "[pc] Huh ? Qu'est-ce qu'il y a ?"
 
 # game/events_t.rpy:835 ## translate crowdin d7_city_eb36d218:
 msgid "[pcthink] ...and where the hell is [t]?!"
-msgstr "[pcthink] ...et où diable se trouve [t]? !"
+msgstr "[pcthink] ...et où diable se trouve [t]?!"
 
 # game/events_t.rpy:837 ## translate crowdin d7_city_a5cd53d2:
 msgid "Girl || Over here!"
-msgstr "Par ici !"
+msgstr "Fille || Par ici !"
 
 # game/events_t.rpy:838 ## translate crowdin d7_city_0aa6f3b9:
 msgid "[pc] Hey have you seen..."
-msgstr "[pc] Hey avez-vous vu..."
+msgstr "[pc] Hé avez-vous vu..."
 
 # game/events_t.rpy:840 ## translate crowdin d7_city_040fea14:
 msgid "[t] HAAYYYA!"
@@ -1798,19 +1798,19 @@ msgstr "[t] HAAYYYA !"
 
 # game/events_t.rpy:844 ## translate crowdin d7_city_f0134973:
 msgid "[pc] WHOA!"
-msgstr "[pc] WHOA !"
+msgstr "[pc] WHOUA !"
 
 # game/events_t.rpy:846 ## translate crowdin d7_city_b379bdb7:
 msgid "[t] Y-You?!"
-msgstr "[t] Y-Vous ?!"
+msgstr "[t] T-Toi ?!"
 
 # game/events_t.rpy:847 ## translate crowdin d7_city_02b4b74a:
 msgid "[pc] Shit! What the hell, [t]?! That was too close!"
-msgstr "[pc] Merde ! C'est quoi ce bordel, [t]? ! C'était trop près !"
+msgstr "[pc] Merde ! C'est quoi ce bordel, [t]?! C'était trop près !"
 
 # game/events_t.rpy:849 ## translate crowdin d7_city_089f38ce:
 msgid "Girl || Whoa, Katie! That was awesome!!"
-msgstr "Whoa, Katie ! C'était génial !"
+msgstr "Whoua, Katie ! C'était génial !!"
 
 # game/events_t.rpy:851 ## translate crowdin d7_city_86065e86:
 msgid "[t] I told you not to call me Katie!"
@@ -1818,7 +1818,7 @@ msgstr "[t] Je t'ai dit de ne pas m'appeler Katie !"
 
 # game/events_t.rpy:852 ## translate crowdin d7_city_477faa76:
 msgid "Girl || Shorryyy Katie!"
-msgstr "Shorryyy Katie !"
+msgstr "Fille || Désolllééééeee Katie !"
 
 # game/events_t.rpy:854 ## translate crowdin d7_city_1d57676d:
 msgid "Girl || Lalala~"
@@ -1830,7 +1830,7 @@ msgstr "[t] Humph..."
 
 # game/events_t.rpy:857 ## translate crowdin d7_city_716e4919:
 msgid "[t] Why are you following me?!"
-msgstr "[t] Pourquoi me suivez-vous ? !"
+msgstr "[t] Pourquoi me suis-tu ?!"
 
 # game/events_t.rpy:858 ## translate crowdin d7_city_a14b0b54:
 msgid "[pc] I'm not following you, I just wanted to visit an old place..."
@@ -1854,7 +1854,7 @@ msgstr "[t] C'est tout ?"
 
 # game/events_t.rpy:864 ## translate crowdin d7_city_a2a6fb65:
 msgid "[pc] What do you mean?"
-msgstr "[pc] Que voulez-vous dire ?"
+msgstr "[pc] Que veux-tu dire ?"
 
 # game/events_t.rpy:866 ## translate crowdin d7_city_06627afe:
 msgid "[t] Tsk! Idiot!"
@@ -1866,27 +1866,27 @@ msgstr "[pcthink] C'est quoi ce bordel ?"
 
 # game/events_t.rpy:870 ## translate crowdin d7_city_d8b18c0a:
 msgid "[pc] Jeez, why am I an idiot now... what the fuck is wrong with you?!"
-msgstr "[pc] Jeez, pourquoi je suis un idiot maintenant... qu'est-ce qui ne va pas chez toi ? !"
+msgstr "[pc] Bon sang, pourquoi je suis un idiot maintenant... qu'est-ce qui ne va pas chez toi ?!"
 
 # game/events_t.rpy:872 ## translate crowdin d7_city_6ad8717d:
 msgid "[t] With me? Are you serious?"
-msgstr "[t] Avec moi ? Vous êtes sérieux ?"
+msgstr "[t] Avec moi ? Tu es sérieux ?"
 
 # game/events_t.rpy:873 ## translate crowdin d7_city_e3127439:
 msgid "[t] You are the druglord here..."
-msgstr "[t] Vous êtes le maître de la drogue ici..."
+msgstr "[t] Tu es le chef de la drogue ici..."
 
 # game/events_t.rpy:874 ## translate crowdin d7_city_b55253a4:
 msgid "[pc] What??"
-msgstr "[pc] Quoi ? ?"
+msgstr "[pc] Quoi ??"
 
 # game/events_t.rpy:876 ## translate crowdin d7_city_be79cd92:
 msgid "[t] And you are the one molesting innocent people... and you're the one who doesn't remember anything!"
-msgstr "[t] Et c'est vous qui agressez des personnes innocentes... et c'est vous qui ne vous souvenez de rien !"
+msgstr "[t] Et c'est toi qui agresses des personnes innocentes... et c'est toi qui ne te souviens de rien !"
 
 # game/events_t.rpy:877 ## translate crowdin d7_city_103bf81e:
 msgid "[pc] Druglord? Remembering? What the fuck are you talking about?! I never sold drugs!"
-msgstr "[pc] Druglord ? Se souvenir ? De quoi tu parles, bordel ? ! Je n'ai jamais vendu de drogue !"
+msgstr "[pc] Le chef de la drogue? Se souvenir ? De quoi tu parles, bordel ?! Je n'ai jamais vendu de drogue !"
 
 # game/events_t.rpy:879 ## translate crowdin d7_city_a87075f7:
 msgid "[t] Humpf... just leave me alone!"
@@ -1906,11 +1906,11 @@ msgstr "[pcthink] Mais pourquoi dirait-elle des mensonges ?"
 
 # game/events_t.rpy:884 ## translate crowdin d7_city_e4758b04:
 msgid "[pc] Hum... alright, I'll take the bait, now what's this all about... \"Katie\"?!"
-msgstr "[pc] Hum... d'accord, je mords à l'hameçon, maintenant c'est quoi cette histoire... \"Katie\" ?!"
+msgstr "[pc] Hum... d'accord, je mords à l'hameçon, maintenant c'est quoi cette histoire... 'Katie' ?!"
 
 # game/events_t.rpy:886 ## translate crowdin d7_city_d14c4676:
 msgid "[t] DON'T CALL ME KATIE!"
-msgstr "[t] Ne m'appelez pas KATIE !"
+msgstr "[t] NE M'APPELLE PAS KATIE !"
 
 # game/events_t.rpy:888 ## translate crowdin d7_city_4b6d0993:
 msgid "[pc] Haha..."
@@ -1918,7 +1918,7 @@ msgstr "[pc] Haha..."
 
 # game/events_t.rpy:889 ## translate crowdin d7_city_a42e83bb:
 msgid "[pcthink] Wait... Katie.........."
-msgstr "[pcthink] Attendez... Katie.........."
+msgstr "[pcthink] Attends... Katie.........."
 
 # game/events_t.rpy:893 ## translate crowdin d7_city_e5154d6f:
 msgid "[n] Years ago."
@@ -1930,15 +1930,15 @@ msgstr "[pcthink] Presque là..."
 
 # game/events_t.rpy:898 ## translate crowdin d7_city_bb81c912:
 msgid "[pcthink] I wonder if this little slut will come too, hehe."
-msgstr "[pcthink] Je me demande si cette petite salope va venir aussi, hehe."
+msgstr "[pcthink] Je me demande si cette petite salope va venir aussi, héhé."
 
 # game/events_t.rpy:900 ## translate crowdin d7_city_ab076aba:
 msgid "[pcthink] I wonder if this little cutie will come too, hehe."
-msgstr "[pcthink] Je me demande si ce petit bout de chou va venir aussi, hehe."
+msgstr "[pcthink] Je me demande si ce petit bout de chou va venir aussi, héhé."
 
 # game/events_t.rpy:901 ## translate crowdin d7_city_ea9bea23:
 msgid "Voice || DON'T CALL ME KATIE!"
-msgstr "Ne m'appelez pas KATIE !"
+msgstr "Voix || NE M'APPELLE PAS KATIE!"
 
 # game/events_t.rpy:903 ## translate crowdin d7_city_32ead6f8:
 msgid "[pcthink] Huh?"
@@ -1954,43 +1954,43 @@ msgstr "[pcthink] Mais qui est la fille ?"
 
 # game/events_t.rpy:907 ## translate crowdin d7_city_0bc4dd60:
 msgid "Guy 1\" \"You know this bitch?"
-msgstr "Guy 1\" \"Tu connais cette salope ?"
+msgstr "Guy 1' 'Tu connais cette salope ?"
 
 # game/events_t.rpy:908 ## translate crowdin d7_city_0fe2ba6e:
 msgid "Guy 2\" \"Yeah, she's in the same class as my little sister."
-msgstr "Guy 2\" \"Ouais, elle est dans la même classe que ma petite soeur."
+msgstr "Guy 2' 'Ouais, elle est dans la même classe que ma petite sœur."
 
 # game/events_t.rpy:909 ## translate crowdin d7_city_b644027e:
 msgid "Guy 1\" \"Hehe, what is a little girl like you doing in a place like this?"
-msgstr "Guy 1\" \"Hehe, qu'est-ce qu'une petite fille comme toi fait dans un endroit comme celui-ci ?"
+msgstr "Guy 1' 'Héhé, qu'est-ce qu'une petite fille comme toi fait dans un endroit comme celui-ci ?"
 
 # game/events_t.rpy:910 ## translate crowdin d7_city_5f20f6d6:
 msgid "Guy 2\" \"I bet she's here for a fix."
-msgstr "Guy 2\" \"Je parie qu'elle est ici pour une dose."
+msgstr "Guy 2' 'Je parie qu'elle est ici pour une dose."
 
 # game/events_t.rpy:911 ## translate crowdin d7_city_2ab3f982:
 msgid "[t] N-No, I just..."
-msgstr "[t] N-No, j'ai juste..."
+msgstr "[t] N-Non, j'ai juste..."
 
 # game/events_t.rpy:912 ## translate crowdin d7_city_680d1912:
 msgid "Guy 1\" \"She can have a fix from my dick!"
-msgstr "Guy 1\" \"Elle peut avoir une dose de ma bite !"
+msgstr "Guy 1' 'Elle peut avoir une dose de ma bite !"
 
 # game/events_t.rpy:913 ## translate crowdin d7_city_72890f35:
 msgid "Guy 2\" \"Haha, is that what you want Katie? Do you want a dose of dick?"
-msgstr "Guy 2\" \"Haha, c'est ce que tu veux Katie ? Tu veux une dose de bite ?"
+msgstr "Guy 2' 'Haha, c'est ce que tu veux Katie ? Tu veux une dose de bite ?"
 
 # game/events_t.rpy:914 ## translate crowdin d7_city_cc959afa:
 msgid "[t] N-No! Let me go!"
-msgstr "[t] N-No ! Laissez-moi partir !"
+msgstr "[t] N-Non ! Laissez-moi partir !"
 
 # game/events_t.rpy:915 ## translate crowdin d7_city_307a16d3:
 msgid "Guy 1\" \"Why not have some fun first, hehe."
-msgstr "Guy 1\" \"Pourquoi ne pas s'amuser d'abord, hehe."
+msgstr "Guy 1' 'Pourquoi ne pas s'amuser d'abord, héhé."
 
 # game/events_t.rpy:916 ## translate crowdin d7_city_da2e1133:
 msgid "Guy 2\" \"Come on Katie, just a little suck!"
-msgstr "Guy 2\" \"Allez Katie, juste un peu de succion !"
+msgstr "Guy 2' 'Aller Katie, juste un peu sucer !"
 
 # game/events_t.rpy:917 ## translate crowdin d7_city_04a594b2:
 msgid "[t] No!"
@@ -2006,11 +2006,11 @@ msgstr "[pc] Hé, c'est tout ce que tu sais faire ? Faire peur aux petites fille
 
 # game/events_t.rpy:921 ## translate crowdin d7_city_da355043:
 msgid "Guy 1\" \"YOU!"
-msgstr "Guy 1\" \"VOUS !"
+msgstr "Guy 1' 'TOI!"
 
 # game/events_t.rpy:922 ## translate crowdin d7_city_4ed0c211:
 msgid "Guy 2\" \"Get lost, [pc], this is none of your business!"
-msgstr "Guy 2\" \"Va te faire voir, [pc], ce n'est pas ton affaire !"
+msgstr "Guy 2' 'Va te faire voir, [pc], ce n'est pas ton affaire !"
 
 # game/events_t.rpy:923 ## translate crowdin d7_city_1fed5143:
 msgid "[pc] You know, I just thought that you guys must be really desperate. Can't find a girl who actually wants to suck your dick, huh?"
@@ -2018,31 +2018,31 @@ msgstr "[pc] Vous savez, je pensais juste que vous deviez être vraiment désesp
 
 # game/events_t.rpy:925 ## translate crowdin d7_city_80b481b8:
 msgid "Guy 2\" \"What did you just say? Desperate for some beating?"
-msgstr "Guy 2\" \"Qu'est-ce que tu viens de dire ? Tu cherches désespérément à te faire battre ?"
+msgstr "Guy 2' 'Qu'est-ce que tu viens de dire ? Tu cherches désespérément à te faire battre ?"
 
 # game/events_t.rpy:926 ## translate crowdin d7_city_88ac01e1:
 msgid "[pc] Yeah, sure, like last time? Bigmouth?"
-msgstr "[pc] Oui, bien sûr, comme la dernière fois ? Bigmouth ?"
+msgstr "[pc] Oui, bien sûr, comme la dernière fois ? Grosse bouche ?"
 
 # game/events_t.rpy:928 ## translate crowdin d7_city_c408fb2e:
 msgid "Guy 1\" \"There are two of us now, motherfucker!"
-msgstr "Guy 1\" \"On est deux maintenant, enfoiré !"
+msgstr "Guy 1' 'On est deux maintenant, enfoiré !"
 
 # game/events_t.rpy:929 ## translate crowdin d7_city_88ab7b93:
 msgid "Guy 2\" \"We'll beat the shit out of you, asshole!"
-msgstr "Guy 2\" \"On va te casser la gueule, connard !"
+msgstr "Guy 2' 'On va te casser la gueule, connard !"
 
 # game/events_t.rpy:931 ## translate crowdin d7_city_e982009d:
 msgid "Guy 2\" \"What did you... how about {b}you{/b} suck my dick, bitch?!"
-msgstr "Guy 2\" \"Qu'est-ce que tu... que dirais-tu de {b}toi{/b} de me sucer, salope ? !"
+msgstr "Guy 2' 'Qu'est-ce que tu... que dirais-tu de {b}toi{/b} de me sucer, salope ?!"
 
 # game/events_t.rpy:932 ## translate crowdin d7_city_580368e0:
 msgid "[pc] You wish!"
-msgstr "[pc] Vous le souhaitez !"
+msgstr "[pc] Tu le souhaites !"
 
 # game/events_t.rpy:934 ## translate crowdin d7_city_1af4967b:
 msgid "Guy 2\" \"I'll make you beg for it!"
-msgstr "Guy 2\" \"Je vais te faire supplier pour ça !"
+msgstr "Guy 2' 'Je vais te faire supplier pour ça !"
 
 # game/events_t.rpy:935 ## translate crowdin d7_city_b30f44aa:
 msgid "[pc] Good luck with that!"
@@ -2070,11 +2070,11 @@ msgstr "[pc] Oui, c'est bon, c'est probablement fatal, mais c'est bon."
 
 # game/events_t.rpy:955 ## translate crowdin d7_city_1f14af63:
 msgid "[t] What?!"
-msgstr "[t] Quoi ? !"
+msgstr "[t] Quoi ?!"
 
 # game/events_t.rpy:956 ## translate crowdin d7_city_af3bbdec:
 msgid "[pc] Haha, I'm joking, it's just a scratch. How about you?"
-msgstr "[pc] Haha, je plaisante, c'est juste une égratignure. Et toi ?"
+msgstr "[pc] Haha, je plaisante, c'est juste une égratignure. Et vous ?"
 
 # game/events_t.rpy:958 ## translate crowdin d7_city_21e17b41:
 msgid "[t] I'm fine... thank you."
@@ -2082,7 +2082,7 @@ msgstr "[t] Je vais bien... merci."
 
 # game/events_t.rpy:959 ## translate crowdin d7_city_0994117d:
 msgid "[pc] I haven't seen you here before, are you new?"
-msgstr "[pc] Je ne vous ai pas vu ici auparavant, êtes-vous nouveau ?"
+msgstr "[pc] Je ne vous ai pas vu ici auparavant, êtes-vous nouvelle ?"
 
 # game/events_t.rpy:961 ## translate crowdin d7_city_b5fc3376:
 msgid "[t] No I..."
@@ -2094,11 +2094,11 @@ msgstr "[pc] Oh, je vois, vous vouliez vraiment une solution..."
 
 # game/events_t.rpy:964 ## translate crowdin d7_city_738391ce:
 msgid "[t] N-No, I'm just late, and I wanted to take a shortcut home!"
-msgstr "[t] N-No, je suis juste en retard, et je voulais prendre un raccourci pour rentrer chez moi !"
+msgstr "[t] N-Non, je suis juste en retard, et je voulais prendre un raccourci pour rentrer chez moi !"
 
 # game/events_t.rpy:965 ## translate crowdin d7_city_60e0f5bb:
 msgid "[pc] Well, you better hurry then, and I'd suggest to avoid this \"shortcut\" from now on."
-msgstr "[pc] Eh bien, vous devriez vous dépêcher alors, et je vous suggère d'éviter ce \"raccourci\" à partir de maintenant."
+msgstr "[pc] Eh bien, vous devriez vous dépêcher alors, et je vous suggère d'éviter ce 'raccourci' à partir de maintenant."
 
 # game/events_t.rpy:966 ## translate crowdin d7_city_d2b4eedd:
 msgid "[pc] It's probably best if you never come back to this place..."
@@ -2106,7 +2106,7 @@ msgstr "[pc] C'est probablement mieux si vous ne revenez jamais dans cet endroit
 
 # game/events_t.rpy:968 ## translate crowdin d7_city_a615dc00:
 msgid "[t] I won't..."
-msgstr "[t] Je ne le ferai pas..."
+msgstr "[t] Je ne le ferais pas..."
 
 # game/events_t.rpy:972 ## translate crowdin d7_city_9510f293:
 msgid "[pcthink] That little girl... it was her."
@@ -2142,11 +2142,11 @@ msgstr "[t]..."
 
 # game/events_t.rpy:985 ## translate crowdin d7_city_5aede86b:
 msgid "[t] So you {b}do{/b} remember..."
-msgstr "[t] Donc vous {b}ne{/b} pas oublier..."
+msgstr "[t] Donc tu {b}n'as{/b} pas oublié..."
 
 # game/events_t.rpy:986 ## translate crowdin d7_city_7faa1dbd:
 msgid "[pc] I do... now."
-msgstr "[pc] Je le fais... maintenant."
+msgstr "[pc] Je me souviens... maintenant."
 
 # game/events_t.rpy:987 ## translate crowdin d7_city_1bb01731_2:
 msgid "[t] ..."
@@ -2158,11 +2158,11 @@ msgstr "[pc] Alors ?"
 
 # game/events_t.rpy:990 ## translate crowdin d7_city_dc136061:
 msgid "[t] So what?!"
-msgstr "[t] Alors quoi ? !"
+msgstr "[t] Alors quoi ?!"
 
 # game/events_t.rpy:991 ## translate crowdin d7_city_5776a347:
 msgid "[pc] What are you doing here... Katie."
-msgstr "[pc] Que faites-vous ici... Katie."
+msgstr "[pc] Que fais-tu ici... Katie."
 
 # game/events_t.rpy:993 ## translate crowdin d7_city_c873d93e_1:
 msgid "[t] Humph..."
@@ -2178,7 +2178,7 @@ msgstr "[t] C'est la fille d'un client... enfin, un client de mon mentor..."
 
 # game/events_t.rpy:999 ## translate crowdin d7_city_cc3133bf:
 msgid "[pc] Your mentor?"
-msgstr "[pc] Votre mentor ?"
+msgstr "[pc] Ton mentor ?"
 
 # game/events_t.rpy:1000 ## translate crowdin d7_city_015def5a:
 msgid "[t] He died two years ago, right before my qualification..."
@@ -2190,11 +2190,11 @@ msgstr "[pc] Désolé d'entendre ça."
 
 # game/events_t.rpy:1003 ## translate crowdin d7_city_e5339b17:
 msgid "Girl || WOOHOOO!"
-msgstr "Fille | | WOOHOOO !"
+msgstr "Fille || WOHOOO!"
 
 # game/events_t.rpy:1005 ## translate crowdin d7_city_152da006:
 msgid "[pc] So you took his clients over?"
-msgstr "[pc] Donc vous avez repris ses clients ?"
+msgstr "[pc] Donc tu as repris ses clients ?"
 
 # game/events_t.rpy:1006 ## translate crowdin d7_city_2c2ded8e:
 msgid "[t] No... I..."
@@ -2218,7 +2218,7 @@ msgstr "[t] Elle a commencé à montrer des signes de maladie mentale, et mon me
 
 # game/events_t.rpy:1012 ## translate crowdin d7_city_d99fb2a9:
 msgid "[t] During that time they took her away from her father and she got adopted by a childless couple, but her new dad died shortly after in an accident..."
-msgstr "[t] Pendant cette période, ils l'ont enlevée à son père et elle a été adoptée par un couple sans enfant, mais son nouveau papa est mort peu après dans un accident...."
+msgstr "[t] Durant ce temps, ils l'ont enlevée à son père et elle a été adoptée par un couple sans enfant, mais son nouveau père est décédé peu de temps après dans un accident..."
 
 # game/events_t.rpy:1014 ## translate crowdin d7_city_4aae3460:
 msgid "[pc] Shit... how did she take it?"
@@ -2230,7 +2230,7 @@ msgstr "[t] Pas si bien, sans surprise..."
 
 # game/events_t.rpy:1017 ## translate crowdin d7_city_d47c4177:
 msgid "Girl || WOOOO!"
-msgstr "Fillette ! WOOOO !"
+msgstr "Fille || WOOOO!"
 
 # game/events_t.rpy:1019 ## translate crowdin d7_city_88e56bff:
 msgid "[t] Her second mom didn't have enough money to keep the house, so they had to move..."
@@ -2246,7 +2246,7 @@ msgstr "[pc] Je vois... mais on dirait que tu as réussi. Elle a l'air en bonne 
 
 # game/events_t.rpy:1024 ## translate crowdin d7_city_a89c2114:
 msgid "[t] Appearances are often deceptive, you should know that better then anybody else..."
-msgstr "[t] Les apparences sont souvent trompeuses, vous devriez le savoir mieux que quiconque..."
+msgstr "[t] Les apparences sont souvent trompeuses, tu devrais le savoir mieux que quiconque..."
 
 # game/events_t.rpy:1026 ## translate crowdin d7_city_b53dcf84:
 msgid "[pc] What's that supposed to mean? Are you trying to insult me?"
@@ -2258,7 +2258,7 @@ msgstr "[t]..."
 
 # game/events_t.rpy:1029 ## translate crowdin d7_city_63e0631c:
 msgid "Girl || Katieeeee! Can you push me?!"
-msgstr "Katieeeee ! Tu peux me pousser ? !"
+msgstr "Fille || Katieeeeee! Peux-tu me pousser?!"
 
 # game/events_t.rpy:1031 ## translate crowdin d7_city_1bb01731_5:
 msgid "[t] ..."
@@ -2294,7 +2294,7 @@ msgstr "[pc] Ouais ?"
 
 # game/events_t.rpy:1044 ## translate crowdin d7_city_44c927ed:
 msgid "[m] Hey, it's me, [m]."
-msgstr "[m] Hey, c'est moi, [m]."
+msgstr "[m] Hé, c'est moi, [m]."
 
 # game/events_t.rpy:1045 ## translate crowdin d7_city_8fd6c2ed:
 msgid "[pc] Yeah, I know. What's up, [m]?"
@@ -2302,7 +2302,7 @@ msgstr "[pc] Ouais, je sais. Quoi de neuf, [m]?"
 
 # game/events_t.rpy:1046 ## translate crowdin d7_city_ea1a0460:
 msgid "[m] I wanted to ask... could you do me a favor, [pc]?"
-msgstr "[m] Je voulais vous demander... pourriez-vous me rendre un service, [pc]?"
+msgstr "[m] Je voulais te demander... pourrais-tu me rendre un service, [pc]?"
 
 # game/events_t.rpy:1048 ## translate crowdin d7_city_4dd18129:
 msgid "[pc] What favor?"
@@ -2314,7 +2314,7 @@ msgstr "[pcthink] [t] s'occupe vraiment de cette fille... presque comme une mèr
 
 # game/events_t.rpy:1050 ## translate crowdin d7_city_c03e36ac:
 msgid "[m] I ordered 10 packs of toilet paper last week and forgot that they'll arrive today. Could you go to the store and get them for me?"
-msgstr "[m] J'ai commandé 10 paquets de papier toilette la semaine dernière et j'ai oublié qu'ils arriveront aujourd'hui. Pourriez-vous aller au magasin et les récupérer pour moi ?"
+msgstr "[m] J'ai commandé 10 paquets de papier toilette la semaine dernière et j'ai oublié qu'ils arriveront aujourd'hui. Pourrais-tu aller au magasin et les récupérer pour moi ?"
 
 # game/events_t.rpy:1052 ## translate crowdin d7_city_278bc08e:
 msgid "[pcthink] Maybe it's a bit of a therapy for [t] as well..."
@@ -2330,11 +2330,11 @@ msgstr "[m] Ils ont parlé d'une pénurie à la télé, alors j'ai pensé que ce
 
 # game/events_t.rpy:1055 ## translate crowdin d7_city_87593375:
 msgid "[pc] But... 10 packs?!"
-msgstr "[pc] Mais... 10 paquets ? !"
+msgstr "[pc] Mais... 10 paquets ?!"
 
 # game/events_t.rpy:1056 ## translate crowdin d7_city_ce6ea65b:
 msgid "[m] Can you get them for me?"
-msgstr "[m] Pouvez-vous les obtenir pour moi ?"
+msgstr "[m] Peux-tu aller les chercher pour moi ?"
 
 # game/events_t.rpy:1058 ## translate crowdin d7_city_8e4c86f7:
 msgid "[pc] Ugh... fine..."
@@ -2358,7 +2358,7 @@ msgstr "[pcthink] On dirait que les deux s'amusent."
 
 # game/events_t.rpy:1066 ## translate crowdin d7_city_e5339b17_1:
 msgid "Girl || WOOHOOO!"
-msgstr "Fille | | WOOHOOO !"
+msgstr "Fille || WOHOOO!"
 
 # game/events_t.rpy:1067 ## translate crowdin d7_city_a69377ef_2:
 msgid "[pc] ..."
@@ -2570,7 +2570,7 @@ msgstr "[pc] Maintenant, allons-y..."
 
 # game/events_t.rpy:1163 ## translate crowdin d9_tcoffee_db74dc68:
 msgid "[t] W-what are you doing?!"
-msgstr "[t] Q-Qu'est-ce que tu fais ? !"
+msgstr "[t] Q-Qu'est-ce que tu fais ?!"
 
 # game/events_t.rpy:1165 ## translate crowdin d9_tcoffee_5817189c:
 msgid "[pc] Holding your hand obviously..."
@@ -3258,7 +3258,7 @@ msgstr "Guy... Quoi ?"
 
 # game/events_t.rpy:1479 ## translate crowdin d10takekathome_fd342644:
 msgid "Guy || A-Are you lesbian now?!"
-msgstr "Vous êtes lesbienne maintenant ? !"
+msgstr "Vous êtes lesbienne maintenant ?!"
 
 # game/events_t.rpy:1480 ## translate crowdin d10takekathome_0c8e7f39:
 msgid "[t] Looks like it, doesn't it?"
@@ -3270,7 +3270,7 @@ msgstr "Guy | | B-Mais... mais..."
 
 # game/events_t.rpy:1483 ## translate crowdin d10takekathome_5416477b:
 msgid "Guy || T-That's NTR!!!"
-msgstr "C'est NTR ! !!"
+msgstr "C'est NTR !!!"
 
 # game/events_t.rpy:1485 ## translate crowdin d10takekathome_ae99a11e:
 msgid "[pcthink] Oh geez..."
@@ -3330,7 +3330,7 @@ msgstr "[t] Bye..."
 
 # game/events_t.rpy:1517 ## translate crowdin d10takekathome_601e06e5:
 msgid "[pc] What?!"
-msgstr "[pc] Quoi ? !"
+msgstr "[pc] Quoi ?!"
 
 # game/events_t.rpy:1518 ## translate crowdin d10takekathome_2c0fdb5a:
 msgid "[pcthink] Ugh... bitch!"
@@ -4002,7 +4002,7 @@ msgstr "[t] STOP IT !"
 
 # game/events_t.rpy:1907 ## translate crowdin lookatkat_6d5f4e3d:
 msgid "[pc] Whoa, what the hell?! What's wrong now?"
-msgstr "[pc] Whoa, c'est quoi ce bordel ? ! Qu'est-ce qui ne va pas maintenant ?"
+msgstr "[pc] Whoa, c'est quoi ce bordel ?! Qu'est-ce qui ne va pas maintenant ?"
 
 # game/events_t.rpy:1909 ## translate crowdin lookatkat_a6362013_1:
 msgid "[t] I..."
@@ -4022,7 +4022,7 @@ msgstr "[t] ...et [j]."
 
 # game/events_t.rpy:1915 ## translate crowdin lookatkat_601e06e5:
 msgid "[pc] What?!"
-msgstr "[pc] Quoi ? !"
+msgstr "[pc] Quoi ?!"
 
 # game/events_t.rpy:1917 ## translate crowdin lookatkat_a6362013_2:
 msgid "[t] I..."
@@ -4282,7 +4282,7 @@ msgstr "[mschoice] Suivez-la."
 
 # XX## game/events_t.rpy:797
 msgid "[mschoice] I need coffee!!!"
-msgstr "[mschoice] J'ai besoin de café ! !!"
+msgstr "[mschoice] J'ai besoin de café !!!"
 
 # XX## game/events_t.rpy:1793
 msgid "[mschoice] (Look down.)"
