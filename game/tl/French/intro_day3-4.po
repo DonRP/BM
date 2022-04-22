@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-15 02:44\n"
+"PO-Revision-Date: 2022-04-22 01:26\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day3-4.rpy:3 ## translate crowdin intro_day3_8046137e:
 msgid "[n] Next morning in the motel [withdissolve]"
@@ -18,11 +18,11 @@ msgstr "[n] Le lendemain matin au motel [withdissolve]"
 
 # game/intro_day3-4.rpy:7 ## translate crowdin intro_day3_0d0ec209:
 msgid "[pcthink] Wow, this really {b}is{/b} a shit-hole..."
-msgstr "[pcthink] Wow, c'est vraiment {b}un trou à merde..."
+msgstr "[pcthink] Wow, {b}c'est{/b} vraiment un trou à merde..."
 
 # game/intro_day3-4.rpy:8 ## translate crowdin intro_day3_8fef2d9c:
 msgid "[pcthink] Ugh... do they ever clean this room?"
-msgstr "[pcthink] Ugh... est-ce qu'ils nettoient jamais cette pièce ?"
+msgstr "[pcthink] Ugh... est-ce qu'ils nettoient jamais cette pièce?"
 
 # game/intro_day3-4.rpy:9 ## translate crowdin intro_day3_367a830b:
 msgid "[pcthink] Well, it's just for a few days... hopefully..."
@@ -58,15 +58,15 @@ msgstr "[n] La nuit [withdissolve]"
 
 # game/intro_day3-4.rpy:25 ## translate crowdin intro_day3_be5544eb:
 msgid "[n] *creak*{w=1}{nw} [withhpunch]"
-msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *craquement*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:26 ## translate crowdin intro_day3_be5544eb_1:
 msgid "[n] *creak*{w=1}{nw} [withhpunch]"
-msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *craquement*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:27 ## translate crowdin intro_day3_be5544eb_2:
 msgid "[n] *creak*{w=1}{nw} [withhpunch]"
-msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *craquement*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:29 ## translate crowdin intro_day3_399aa3d1:
 msgid "[pcthink] Ughh, what's this..."
@@ -74,31 +74,31 @@ msgstr "[pcthink] Ughh, qu'est-ce que c'est..."
 
 # game/intro_day3-4.rpy:30 ## translate crowdin intro_day3_be5544eb_3:
 msgid "[n] *creak*{w=1}{nw} [withhpunch]"
-msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *craquement*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:31 ## translate crowdin intro_day3_be5544eb_4:
 msgid "[n] *creak*{w=1}{nw} [withhpunch]"
-msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *craquement*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:32 ## translate crowdin intro_day3_4214b531:
 msgid "Voice || {size=-10}Ahh, yes!{/size}"
-msgstr "Voice || {size=-10}Ahh, oui!{/size}"
+msgstr "Voix || {size=-10}Ahh, oui!{/size}"
 
 # game/intro_day3-4.rpy:33 ## translate crowdin intro_day3_be5544eb_5:
 msgid "[n] *creak*{w=1}{nw} [withhpunch]"
-msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *craquement*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:34 ## translate crowdin intro_day3_be5544eb_6:
 msgid "[n] *creak*{w=1}{nw} [withhpunch]"
-msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *craquement*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:35 ## translate crowdin intro_day3_be5544eb_7:
 msgid "[n] *creak*{w=1}{nw} [withhpunch]"
-msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *craquement*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:36 ## translate crowdin intro_day3_af9ff73e:
 msgid "Voice || {size=-10}Ahnn, babe!!{/size}"
-msgstr "Voice || {size=-10}Ahnn, babe!{/size}"
+msgstr "Voix || {size=-10}Ahnn, bébé!!{/size}"
 
 # game/intro_day3-4.rpy:37 ## translate crowdin intro_day3_6d74e256:
 msgid "[pcthink] Sounds like someone is having fun..."
@@ -106,15 +106,15 @@ msgstr "[pcthink] On dirait que quelqu'un s'amuse..."
 
 # game/intro_day3-4.rpy:39 ## translate crowdin intro_day3_9fe8ca06:
 msgid "[n] You turn around and try to sleep"
-msgstr "[n] Vous vous retournez et essay essay essayez de dormir"
+msgstr "[n] Vous tournez et essayez de dormir"
 
 # game/intro_day3-4.rpy:40 ## translate crowdin intro_day3_be5544eb_8:
 msgid "[n] *creak*{w=1}{nw} [withhpunch]"
-msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *craquement*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:41 ## translate crowdin intro_day3_be5544eb_9:
 msgid "[n] *creak*{w=1}{nw} [withhpunch]"
-msgstr "[n] *creak*{w=1}{nw} [withhpunch]"
+msgstr "[n] *craquement*{w=1}{nw} [withhpunch]"
 
 # game/intro_day3-4.rpy:42 ## translate crowdin intro_day3_a69377ef:
 msgid "[pc] ..."
@@ -126,15 +126,15 @@ msgstr "[n] Heures plus tard [withdissolve]"
 
 # game/intro_day3-4.rpy:49 ## translate crowdin intro_day3_bb39f960:
 msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
-msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *grondement*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:50 ## translate crowdin intro_day3_bb39f960_1:
 msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
-msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *grondement*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:51 ## translate crowdin intro_day3_bb39f960_2:
 msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
-msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *grondement*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:52 ## translate crowdin intro_day3_a69377ef_1:
 msgid "[pc] ..."
@@ -142,15 +142,15 @@ msgstr "[pc]..."
 
 # game/intro_day3-4.rpy:53 ## translate crowdin intro_day3_bb39f960_3:
 msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
-msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *grondement*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:54 ## translate crowdin intro_day3_bb39f960_4:
 msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
-msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *grondement*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:55 ## translate crowdin intro_day3_bb39f960_5:
 msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
-msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *grondement*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:56 ## translate crowdin intro_day3_5a69a7fb:
 msgid "[pcthink] ...are you serious..."
@@ -158,23 +158,23 @@ msgstr "[pcthink] ...vous êtes sérieux..."
 
 # game/intro_day3-4.rpy:57 ## translate crowdin intro_day3_bb39f960_6:
 msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
-msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *grondement*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:58 ## translate crowdin intro_day3_bb39f960_7:
 msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
-msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *grondement*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:59 ## translate crowdin intro_day3_bb39f960_8:
 msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
-msgstr "[n] *rumble*{w=0.5}{nw} [withvpunch]"
+msgstr "[n] *grondement*{w=0.5}{nw} [withvpunch]"
 
 # game/intro_day3-4.rpy:60 ## translate crowdin intro_day3_6aeae667:
 msgid "[pc] GOD DAMMIT!"
-msgstr "[pc] DIEU MERDE !"
+msgstr "[pc] BON SANG!"
 
 # game/intro_day3-4.rpy:61 ## translate crowdin intro_day3_cf0bc38d:
 msgid "[pc] Fuck it, I'm outta here!"
-msgstr "[pc] Merde, je me casse d'ici !"
+msgstr "[pc] Merde, je me casse d'ici!"
 
 # game/intro_day3-4.rpy:65 ## translate crowdin intro_day3_719102df:
 msgid "[n] A bit later [withdissolve]"
@@ -182,15 +182,15 @@ msgstr "[n] Un peu plus tard [withdissolve]"
 
 # game/intro_day3-4.rpy:69 ## translate crowdin intro_day3_a897bc95:
 msgid "Waitress\" \"Here you go."
-msgstr "Serveuse\" \"Voilà."
+msgstr "Serveuse' 'Voilà."
 
 # game/intro_day3-4.rpy:70 ## translate crowdin intro_day3_0b79a33b:
 msgid "[pc] Thanks... Keep the change."
-msgstr "[pc] Merci... Gardez la modification."
+msgstr "[pc] Merci... Gardez la monnaie."
 
 # game/intro_day3-4.rpy:71 ## translate crowdin intro_day3_88f370f6:
 msgid "Waitress\" \"Thanks!"
-msgstr "Serveuse\" \"Merci !"
+msgstr "Serveuse' 'Merci!"
 
 # game/intro_day3-4.rpy:74 ## translate crowdin intro_day3_78443c11:
 msgid "[n] *slurp*"
@@ -234,11 +234,11 @@ msgstr "[pcthink] Même la maison avec [m] serait mieux que cela..."
 
 # game/intro_day3-4.rpy:87 ## translate crowdin intro_day3_f0bf90b6:
 msgid "[pcthink] Ugh... what am I thinking?!"
-msgstr "[pcthink] Ugh... à quoi je pense ? !"
+msgstr "[pcthink] Ugh... à quoi je pense?!"
 
 # game/intro_day3-4.rpy:88 ## translate crowdin intro_day3_c553ea32:
 msgid "Voice || [pc]?"
-msgstr "Voice || [pc]?"
+msgstr "Voix || [pc]?"
 
 # game/intro_day3-4.rpy:89 ## translate crowdin intro_day3_61e4f5ac:
 msgid "[pc] Huh?!"
@@ -246,15 +246,15 @@ msgstr "[pc] Huh ? !"
 
 # game/intro_day3-4.rpy:91 ## translate crowdin intro_day3_836e0d44:
 msgid "[pc] ...[m]?!"
-msgstr "[pc] ...[m]? !"
+msgstr "[pc] ...[m]?!"
 
 # game/intro_day3-4.rpy:92 ## translate crowdin intro_day3_5fa8fd9f:
 msgid "[pc] What the fuck?! Are you following me?"
-msgstr "[pc] C'est quoi ce bordel ? ! Vous me suivez ?"
+msgstr "[pc] C'est quoi ce bordel?! Tu me suis?"
 
 # game/intro_day3-4.rpy:93 ## translate crowdin intro_day3_cc3e3444:
 msgid "[m] Why would I do that?"
-msgstr "[m] Pourquoi ferais-je cela ?"
+msgstr "[m] Pourquoi ferais-je cela?"
 
 # game/intro_day3-4.rpy:94 ## translate crowdin intro_day3_a69377ef_3:
 msgid "[pc] ..."
@@ -262,7 +262,7 @@ msgstr "[pc]..."
 
 # game/intro_day3-4.rpy:96 ## translate crowdin intro_day3_7e6d6fdd:
 msgid "[m] God, [pc], you look awful. What happened?"
-msgstr "[m] Dieu, [pc], tu as l'air affreux. Que s'est-il passé ?"
+msgstr "[m] Dieu, [pc], tu as l'air affreux. Que s'est-il passé?"
 
 # game/intro_day3-4.rpy:97 ## translate crowdin intro_day3_a69377ef_4:
 msgid "[pc] ..."
@@ -274,15 +274,15 @@ msgstr "[pc] Mauvaise nuit..."
 
 # game/intro_day3-4.rpy:100 ## translate crowdin intro_day3_f391d1ab:
 msgid "[m] Oh my... do you want a coffee? I still owe you one."
-msgstr "[m] Oh mon... tu veux un café ? Je vous en dois toujours un."
+msgstr "[m] Oh mon... tu veux un café? Je t'en dois toujours un."
 
 # game/intro_day3-4.rpy:102 ## translate crowdin intro_day3_4fb2e850:
 msgid "[pc] I'm good."
-msgstr "[pc] Je suis bon."
+msgstr "[pc] Je vais bien."
 
 # game/intro_day3-4.rpy:104 ## translate crowdin intro_day3_dbcc0492:
 msgid "[m] But you don't really look like you are!"
-msgstr "[m] Mais vous n'en avez pas vraiment l'air !"
+msgstr "[m] Mais tu n'en as pas vraiment l'air!"
 
 # game/intro_day3-4.rpy:105 ## translate crowdin intro_day3_a69377ef_5:
 msgid "[pc] ..."
@@ -298,15 +298,15 @@ msgstr "[pc] [m]?"
 
 # game/intro_day3-4.rpy:108 ## translate crowdin intro_day3_7a5c1899:
 msgid "[m] Yes?"
-msgstr "[m] Oui ?"
+msgstr "[m] Oui?"
 
 # game/intro_day3-4.rpy:109 ## translate crowdin intro_day3_21b9e0b1:
 msgid "[pc] Does your offer still hold?"
-msgstr "[pc] Votre offre tient-elle toujours ?"
+msgstr "[pc] Ton offre tient-elle toujours?"
 
 # game/intro_day3-4.rpy:110 ## translate crowdin intro_day3_65149e53:
 msgid "[m] Hm? You mean your old room?"
-msgstr "[m] Hm ? Tu veux dire ton ancienne chambre ?"
+msgstr "[m] Hm ? Tu veux dire ton ancienne chambre?"
 
 # game/intro_day3-4.rpy:111 ## translate crowdin intro_day3_fef852ff:
 msgid "[pc] Yeah..."
@@ -314,7 +314,7 @@ msgstr "[pc] Ouais..."
 
 # game/intro_day3-4.rpy:113 ## translate crowdin intro_day3_4fa60740:
 msgid "[m] Of course! Do you want to take it?"
-msgstr "[m] Bien sûr ! Vous voulez le prendre ?"
+msgstr "[m] Bien sûr ! Tu veux la prendre ?"
 
 # game/intro_day3-4.rpy:114 ## translate crowdin intro_day3_15734afc:
 msgid "[pc] Yeah... I guess."
@@ -326,11 +326,11 @@ msgstr "[m] Oh mon... tu veux un café ?"
 
 # game/intro_day3-4.rpy:118 ## translate crowdin intro_day3_4fb2e850_1:
 msgid "[pc] I'm good."
-msgstr "[pc] Je suis bon."
+msgstr "[pc] Je vais bien."
 
 # game/intro_day3-4.rpy:120 ## translate crowdin intro_day3_dbcc0492_1:
 msgid "[m] But you don't really look like you are!"
-msgstr "[m] Mais vous n'en avez pas vraiment l'air !"
+msgstr "[m] Mais tu n'en as pas vraiment l'air!"
 
 # game/intro_day3-4.rpy:121 ## translate crowdin intro_day3_a69377ef_6:
 msgid "[pc] ..."
@@ -342,15 +342,15 @@ msgstr "[pcthink] Merde !"
 
 # game/intro_day3-4.rpy:123 ## translate crowdin intro_day3_ba3691aa:
 msgid "[pc] I still have no apartment and all the hotels are booked because of some kind of trade fair or something..."
-msgstr "[pc] Je n'ai toujours pas d'appartement et tous les hôtels sont réservés à cause d'une sorte de foire commerciale ou autre...."
+msgstr "[pc] Je n'ai toujours pas d'appartement et tous les hôtels sont réservés à cause d'une sorte de foire commerciale..."
 
 # game/intro_day3-4.rpy:124 ## translate crowdin intro_day3_cc539680:
 msgid "[m] I've heard about the trade fair... but, where did you spend the night?"
-msgstr "[m] J'ai entendu parler de la foire commerciale... mais, où avez-vous passé la nuit ?"
+msgstr "[m] J'ai entendu parler de la foire commerciale... mais, où as-tu passé la nuit ?"
 
 # game/intro_day3-4.rpy:125 ## translate crowdin intro_day3_336b5741:
 msgid "[pc] In some cheap motel... if you want to call it like that..."
-msgstr "[pc] Dans un motel bon marché... si on peut l'appeler comme ça..."
+msgstr "[pc] Dans un motel bon marché... si on peut l'appeler ça comme ça..."
 
 # game/intro_day3-4.rpy:126 ## translate crowdin intro_day3_aecc7d0b:
 msgid "[m] Was it that bad?"
@@ -374,7 +374,7 @@ msgstr "[pc]..."
 
 # game/intro_day3-4.rpy:131 ## translate crowdin intro_day3_975a8e7f:
 msgid "[m] I wouldn't mind if you'd take it for a few days..."
-msgstr "[m] Ça ne me dérangerait pas que vous le preniez pour quelques jours..."
+msgstr "[m] Ça ne me dérangerait pas que tu la prennees pour quelques jours..."
 
 # game/intro_day3-4.rpy:132 ## translate crowdin intro_day3_dc25fc5d:
 msgid "[pcthink] Shit... no way..."
@@ -382,7 +382,7 @@ msgstr "[pcthink] Merde... pas possible..."
 
 # game/intro_day3-4.rpy:133 ## translate crowdin intro_day3_394afe94:
 msgid "[m] I know you probably don't want to come back... but it's better than any motel... and it's free of course."
-msgstr "[m] Je sais que vous ne voulez probablement pas revenir... mais c'est mieux que n'importe quel motel... et c'est gratuit bien sûr."
+msgstr "[m] Je sais que tu ne veux probablement pas revenir... mais c'est mieux que n'importe quel motel... et c'est gratuit bien sûr."
 
 # game/intro_day3-4.rpy:134 ## translate crowdin intro_day3_568b9553:
 msgid "[pcthink] Damn it... anything would be better than that motel... and she really seems to have changed..."
