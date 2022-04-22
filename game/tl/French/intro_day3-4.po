@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-22 01:26\n"
+"PO-Revision-Date: 2022-04-22 13:23\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day3-4.rpy:3 ## translate crowdin intro_day3_8046137e:
 msgid "[n] Next morning in the motel [withdissolve]"
@@ -122,7 +122,7 @@ msgstr "[pc]..."
 
 # game/intro_day3-4.rpy:44 ## translate crowdin intro_day3_d40b86d0:
 msgid "[n] Hours later [withdissolve]"
-msgstr "[n] Heures plus tard [withdissolve]"
+msgstr "[n] Quelques heures plus tard [withdissolve]"
 
 # game/intro_day3-4.rpy:49 ## translate crowdin intro_day3_bb39f960:
 msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
@@ -242,7 +242,7 @@ msgstr "Voix || [pc]?"
 
 # game/intro_day3-4.rpy:89 ## translate crowdin intro_day3_61e4f5ac:
 msgid "[pc] Huh?!"
-msgstr "[pc] Huh ? !"
+msgstr "[pc] Huh ?!"
 
 # game/intro_day3-4.rpy:91 ## translate crowdin intro_day3_836e0d44:
 msgid "[pc] ...[m]?!"
@@ -290,7 +290,7 @@ msgstr "[pc]..."
 
 # game/intro_day3-4.rpy:106 ## translate crowdin intro_day3_a08e5c45:
 msgid "[pcthink] Shit!"
-msgstr "[pcthink] Merde !"
+msgstr "[pcthink] Merde!"
 
 # game/intro_day3-4.rpy:107 ## translate crowdin intro_day3_77711451:
 msgid "[pc] [m]?"
@@ -394,11 +394,11 @@ msgstr "[pcthink] ...juste quelques jours ne me tueront pas je suppose, ça ne p
 
 # game/intro_day3-4.rpy:136 ## translate crowdin intro_day3_5c502239:
 msgid "[pc] I guess... I guess I take it."
-msgstr "[pc] Je suppose... Je suppose que je le prends."
+msgstr "[pc] Je suppose... Je suppose que je la prends."
 
 # game/intro_day3-4.rpy:138 ## translate crowdin intro_day3_810d2266:
 msgid "[m] Really? Great! When do you want to move in?"
-msgstr "[m] Vraiment ? Super ! Quand voulez-vous emménager ?"
+msgstr "[m] Vraiment ? Super ! Quand veux-tu emménager ?"
 
 # game/intro_day3-4.rpy:139 ## translate crowdin intro_day3_bd459e5f:
 msgid "[pc] Uh... as soon as possible, preferably today."
@@ -414,11 +414,11 @@ msgstr "[pc] Est-ce un problème ?"
 
 # game/intro_day3-4.rpy:143 ## translate crowdin intro_day3_5cddda58:
 msgid "[m] N-No... not really. I just didn't expect it so soon."
-msgstr "[m] N-No... pas vraiment. C'est juste que je ne m'y attendais pas si tôt."
+msgstr "[m] N-Non... pas vraiment. C'est juste que je ne m'y attendais pas si tôt."
 
 # game/intro_day3-4.rpy:145 ## translate crowdin intro_day3_501bdff1:
 msgid "[m] Umm, I'll be home in about six hours. Do you remember how to get there?"
-msgstr "[m] Umm, je serai à la maison dans environ six heures. Tu te souviens comment y aller ?"
+msgstr "[m] Umm, je serais à la maison dans environ six heures. Tu te souviens comment y aller ?"
 
 # game/intro_day3-4.rpy:146 ## translate crowdin intro_day3_fef852ff_1:
 msgid "[pc] Yeah..."
@@ -430,7 +430,7 @@ msgstr "[m] Ok, super ! Tu as besoin d'aide pour quelque chose ? Tu veux que je 
 
 # game/intro_day3-4.rpy:148 ## translate crowdin intro_day3_c2c67676:
 msgid "[pc] No, I'll just come over later."
-msgstr "[pc] Non, je passerai plus tard."
+msgstr "[pc] Non, je passerais plus tard."
 
 # game/intro_day3-4.rpy:149 ## translate crowdin intro_day3_4e289dd8:
 msgid "[m] Oh, okay, good."
@@ -438,7 +438,7 @@ msgstr "[m] Oh, ok, bien."
 
 # game/intro_day3-4.rpy:150 ## translate crowdin intro_day3_6fbbf689:
 msgid "[m] Well, I guess I'll see you later then."
-msgstr "[m] Eh bien, je suppose que je vous verrai plus tard alors."
+msgstr "[m] Eh bien, je suppose que je te verrais plus tard alors."
 
 # game/intro_day3-4.rpy:151 ## translate crowdin intro_day3_a6cb5146:
 msgid "[pc] Yeah... thanks, [m]."
@@ -470,7 +470,7 @@ msgstr "[n] Doutant toujours de votre décision de revenir, vous finissez par fr
 
 # game/intro_day3-4.rpy:165 ## translate crowdin intro_day3_6ba0cd97:
 msgid "[n] *Knock* *knock*"
-msgstr "[n] *Knock* *knock*"
+msgstr "[n] *Toc* *toc*"
 
 # game/intro_day3-4.rpy:166 ## translate crowdin intro_day3_6304347d:
 msgid "[n] Almost instantly the door opens."
@@ -478,11 +478,11 @@ msgstr "[n] Presque instantanément, la porte s'ouvre."
 
 # game/intro_day3-4.rpy:168 ## translate crowdin intro_day3_90741ea4:
 msgid "[m] Heyyy, look who found [hisher] way home."
-msgstr "[m] Heyyy, regarde qui a trouvé [hisher] le chemin de la maison."
+msgstr "[m] Héééee, regarde qui a trouvé [hisher] le chemin de la maison."
 
 # game/intro_day3-4.rpy:170 ## translate crowdin intro_day3_c536639b:
 msgid "[m] Welcome back [pc]."
-msgstr "[m] Welcome back [pc]."
+msgstr "[m] Bon retour [pc]."
 
 # game/intro_day3-4.rpy:171 ## translate crowdin intro_day3_ca581621:
 msgid "[pcthink] What the..."
@@ -494,7 +494,7 @@ msgstr "[pc] Euh... merci."
 
 # game/intro_day3-4.rpy:174 ## translate crowdin intro_day3_5988ab17:
 msgid "[m] Huh? [pc], where is all your stuff? Don't tell me you changed your mind!?"
-msgstr "[m] Huh ? [pc], où sont toutes tes affaires ? Ne me dis pas que tu as changé d'avis ! ?"
+msgstr "[m] Huh ? [pc], où sont toutes tes affaires ? Ne me dis pas que tu as changé d'avis!?"
 
 # game/intro_day3-4.rpy:175 ## translate crowdin intro_day3_05755f8c:
 msgid "[pc] No, that's not it. Most of my stuff will be shipped in a few days. I have all I need in my bag."
@@ -522,7 +522,7 @@ msgstr "[pc] Huh ?"
 
 # game/intro_day3-4.rpy:186 ## translate crowdin intro_day3_b0fcdac6:
 msgid "[pc] Is that..."
-msgstr "[pc] Est-ce que..."
+msgstr "[pc] C'est..."
 
 # game/intro_day3-4.rpy:187 ## translate crowdin intro_day3_487a1850:
 msgid "[m] Hm?"
@@ -530,15 +530,15 @@ msgstr "[m] Hm ?"
 
 # game/intro_day3-4.rpy:188 ## translate crowdin intro_day3_88f134f2:
 msgid "[m] Oh, hey [e]. Look who's here!"
-msgstr "[m] Oh, hey [e]. Regardez qui est là !"
+msgstr "[m] Oh, hé [e]. Regardes qui est là !"
 
 # game/intro_day3-4.rpy:190 ## translate crowdin intro_day3_79e982ae:
 msgid "[pcthink] Isn't this..."
-msgstr "[pcthink] N'est-ce pas..."
+msgstr "[pcthink] Ce n'est pas..."
 
 # game/intro_day3-4.rpy:194 ## translate crowdin intro_day3_4b1892ae:
 msgid "[pcthink] Fuck, that was her!?"
-msgstr "[pcthink] Putain, c'était elle ! ?"
+msgstr "[pcthink] Putain, c'était elle!?"
 
 # game/intro_day3-4.rpy:195 ## translate crowdin intro_day3_0968fc6e:
 msgid "[pcthink] ...and I didn't recognize her, shit!"
@@ -546,7 +546,7 @@ msgstr "[pcthink] ...et je ne l'ai pas reconnue, merde !"
 
 # game/intro_day3-4.rpy:197 ## translate crowdin intro_day3_02b9ef35:
 msgid "[m] Why don't you come closer [e]?"
-msgstr "[m] Pourquoi ne pas vous rapprocher [e]?"
+msgstr "[m] Pourquoi ne pas te rapprocher [e]?"
 
 # game/intro_day3-4.rpy:199 ## translate crowdin intro_day3_a9906fdf:
 msgid "[m] ...and there she goes."
@@ -558,11 +558,11 @@ msgstr "[m] Je suppose que j'aurais dû te le dire..."
 
 # game/intro_day3-4.rpy:202 ## translate crowdin intro_day3_876370f3:
 msgid "[pc] Huh? Told me what?"
-msgstr "[pc] Huh ? Tu m'as dit quoi ?"
+msgstr "[pc] Huh ? Me dire quoi ?"
 
 # game/intro_day3-4.rpy:204 ## translate crowdin intro_day3_54afc299:
 msgid "[m] Um.. well, why don't you come in? Let's sit down in the living room and I'll tell you everything."
-msgstr "[m] Hum... bien, pourquoi n'entrez-vous pas ? Asseyons-nous dans le salon et je vous dirai tout."
+msgstr "[m] Hum... bien, pourquoi n'entres tu pas ? Asseyons-nous dans le salon et je te dirais tout."
 
 # game/intro_day3-4.rpy:205 ## translate crowdin intro_day3_a69377ef_9:
 msgid "[pc] ..."
@@ -574,11 +574,11 @@ msgstr "[n] Vous la suivez dans le salon et prenez place."
 
 # game/intro_day3-4.rpy:209 ## translate crowdin intro_day3_d6b5d925:
 msgid "[n] Hesitantly she starts to explain what happened after you moved out years ago."
-msgstr "[n] Hésitante, elle commence à expliquer ce qui s'est passé après que tu aies déménagé il y a des années."
+msgstr "[n] Hésitante, elle commence à expliquer ce qui s'est passé après que vous ayez déménagé il y a des années."
 
 # game/intro_day3-4.rpy:210 ## translate crowdin intro_day3_56da4873:
 msgid "[n] Apparently [e] was really sad and couldn't understand why you left all of a sudden."
-msgstr "[n] Apparemment, [e] était vraiment triste et ne pouvait pas comprendre pourquoi tu es parti tout d'un coup."
+msgstr "[n] Apparemment, [e] était vraiment triste et ne pouvait pas comprendre pourquoi vous êtes parti tout d'un coup."
 
 # game/intro_day3-4.rpy:211 ## translate crowdin intro_day3_bfbcb45b:
 msgid "[n] A few months later, [e] went missing for a few days and was found at night, walking through the city like a ghost."
@@ -602,7 +602,7 @@ msgstr "[pc]..."
 
 # game/intro_day3-4.rpy:217 ## translate crowdin intro_day3_53451717:
 msgid "[pc] Wow, that's... fucked..."
-msgstr "[pc] Wow, c'est... foutu..."
+msgstr "[pc] Wow, c'est... la merde..."
 
 # game/intro_day3-4.rpy:218 ## translate crowdin intro_day3_bb8c86cc:
 msgid "[pc] I'm sorry, I didn't know..."
@@ -610,7 +610,7 @@ msgstr "[pc] Je suis désolé, je ne savais pas..."
 
 # game/intro_day3-4.rpy:220 ## translate crowdin intro_day3_51da6f48:
 msgid "[m] How could you?"
-msgstr "[m] Comment avez-vous pu ?"
+msgstr "[m] Comment aurais-tu pu savoir?"
 
 # game/intro_day3-4.rpy:221 ## translate crowdin intro_day3_a69377ef_11:
 msgid "[pc] ..."
@@ -646,7 +646,7 @@ msgstr "[m] Parfois, elle est totalement absorbée par ce qu'elle fait, parfois 
 
 # game/intro_day3-4.rpy:232 ## translate crowdin intro_day3_a3a8e276:
 msgid "[pc] Maybe she is just ignoring you?"
-msgstr "[pc] Peut-être qu'elle vous ignore tout simplement ?"
+msgstr "[pc] Peut-être qu'elle t'ignore tout simplement ?"
 
 # game/intro_day3-4.rpy:233 ## translate crowdin intro_day3_feda8df7:
 msgid "[m] No, that's not it. She completely blocks everything out in such moments."
@@ -662,15 +662,15 @@ msgstr "[pc] Mince, si j'avais su..."
 
 # game/intro_day3-4.rpy:236 ## translate crowdin intro_day3_d2249da5:
 msgid "[m] You couldn't have..."
-msgstr "[m] Vous ne pouviez pas avoir..."
+msgstr "[m] Tu ne pouvais pas savoir..."
 
 # game/intro_day3-4.rpy:237 ## translate crowdin intro_day3_5f6d2b55:
 msgid "[m] ...and even if you knew, there is nothing you possibly could have done to help her. In fact, by now I know that nobody can."
-msgstr "[m] ...et même si vous le saviez, vous n'auriez rien pu faire pour l'aider. En fait, je sais maintenant que personne ne le peut."
+msgstr "[m] ...et même si tu le savais, tu n'aurais rien pu faire pour l'aider. En fait, je sais maintenant que personne ne le peut."
 
 # game/intro_day3-4.rpy:238 ## translate crowdin intro_day3_a2a6fb65:
 msgid "[pc] What do you mean?"
-msgstr "[pc] Que voulez-vous dire ?"
+msgstr "[pc] Que veux-tu dire ?"
 
 # game/intro_day3-4.rpy:239 ## translate crowdin intro_day3_b2ad02d5:
 msgid "[m] Well, over the years I've talked to many doctors, went to many psychologists..."
@@ -714,7 +714,7 @@ msgstr "[pcthink] Je suppose qu'elle a vraiment essayé d'aider [e]. C'est sa fi
 
 # game/intro_day3-4.rpy:254 ## translate crowdin intro_day3_536ea65f:
 msgid "[m] Anyway, I hope you will still be staying with us, after hearing all this. Will you?"
-msgstr "[m] Quoi qu'il en soit, j'espère que vous resterez encore avec nous, après avoir entendu tout ça. Vous le ferez ?"
+msgstr "[m] Quoi qu'il en soit, j'espère que tu resteras encore avec nous, après avoir entendu tout ça. Tu le feras ?"
 
 # game/intro_day3-4.rpy:255 ## translate crowdin intro_day3_81a46cc0:
 msgid "[pc] Sure... at least until I find a new apartment."
@@ -754,7 +754,7 @@ msgstr "[pcthink] Elle a probablement tout jeté sur le tas de ferraille juste a
 
 # game/intro_day3-4.rpy:265 ## translate crowdin intro_day3_eaa776e4:
 msgid "[m] Well then, why don't you make yourself at home and we'll see each other at dinner? I guess you have a lot to think about right now."
-msgstr "[m] Eh bien, pourquoi ne pas faire comme chez vous et nous nous verrons au dîner ? Je suppose que vous avez beaucoup de choses à penser en ce moment."
+msgstr "[m] Eh bien, pourquoi ne pas faire comme chez toi et nous nous verrons au dîner ? Je suppose que tu as beaucoup de choses à penser en ce moment."
 
 # game/intro_day3-4.rpy:266 ## translate crowdin intro_day3_79572587:
 msgid "[pc] Sure..."
@@ -774,7 +774,7 @@ msgstr "[pcthink] En fait, toute la maison a l'air très différente."
 
 # game/intro_day3-4.rpy:272 ## translate crowdin intro_day3_133c63ba:
 msgid "[pcthink] Whoa, she didn't lie, there is not much left..."
-msgstr "[pcthink] Whoa, elle n'a pas menti, il ne reste plus grand chose..."
+msgstr "[pcthink] Whoua, elle n'a pas menti, il ne reste plus grand chose..."
 
 # game/intro_day3-4.rpy:273 ## translate crowdin intro_day3_8254e276:
 msgid "[pcthink] I don't see anything that belongs to me here. The room looks completely different."
@@ -818,5 +818,5 @@ msgstr "[n] Vous vous endormez."
 
 # game/intro_day3-4.rpy:290 ## translate crowdin intro_day3_1876c646:
 msgid "[n] Home Day 0 [withdissolve]"
-msgstr "[n] Home Day 0 [withdissolve]"
+msgstr "[n] Jour dans la maison 0 [withdissolve]"
 
