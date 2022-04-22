@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-21 13:31\n"
+"PO-Revision-Date: 2022-04-22 01:26\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day1.rpy:3 ## translate crowdin intro_day1_26086d61:
 msgid "[n] Next Day [withdissolve]"
@@ -510,7 +510,7 @@ msgstr "[n] Vous vous retournez et partez."
 
 # game/intro_day1.rpy:175 ## translate crowdin intro_day1_9ed1c9d2:
 msgid "[pcthink] Fuck that bitch..."
-msgstr "[pcthink] Baise cette salope..."
+msgstr "[pcthink] Merde à cette chienne..."
 
 # game/intro_day1.rpy:178 ## translate crowdin intro_day1_0074d843:
 msgid "[pc] Ugh... okay, fine... I guess I have a few minutes..."
@@ -522,11 +522,11 @@ msgstr "[m] Super !"
 
 # game/intro_day1.rpy:181 ## translate crowdin intro_day1_9ce36f0d:
 msgid "[m] There is a nice small café over there. I bet you'll love it."
-msgstr "[m] Il y a un petit café sympa par là. Je parie que vous allez l'adorer."
+msgstr "[m] Il y a un petit café sympa par là. Je parie que tu vas l'adorer."
 
 # game/intro_day1.rpy:184 ## translate crowdin intro_day1_3b445d96:
 msgid "[pcthink] Damn, I hope I won't regret it..."
-msgstr "[pcthink] Merde, j'espère que je ne le regretterai pas..."
+msgstr "[pcthink] Merde, j'espère que je ne le regretterais pas..."
 
 # game/intro_day1.rpy:185 ## translate crowdin intro_day1_719102df:
 msgid "[n] A bit later [withdissolve]"
@@ -534,7 +534,7 @@ msgstr "[n] Un peu plus tard [withdissolve]"
 
 # game/intro_day1.rpy:189 ## translate crowdin intro_day1_69397787:
 msgid "[m] ...and you moved all the way back just for that job?"
-msgstr "[m] ...et vous avez déménagé jusqu'ici juste pour ce travail ?"
+msgstr "[m] ...et tu as déménagé ici juste pour ce travail ?"
 
 # game/intro_day1.rpy:190 ## translate crowdin intro_day1_fef852ff_1:
 msgid "[pc] Yeah..."
@@ -566,7 +566,7 @@ msgstr "[m] Eh bien, nous ne nous sommes pas vus depuis un moment, n'est-ce pas 
 
 # game/intro_day1.rpy:202 ## translate crowdin intro_day1_979b4245:
 msgid "[pc] Come on [m], I know that's not the real reason."
-msgstr "[pc] Allez [m], je sais que ce n'est pas la vraie raison."
+msgstr "[pc] Aller [m], je sais que ce n'est pas la vraie raison."
 
 # game/intro_day1.rpy:204 ## translate crowdin intro_day1_e612037c_2:
 msgid "[m] ..."
@@ -578,7 +578,7 @@ msgstr "[m] [pc] Je..."
 
 # game/intro_day1.rpy:207 ## translate crowdin intro_day1_859c53a1:
 msgid "[m] I meant it when I said I'm sorry."
-msgstr "[m] Je le pensais quand je disais que j'étais désolé."
+msgstr "[m] Je le pensais quand je disais que j'étais désolée."
 
 # game/intro_day1.rpy:208 ## translate crowdin intro_day1_15e72e84:
 msgid "[pc] Yeah, sure..."
@@ -586,11 +586,11 @@ msgstr "[pc] Ouais, bien sûr..."
 
 # game/intro_day1.rpy:210 ## translate crowdin intro_day1_4bc411f5:
 msgid "[m] Listen [pc], I know I wasn't the best mom you could think of..."
-msgstr "[m] Ecoutez [pc], je sais que je n'étais pas la meilleure mère que vous pouviez imaginer..."
+msgstr "[m] Ecoutes [pc], je sais que je n'étais pas la meilleure mère que tu pouvais imaginer..."
 
 # game/intro_day1.rpy:211 ## translate crowdin intro_day1_779ce34b:
 msgid "[pc] You are NOT my mom. Not even my stepmom. You're just some woman who used to live with my dad, you weren't even married. [withhpunch]"
-msgstr "[pc] Tu n'es PAS ma mère. Ni même ma belle-mère. Vous êtes juste une femme qui vivait avec mon père, vous n'étiez même pas mariée. [withhpunch]"
+msgstr "[pc] Tu N'es PAS ma mère. Ni même ma belle-mère. Tu es juste une femme qui vivait avec mon père, tu n'étais même pas mariée à lui. [withhpunch]"
 
 # game/intro_day1.rpy:213 ## translate crowdin intro_day1_e69acfb2:
 msgid "[m] Yes, that's true, but still... "
@@ -618,7 +618,7 @@ msgstr "[pc]..."
 
 # game/intro_day1.rpy:223 ## translate crowdin intro_day1_42a7fbc0:
 msgid "[m] You know what your dad did to me, don't you?!"
-msgstr "[m] Tu sais ce que ton père m'a fait, n'est-ce pas ? !"
+msgstr "[m] Tu sais ce que ton père m'a fait, n'est-ce pas?!"
 
 # game/intro_day1.rpy:224 ## translate crowdin intro_day1_a69377ef_5:
 msgid "[pc] ..."
@@ -630,11 +630,11 @@ msgstr "[m] Je sais qu'il t'a tenu à l'écart, mais tu as dû le remarquer !"
 
 # game/intro_day1.rpy:227 ## translate crowdin intro_day1_891d2262:
 msgid "[pc] ... that... doesn't give you the right to treat me the same way..."
-msgstr "[pc] ... cela... ne vous donne pas le droit de me traiter de la même façon..."
+msgstr "[pc] ... que... ça ne te donne pas le droit de me traiter de la même façon..."
 
 # game/intro_day1.rpy:229 ## translate crowdin intro_day1_eb3a4075:
 msgid "[m] Oh no, I didn't! What your dad did, was way beyond that!"
-msgstr "[m] Oh non, je ne l'ai pas fait ! Ce que ton père a fait, était bien plus que ça !"
+msgstr "[m] Oh non, je ne l'ai pas fait! Ce que ton père a fait, était bien plus que ça!"
 
 # game/intro_day1.rpy:231 ## translate crowdin intro_day1_6f457da1:
 msgid "[m] But still..."
@@ -642,7 +642,7 @@ msgstr "[m] Mais quand même..."
 
 # game/intro_day1.rpy:232 ## translate crowdin intro_day1_bebb5211:
 msgid "[m] You are right..."
-msgstr "[m] Vous avez raison..."
+msgstr "[m] Tu as raison..."
 
 # game/intro_day1.rpy:233 ## translate crowdin intro_day1_2d69d5e9:
 msgid "[m] I hated you because you were his [ds]... and... that was wrong."
@@ -666,7 +666,7 @@ msgstr "[m] Je... ferais mieux de partir maintenant..."
 
 # game/intro_day1.rpy:240 ## translate crowdin intro_day1_a376adb1:
 msgid "[m] I'm sorry [pc]..."
-msgstr "[m] Je suis désolé [pc]..."
+msgstr "[m] Je suis désolée [pc]..."
 
 # game/intro_day1.rpy:242 ## translate crowdin intro_day1_1baa200b:
 msgid "[n] She runs off with tears in her eyes."
@@ -674,7 +674,7 @@ msgstr "[n] Elle s'enfuit avec des larmes dans les yeux."
 
 # game/intro_day1.rpy:243 ## translate crowdin intro_day1_48d33e95:
 msgid "[pc] .."
-msgstr "[pc]..."
+msgstr "[pc] .."
 
 # game/intro_day1.rpy:244 ## translate crowdin intro_day1_a69377ef_7:
 msgid "[pc] ..."
@@ -682,15 +682,15 @@ msgstr "[pc]..."
 
 # game/intro_day1.rpy:245 ## translate crowdin intro_day1_709a16f1:
 msgid "[pc] ...."
-msgstr "[pc]...."
+msgstr "[pc] ...."
 
 # game/intro_day1.rpy:246 ## translate crowdin intro_day1_26b08e4a:
 msgid "[pc] Fuck!"
-msgstr "[pc] Putain !"
+msgstr "[pc] Merde!"
 
 # game/intro_day1.rpy:247 ## translate crowdin intro_day1_323f8958:
 msgid "[pcthink] Why do {i}I{/i} feel bad now?!"
-msgstr "[pcthink] Pourquoi {i}Je{/i} me sens mal maintenant ? !"
+msgstr "[pcthink] Pourquoi {i}je{/i} me sens mal maintenant?!"
 
 # game/intro_day1.rpy:248 ## translate crowdin intro_day1_93b96f13:
 msgid "[pcthink] She's the one who treated me like shit back then..."
@@ -730,9 +730,9 @@ msgstr "[n] Vous prenez une douche et allez vous coucher, en pensant encore aux 
 
 # XXtranslate crowdin strings:XX# XX## game/intro_day1.rpy:167
 msgid "[mschoice] Go with her."
-msgstr "[mschoice] Va avec elle."
+msgstr "[mschoice] Aller avec elle."
 
 # XX## game/intro_day1.rpy:167
 msgid "[mschoice] Just leave."
-msgstr "[mschoice] Partez."
+msgstr "[mschoice] Partir."
 
