@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-15 02:44\n"
+"PO-Revision-Date: 2022-04-23 13:20\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/conditions.rpy:1743 ## translate crowdin dateTime_69645982:
 msgid "[n] [currentDay]"
@@ -54,7 +54,7 @@ msgstr "[pcthink] Wouaa... on dirait que [m] vient de sortir de la douche."
 
 # game/conditions.rpy:1864 ## translate crowdin bathroom_ed5a9fb8:
 msgid "[m] [pc]!?"
-msgstr "[m] [pc]! ?"
+msgstr "[m] [pc]!?"
 
 # game/conditions.rpy:1865 ## translate crowdin bathroom_72087c33:
 msgid "[pcthink] Uhh..."
