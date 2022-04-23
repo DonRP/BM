@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-15 02:44\n"
+"PO-Revision-Date: 2022-04-23 13:20\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro.rpy:5 ## translate crowdin intro_af100c11:
 msgid "[n] Somewhere in a cab."
@@ -130,7 +130,7 @@ msgstr "[pcthink] Ma nouvelle maison dans mon ancienne ville natale."
 
 # game/intro.rpy:46 ## translate crowdin intro_253b5b06:
 msgid "[pcthink] ...What the?!"
-msgstr "[pcthink] ...Que se passe-t-il ? !"
+msgstr "[pcthink] ...Que se passe-t-il ?!"
 
 # game/intro.rpy:50 ## translate crowdin intro_4f12e6ae:
 msgid "[n] As you go around the corner you see the building where your soon-to-be apartment is located in flames."
