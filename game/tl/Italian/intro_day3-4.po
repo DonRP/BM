@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-23 13:20\n"
+"PO-Revision-Date: 2022-04-26 21:16\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day3-4.rpy:3 ## translate crowdin intro_day3_8046137e:
 msgid "[n] Next morning in the motel [withdissolve]"
@@ -54,7 +54,7 @@ msgstr "[pcthink] Argh, scopa, sto per dormire..."
 
 # game/intro_day3-4.rpy:21 ## translate crowdin intro_day3_d8b6e64b:
 msgid "[n] At night [withdissolve]"
-msgstr ""
+msgstr "[n] Di notte [withdissolve]"
 
 # game/intro_day3-4.rpy:25 ## translate crowdin intro_day3_be5544eb:
 msgid "[n] *creak*{w=1}{nw} [withhpunch]"
@@ -122,7 +122,7 @@ msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:44 ## translate crowdin intro_day3_d40b86d0:
 msgid "[n] Hours later [withdissolve]"
-msgstr ""
+msgstr "[n] Ore successive [withdissolve]"
 
 # game/intro_day3-4.rpy:49 ## translate crowdin intro_day3_bb39f960:
 msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
@@ -486,7 +486,7 @@ msgstr "[m] Bentornato [pc]."
 
 # game/intro_day3-4.rpy:171 ## translate crowdin intro_day3_ca581621:
 msgid "[pcthink] What the..."
-msgstr ""
+msgstr "[pcthink] Che cosa..."
 
 # game/intro_day3-4.rpy:172 ## translate crowdin intro_day3_c3d283f7:
 msgid "[pc] Uh... thanks."
