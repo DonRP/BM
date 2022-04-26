@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-23 01:23\n"
+"PO-Revision-Date: 2022-04-26 09:17\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_j.rpy:3 ## translate crowdin jadaFirstMeet_fbf6c787:
 msgid "[pcthink] I'm a bit hungry."
@@ -46,7 +46,7 @@ msgstr "[pc] Ugh ! Vous allez bien ?"
 
 # game/events_j.rpy:14 ## translate crowdin jadaFirstMeet_fd6ca95e:
 msgid "Girl || Uhh... yeah... I-I guess."
-msgstr "Euh... ouais... je suppose."
+msgstr "Fille || Euh... ouais... je suppose."
 
 # game/events_j.rpy:15 ## translate crowdin jadaFirstMeet_bb5b0f28:
 msgid "[pc] Sorry, I didn't see you."
@@ -54,11 +54,11 @@ msgstr "[pc] Désolé, je ne vous avais pas vu."
 
 # game/events_j.rpy:16 ## translate crowdin jadaFirstMeet_8cf10d47:
 msgid "Girl || No, I'm sorry, I didn't expect somebody coming out of this room."
-msgstr "Non, je suis désolée, je ne m'attendais pas à ce que quelqu'un sorte de cette pièce."
+msgstr "Fille || Non, je suis désolée, je ne m'attendais pas à ce que quelqu'un sorte de cette pièce."
 
 # game/events_j.rpy:18 ## translate crowdin jadaFirstMeet_8e6bf8f7:
 msgid "Girl || I'm [j] by the way. You're [e]'s big [bs], right?"
-msgstr "Je suis [j] au fait. Tu es le grand [e]de [bs], c'est ça ?"
+msgstr "Fille || Je suis [j] au fait. Tu es le grand [e] de [bs], c'est ça ?"
 
 # game/events_j.rpy:19 ## translate crowdin jadaFirstMeet_59478f5c:
 msgid "[pc] Yes, [pc]."
