@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-23 01:23\n"
+"PO-Revision-Date: 2022-04-26 21:16\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_t.rpy:3 ## translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[n] Hours later [withdissolve]"
@@ -1298,7 +1298,7 @@ msgstr "[pc] Eh bien, c'était rapide."
 
 # game/events_t.rpy:600 ## translate crowdin tcoerce2_r_46627624:
 msgid "[t] *pant*"
-msgstr "[t] *pantalon*"
+msgstr "[t] *halètement*"
 
 # game/events_t.rpy:601 ## translate crowdin tcoerce2_r_9d942cc2:
 msgid "[pc] What a squirter you are, and so needy."
@@ -1306,7 +1306,7 @@ msgstr "[pc] Quel gicleuse tu es, et c'était si nécessaire."
 
 # game/events_t.rpy:603 ## translate crowdin tcoerce2_r_1744a015:
 msgid "[t] Hnnn... *pant*"
-msgstr "[t] Hnnn... *pantalon*"
+msgstr "[t] Hnnn... *halètement*"
 
 # game/events_t.rpy:604 ## translate crowdin tcoerce2_r_173cedb5:
 msgid "[pc] You should thank me you know..."
