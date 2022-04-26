@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-22 13:23\n"
+"PO-Revision-Date: 2022-04-26 21:17\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_e.rpy:4 ## translate crowdin elliePCRoomSleepDay0_28f54d83:
 msgid "[pcthink] What?! [e]?"
@@ -54,7 +54,7 @@ msgstr "[pc] WOUAAA WTF!!!"
 
 # game/events_e.rpy:42 ## translate crowdin ellieWakeup_01b39e2c:
 msgid "[e] Khehehe..."
-msgstr "[e] Khehehehe..."
+msgstr "[e] Khéhéhéhé..."
 
 # game/events_e.rpy:43 ## translate crowdin ellieWakeup_306c049e:
 msgid "[pc] Gosh, [e]! I almost had a heart attack!"
@@ -122,7 +122,7 @@ msgstr "[pc] Whoua !"
 
 # game/events_e.rpy:79 ## translate crowdin eOnLap_be8d3b3c:
 msgid "[e] Khehe..."
-msgstr "[e] Khehehe..."
+msgstr "[e] Khéhéhe..."
 
 # game/events_e.rpy:80 ## translate crowdin eOnLap_71aa1aba:
 msgid "[pcthink] Okay, definitely not shy!"
@@ -618,7 +618,7 @@ msgstr "[pc] Eh bien... en fait, j'exige que tu viennes me rendre visite tous le
 
 # game/events_e.rpy:297 ## translate crowdin childroomPCtalktoEllie_be8d3b3c:
 msgid "[e] Khehe..."
-msgstr "[e] Khehehe..."
+msgstr "[e] Khéhéhe..."
 
 # game/events_e.rpy:299 ## translate crowdin childroomPCtalktoEllie_59d200fe:
 msgid "[n] [e] hugs you again as if she doesn't want to let you go anymore. You assure her that you're not going to disappear again. She doesn't answer, but you can tell that she is happy.{p}After a while [m] calls for dinner..."
@@ -1062,7 +1062,7 @@ msgstr "[pc] Attaque de la sainte chatte..."
 
 # game/events_e.rpy:499 ## translate crowdin eKitten_be8d3b3c:
 msgid "[e] Khehe..."
-msgstr "[e] Khehehe..."
+msgstr "[e] Khéhéhe..."
 
 # game/events_e.rpy:501 ## translate crowdin eKitten_32878cec:
 msgid "[e] Eh!"
@@ -1146,7 +1146,7 @@ msgstr "[pc] Whoua, hé, ce n'est pas juste !"
 
 # game/events_e.rpy:536 ## translate crowdin eKitten_3fa6b1c9:
 msgid "[e] Khehehe."
-msgstr "[e] Khehehehe."
+msgstr "[e] Khéhéhéhé."
 
 # game/events_e.rpy:539 ## translate crowdin eKitten_7fc73564:
 msgid "[pc] Little cheater!"
@@ -1542,7 +1542,7 @@ msgstr "[e] Haa..."
 
 # game/events_e.rpy:741 ## translate crowdin eHumpNight5_r_36fcc878:
 msgid "[e] *Pant*"
-msgstr "[e] *Pantalon*"
+msgstr "[e] *Halètement*"
 
 # game/events_e.rpy:743 ## translate crowdin eHumpNight5_r_c52f5a7a:
 msgid "[n] [e] collapses on top of you, she hugs you tightly and softly kisses your neck a few times while still panting heavily."
@@ -1662,7 +1662,7 @@ msgstr "[pc] Tu aimes vraiment m'agresser de partout, n'est-ce pas, [e]?"
 
 # game/events_e.rpy:811 ## translate crowdin d7_evening_e_8de614b1:
 msgid "[e] Khehe!"
-msgstr "[e] Khehehe !"
+msgstr "[e] Khéhéhe !"
 
 # game/events_e.rpy:813 ## translate crowdin d7_evening_e_9455801f:
 msgid "[pc] Hm?"
@@ -1694,7 +1694,7 @@ msgstr "[pc] Arf... bien, tu es assez âgée de toute façon..."
 
 # game/events_e.rpy:827 ## translate crowdin d7_evening_e_3fa6b1c9:
 msgid "[e] Khehehe."
-msgstr "[e] Khehehehe."
+msgstr "[e] Khéhéhéhé."
 
 # game/events_e.rpy:830 ## translate crowdin d7_evening_e_0445b44a:
 msgid "[e] Whoooo!"
@@ -1846,7 +1846,7 @@ msgstr "[pc] Haha, ok je comprends !"
 
 # game/events_e.rpy:907 ## translate crowdin d8_etalk_93227c0c:
 msgid "[e] Khehe."
-msgstr "[e] Khehehe."
+msgstr "[e] Khéhéhe."
 
 # game/events_e.rpy:908 ## translate crowdin d8_etalk_35e430a5:
 msgid "[pc] So now we only have to convince [m]... which might not be so easy..."
@@ -1874,7 +1874,7 @@ msgstr "[pc] Je pense que je devrais aller parler à [m] maintenant, merci [e]."
 
 # game/events_e.rpy:918 ## translate crowdin d8_etalk_93227c0c_1:
 msgid "[e] Khehe."
-msgstr "[e] Khehehe."
+msgstr "[e] Khéhéhe."
 
 # game/events_e.rpy:925 ## translate crowdin d9_ebathroom_29b31edc:
 msgid "[pcthink] ...time to get out."
@@ -2066,7 +2066,7 @@ msgstr "[pc] Hmm, tu es si belle, [e]."
 
 # game/events_e.rpy:1035 ## translate crowdin d9_pcroom_e01_be8d3b3c:
 msgid "[e] Khehe..."
-msgstr "[e] Khehehe..."
+msgstr "[e] Khéhéhe..."
 
 # game/events_e.rpy:1040 ## translate crowdin d9_pcroom_e01_72a33094_1:
 msgid "[e] ..."
@@ -2086,7 +2086,7 @@ msgstr "[pc] Regarde qui est déjà tout excité."
 
 # game/events_e.rpy:1051 ## translate crowdin d9_pcroom_e01_069bf969:
 msgid "[e] *Smooch* kehehe."
-msgstr "[e] *Bisous* kehehe."
+msgstr "[e] *Bisous* kehéhé."
 
 # game/events_e.rpy:1053 ## translate crowdin d9_pcroom_e01_480e4b44:
 msgid "[n] [e] kisses the head of your dick and starts to suck it."
@@ -2130,7 +2130,7 @@ msgstr "[pc] Haha, tu es folle !"
 
 # game/events_e.rpy:1067 ## translate crowdin d9_pcroom_e01_e66e62b7:
 msgid "[e] Khehehe!"
-msgstr "[e] Khehehehe !"
+msgstr "[e] Khéhéhéhé !"
 
 # game/events_e.rpy:1069 ## translate crowdin d9_pcroom_e01_bdf509be:
 msgid "[pcthink] Did she plan this together with [j]?"
@@ -2202,11 +2202,11 @@ msgstr "[pc] Hnnaaa..."
 
 # game/events_e.rpy:1137 ## translate crowdin d9_pcroom_e01_c19d5638:
 msgid "[e] *pant*..."
-msgstr "[e] *pantalon*..."
+msgstr "[e] *halètement*..."
 
 # game/events_e.rpy:1138 ## translate crowdin d9_pcroom_e01_702040ca:
 msgid "[extend] *pant*"
-msgstr "[extend] *pantalon*"
+msgstr "[extend] *halètement*"
 
 # game/events_e.rpy:1139 ## translate crowdin d9_pcroom_e01_9ec09061:
 msgid "[pc] Damn..."
@@ -2226,7 +2226,7 @@ msgstr "[pc] Je peux encore goûter ce miel..."
 
 # game/events_e.rpy:1145 ## translate crowdin d9_pcroom_e01_082bfa42:
 msgid "[e] Kehehehe..."
-msgstr "[e] Kehehehehehe..."
+msgstr "[e] Kehéhéhéhéhe..."
 
 # game/events_e.rpy:1147 ## translate crowdin d9_pcroom_e01_98805c19:
 msgid "[e] *Smooch*"
@@ -2266,7 +2266,7 @@ msgstr "[j] Haha, je ne me souviens pas que cela faisait partie du plan, [e]."
 
 # game/events_e.rpy:1166 ## translate crowdin d10eshow_e66e62b7:
 msgid "[e] Khehehe!"
-msgstr "[e] Khehehehe !"
+msgstr "[e] Khéhéhéhé !"
 
 # game/events_e.rpy:1167 ## translate crowdin d10eshow_6c5791b9:
 msgid "[pc] Damn... what are you guys up to?"
@@ -2318,7 +2318,7 @@ msgstr "[pc] Haha, oui, je suis complètement concentré maintenant !"
 
 # game/events_e.rpy:1195 ## translate crowdin d10eshow_93227c0c:
 msgid "[e] Khehe."
-msgstr "[e] Khehehe."
+msgstr "[e] Khéhéhe."
 
 # game/events_e.rpy:1196 ## translate crowdin d10eshow_0e4787b7:
 msgid "[j] Now hurry up, [e] before [heshe] loses concentration again!"
@@ -2386,7 +2386,7 @@ msgstr "[pc] Au fait, c'est cette tenue qui me plaît le plus, [e]."
 
 # game/events_e.rpy:1243 ## translate crowdin d10eshow_93227c0c_1:
 msgid "[e] Khehe."
-msgstr "[e] Khehehe."
+msgstr "[e] Khéhéhe."
 
 # game/events_e.rpy:1248 ## translate crowdin d10eshow_ec180365:
 msgid "[pc] Oh... [t]..."
