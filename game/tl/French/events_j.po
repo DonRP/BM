@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-26 21:16\n"
+"PO-Revision-Date: 2022-04-27 15:33\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_j.rpy:3 ## translate crowdin jadaFirstMeet_fbf6c787:
 msgid "[pcthink] I'm a bit hungry."
@@ -2678,7 +2678,7 @@ msgstr "[j] Ouais..."
 
 # game/events_j.rpy:1144 ## translate crowdin d7_motel_8c95ab7f:
 msgid "[pc] Jeez..."
-msgstr "[pc] Jeez..."
+msgstr "[pc] Bon sang..."
 
 # game/events_j.rpy:1146 ## translate crowdin d7_motel_bb817c7d:
 msgid "[pc] Where do you sleep? In the closet?"
@@ -2698,11 +2698,11 @@ msgstr "[j] Donc..."
 
 # game/events_j.rpy:1153 ## translate crowdin d7_motel_90b20ee9:
 msgid "[j] Will you help me?"
-msgstr "[j] Voulez-vous m'aider ?"
+msgstr "[j] Veux-tu m'aider ?"
 
 # game/events_j.rpy:1159 ## translate crowdin d7_motel_e68b784d:
 msgid "[pc] ...you know what?"
-msgstr "[pc] ...vous savez quoi ?"
+msgstr "[pc] ...tu sais quoi ?"
 
 # game/events_j.rpy:1161 ## translate crowdin d7_motel_a475dd4c:
 msgid "[j] What?"
@@ -2714,7 +2714,7 @@ msgstr "[pc] Je vais demander à [m] si tu peux vivre avec nous pendant un certa
 
 # game/events_j.rpy:1164 ## translate crowdin d7_motel_69885b7f:
 msgid "[j] W-what?! Really?!"
-msgstr "[j] W-what ?! Vraiment ?!"
+msgstr "[j] Q-quoi ?! Vraiment ?!"
 
 # game/events_j.rpy:1165 ## translate crowdin d7_motel_bd601a7a:
 msgid "[pc] Yeah, why not."
@@ -2754,15 +2754,15 @@ msgstr "[pc] Ne t'inquiète pas, elle sait combien il est difficile de trouver u
 
 # game/events_j.rpy:1179 ## translate crowdin d7_motel_e7b05f52:
 msgid "[j] You don't need to do this, you know."
-msgstr "[j] Vous n'avez pas besoin de faire ça, vous savez."
+msgstr "[j] Tu n'as pas besoin de faire ça, tu sais."
 
 # game/events_j.rpy:1180 ## translate crowdin d7_motel_1b7de357:
 msgid "[pc] But I will. I wouldn't want anyone to live in this shithole, especially not with an old perv nearby."
-msgstr "[pc] Mais je le ferai. Je ne voudrais pas que quelqu'un vive dans ce trou à rat, surtout pas avec un vieux pervers à proximité."
+msgstr "[pc] Mais je le ferais. Je ne voudrais pas que quelqu'un vive dans ce trou à rat, surtout pas avec un vieux pervers à proximité."
 
 # game/events_j.rpy:1183 ## translate crowdin d7_motel_d7e086f8:
 msgid "[j] Hehe, yeah, I'd rather be the perv."
-msgstr "[j] Héhé, ouais, je préfère être le pervers."
+msgstr "[j] Héhé, ouais, je préfère être la perverse."
 
 # game/events_j.rpy:1184 ## translate crowdin d7_motel_89b0e2a8:
 msgid "[pc] Haha, I thought so."
@@ -2770,7 +2770,7 @@ msgstr "[pc] Haha, c'est ce que je pensais."
 
 # game/events_j.rpy:1186 ## translate crowdin d7_motel_6f42734d:
 msgid "[j] So, can you help me clean up a bit... just in case?"
-msgstr "[j] Donc, pouvez-vous m'aider à nettoyer un peu... juste au cas où ?"
+msgstr "[j] Donc, peux-tu m'aider à nettoyer un peu... juste au cas où ?"
 
 # game/events_j.rpy:1187 ## translate crowdin d7_motel_d6b77c1b:
 msgid "[pc] Sure. [m] is still at work anyway..."
@@ -2790,7 +2790,7 @@ msgstr "[j] Ouais, [e] et [m] devraient être à la maison maintenant."
 
 # game/events_j.rpy:1196 ## translate crowdin d7_motel_9727d795:
 msgid "[pc] Yeah, so I better make my way home. I'll let you know if you can come over."
-msgstr "[pc] Ouais, donc je ferais mieux de rentrer chez moi. Je te ferai savoir si tu peux venir."
+msgstr "[pc] Ouais, donc je ferais mieux de rentrer chez moi. Je te ferais savoir si tu peux venir."
 
 # game/events_j.rpy:1198 ## translate crowdin d7_motel_a9293af8:
 msgid "[j] Cool, I can't wait, hehe."
@@ -2802,7 +2802,7 @@ msgstr "[pc] Très bien, à plus tard alors."
 
 # game/events_j.rpy:1202 ## translate crowdin d7_motel_da0b8c6c:
 msgid "[j] Later!"
-msgstr "[j] Plus tard !"
+msgstr "[j] A plus tard!"
 
 # game/events_j.rpy:1205 ## translate crowdin d7_motel_c7d9493f:
 msgid "[j] Hehe, yeah I already have my old perv."
@@ -3034,7 +3034,7 @@ msgstr "[pc] C'est le cas ?"
 
 # game/events_j.rpy:1325 ## translate crowdin d7_motel_r_f38a5830:
 msgid "[j] Yeah!"
-msgstr "[j] Yeah !"
+msgstr "[j] Ouais!"
 
 # game/events_j.rpy:1327 ## translate crowdin d7_motel_r_040ef449:
 msgid "[pc] Well... thanks..."
@@ -3054,7 +3054,7 @@ msgstr "[j] Pff, tu ne veux juste pas me le dire !"
 
 # game/events_j.rpy:1334 ## translate crowdin d7_motel_r_eae9140f:
 msgid "[pc] Hmm... maaaaybe."
-msgstr "[pc] Hmm... maaaaybe."
+msgstr "[pc] Hmm... peuuut-êêêttrreee."
 
 # game/events_j.rpy:1336 ## translate crowdin d7_motel_r_de666704:
 msgid "[j] Bitch! Hehe."
@@ -3062,15 +3062,15 @@ msgstr "[j] Salope ! Héhé."
 
 # game/events_j.rpy:1338 ## translate crowdin d7_motel_r_9e8e5364:
 msgid "[j] I bet you had a quadzillion girls to practice your secret technique, hehe."
-msgstr "[j] Je parie que vous aviez un quadzillion de filles pour pratiquer votre technique secrète, héhé."
+msgstr "[j] Je parie que tu avais un quart de million de filles pour pratiquer ta technique secrète, héhé."
 
 # game/events_j.rpy:1339 ## translate crowdin d7_motel_r_eae9140f_1:
 msgid "[pc] Hmm... maaaaybe."
-msgstr "[pc] Hmm... maaaaybe."
+msgstr "[pc] Hmm... peuuut-êêêttrreee."
 
 # game/events_j.rpy:1341 ## translate crowdin d7_motel_r_9245b59d:
 msgid "[j] Dick! Hehe."
-msgstr "[j] Dick ! Héhé."
+msgstr "[j] Salop ! Héhé."
 
 # game/events_j.rpy:1343 ## translate crowdin d7_motel_r_a69377ef_2:
 msgid "[pc] ..."
@@ -3086,7 +3086,7 @@ msgstr "[j] Tu es sûr que tu ne veux pas prendre une douche ?"
 
 # game/events_j.rpy:1348 ## translate crowdin d7_motel_r_8e9b5b21:
 msgid "[pc] Yeah, definitely not in this shower... I'll take a shower when I'm back home."
-msgstr "[pc] Ouais, certainement pas dans cette douche... Je prendrai une douche quand je serai de retour à la maison."
+msgstr "[pc] Ouais, certainement pas dans cette douche... Je prendrais une douche quand je serais de retour à la maison."
 
 # game/events_j.rpy:1350 ## translate crowdin d7_motel_r_0546927c:
 msgid "[j] Hum... too bad."
@@ -3102,7 +3102,7 @@ msgstr "[j] Aww, c'est encore pire..."
 
 # game/events_j.rpy:1356 ## translate crowdin d7_motel_r_e9bcbec1:
 msgid "[pc] Haha yeah, but hey maybe we can shower together regularly soon."
-msgstr "[pc] Haha ouais, mais hey peut-être qu'on pourra se doucher ensemble régulièrement bientôt."
+msgstr "[pc] Haha ouais, mais hé peut-être qu'on pourra se doucher ensemble régulièrement bientôt."
 
 # game/events_j.rpy:1358 ## translate crowdin d7_motel_r_b0f8754a:
 msgid "[j] Uhh, that sounds nice! Maybe [e] and [m] can join us, hehe."
@@ -3110,7 +3110,7 @@ msgstr "[j] Uhh, ça semble bien ! Peut-être que [e] et [m] peuvent se joindre 
 
 # game/events_j.rpy:1359 ## translate crowdin d7_motel_r_22f66d05:
 msgid "[pc] Haha, dirty girl."
-msgstr "[pc] Haha, sale fille."
+msgstr "[pc] Haha, méchante fille."
 
 # game/events_j.rpy:1361 ## translate crowdin d7_motel_r_75bb64ec:
 msgid "[j] Hehe, you made me dirty!"
@@ -3126,11 +3126,11 @@ msgstr "[pc] Fais juste attention à ce que tu ne deviennes pas encore plus sale
 
 # game/events_j.rpy:1364 ## translate crowdin d7_motel_r_ca357349:
 msgid "[j] Hehe, I will..."
-msgstr "[j] Héhé, je le ferai..."
+msgstr "[j] Héhé, je le ferais..."
 
 # game/events_j.rpy:1367 ## translate crowdin d7_motel_r_60a6dfd3:
 msgid "[j] But I think I'll just leave your \"dirt\" where it is for a little longer..."
-msgstr "[j] Mais je pense que je vais laisser ta \"saleté\" où elle est pour un peu plus longtemps..."
+msgstr "[j] Mais je pense que je vais laisser ta 'saleté' où elle est pour un peu plus longtemps..."
 
 # game/events_j.rpy:1368 ## translate crowdin d7_motel_r_95dc7c6b:
 msgid "[j] ...maybe even play with it... hehe."
@@ -3150,7 +3150,7 @@ msgstr "[n] En quittant l'appartement..."
 
 # game/events_j.rpy:1376 ## translate crowdin d7_motel_r_4ac9dc6d:
 msgid "Girl || Yes, I could hear it all, she was like \"yes [pcmd], give it to me [pcmd]\", haha."
-msgstr "Oui, j'ai tout entendu, elle était comme \"oui [pcmd], donne le moi [pcmd]\", haha."
+msgstr "Fille || Oui, j'ai tout entendu, elle était comme 'oui [pcmd], donne le moi [pcmd]', haha."
 
 # game/events_j.rpy:1377 ## translate crowdin d7_motel_r_905acf6d:
 msgid "[pcthink] Oh shit..."
@@ -3158,19 +3158,19 @@ msgstr "[pcthink] Oh merde..."
 
 # game/events_j.rpy:1378 ## translate crowdin d7_motel_r_d9a79da0:
 msgid "Girl || [heshe!c] must be really good..."
-msgstr "La fille [heshe!c] doit être vraiment bonne..."
+msgstr "Fille || [heshe!c] doit être vraiment bonne..."
 
 # game/events_j.rpy:1381 ## translate crowdin d7_motel_r_fa79e39f:
 msgid "Girl || Ah, err..."
-msgstr "Ah, euh..."
+msgstr "Fille || Ah, euh..."
 
 # game/events_j.rpy:1383 ## translate crowdin d7_motel_r_7b8ffb21:
 msgid "Girl || ... t-that's what happens in the movie I told you about earlier... haha."
-msgstr "C'est ce qui se passe dans le film dont je t'ai parlé plus tôt... haha."
+msgstr "Fille || C'est ce qui se passe dans le film dont je t'ai parlé plus tôt... haha."
 
 # game/events_j.rpy:1387 ## translate crowdin d7_motel_r_c21b7fb6:
 msgid "Girl || Yes..."
-msgstr "Fille... Oui..."
+msgstr "Fille || Oui..."
 
 # game/events_j.rpy:1388 ## translate crowdin d7_motel_r_a69377ef_3:
 msgid "[pc] ..."
@@ -3194,7 +3194,7 @@ msgstr "[pc] [j]?!"
 
 # game/events_j.rpy:1404 ## translate crowdin d9_morning_wakeup_07243bc1:
 msgid "[j] Awww damn it!"
-msgstr "[j] Awww damn it !"
+msgstr "[j] Awww bon sang !"
 
 # game/events_j.rpy:1405 ## translate crowdin d9_morning_wakeup_41ba0242:
 msgid "[n] You can't help but giggle seeing [j] jumping on one foot holding the other."
@@ -3214,15 +3214,15 @@ msgstr "[j] Je ne me suis pas faufilé... tu dormais juste comme une bûche."
 
 # game/events_j.rpy:1411 ## translate crowdin d9_morning_wakeup_77e12f9a:
 msgid "[pc] Suuuuure...and you think I'd believe that, hm?"
-msgstr "[pc] Suuuuure...et vous pensez que je vais croire ça, hm ?"
+msgstr "[pc] Biiiennnn sûr...et tu penses que je vais croire ça, hm ?"
 
 # game/events_j.rpy:1413 ## translate crowdin d9_morning_wakeup_9c7dcfaa:
 msgid "[j] You better believe it!"
-msgstr "[j] Vous feriez mieux de le croire !"
+msgstr "[j] Tu ferais mieux de le croire !"
 
 # game/events_j.rpy:1415 ## translate crowdin d9_morning_wakeup_e98df516:
 msgid "[j] [m] is making breakfast and [e] is still asleep, so I thought I'd wake you up."
-msgstr "[j] [m] prépare le petit déjeuner et [e] dort encore, alors j'ai pensé vous réveiller."
+msgstr "[j] [m] prépare le petit déjeuner et [e] dort encore, alors j'ai pensé te réveiller."
 
 # game/events_j.rpy:1416 ## translate crowdin d9_morning_wakeup_e1c3688f:
 msgid "[pc] By kicking my bed?"
@@ -3246,11 +3246,11 @@ msgstr "[j] Ouais je sais, elle aime vraiment dormir avec... euh à côté de to
 
 # game/events_j.rpy:1423 ## translate crowdin d9_morning_wakeup_03e73677:
 msgid "[pcthink] Little minx..."
-msgstr "[pcthink] Petit minx..."
+msgstr "[pcthink] Petite coquine..."
 
 # game/events_j.rpy:1426 ## translate crowdin d9_morning_wakeup_c338a93f:
 msgid "[j] you know..."
-msgstr "[j] vous savez..."
+msgstr "[j] tu sais..."
 
 # game/events_j.rpy:1427 ## translate crowdin d9_morning_wakeup_3f8cb39e:
 msgid "[pc] What?"
@@ -3262,7 +3262,7 @@ msgstr "[j] Je m'attendais à ce que tu viennes nous harceler pendant notre somm
 
 # game/events_j.rpy:1430 ## translate crowdin d9_morning_wakeup_64e97923:
 msgid "[pc] Huh?! What do you think I am? Some kind of dirty pervert?"
-msgstr "[pc] Huh ?! Qu'est-ce que vous pensez que je suis ? Une sorte de sale pervers ?"
+msgstr "[pc] Huh ?! Qu'est-ce que tu penses que je suis ? Une sorte de sale pervers ?"
 
 # game/events_j.rpy:1431 ## translate crowdin d9_morning_wakeup_dc662041:
 msgid "[j] Maybe, hehe."
@@ -3282,7 +3282,7 @@ msgstr "[j] Mais [pcmd], ça ne me dérangerait pas que tu me molestes dans mon 
 
 # game/events_j.rpy:1436 ## translate crowdin d9_morning_wakeup_dec7b1d7:
 msgid "[pc] Jeez, you better stop that, or I'll have to punish you for being so naughty."
-msgstr "[pc] Bon sang, tu ferais mieux d'arrêter ça, ou je vais devoir te punir pour avoir été si vilain."
+msgstr "[pc] Bon sang, tu ferais mieux d'arrêter ça, ou je vais devoir te punir pour avoir été si vilaine."
 
 # game/events_j.rpy:1438 ## translate crowdin d9_morning_wakeup_1430dc34:
 msgid "[j] Oh, but I wouldn't mind if you punish me [pcmd]..."
@@ -3294,7 +3294,7 @@ msgstr "[pc] Je suppose que cela signifie que je vais devoir te donner une punit
 
 # game/events_j.rpy:1440 ## translate crowdin d9_morning_wakeup_395f6dca:
 msgid "[j] Hmmmm... please [pcmd]."
-msgstr "[j] Hmmmm... s'il vous plaît [pcmd]."
+msgstr "[j] Hmmmm... s'il te plaît [pcmd]."
 
 # game/events_j.rpy:1441 ## translate crowdin d9_morning_wakeup_ed428e25:
 msgid "[pc] Well shit, we better stop here, I bet that either [m] or [e] will come looking for us if we don't get up."
@@ -3306,7 +3306,7 @@ msgstr "[j] Awwww mais je veux ma punition..."
 
 # game/events_j.rpy:1444 ## translate crowdin d9_morning_wakeup_6f2f6e2d:
 msgid "[pc] Heh, you're not supposed to want it, but don't worry, you'll get your punishment later."
-msgstr "[pc] Heh, tu n'es pas censé le vouloir, mais ne t'inquiète pas, tu auras ta punition plus tard."
+msgstr "[pc] Hé, tu n'es pas censé le vouloir, mais ne t'inquiète pas, tu auras ta punition plus tard."
 
 # game/events_j.rpy:1446 ## translate crowdin d9_morning_wakeup_4fd514e8:
 msgid "[j] Hehe, I hope so, [pcmd]."
@@ -3314,11 +3314,11 @@ msgstr "[j] Héhé, je l'espère, [pcmd]."
 
 # game/events_j.rpy:1448 ## translate crowdin d9_morning_wakeup_2ea42ca9:
 msgid "[j] *Smooch*"
-msgstr "[j] *Smooch*"
+msgstr "[j] *Bisous*"
 
 # game/events_j.rpy:1452 ## translate crowdin d9_morning_wakeup_9dacf383:
 msgid "[j] Well, I guess I'll let you get up then... that is... unless you want me to help, hehe."
-msgstr "[j] Eh bien, je suppose que je vais vous laisser vous lever alors... enfin... sauf si vous voulez que je vous aide, héhé."
+msgstr "[j] Eh bien, je suppose que je vais te laisser te lever alors... enfin... sauf si tu veux que je t'aide, héhé."
 
 # game/events_j.rpy:1453 ## translate crowdin d9_morning_wakeup_fcc449a8:
 msgid "[pc] I'm good, thanks."
@@ -3342,19 +3342,19 @@ msgstr "[pc] Oups, désolé je..."
 
 # game/events_j.rpy:1466 ## translate crowdin d9_backhome_j_86515107:
 msgid "[j] Oh hey, [pcmd]!"
-msgstr "[j] Oh hey, [pcmd]!"
+msgstr "[j] Oh hé, [pcmd]!"
 
 # game/events_j.rpy:1468 ## translate crowdin d9_backhome_j_213afb95:
 msgid "[j] What do you think?"
-msgstr "[j] Qu'en pensez-vous ?"
+msgstr "[j] Qu'en penses-tu ?"
 
 # game/events_j.rpy:1469 ## translate crowdin d9_backhome_j_c3c34a8f:
 msgid "[pc] Oh you've been to a hairdresser?"
-msgstr "[pc] Oh vous êtes allé chez le coiffeur ?"
+msgstr "[pc] Oh tu es allée chez le coiffeur ?"
 
 # game/events_j.rpy:1471 ## translate crowdin d9_backhome_j_e06a2b42:
 msgid "[j] Yeah, I talked [m] into it, hehe."
-msgstr "[j] Ouais, j'ai parlé [m] en elle, héhé."
+msgstr "[j] Ouais, j'ai parlé à [m], héhé."
 
 # game/events_j.rpy:1472 ## translate crowdin d9_backhome_j_8e678648:
 msgid "[pc] Looks good, I like the color."
@@ -3362,15 +3362,15 @@ msgstr "[pc] Ça a l'air bien, j'aime la couleur."
 
 # game/events_j.rpy:1474 ## translate crowdin d9_backhome_j_27418570:
 msgid "[j] Thanks, I was hoping you'd like it."
-msgstr "[j] Merci, j'espérais que vous l'aimeriez."
+msgstr "[j] Merci, j'espérais que tu l'aimerais."
 
 # game/events_j.rpy:1475 ## translate crowdin d9_backhome_j_4f9ec38c:
 msgid "[pc] Wait, did [m] get a new haircut too?"
-msgstr "Attends, est-ce que [pc] [m] a eu une nouvelle coupe de cheveux aussi ?"
+msgstr "[pc] Attends, est-ce que [m] a eu une nouvelle coupe de cheveux aussi ?"
 
 # game/events_j.rpy:1477 ## translate crowdin d9_backhome_j_d57c9b07:
 msgid "[j] More like a new styling, but it looks great, you should see her!"
-msgstr "[j] Plutôt un nouveau style, mais ça a l'air super, vous devriez la voir !"
+msgstr "[j] Plutôt un nouveau style, mais ça a l'air super, tu devrais aller la voir !"
 
 # game/events_j.rpy:1478 ## translate crowdin d9_backhome_j_3880369a:
 msgid "[pcthink] Shit, that's why she looked different..."
@@ -3390,7 +3390,7 @@ msgstr "[j] Dommage..."
 
 # game/events_j.rpy:1484 ## translate crowdin d9_backhome_j_594410df:
 msgid "[j] Well, go ahead! Don't mind me."
-msgstr "[j] Eh bien, vas-y ! Ne faites pas attention à moi."
+msgstr "[j] Eh bien, vas-y ! Ne fais pas attention à moi."
 
 # game/events_j.rpy:1485 ## translate crowdin d9_backhome_j_659c9116:
 msgid "[pc] Are you sure?"
@@ -4022,7 +4022,7 @@ msgstr "[pc] Ok... ?"
 
 # game/events_j.rpy:1796 ## translate crowdin d10pcroombeforekh_da0b8c6c:
 msgid "[j] Later!"
-msgstr "[j] Plus tard !"
+msgstr "[j] A plus tard!"
 
 # game/events_j.rpy:1798 ## translate crowdin d10pcroombeforekh_bfda4e98:
 msgid "[pcthink] What was that? She went from super-happy to ultra-sad within a second..."
