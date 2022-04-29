@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-28 16:12\n"
+"PO-Revision-Date: 2022-04-29 07:41\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_m.rpy:6 ## translate crowdin rachelBathroomDay0_da4f73a4:
 msgid "[pcthink] HOLY!!!"
@@ -1126,19 +1126,19 @@ msgstr "[n] Vous fouillez dans les boîtes pendant un moment."
 
 # game/events_m.rpy:441 ## translate crowdin stuffArrivesDay3Door_4cc1f4d5:
 msgid "[n] A few minutes later you find the box with your clothes and carry it to your room."
-msgstr "[n] Quelques minutes plus tard, vous trouvez la boîte avec tes vêtements et la portez dans ta chambre."
+msgstr "[n] Quelques minutes plus tard, vous trouvez la boîte avec vos vêtements et la portez dans votre chambre."
 
 # game/events_m.rpy:446 ## translate crowdin rachelStuckInTraffic_22fb2b9e:
 msgid "[pc] Haha, oh em gee! Some people really need to get a real life."
-msgstr "[pc] Haha, oh em gee ! Certaines personnes ont vraiment besoin d'avoir une vraie vie."
+msgstr "[pc] Haha, oh bon sang! Certaines personnes ont vraiment besoin d'avoir une vraie vie."
 
 # game/events_m.rpy:448 ## translate crowdin rachelStuckInTraffic_3cf1d862:
 msgid "[pcthink] Speaking of real life... I should finish unpacking..."
-msgstr "[pcthink] En parlant de vie réelle... Je devrais finir de déballer..."
+msgstr "[pcthink] En parlant de vie réelle... Je devrais finir de déballer mes affaires..."
 
 # game/events_m.rpy:449 ## translate crowdin rachelStuckInTraffic_60ea183b:
 msgid "[n] *Mobile rings*"
-msgstr "[n] *Sonneries de téléphone mobile*."
+msgstr "[n] *Sonneries de téléphone mobile*"
 
 # game/events_m.rpy:451 ## translate crowdin rachelStuckInTraffic_8c7f58ad:
 msgid "[pc] Who's that now..."
@@ -1162,7 +1162,7 @@ msgstr "[pcthink] Quand lui ai-je donné mon numéro ?"
 
 # game/events_m.rpy:457 ## translate crowdin rachelStuckInTraffic_a8257349:
 msgid "[m] {i}Can you do me a favor [pc]?{/i}"
-msgstr "[m] {i}Pouvez-vous me faire une faveur [pc]?{/i}"
+msgstr "[m] {i}Peux-tu me faire une faveur [pc]?{/i}"
 
 # game/events_m.rpy:458 ## translate crowdin rachelStuckInTraffic_43352229:
 msgid "[pc] Sure... what is it?"
@@ -1170,7 +1170,7 @@ msgstr "[pc] Bien sûr... qu'est-ce que c'est ?"
 
 # game/events_m.rpy:459 ## translate crowdin rachelStuckInTraffic_79a48afc:
 msgid "[m] {i}I'm stuck in traffic, could you pick [e] up at school? She must be waiting already.{/i}"
-msgstr "[m] {i}Je suis coincé dans les embouteillages, pourrais-tu passer prendre [e] à l'école ? Elle doit déjà attendre.{/i}"
+msgstr "[m] {i}Je suis coincée dans les embouteillages, pourrais-tu passer prendre [e] à l'école ? Elle doit déjà attendre.{/i}"
 
 # game/events_m.rpy:460 ## translate crowdin rachelStuckInTraffic_91c07efc:
 msgid "[pc] Yeah, sure. Did you call her?"
@@ -1182,7 +1182,7 @@ msgstr "[m] {i}Non, j'ai essayé de joindre [j], mais elle ne répond pas. {/i}"
 
 # game/events_m.rpy:462 ## translate crowdin rachelStuckInTraffic_dc34f487:
 msgid "[pc] Why didn't you call [e]?"
-msgstr "[pc] Pourquoi n'avez-vous pas appelé [e]?"
+msgstr "[pc] Pourquoi n'as-tu pas appelé [e]?"
 
 # game/events_m.rpy:463 ## translate crowdin rachelStuckInTraffic_bfe70063:
 msgid "[m] {i}She has doesn't have a mobile.{/i}"
@@ -1198,7 +1198,7 @@ msgstr "[m] {i}Elle ne saurait pas s'en servir. Elle n'est pas vraiment douée p
 
 # game/events_m.rpy:466 ## translate crowdin rachelStuckInTraffic_a69dbd5c:
 msgid "[pc] Err... Are you sure about that?"
-msgstr "[pc] Err... Vous êtes sûr de cela ?"
+msgstr "[pc] Err... Tu es sûr de cela ?"
 
 # game/events_m.rpy:467 ## translate crowdin rachelStuckInTraffic_1a2376b3:
 msgid "[m] {i}Yes, we had a laptop once, but she didn't even know how to start it and one day it was broken...{/i}"
@@ -1214,7 +1214,7 @@ msgstr "[m] {i}...tu te rappelles comment aller à l'école ? {/i}"
 
 # game/events_m.rpy:470 ## translate crowdin rachelStuckInTraffic_1197f121:
 msgid "[pc] Which one is it?"
-msgstr "[pc] Lequel est-ce ?"
+msgstr "[pc] Laquelle est-ce ?"
 
 # game/events_m.rpy:471 ## translate crowdin rachelStuckInTraffic_991f77e0:
 msgid "[m] {i}Sunroad High, the same one you went to.{/i}"
