@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-26 21:17\n"
+"PO-Revision-Date: 2022-04-29 19:43\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_e.rpy:4 ## translate crowdin elliePCRoomSleepDay0_28f54d83:
 msgid "[pcthink] What?! [e]?"
@@ -370,7 +370,7 @@ msgstr "[pcthink] Merde, elle est sournoise !"
 
 # game/events_e.rpy:183 ## translate crowdin ellieVR_efda9eec:
 msgid "[pc] Hey, [e]!"
-msgstr "[pc] Hey, [e]!"
+msgstr "[pc] Hé, [e]!"
 
 # game/events_e.rpy:184 ## translate crowdin ellieVR_a69377ef:
 msgid "[pc] ..."
@@ -802,7 +802,7 @@ msgstr "[pcthink] Est-ce qu'elle pleure ?"
 
 # game/events_e.rpy:396 ## translate crowdin ebdLookForE_22692aa8:
 msgid "[pc] Hey, what's wrong? For a second I thought you where crying..."
-msgstr "[pc] Hey, qu'est-ce qui ne va pas ? Pendant une seconde, j'ai cru que tu pleurais..."
+msgstr "[pc] Hé, qu'est-ce qui ne va pas ? Pendant une seconde, j'ai cru que tu pleurais..."
 
 # game/events_e.rpy:398 ## translate crowdin ebdLookForE_72a33094:
 msgid "[e] ..."
@@ -958,7 +958,7 @@ msgstr "[e] HNN !"
 
 # game/events_e.rpy:458 ## translate crowdin eKitten_f2dd3f96:
 msgid "[pc] Hey, cute outfit! Is this your present from [j]?"
-msgstr "[pc] Hey, jolie tenue ! C'est ton cadeau de la part de [j]?"
+msgstr "[pc] Hé, jolie tenue ! C'est ton cadeau de la part de [j]?"
 
 # game/events_e.rpy:459 ## translate crowdin eKitten_195237dc:
 msgid "[e] ?!"
@@ -1578,7 +1578,7 @@ msgstr "[pcthink] [e]? Elle est seule ?"
 
 # game/events_e.rpy:765 ## translate crowdin eschool_d6_efda9eec:
 msgid "[pc] Hey, [e]!"
-msgstr "[pc] Hey, [e]!"
+msgstr "[pc] Hé, [e]!"
 
 # game/events_e.rpy:769 ## translate crowdin eschool_d6_45e35a65:
 msgid "[pc] Hey, I'm going for a walk and thought I'd come by and have a look if I see you."
