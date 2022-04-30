@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-29 19:43\n"
+"PO-Revision-Date: 2022-04-30 07:38\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_mc.rpy:5 ## translate crowdin day0Morning_65a592f9:
 msgid "[pc] YAAAHHWN..."
@@ -1242,11 +1242,11 @@ msgstr "[j] Je me demande si tu la portes pour quelqu'un de spécial, héhé."
 
 # game/events_mc.rpy:537 ## translate crowdin haremChoice_cd851e02:
 msgid "[m] Wh... well don't you two have something to do?"
-msgstr "[m] Qu... bien vous n'avez pas quelque chose à faire tous les deux ?"
+msgstr "[m] Qu... bien tu n'as pas quelque chose à faire tous les deux ?"
 
 # game/events_mc.rpy:538 ## translate crowdin haremChoice_d4fc2ce6:
 msgid "[j] Of course... {size=-10}Run [e]!{/size}"
-msgstr "[j] Bien sûr... Run [e]!{size=-10} !{/size}"
+msgstr "[j] Bien sûr... {size=-10}Fais-le [e]!{/size}"
 
 # game/events_mc.rpy:539 ## translate crowdin haremChoice_01b39e2c:
 msgid "[e] Khehehe..."
@@ -1266,7 +1266,7 @@ msgstr "[pcthink] Pourquoi ferme-t-elle la porte ?"
 
 # game/events_mc.rpy:553 ## translate crowdin haremChoice_12a1c413:
 msgid "[m] I'm sorry, I didn't know about [j]. I hope she didn't cause you any trouble?"
-msgstr "[m] Je suis désolé, je ne savais pas pour [j]. J'espère qu'elle ne vous a pas causé d'ennuis ?"
+msgstr "[m] Je suis désolé, je ne savais pas pour [j]. J'espère qu'elle ne t'a pas causé d'ennuis ?"
 
 # game/events_mc.rpy:554 ## translate crowdin haremChoice_9ec943e6:
 msgid "[pc] Not at all..."
