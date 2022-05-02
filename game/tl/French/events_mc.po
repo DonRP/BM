@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-30 07:38\n"
+"PO-Revision-Date: 2022-05-02 14:53\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_mc.rpy:5 ## translate crowdin day0Morning_65a592f9:
 msgid "[pc] YAAAHHWN..."
@@ -1290,7 +1290,7 @@ msgstr "[pc] Non, ça va, merci."
 
 # game/events_mc.rpy:562 ## translate crowdin haremChoice_6f236419:
 msgid "[m] Okay... Oh by the way..."
-msgstr "[m] Ok... Oh au fait..."
+msgstr "[m] Ok... Oh a plus tard..."
 
 # game/events_mc.rpy:566 ## translate crowdin hallPCtalktoEllie_004808c6:
 msgid "[n] You go back to your room."
@@ -1362,7 +1362,7 @@ msgstr "[extend] ."
 
 # game/events_mc.rpy:607 ## translate crowdin pcroomnight3_1a88aff7:
 msgid "[m] {size=-10}[e]? What are you doing up so late? Trying to sneak into your [bs]'s bed again?{/size}"
-msgstr "[m] {taille=-10}[e]? Que fais-tu debout si tard ? Tu essaies encore de te faufiler dans le lit de ton [bs]'s ? {/size}"
+msgstr "[m] {taille=-10}[e]? Que fais-tu debout si tard ? Tu essaies encore de te faufiler dans le lit de ton [bs]? {/size}"
 
 # game/events_mc.rpy:608 ## translate crowdin pcroomnight3_962b8eaa:
 msgid "[pcthink] Huh? [m] is still awake?"
@@ -1370,7 +1370,7 @@ msgstr "[pcthink] Huh ? [m] est toujours réveillé ?"
 
 # game/events_mc.rpy:609 ## translate crowdin pcroomnight3_a643ba94:
 msgid "[m] {size=-10}You should really let [himher] sleep [e]...{/size}"
-msgstr "[m] {size=-10}Vous devriez vraiment laisser [himher] dormir [e]...{/size}"
+msgstr "[m] {size=-10}Tu devrais vraiment laisser [himher] dormir [e]...{/size}"
 
 # game/events_mc.rpy:610 ## translate crowdin pcroomnight3_2f115d4d:
 msgid "[e] {size=-10}...{/size}"
@@ -1378,19 +1378,19 @@ msgstr "[e] {size=-10}...{/size}"
 
 # game/events_mc.rpy:611 ## translate crowdin pcroomnight3_142bf015:
 msgid "[m] {size=-10}Listen [e], I know you're really happy that [pc] is back, but [heshe] just moved in and we both don't know if [heshe] intends to stay...{/size}"
-msgstr "[m] {size=-10}Écoute [e], je sais que tu es vraiment heureux que [pc] soit de retour, mais [heshe] vient d'emménager et nous ne savons pas si [heshe] a l'intention de rester...{/size}"
+msgstr "[m] {size=-10}Écoute [e], je sais que tu es vraiment heureuse que [pc] soit de retour, mais [heshe] vient d'emménager et nous ne savons pas si [heshe] a l'intention de rester...{/size}"
 
 # game/events_mc.rpy:612 ## translate crowdin pcroomnight3_0e370ad3:
 msgid "[m] {size=-10}...also, [heshe]'s been away for a long time, we basically don't know anything about [himher]. Plus, do you even know if [heshe] is okay with you sleeping in [hisher] bed?{/size}"
-msgstr "[m] {size=-10}...aussi, [heshe]est parti depuis longtemps, on ne sait rien de [himher]. En plus, est-ce que tu sais si [heshe] est d'accord pour que tu dormes dans le lit de [hisher] ? {/size}"
+msgstr "[m] {size=-10}...aussi, [heshe] est parti depuis longtemps, on ne sait rien de [himher]. En plus, est-ce que tu sais si [heshe] est d'accord pour que tu dormes dans le lit de [hisher] ? {/size}"
 
 # game/events_mc.rpy:613 ## translate crowdin pcroomnight3_7e05c46a:
 msgid "[pcthink] Damn, are you serious [m]?"
-msgstr "[pcthink] Merde, tu es sérieux [m]?"
+msgstr "[pcthink] Merde, tu es sérieuse [m]?"
 
 # game/events_mc.rpy:614 ## translate crowdin pcroomnight3_9689d40d:
 msgid "[m] {size=-10}Come on [e], go back to your room. If [heshe]'s going to stay, you'll have enough opportunities to cuddle with [himher] in the future...{/size}"
-msgstr "[m] {size=-10}Allez [e], retourne dans ta chambre. Si [heshe]va rester, tu auras assez d'occasions de faire des câlins à [himher] dans le futur...{/size}"
+msgstr "[m] {size=-10}Aller [e], retourne dans ta chambre. Si [heshe] va rester, tu auras assez d'occasions de faire des câlins à [himher] dans le futur...{/size}"
 
 # game/events_mc.rpy:615 ## translate crowdin pcroomnight3_f0cac90d:
 msgid "[pcthink] ..."
@@ -1402,11 +1402,11 @@ msgstr "[pcthink] Eh bien... Je suppose que je vais dormir seul ce soir..."
 
 # game/events_mc.rpy:621 ## translate crowdin pcroomnight3_b297f259:
 msgid "[m] [bpc], WHAT THE HELL?!"
-msgstr "[m] [bpc], WHAT THE HELL ?!"
+msgstr "[m] [bpc], QU'EST-CE QUE C'EST CE BORDEL?!"
 
 # game/events_mc.rpy:622 ## translate crowdin pcroomnight3_25e7f477:
 msgid "[m] Don't tell me you got yourself into a fight AGAIN?!"
-msgstr "[m] Ne me dis pas que tu t'es encore battu ?!"
+msgstr "[m] Ne me dis pas que tu t'es ENCORE battu ?!"
 
 # game/events_mc.rpy:623 ## translate crowdin pcroomnight3_a69377ef_1:
 msgid "[pc] ..."
@@ -1446,7 +1446,7 @@ msgstr "[pc]..."
 
 # game/events_mc.rpy:632 ## translate crowdin pcroomnight3_28aa1485:
 msgid "[m] ...and don't forget to wipe the blood off the floor when you're done..."
-msgstr "[m] ...et n'oubliez pas d'essuyer le sang sur le sol quand vous aurez fini..."
+msgstr "[m] ...et n'oublie pas d'essuyer le sang sur le sol quand tu auras fini..."
 
 # game/events_mc.rpy:633 ## translate crowdin pcroomnight3_a69377ef_5:
 msgid "[pc] ..."
@@ -1498,7 +1498,7 @@ msgstr "[pcthink]..."
 
 # game/events_mc.rpy:654 ## translate crowdin wakeupDay3_d1861303:
 msgid "[pcthink] Well I better find the perfect present for her birthday. I have a lot to make up for and only a few hours time."
-msgstr "[pcthink] Je ferais mieux de trouver le cadeau parfait pour son anniversaire. J'ai beaucoup à rattraper et seulement quelques heures de temps."
+msgstr "[pcthink] Je ferais mieux de trouver le cadeau parfait pour son anniversaire. J'ai beaucoup à rattraper et seulement quelques heures."
 
 # game/events_mc.rpy:656 ## translate crowdin wakeupDay3_cfa20fe0:
 msgid "[n] You take a quick shower and make yourself ready to go into the city."
@@ -1530,7 +1530,7 @@ msgstr "[n] Vous cherchez le café jusqu'à ce que vous le trouviez."
 
 # game/events_mc.rpy:674 ## translate crowdin pcCityDay3_d9794f2e:
 msgid "Dude || Yeah?"
-msgstr "Mec... Ouais ?"
+msgstr "Mec || Ouais ?"
 
 # game/events_mc.rpy:675 ## translate crowdin pcCityDay3_9ba53076:
 msgid "[pcthink] Wasn't there a girl working here last time?"
@@ -1542,35 +1542,35 @@ msgstr "[pc] La plus grande tasse du café le plus fort que vous ayez."
 
 # game/events_mc.rpy:677 ## translate crowdin pcCityDay3_30b2640a:
 msgid "Dude || Sure..."
-msgstr "Mec... Bien sûr..."
+msgstr "Mec || Bien sûr..."
 
 # game/events_mc.rpy:678 ## translate crowdin pcCityDay3_ec5691e0:
 msgid "[pcthink] This guy looks kind of funny in the uniform..."
-msgstr "[pcthink] Ce type a l'air drôle dans l'uniforme..."
+msgstr "[pcthink] Ce type a l'air drôle dans cette uniforme..."
 
 # game/events_mc.rpy:680 ## translate crowdin pcCityDay3_37d2b588:
 msgid "Dude || Here you go..."
-msgstr "Mec, voilà..."
+msgstr "Mec || voilà..."
 
 # game/events_mc.rpy:681 ## translate crowdin pcCityDay3_1376d297:
 msgid "[pc] Thanks, keep the change."
-msgstr "[pc] Merci, gardez le changement."
+msgstr "[pc] Merci, gardez la monaie."
 
 # game/events_mc.rpy:682 ## translate crowdin pcCityDay3_404de4ef:
 msgid "Dude || Thanks."
-msgstr "Merci, mon pote."
+msgstr "Mec || Merci."
 
 # game/events_mc.rpy:684 ## translate crowdin pcCityDay3_2d94c374:
 msgid "Girl || {size=-10}Yeah, bye!{/size}"
-msgstr "Girl || {size=-10}Yeah, bye!{/size}"
+msgstr "Fille || {size=-10}Oui, au revoir !{/size}"
 
 # game/events_mc.rpy:685 ## translate crowdin pcCityDay3_df2388d3:
 msgid "[pcthink] That's the barista from last time."
-msgstr "[pcthink] C'est le barista de la dernière fois."
+msgstr "[pcthink] C'est la barista de la dernière fois."
 
 # game/events_mc.rpy:687 ## translate crowdin pcCityDay3_f6920ce9:
 msgid "Girl || Oh, you."
-msgstr "Oh, toi."
+msgstr "Fille || Oh, toi."
 
 # game/events_mc.rpy:688 ## translate crowdin pcCityDay3_9f72f07c:
 msgid "[pc] Me?"
@@ -1582,7 +1582,7 @@ msgstr "[pcthink] On dirait qu'elle se souvient aussi de moi."
 
 # game/events_mc.rpy:691 ## translate crowdin pcCityDay3_d16d473d:
 msgid "Girl || Ah sorry, haha. You looked really tired last time, that's why I remember you, haha."
-msgstr "Ah, désolé, haha. Tu avais l'air vraiment fatigué la dernière fois, c'est pour ça que je me souviens de toi, haha."
+msgstr "Fille || Ah, désolé, haha. Tu avais l'air vraiment fatigué la dernière fois, c'est pour ça que je me souviens de toi, haha."
 
 # game/events_mc.rpy:692 ## translate crowdin pcCityDay3_528a0c0a:
 msgid "[pc] Yeah that sounds like me... I hope I didn't look too scary?"
@@ -1590,23 +1590,23 @@ msgstr "[pc] Ouais, ça me ressemble... J'espère que je n'ai pas eu l'air trop 
 
 # game/events_mc.rpy:693 ## translate crowdin pcCityDay3_d7aed506:
 msgid "Girl || Haha no, not at all. Err... how is your friend?"
-msgstr "Haha non, pas du tout. Err... comment va votre ami ?"
+msgstr "Fille || Haha non, pas du tout. Err... comment va votre amie ?"
 
 # game/events_mc.rpy:694 ## translate crowdin pcCityDay3_0ea4f12e:
 msgid "[pc] Friend?"
-msgstr "[pc] Ami ?"
+msgstr "[pc] Amie ?"
 
 # game/events_mc.rpy:695 ## translate crowdin pcCityDay3_14a251d1:
 msgid "Girl || The older woman..."
-msgstr "La fille... La femme plus âgée..."
+msgstr "Fille || La femme plus âgée..."
 
 # game/events_mc.rpy:696 ## translate crowdin pcCityDay3_26a6d4b5:
 msgid "Girl || Oh that sounds mean. I didn't mean that she looks old or something, haha. She's a regular."
-msgstr "Oh, ça semble méchant. Je ne voulais pas dire qu'elle a l'air vieille ou autre, haha. C'est une habituée."
+msgstr "Fille || Oh, ça semble méchant. Je ne voulais pas dire qu'elle a l'air vieille ou autre, haha. C'est une habituée."
 
 # game/events_mc.rpy:697 ## translate crowdin pcCityDay3_2643ac94:
 msgid "Girl || ...but she looked really sad when she left the other day. I hope she's alright?"
-msgstr "...mais elle avait l'air vraiment triste quand elle est partie l'autre jour. J'espère qu'elle va bien ?"
+msgstr "Fille || ...mais elle avait l'air vraiment triste quand elle est partie l'autre jour. J'espère qu'elle va bien ?"
 
 # game/events_mc.rpy:698 ## translate crowdin pcCityDay3_b3701ceb:
 msgid "[pc] I guess you mean [m]... yeah she's fine."
@@ -1614,11 +1614,11 @@ msgstr "[pc] Je suppose que vous voulez dire [m]... oui elle va bien."
 
 # game/events_mc.rpy:699 ## translate crowdin pcCityDay3_1bd56328:
 msgid "Girl || Did you break up with her?"
-msgstr "Tu as rompu avec elle ?"
+msgstr "Fille || Tu as rompu avec elle ?"
 
 # game/events_mc.rpy:700 ## translate crowdin pcCityDay3_c251847b:
 msgid "[pc] Break up? Hell no! She's not my girlfriend."
-msgstr "[pc] Rupture ? Pas question ! Ce n'est pas ma petite amie."
+msgstr "[pc] Rompu? Du tout! Ce n'est pas ma petite amie."
 
 # game/events_mc.rpy:701 ## translate crowdin pcCityDay3_bf799a98:
 msgid "Dude || Hey [h], stop chattering, I want to go home!"
@@ -1626,7 +1626,7 @@ msgstr "Mec || Hé [h], arrête de bavarder, je veux rentrer à la maison !"
 
 # game/events_mc.rpy:703 ## translate crowdin pcCityDay3_897e803a:
 msgid "Girl || Ugh... Looks like I have to start my shift."
-msgstr "Girl || Ugh... On dirait que je dois commencer mon service."
+msgstr "Fille || Ugh... On dirait que je dois commencer mon service."
 
 # game/events_mc.rpy:704 ## translate crowdin pcCityDay3_0bea89ce:
 msgid "[pc] Yeah, too bad."
@@ -1634,7 +1634,7 @@ msgstr "[pc] Ouais, dommage."
 
 # game/events_mc.rpy:706 ## translate crowdin pcCityDay3_6be367f3:
 msgid "Girl || I'm [h] by the way."
-msgstr "Je suis [h] au fait."
+msgstr "Fille || Je suis [h] au fait."
 
 # game/events_mc.rpy:710 ## translate crowdin pcCityDay3_1ca71d76:
 msgid "[pc] [pc], nice to meet you."
@@ -1642,7 +1642,7 @@ msgstr "[pc] [pc], heureux de vous rencontrer."
 
 # game/events_mc.rpy:711 ## translate crowdin pcCityDay3_bdcb3934:
 msgid "[h] Nice to meet you too. I hope you visit us more often from now on, we have the best coffee in town and the cutest barista too, haha."
-msgstr "[h] Ravi de vous rencontrer aussi. J'espère que vous nous rendrez visite plus souvent à partir de maintenant, nous avons le meilleur café de la ville et le barista le plus mignon aussi, haha."
+msgstr "[h] Ravi de vous rencontrer aussi. J'espère que vous nous rendrez visite plus souvent à partir de maintenant, nous avons le meilleur café de la ville et la barista la plus mignonne aussi, haha."
 
 # game/events_mc.rpy:712 ## translate crowdin pcCityDay3_6f8d404b:
 msgid "[pc] That's two really good reasons to come back. Especially the last one."
@@ -1654,7 +1654,7 @@ msgstr "[h] Héhé, merci."
 
 # game/events_mc.rpy:714 ## translate crowdin pcCityDay3_607614bd:
 msgid "Dude || [h]!"
-msgstr "Dude || [h]!"
+msgstr "Mec || [h]!"
 
 # game/events_mc.rpy:716 ## translate crowdin pcCityDay3_1799137c:
 msgid "[h] Yes, stop crying baby boy!"
@@ -1666,7 +1666,7 @@ msgstr "[h] Bien, je dois y aller. A bientôt."
 
 # game/events_mc.rpy:719 ## translate crowdin pcCityDay3_188cbca6:
 msgid "[pc] Yeah, seeya."
-msgstr "[pc] Yeah, seeya."
+msgstr "[pc] Yeah, à plus."
 
 # game/events_mc.rpy:721 ## translate crowdin pcCityDay3_1cc9788e:
 msgid "[pcthink] Wow, she seemed kind of nervous at first... because of me?"
@@ -1674,7 +1674,7 @@ msgstr "[pcthink] Wow, elle semblait un peu nerveuse au début... à cause de mo
 
 # game/events_mc.rpy:722 ## translate crowdin pcCityDay3_f423bdd0:
 msgid "[pcthink] Cute..."
-msgstr "[pcthink] Mignon..."
+msgstr "[pcthink] Mignonne..."
 
 # game/events_mc.rpy:725 ## translate crowdin pcCityDay3_b3f60102:
 msgid "[pc] Yeah, well I have to go now. Bye..."
@@ -1682,7 +1682,7 @@ msgstr "[pc] Ouais, eh bien je dois y aller maintenant. Bye..."
 
 # game/events_mc.rpy:727 ## translate crowdin pcCityDay3_47a11eb7:
 msgid "[n] You leave the cafe and walk down the street, starting to think about what kind of present [e] would really like to have."
-msgstr "[n] Vous quittez le café et descendez la rue, en commençant à réfléchir au type de cadeau [e] que vous aimeriez vraiment avoir."
+msgstr "[n] Vous quittez le café et descendez la rue, en commençant à réfléchir au type de cadeau pour [e] qu'elle aimerait vraiment avoir."
 
 # game/events_mc.rpy:728 ## translate crowdin pcCityDay3_7b2c5e7c:
 msgid "[n] You wander from window to window, enter some shops, look at jewelry, plushies, clothes and several other things."
@@ -1774,7 +1774,7 @@ msgstr "[pcthink] Oui, je parie qu'elle serait heureuse d'en avoir un, même si 
 
 # game/events_mc.rpy:751 ## translate crowdin pcCityDay3_53244e6a:
 msgid "[pcthink] But I can't buy just {b}some{/b} phone, it has to be a good one. Maybe a Lie-Phone, or the new Moogle phone?"
-msgstr "[pcthink] Mais je ne peux pas acheter juste {b}un téléphone quelconque, il faut que ce soit un bon. Peut-être un Lie-Phone, ou le nouveau téléphone Moogle ?"
+msgstr "[pcthink] Mais je ne peux pas acheter juste {b}un{/b} téléphone quelconque, il faut que ce soit un bon. Peut-être un Lie-Phone, ou le nouveau téléphone Moogle ?"
 
 # game/events_mc.rpy:752 ## translate crowdin pcCityDay3_92f58eb1:
 msgid "[pcthink] ...and some cute accessories too. Girls her age love this kind of stuff... I think..."
@@ -1790,7 +1790,7 @@ msgstr "[pc] Je suis de retour..."
 
 # game/events_mc.rpy:758 ## translate crowdin pcCityDay3_2819ad57:
 msgid "[pcthink] ...looks like [m] and [e] aren't back yet."
-msgstr "[pcthink] ...on dirait que [m] et [e] ne sont pas encore revenus."
+msgstr "[pcthink] ...on dirait que [m] et [e] ne sont pas encore revenues."
 
 # game/events_mc.rpy:760 ## translate crowdin pcCityDay3_97439a5b:
 msgid "[n] You hide the mobile in your room and after a while waiting for [m] and [e] to return you decide to spend some time watching TV."
@@ -1798,19 +1798,19 @@ msgstr "[n] Vous cachez le portable dans votre chambre et après avoir attendu u
 
 # game/events_mc.rpy:762 ## translate crowdin pcCityDay3_2d31c06d:
 msgid "Reporter || ...building that burned down a few days ago."
-msgstr "...immeuble qui a brûlé il y a quelques jours."
+msgstr "Journaliste || ...immeuble qui a brûlé il y a quelques jours."
 
 # game/events_mc.rpy:763 ## translate crowdin pcCityDay3_a2f0a046:
 msgid "Reporter || The man responsible for the fire stated that he wanted to protect his wife from becoming corrupted by another man."
-msgstr "L'homme responsable de l'incendie a déclaré qu'il voulait empêcher sa femme d'être corrompue par un autre homme."
+msgstr "Journaliste || L'homme responsable de l'incendie a déclaré qu'il voulait empêcher sa femme d'être corrompue par un autre homme."
 
 # game/events_mc.rpy:764 ## translate crowdin pcCityDay3_58185e0f:
 msgid "Reporter || Police told us that the man believes that some unspecified person is using a magical serum to bend his wife's and other women's will."
-msgstr "La police nous a dit que l'homme croit qu'une personne non spécifiée utilise un sérum magique pour faire plier la volonté de sa femme et des autres femmes."
+msgstr "Journaliste || La police nous a dit que l'homme croit qu'une personne non spécifiée utilise un sérum magique pour faire plier la volonté de sa femme et des autres femmes."
 
 # game/events_mc.rpy:766 ## translate crowdin pcCityDay3_3fc5d9e7:
 msgid "Reporter || He was sent to a mental hospital..."
-msgstr "Il a été envoyé dans un hôpital psychiatrique..."
+msgstr "Journaliste || Il a été envoyé dans un hôpital psychiatrique..."
 
 # game/events_mc.rpy:767 ## translate crowdin pcCityDay3_5300c54f:
 msgid "[pcthink] Jeez, this guy must have played too many porn games..."
@@ -1822,7 +1822,7 @@ msgstr "[pcthink] Bref, je... hein ?"
 
 # game/events_mc.rpy:769 ## translate crowdin pcCityDay3_8893cd1a:
 msgid "[n] *Mobile phone rings*"
-msgstr "[n] *Sonnerie de téléphone portable*."
+msgstr "[n] *Sonnerie de téléphone portable*"
 
 # game/events_mc.rpy:771 ## translate crowdin pcCityDay3_6509f6ba:
 msgid "[pcthink] [m]... what does she want now?"
@@ -1842,11 +1842,11 @@ msgstr "[pc] Ouais, je sais."
 
 # game/events_mc.rpy:776 ## translate crowdin pcCityDay3_2917b6c2:
 msgid "[m] I'm sorry, we are running a bit late, if [t] shows up, could you tell her that we will be home soon?"
-msgstr "[m] Je suis désolé, nous sommes un peu en retard, si [t] se présente, pourriez-vous lui dire que nous serons bientôt à la maison ?"
+msgstr "[m] Je suis désolé, nous sommes un peu en retard, si [t] se présente, pourrais-tu lui dire que nous serons bientôt à la maison ?"
 
 # game/events_mc.rpy:777 ## translate crowdin pcCityDay3_36c3c199:
 msgid "[pc] The therapist? Did you seriously invite her to [e]'s birthday?"
-msgstr "[pc] Le thérapeute ? Tu l'as sérieusement invitée à l'anniversaire de [e]'s ?"
+msgstr "[pc] La thérapeute ? Tu l'as sérieusement invitée à l'anniversaire de [e] ?"
 
 # game/events_mc.rpy:778 ## translate crowdin pcCityDay3_91a23443:
 msgid "[m] No it's..."
@@ -1862,7 +1862,7 @@ msgstr "[pc] Quoi ? C'est encore pire !"
 
 # game/events_mc.rpy:781 ## translate crowdin pcCityDay3_de7c93ca:
 msgid "[m] [pc], please. I know you don't like her, but these sessions are important for [e] and [t] doesn't have much time, so we have to take what we can get."
-msgstr "[m] [pc], s'il vous plaît. Je sais que vous ne l'aimez pas, mais ces sessions sont importantes pour [e] et [t] n'a pas beaucoup de temps, donc nous devons prendre ce que nous pouvons obtenir."
+msgstr "[m] [pc], s'il te plaît. Je sais que tu ne l'aimes pas, mais ces sessions sont importantes pour [e] et [t] n'a pas beaucoup de temps, donc nous devons prendre ce que nous pouvons obtenir."
 
 # game/events_mc.rpy:782 ## translate crowdin pcCityDay3_f0293ec3:
 msgid "[pc] Geez, [m] this is awful..."
@@ -1874,11 +1874,11 @@ msgstr "[m] Je sais, je suis désolé..."
 
 # game/events_mc.rpy:784 ## translate crowdin pcCityDay3_3e339463:
 msgid "[pc] You should be sorry for [e], it's her birthday!"
-msgstr "[pc] Vous devriez être désolé pour [e], c'est son anniversaire !"
+msgstr "[pc] Tu devrais être désolé pour [e], c'est son anniversaire !"
 
 # game/events_mc.rpy:785 ## translate crowdin pcCityDay3_51304096:
 msgid "[m] Will you tell her [pc]? Please?"
-msgstr "[m] Veux-tu lui dire [pc]? S'il vous plaît ?"
+msgstr "[m] Veux-tu lui dire [pc]? S'il te plaît ?"
 
 # game/events_mc.rpy:786 ## translate crowdin pcCityDay3_f25f4dc9:
 msgid "[pc] Humph... yeah fine..."
@@ -1890,7 +1890,7 @@ msgstr "[m] Merci, Hun. Nous serons bientôt à la maison."
 
 # game/events_mc.rpy:789 ## translate crowdin pcCityDay3_54b7ec6f:
 msgid "[pcthink] I can't believe it, she's ruining [e]'s birthday..."
-msgstr "[pcthink] Je ne peux pas le croire, elle gâche l'anniversaire de [e]'s..."
+msgstr "[pcthink] Je ne peux pas le croire, elle gâche l'anniversaire de [e]..."
 
 # game/events_mc.rpy:792 ## translate crowdin pcCityDay3_a7b99095:
 msgid "[n] *Doorbell rings*"
@@ -1906,7 +1906,7 @@ msgstr "[n] Vous vous levez et ouvrez la porte."
 
 # game/events_mc.rpy:799 ## translate crowdin ebdPreps_80b6e591:
 msgid "[m] This, and that... oh could you take the plate, Hun?"
-msgstr "[m] Ceci, et cela... oh pouvez-vous prendre l'assiette, Hun ?"
+msgstr "[m] Ceci, et cela... oh tu peux prendre le plateau, Hun ?"
 
 # game/events_mc.rpy:800 ## translate crowdin ebdPreps_79572587:
 msgid "[pc] Sure..."
@@ -1938,7 +1938,7 @@ msgstr "[pc] Jenna est morte ?"
 
 # game/events_mc.rpy:811 ## translate crowdin ebdPreps_53fdfe12:
 msgid "[m] Yes... that's one of the things I wrote you in the letter I sent you..."
-msgstr "[m] Oui... c'est une des choses que je vous ai écrites dans la lettre que je vous ai envoyée..."
+msgstr "[m] Oui... c'est une des choses que je t'ai écrites dans la lettre que je t'ai envoyée..."
 
 # game/events_mc.rpy:812 ## translate crowdin ebdPreps_322c09c2:
 msgid "[m] I'm sorry, Hun."
@@ -3266,7 +3266,7 @@ msgstr "[e]..."
 
 # game/events_mc.rpy:1329 ## translate crowdin dinnerDay4Home_f423bdd0:
 msgid "[pcthink] Cute..."
-msgstr "[pcthink] Mignon..."
+msgstr "[pcthink] Mignonne..."
 
 # game/events_mc.rpy:1334 ## translate crowdin homeday4night_8cf29fc6:
 msgid "[n] At night..."
