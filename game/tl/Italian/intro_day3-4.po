@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-26 21:16\n"
+"PO-Revision-Date: 2022-05-03 20:31\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day3-4.rpy:3 ## translate crowdin intro_day3_8046137e:
 msgid "[n] Next morning in the motel [withdissolve]"
@@ -670,7 +670,7 @@ msgstr "[m] ...e anche se sapevi, non c'è niente che tu possa aver fatto per ai
 
 # game/intro_day3-4.rpy:238 ## translate crowdin intro_day3_a2a6fb65:
 msgid "[pc] What do you mean?"
-msgstr ""
+msgstr "[pc] Che cosa intendi?"
 
 # game/intro_day3-4.rpy:239 ## translate crowdin intro_day3_b2ad02d5:
 msgid "[m] Well, over the years I've talked to many doctors, went to many psychologists..."
