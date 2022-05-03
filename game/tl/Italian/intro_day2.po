@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-26 21:17\n"
+"PO-Revision-Date: 2022-05-03 20:31\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day2.rpy:3 ## translate crowdin intro_day2_d8b6e64b:
 msgid "[n] At night [withdissolve]"
@@ -102,7 +102,7 @@ msgstr "Voce Femminile <unk> Unn..."
 
 # game/intro_day2.rpy:33 ## translate crowdin intro_day2_a6b1be05:
 msgid "[n] *KNOCK* *KNOCK*"
-msgstr ""
+msgstr "[n] *KNOCK* *KNOCK*"
 
 # game/intro_day2.rpy:34 ## translate crowdin intro_day2_f46c168d:
 msgid "[pc] D-Dad? What's going on, why are you screaming?"
@@ -298,7 +298,7 @@ msgstr "[m] [pc] Mi dispiace per ieri, non avrei dovuto lasciare così all'impro
 
 # game/intro_day2.rpy:105 ## translate crowdin intro_day2_8a231ed3:
 msgid "[pc] Don't worry about it."
-msgstr ""
+msgstr "[pc] Non preoccuparti."
 
 # game/intro_day2.rpy:106 ## translate crowdin intro_day2_36bc910d:
 msgid "[pcthink] Shit, why am I being nice to her?"
