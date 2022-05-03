@@ -10,245 +10,245 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-04-04 01:57\n"
+"PO-Revision-Date: 2022-05-03 03:03\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/maps.rpy:113 ## translate crowdin pcroom_74b1cb7f:
 msgid "[pcthink] I need to use the bathroom..."
-msgstr ""
+msgstr "[pcthink] Necesito usar el baño..."
 
 # game/maps.rpy:116 ## translate crowdin pcroom_af3d9098:
 msgid "[pcthink] I should let her sleep."
-msgstr ""
+msgstr "[pcthink] Debería dejarla dormir."
 
 # game/maps.rpy:130 ## translate crowdin pcroom_925bda98:
 msgid "[pcthink] Did I forget anything?"
-msgstr ""
+msgstr "[pcthink] ¿Me olvidé de algo?"
 
 # game/maps.rpy:160 ## translate crowdin eboard_e738ea15:
 msgid "[pcthink] Hmm, what does the image say... \"I'll be making noise with my brother tonight, so please bear with us, sorry.\""
-msgstr ""
+msgstr "[pcthink] Hmm, qué dice la imagen... \"Voy a hacer ruido con mi hermano esta noche, así que por favor tengan paciencia con nosotros, lo siento.\""
 
 # game/maps.rpy:161 ## translate crowdin eboard_de0c74ba:
 msgid "[pcthink] \"{b}Incest{/b} - if you're about to do it, please inform your neighbours, so they know what's going on.\""
-msgstr ""
+msgstr "[pcthink] \"{b}incesto{/b} - si estás a punto de hacerlo, por favor informa a tus vecinos, para que sepan lo que está pasando.\""
 
 # game/maps.rpy:162 ## translate crowdin eboard_15aab006:
 msgid "[pcthink] Well that's interesting..."
-msgstr ""
+msgstr "[pcthink] Bueno, eso es interesante..."
 
 # game/maps.rpy:163 ## translate crowdin eboard_71458ea4:
 msgid "[pcthink] I wonder if [m] has ever seen it..."
-msgstr ""
+msgstr "[pcthink] Me pregunto si [m] lo ha visto..."
 
 # game/maps.rpy:165 ## translate crowdin eboard_c3608d9a:
 msgid "[pcthink] ...but she probably never really took a closer look..."
-msgstr ""
+msgstr "[pcthink] ...pero ella probablemente nunca miró más de cerca..."
 
 # game/maps.rpy:167 ## translate crowdin eboard_3e221e40:
 msgid "[pcthink] ...but she probably doesn't even understand english..."
-msgstr ""
+msgstr "[pcthink] ...pero probablemente ni siquiera entiende inglés..."
 
 # game/maps.rpy:180 ## translate crowdin ehifi_ef1e52ab:
 msgid "[pcthink] Hmm... the clock is showing the wrong time..."
-msgstr ""
+msgstr "[pcthink] Mmm... el reloj está mostrando la hora incorrecta..."
 
 # game/maps.rpy:186 ## translate crowdin childroom_9c32c8e7:
 msgid "[pcthink] I have to talk with [m] about that Therapist!"
-msgstr ""
+msgstr "[pcthink] Tengo que hablar con [m] acerca de ese Terapeuta!"
 
 # game/maps.rpy:188 ## translate crowdin childroom_ea4cf615:
 msgid "[pcthink] I have to talk with [m]."
-msgstr ""
+msgstr "[pcthink] Tengo que hablar con [m]."
 
 # game/maps.rpy:199 ## translate crowdin childroom_e48f5414:
 msgid "[pcthink] Huh? What's this?"
-msgstr ""
+msgstr "[pcthink] Huh? ¿Qué es esto?"
 
 # game/maps.rpy:213 ## translate crowdin childroom_7ca23109:
 msgid "[pcthink] I shouldn't go in there when she's not home."
-msgstr ""
+msgstr "[pcthink] No debería ir allí cuando ella no está en casa."
 
 # game/maps.rpy:215 ## translate crowdin childroom_e5745093:
 msgid "[pcthink] I have no reason to go in there at the moment."
-msgstr ""
+msgstr "[pcthink] No tengo ninguna razón para ir allí por el momento."
 
 # game/maps.rpy:223 ## translate crowdin halldesk_fc351f11:
 msgid "[pcthink] Boxes full of paperwork. Nothing special."
-msgstr ""
+msgstr "[pcthink] Cajas llenas de papeleo. Nada especial."
 
 # game/maps.rpy:229 ## translate crowdin halldesk_acd773b4:
 msgid "[n] You rummage through the paperwork..."
-msgstr ""
+msgstr "[n] Hurgas en el papeleo..."
 
 # game/maps.rpy:230 ## translate crowdin halldesk_e308a506:
 msgid "[n] Most of the documents are uninteresting, old bills, some insurance documents... but you also find the deed of ownership of the house with your name on it."
-msgstr ""
+msgstr "[n] La mayoría de los documentos son poco interesantes, facturas antiguas, algunos documentos de seguro... Pero también se encuentra la escritura de propiedad de la casa con su nombre en ella."
 
 # game/maps.rpy:231 ## translate crowdin halldesk_089638d2:
 msgid "[pcthink] Good to know where it is..."
-msgstr ""
+msgstr "[pcthink] Bueno saber dónde está..."
 
 # game/maps.rpy:232 ## translate crowdin halldesk_8dc71eeb:
 msgid "[n] You go on but there seems to be nothing of interest left..."
-msgstr ""
+msgstr "[n] Sigues, pero parece que no queda nada de interés..."
 
 # game/maps.rpy:235 ## translate crowdin halldesk_048ff388:
 msgid "[pc] {cps=3}...{/cps}"
-msgstr ""
+msgstr "[pc] {cps= 3}...{/cps}"
 
 # game/maps.rpy:236 ## translate crowdin halldesk_b9b155fe:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/maps.rpy:237 ## translate crowdin halldesk_b9b155fe_1:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/maps.rpy:238 ## translate crowdin halldesk_b9b155fe_2:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/maps.rpy:239 ## translate crowdin halldesk_7b5c9180:
 msgid "[pcthink] Hmm? What's this?"
-msgstr ""
+msgstr "[pcthink] Hmm? ¿Qué es esto?"
 
 # game/maps.rpy:245 ## translate crowdin halldesk_ef1833ce:
 msgid "[pcthink] Look at that, [m] didn't lie, [e] really is my sister after all..."
-msgstr ""
+msgstr "[pcthink] Mira eso, [m] no mentía, [e] realmente es mi hermana después de todo..."
 
 # game/maps.rpy:250 ## translate crowdin halldesk_13b5253e:
 msgid "[pcthink] Doesn't look like there's anything left to discover..."
-msgstr ""
+msgstr "[pcthink] No parece que quede nada por descubrir..."
 
 # game/maps.rpy:262 ## translate crowdin leavehome_ae0ab3b9:
 msgid "[pcthink] I have no reason to go outside at the moment."
-msgstr ""
+msgstr "[pcthink] No tengo ninguna razón para salir de este momento."
 
 # game/maps.rpy:270 ## translate crowdin leavehome_d23dc8e8:
 msgid "[pcthink] Alright, [ma] said to come over after work time, so I guess I should do whatever else I want to do before I go to the rental company..."
-msgstr ""
+msgstr "[pcthink] De acuerdo, [ma] dijo que venía después del trabajo, así que supongo que debo hacer lo que quiera hacer antes de ir a la empresa de alquiler..."
 
 # game/maps.rpy:303 ## translate crowdin ebc__68528f42:
 msgid "[pcthink] Huh, what's that?"
-msgstr ""
+msgstr "[pcthink] Huh, ¿qué es eso?"
 
 # game/maps.rpy:306 ## translate crowdin ebc__a87db862:
 msgid "[pcthink] So she really is..."
-msgstr ""
+msgstr "[pcthink] Así que ella realmente es..."
 
 # game/maps.rpy:308 ## translate crowdin ebc__13670d51:
 msgid "[pcthink] The old man didn't seem too confident though..."
-msgstr ""
+msgstr "[pcthink] Sin embargo, el viejo no parecía demasiado seguro..."
 
 # game/maps.rpy:324 ## translate crowdin kitchen_f47c9c9a:
 msgid "[pcthink] Looks like [m] is scrubbing the kitchen floor..."
-msgstr ""
+msgstr "[pcthink] Parece que [m] está fregando el piso de la cocina..."
 
 # game/maps.rpy:337 ## translate crowdin school_844bd22b:
 msgid "[pcthink] Looks like there is no one here I know."
-msgstr ""
+msgstr "[pcthink] Parece que no hay nadie aquí que yo conozca."
 
 # game/maps.rpy:348 ## translate crowdin cityStreet_9f641767:
 msgid "[pcthink] Okay, I think I have to go right at the end of the street."
-msgstr ""
+msgstr "[pcthink] Bien, creo que tengo que ir justo al final de la calle."
 
 # game/maps.rpy:349 ## translate crowdin cityStreet_144c4fa4:
 msgid "[pcthink] Hum... I wonder if the cafe is open today... and if the girl, what was her name? [h]? ...is there..."
-msgstr ""
+msgstr "[pcthink] Hum... Me pregunto si el café está abierto hoy... y si la chica, ¿cuál era su nombre? [h]? ...está... allí..."
 
 # game/maps.rpy:350 ## translate crowdin cityStreet_2ad12e34:
 msgid "[pcthink] Maybe I should have a look before I check the office? It's not like I'm in a hurry."
-msgstr ""
+msgstr "[pcthink] ¿Tal vez debería echarle un vistazo antes de comprobar la oficina? No es como si estuviera apurado."
 
 # game/maps.rpy:353 ## translate crowdin cityStreet_3882e6d2:
 msgid "[pcthink] Yep, nothing better than a nice, hot coffee served by a cute girl."
-msgstr ""
+msgstr "[pcthink] Sí, nada mejor que un café agradable y caliente servido por una linda chica."
 
 # game/maps.rpy:358 ## translate crowdin cityStreet_de9b5b96:
 msgid "[pcthink] Yeah, whatever, let's go to the office."
-msgstr ""
+msgstr "[pcthink] Sí, lo que sea, vamos a la oficina."
 
 # game/maps.rpy:367 ## translate crowdin cityStreet_b459ad4f:
 msgid "[pcthink] Hum... nothing to do... here."
-msgstr ""
+msgstr "[pcthink] Hum... nada que hacer... aquí."
 
 # game/maps.rpy:373 ## translate crowdin working_64fcc45f:
 msgid "[pcthink] Yeah, I could check the company, maybe there's something new..."
-msgstr ""
+msgstr "[pcthink] Sí, podría comprobar la compañía, quizás hay algo nuevo..."
 
 # game/maps.rpy:375 ## translate crowdin working_9516cc83:
 msgid "[n] You head to Atomic Aeronautics and enter the building."
-msgstr ""
+msgstr "[n] Te diriges a Atomic Aeronautics y entras en el edificio."
 
 # game/maps.rpy:382 ## translate crowdin working_256a6b7e:
 msgid "[pcthink] Should I? ... nah, better not."
-msgstr ""
+msgstr "[pcthink] ¿Debería? ... nah, mejor no."
 
 # XXtranslate crowdin strings:XX# XX## game/maps.rpy:5
 msgid "[mschoice] Leave Home"
-msgstr ""
+msgstr "[mschoice] Salir de casa"
 
 # XX## game/maps.rpy:6
 msgid "[mschoice] Rachel's Bedroom"
-msgstr ""
+msgstr "[mschoice] Dormitorio de Rachel"
 
 # XX## game/maps.rpy:7
 msgid "[mschoice] Kitchen"
-msgstr ""
+msgstr "[mschoice] Cocina"
 
 # XX## game/maps.rpy:8
 msgid "[mschoice] Hall"
-msgstr ""
+msgstr "[mschoice] Sala"
 
 # XX## game/maps.rpy:9
 msgid "[mschoice] Livingroom"
-msgstr ""
+msgstr "[mschoice] Sala de estar"
 
 # XX## game/maps.rpy:10
 msgid "[mschoice] Where do you want to go?"
-msgstr ""
+msgstr "[mschoice] ¿A dónde quieres ir?"
 
 # XX## game/maps.rpy:16
 msgid "[mschoice] Your Room"
-msgstr ""
+msgstr "[mschoice] Tu habitación"
 
 # XX## game/maps.rpy:17
 msgid "[mschoice] Ellie's Room"
-msgstr ""
+msgstr "[mschoice] Habitación de Ellie"
 
 # XX## game/maps.rpy:18
 msgid "[mschoice] Bathroom"
-msgstr ""
+msgstr "[mschoice] Baño"
 
 # XX## game/maps.rpy:19
 msgid "[mschoice] Entrance Hall"
-msgstr ""
+msgstr "[mschoice] Sala de Entrada"
 
 # XX## game/maps.rpy:20
 msgid "[mschoice] Desk"
-msgstr ""
+msgstr "[mschoice] Escritorio"
 
 # XX## game/maps.rpy:225
 msgid "[mschoice] Look closer."
-msgstr ""
+msgstr "[mschoice] Mira más cerca."
 
 # XX## game/maps.rpy:225
 msgid "[mschoice] Nah, better not touch it."
-msgstr ""
+msgstr "[mschoice] Nah, mejor no tocarlo."
 
 # XX## game/maps.rpy:233
 msgid "[mschoice] Keep going."
-msgstr ""
+msgstr "[mschoice] Sigue."
 
 # XX## game/maps.rpy:233
 msgid "[mschoice] No point in going on..."
-msgstr ""
+msgstr "[mschoice] No tiene sentido seguir..."
 
 # XX## game/maps.rpy:351
 msgid "[mschoice] Check the cafe."
-msgstr ""
+msgstr "[mschoice] Revisa el café."
 
 # XX## game/maps.rpy:351
 msgid "[mschoice] Go to the office."
-msgstr ""
+msgstr "[mschoice] Ve a la oficina."
 
