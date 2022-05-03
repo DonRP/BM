@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-22 01:26\n"
+"PO-Revision-Date: 2022-05-03 20:31\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day1.rpy:3 ## translate crowdin intro_day1_26086d61:
 msgid "[n] Next Day [withdissolve]"
@@ -50,7 +50,7 @@ msgstr "[pcthink] Elle est manifestement sur le point de me parler de l'appartem
 
 # game/intro_day1.rpy:16 ## translate crowdin intro_day1_7b411acf:
 msgid "[pc] Hey Maggy. I know about the fire already."
-msgstr "[pc] Hey Maggy. Je suis déjà au courant pour l'incendie."
+msgstr "[pc] Hé Maggy. Je suis déjà au courant pour l'incendie."
 
 # game/intro_day1.rpy:17 ## translate crowdin intro_day1_5889fa60:
 msgid "Maggy || You know that the apartment burned down?"
@@ -170,7 +170,7 @@ msgstr "[pcthink] Huh ? Ça doit être encore Maggy..."
 
 # game/intro_day1.rpy:49 ## translate crowdin intro_day1_c7379241:
 msgid "[pc] Hey Maggy. Please tell me something positive."
-msgstr "[pc] Hey Maggy. S'il te plaît, dis-moi quelque chose de positif."
+msgstr "[pc] Hé Maggy. S'il te plaît, dis-moi quelque chose de positif."
 
 # game/intro_day1.rpy:50 ## translate crowdin intro_day1_80fb1595:
 msgid "Maggy || Hey [mrms]..[pc]. Yes I might have something for you, but you have to hurry."
