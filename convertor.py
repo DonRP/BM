@@ -69,7 +69,6 @@ msgid \"""",
     """ \"Receptionist\" \"""": """ \"Receptionist || """,
     """ \"Manager\" \"""": """ \"Manager || """,
     """ \"Girl 2\" \"""": """ \"Girl 2 || """,
-    
     # Fix
     """msgstr \"\"[""": """msgstr \"[@""",
     """msgid \"\"[""": """msgid \"[@""",
