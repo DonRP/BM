@@ -4,16 +4,28 @@ import os
 
 # ATTENTION: there must not be 2 equal key or value
 dict = {
+    # potorpy only#--- "Ignore this. translate only: One"
+    """\n  """: """#--- \"Ignore this. translate only: One\"\n\n  """,
+    """ """: """#p--- \"Ignore this. translate only: One\"\n """,
+    """:\n\n    # """: """:\n    # """,
+    # not traslate
+    """\n# game""": """    new \"\"\n\n# game""",
+    # accapo
+    """    new \"[""": """    [""",
+    """""": """\"
+\"""",
+    """""": """\"\n\"""",
+    """""": """\"\n\"""",
+    """    old \"""": """msgid \"""",
+    """    new \"""": """msgstr[0] \"""",
+
     # search_text : replace_text
     """
 translate crowdin""": """ ## translate crowdin""",
     """    # game""": """# XX## game""",
     """:
-
     # """: """:
 msgid \"""",
-    """    old \"""": """msgid  \"""",
-    """    new \"""": """msgid_plural "Ignore this. translate only: One"\nmsgstr[0]  \"""",
     """\" nointeract""": """ [nointeract]\"""",
     """\" with Dissolve(2.0)""": """ [withDissolve(2.0)]\"""",
     """\n    """: """\nmsgstr \"""",
@@ -27,11 +39,14 @@ msgid \"""",
     """\n ## translate crowdin strings:\n\n""": """\n\n# XXtranslate crowdin strings:XX\n""",
     """:XX\n# XX## game""": """:XX# XX## game""",
     # date
-    """12:20\n\n# game""": """HH:HH# game""",
-    """12:20\n\n# XXtranslate""": """HH:HH# XXtranslate""",
-    # only rpytopo
-    """msgid \"\"""": """msgid \"""",
+    """HH:HH\n\n# game""": """HH:HH# game""",
+    """HH:HH\n\n# XXtranslate""": """HH:HH# XXtranslate""",
+    # potorpy only
+    """msgstr \"[""": """msgstr \"\"[""",
     """msgstr \"\"""": """msgstr \"""",
+    """""": """msgstr \"\"""",
+    """#p---""": """msgid_plural""",
+    """#---""": """msgstr[1]""",
 }
 
 
@@ -66,7 +81,7 @@ def replaceDictionary(pathFile, dict={}, reverse=False):
 def getListFiles():
     # Get the list of all files and directories
     path = "game/tl/"
-    dir_list = glob(path + "/**/*.po", recursive=True)
+    dir_list = glob(path + "/**/*.rpy", recursive=True)
     return dir_list
 
 
@@ -80,4 +95,4 @@ def potorpy():
         replaceDictionary(path, dict=dict, reverse=True)
 
 
-rpytopo()
+potorpy()
