@@ -10,98 +10,99 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-04-04 01:57\n"
+"PO-Revision-Date: 2022-05-03 03:03\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# XXtranslate crowdin strings:XX# XX## game/gallery.rpy:113
 msgid "[mschoice] One of my ealiest test render from when I was working on the livingroom, added a char to test the lighting, kudos to you if you recognize the character, it's a really early version ;)"
-msgstr ""
+msgstr "[mschoice] Uno de mis primeros renders de prueba de cuando estaba trabajando en la sala de estar, agregue un personaje para probar la iluminación, felicitaciones para ti si reconoces al personaje, es una versión muy temprana ;)"
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] 360° VR test render of Ellie. She looks great in VR ;)"
-msgstr ""
+msgstr "[mschoice] render de prueba VR de 360° de Ellie. Se ve muy bien en VR ;)"
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] An early render of Ellie in a cake shop. I thought about adding a scene like that in the game, but didn't find an opportunity yet."
-msgstr ""
+msgstr "[mschoice] Una render temprano de Ellie en una pastelería. Pensé en agregar una escena como esa en el juego, pero no encontré una oportunidad."
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] A test render I made for one of the in-game scenes, I thought it looked really cute, so I let it run for a while. There's some dirt on her mouth from the scene I was working on previously to this one. One of the reasons why test render are important."
-msgstr ""
+msgstr "[mschoice] Un render de prueba que hice para una de las escenas del juego, pensé que se veía muy lindo, así que lo dejé correr por un tiempo. Hay algo de suciedad en su boca desde la escena en la que estaba trabajando anteriormente hasta esta. Una de las razones por las que el renderizado de prueba es importante."
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] A special render I made for the winner of a contest on the f95zone forum."
-msgstr ""
+msgstr "[mschoice] Un render especial que hice para el ganador de un concurso en el foro f95zone."
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] A test render I made while working on the scene where MC follows \"Katie\" to the old \"dopehead corner\". I was testing a few new camera and tone mapping styles I've learned.\n"
 "They look great imo, but are too different from the rest of the game, so I decided against using it in production."
-msgstr ""
+msgstr "[mschoice] Un render de prueba que hice mientras trabajaba en la escena donde MC sigue a \"Katie\" a la vieja \"esquina de dopehead\". Estaba probando algunos nuevos estilos de mapeo de cámaras y tonos que aprendí.\n"
+"Se ven muy bien imo, pero son demasiado diferentes del resto del juego, así que decidí no usarlo en producción."
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] A special render I made for the invitation screen of a specific discord server ;)"
-msgstr ""
+msgstr "[mschoice] Un render especial que hice para la pantalla de invitación de un servidor de discord específico ;)"
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] A special render I made after getting a few requests for a Kat render in the style I was testing previously."
-msgstr ""
+msgstr "[mschoice] Un render especial que hice después de recibir algunas solicitudes para un render Kat en el estilo que estaba probando anteriormente."
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] A special render I made for fun. Hanna is one of my personal favorites in the game and I wanted to show a bit of her naughty side ;)"
-msgstr ""
+msgstr "[mschoice] Un render especial que hice por diversión. Hanna es una de mis favoritas en el juego y quería mostrar un poco de su lado travieso ;)"
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] One of the earliest renders of Ellie :3"
-msgstr ""
+msgstr "[mschoice] Uno de los primeros renders de Ellie :3"
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] Like the previous render I made this one while thinking of some scenes in the early stages in development. The scene itself has changed a lot since then (including Ellie), but the main idea is still there: Ellie sends MC a photo made with her new phone."
-msgstr ""
+msgstr "[mschoice] Al igual que el render anterior, hice este mientras pensaba en algunas escenas en las primeras etapas de desarrollo. La escena en sí ha cambiado mucho desde entonces (incluida Ellie), pero la idea principal sigue ahí: Ellie le envía a MC una foto hecha con su nuevo teléfono."
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] A render that didn't make it into the game because I made an error with the camera position and only noticed it after the render was finished."
-msgstr ""
+msgstr "[mschoice] Un rénder que no llegó al juego porque cometí un error con la posición de la cámara y solo lo noté después de que el rénder estaba terminado."
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] A random render I made after getting inspired by a painted image by the artist \"wlop\" on deviantart. The model is basically Ellie, I used her shape, but different hair and different skin."
-msgstr ""
+msgstr "[mschoice] Un render aleatorio que hice después de inspirarme en una imagen pintada por el artista \"wlop\" en deviantart. La modelo es básicamente Ellie, utilicé su forma, pero diferente cabello y diferente piel."
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] A render I made for a contest a loooooong while ago. Not my best tbh, but hey, it was fun^^"
-msgstr ""
+msgstr "[mschoice] Un render que hice para un concurso hace muuuuuuuucho tiempo. No es el mejor, pero bueno, fue divertido^^"
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] The very first version of Jada's mom. Pose and background are just random and not really related to the game (I always try to make render look kinda special, even if I'm just testing stuff)."
-msgstr ""
+msgstr "[mschoice] La primera versión de la madre de Jada. La pose y el fondo son aleatorios y no están realmente relacionados con el juego (siempre trato de hacer que el render se vea un poco especial, incluso si solo estoy probando cosas)."
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] One of my patreon/subscribestar special render, the topic was \"preggo Ellie\" *shrug*."
-msgstr ""
+msgstr "[mschoice] Uno de mis renders especiales de patreon/subscribestar, el tema fue \"preggo Ellie\" *encogerse de hombros*."
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] Another patreon/ss special render. I really like this one, so I thought I'd include it here as well. There's a little non-canon story behind this. If you're wondering: Ellie and Jada are using a small tricycle for kids to search for MC^^"
-msgstr ""
+msgstr "[mschoice] Otro render especial de patreon/ss. Me gusta mucho este, así que pensé que también lo incluiría aquí. Hay una pequeña historia no canónica detrás de esto. Si te estás preguntando: Ellie y Jada están usando un pequeño triciclo de niños para buscar al MC^^"
 
 # XX## game/gallery.rpy:113
 msgid "[mschoice] Unused render from the scene where Kat comes in our room to ask us some questions. I used a \"pussyshot\" instead ;)"
-msgstr ""
+msgstr "[mschoice] Render no utilizado de la escena en la que Kat entra en nuestra habitación para hacernos algunas preguntas. Usé un \"pussyshot\" en lugar ;)"
 
 # XX## game/gallery.rpy:154
 msgid "[mschoice] Scenes"
-msgstr ""
+msgstr "[mschoice] Escenas"
 
 # XX## game/gallery.rpy:155
 msgid "[mschoice] Images"
-msgstr ""
+msgstr "[mschoice] Imágenes"
 
 # XX## game/gallery.rpy:157
 msgid "[mschoice] Special"
-msgstr ""
+msgstr "[mschoice] Especial"
 
 # XX## game/gallery.rpy:166
 msgid "[mschoice] Male"
-msgstr ""
+msgstr "[mschoice] Hombre"
 
 # XX## game/gallery.rpy:167
 msgid "[mschoice] Female"
-msgstr ""
+msgstr "[mschoice] Mujer"
 
