@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-26 21:16\n"
+"PO-Revision-Date: 2022-05-03 20:31\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_e.rpy:4 ## translate crowdin elliePCRoomSleepDay0_28f54d83:
 msgid "[pcthink] What?! [e]?"
@@ -1658,7 +1658,7 @@ msgstr "[pcthink] Immagino che non farò [m] nessuna domanda oggi..."
 
 # game/events_e.rpy:810 ## translate crowdin d7_evening_e_b1abe6d7:
 msgid "[pc] You really like to assault me out of nowhere, don't you, [e]?"
-msgstr ""
+msgstr "[pc] Ti piace davvero aggredirmi dal nulla, vero, [e]?"
 
 # game/events_e.rpy:811 ## translate crowdin d7_evening_e_8de614b1:
 msgid "[e] Khehe!"
