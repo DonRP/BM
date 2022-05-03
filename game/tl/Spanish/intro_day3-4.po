@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-04-04 01:57\n"
+"PO-Revision-Date: 2022-05-03 03:03\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day3-4.rpy:3 ## translate crowdin intro_day3_8046137e:
 msgid "[n] Next morning in the motel [withdissolve]"
@@ -118,7 +118,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:42 ## translate crowdin intro_day3_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:44 ## translate crowdin intro_day3_d40b86d0:
 msgid "[n] Hours later [withdissolve]"
@@ -138,7 +138,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:52 ## translate crowdin intro_day3_a69377ef_1:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:53 ## translate crowdin intro_day3_bb39f960_3:
 msgid "[n] *rumble*{w=0.5}{nw} [withvpunch]"
@@ -178,7 +178,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:65 ## translate crowdin intro_day3_719102df:
 msgid "[n] A bit later [withdissolve]"
-msgstr ""
+msgstr "[n] Un poco más tarde [withdissolve]"
 
 # game/intro_day3-4.rpy:69 ## translate crowdin intro_day3_a897bc95:
 msgid "Waitress\" \"Here you go."
@@ -210,7 +210,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:79 ## translate crowdin intro_day3_a69377ef_2:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:80 ## translate crowdin intro_day3_664a2e64:
 msgid "[pcthink] Damn I need an apartment..."
@@ -258,7 +258,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:94 ## translate crowdin intro_day3_a69377ef_3:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:96 ## translate crowdin intro_day3_7e6d6fdd:
 msgid "[m] God, [pc], you look awful. What happened?"
@@ -266,7 +266,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:97 ## translate crowdin intro_day3_a69377ef_4:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:98 ## translate crowdin intro_day3_a9db3efa:
 msgid "[pc] Bad night..."
@@ -286,7 +286,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:105 ## translate crowdin intro_day3_a69377ef_5:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:106 ## translate crowdin intro_day3_a08e5c45:
 msgid "[pcthink] Shit!"
@@ -310,7 +310,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:111 ## translate crowdin intro_day3_fef852ff:
 msgid "[pc] Yeah..."
-msgstr ""
+msgstr "[pc] sí..."
 
 # game/intro_day3-4.rpy:113 ## translate crowdin intro_day3_4fa60740:
 msgid "[m] Of course! Do you want to take it?"
@@ -334,7 +334,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:121 ## translate crowdin intro_day3_a69377ef_6:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:122 ## translate crowdin intro_day3_a08e5c45_1:
 msgid "[pcthink] Shit!"
@@ -370,7 +370,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:130 ## translate crowdin intro_day3_a69377ef_7:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:131 ## translate crowdin intro_day3_975a8e7f:
 msgid "[m] I wouldn't mind if you'd take it for a few days..."
@@ -422,7 +422,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:146 ## translate crowdin intro_day3_fef852ff_1:
 msgid "[pc] Yeah..."
-msgstr ""
+msgstr "[pc] sí..."
 
 # game/intro_day3-4.rpy:147 ## translate crowdin intro_day3_de7e8a28:
 msgid "[m] Okay, great! Do you need help with anything? Do you want me to pick you up?"
@@ -450,7 +450,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:155 ## translate crowdin intro_day3_a69377ef_8:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:156 ## translate crowdin intro_day3_70b96ab6:
 msgid "[pcthink] God, am I really going to move in there again?"
@@ -486,7 +486,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:171 ## translate crowdin intro_day3_ca581621:
 msgid "[pcthink] What the..."
-msgstr ""
+msgstr "[pcthink] Pero que..."
 
 # game/intro_day3-4.rpy:172 ## translate crowdin intro_day3_c3d283f7:
 msgid "[pc] Uh... thanks."
@@ -566,7 +566,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:205 ## translate crowdin intro_day3_a69377ef_9:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:208 ## translate crowdin intro_day3_b51a46fe:
 msgid "[n] You follow her to the living room and take a seat."
@@ -598,7 +598,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:216 ## translate crowdin intro_day3_a69377ef_10:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:217 ## translate crowdin intro_day3_53451717:
 msgid "[pc] Wow, that's... fucked..."
@@ -614,7 +614,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:221 ## translate crowdin intro_day3_a69377ef_11:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:222 ## translate crowdin intro_day3_2478678e:
 msgid "[pc] I thought she's a totally normal girl..."
@@ -654,7 +654,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:234 ## translate crowdin intro_day3_a69377ef_12:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:235 ## translate crowdin intro_day3_4a66bb26:
 msgid "[pc] Damn, if I had known..."
@@ -682,7 +682,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:242 ## translate crowdin intro_day3_a69377ef_13:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:243 ## translate crowdin intro_day3_0744fc33:
 msgid "[pc] I can't believe this. There must be something I can do..."
@@ -702,7 +702,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:250 ## translate crowdin intro_day3_a69377ef_14:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:251 ## translate crowdin intro_day3_e612037c:
 msgid "[m] ..."
@@ -802,7 +802,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:283 ## translate crowdin intro_day3_a69377ef_15:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/intro_day3-4.rpy:284 ## translate crowdin intro_day3_77dc25eb:
 msgid "[pcthink] ...what happened to [e] gives me the creeps..."
