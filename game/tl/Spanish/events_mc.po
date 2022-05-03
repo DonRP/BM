@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-04-04 01:57\n"
+"PO-Revision-Date: 2022-05-03 03:03\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_mc.rpy:5 ## translate crowdin day0Morning_65a592f9:
 msgid "[pc] YAAAHHWN..."
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/events_mc.rpy:20 ## translate crowdin day0Morning_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:21 ## translate crowdin day0Morning_f92b90eb:
 msgid "[pcthink] ...back home after all these years..."
@@ -74,7 +74,7 @@ msgstr ""
 
 # game/events_mc.rpy:32 ## translate crowdin childRoomDay0_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:33 ## translate crowdin childRoomDay0_eac0ec9f:
 msgid "[pcthink] Maybe she is in the bathroom?"
@@ -102,7 +102,7 @@ msgstr ""
 
 # game/events_mc.rpy:51 ## translate crowdin kitchenBreakfastDay0_719102df:
 msgid "[n] A bit later [withdissolve]"
-msgstr ""
+msgstr "[n] Un poco más tarde [withdissolve]"
 
 # game/events_mc.rpy:55 ## translate crowdin kitchenBreakfastDay0_024f1747:
 msgid "[m] Oh, so you only need to go to work every few days?"
@@ -166,7 +166,7 @@ msgstr ""
 
 # game/events_mc.rpy:75 ## translate crowdin kitchenBreakfastDay0_72a33094:
 msgid "[e] ..."
-msgstr ""
+msgstr "[e] ..."
 
 # game/events_mc.rpy:76 ## translate crowdin kitchenBreakfastDay0_2ce091cd:
 msgid "[pcthink] Damn, she doesn't talk. I keep forgetting that..."
@@ -174,11 +174,11 @@ msgstr ""
 
 # game/events_mc.rpy:77 ## translate crowdin kitchenBreakfastDay0_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:78 ## translate crowdin kitchenBreakfastDay0_72a33094_1:
 msgid "[e] ..."
-msgstr ""
+msgstr "[e] ..."
 
 # game/events_mc.rpy:79 ## translate crowdin kitchenBreakfastDay0_8b857d1c:
 msgid "[pc] Uh, hey I'm sorry I didn't recognize you back in the city..."
@@ -186,7 +186,7 @@ msgstr ""
 
 # game/events_mc.rpy:80 ## translate crowdin kitchenBreakfastDay0_72a33094_2:
 msgid "[e] ..."
-msgstr ""
+msgstr "[e] ..."
 
 # game/events_mc.rpy:81 ## translate crowdin kitchenBreakfastDay0_8096f560:
 msgid "[pcthink] This is awkward..."
@@ -258,7 +258,7 @@ msgstr ""
 
 # game/events_mc.rpy:106 ## translate crowdin kitchenBreakfastDay0_39d36142:
 msgid "[pc] Yeah, sure."
-msgstr ""
+msgstr "[pc] sí, claro."
 
 # game/events_mc.rpy:107 ## translate crowdin kitchenBreakfastDay0_f03b848b:
 msgid "[pcthink] Damn, [e] looks like she's trying to seduce someone..."
@@ -310,7 +310,7 @@ msgstr ""
 
 # game/events_mc.rpy:128 ## translate crowdin pcDream1_72087c33:
 msgid "[pcthink] Uhh..."
-msgstr ""
+msgstr "[pcthink] Uhh..."
 
 # game/events_mc.rpy:129 ## translate crowdin pcDream1_f7cb6db2:
 msgid "[pcthink] Shit, I can't remember..."
@@ -318,7 +318,7 @@ msgstr ""
 
 # game/events_mc.rpy:130 ## translate crowdin pcDream1_f0cac90d:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:131 ## translate crowdin pcDream1_b45b7ed4:
 msgid "[pcthink] ...and [m]... did she really change?"
@@ -394,11 +394,11 @@ msgstr ""
 
 # game/events_mc.rpy:154 ## translate crowdin pcDream1_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:157 ## translate crowdin pcDream1_e2ee86ba:
 msgid "[pc] Uhh..."
-msgstr ""
+msgstr "[pc] Uhh..."
 
 # game/events_mc.rpy:158 ## translate crowdin pcDream1_f4d55998:
 msgid "[pcthink] Shit... the memories keep coming back..."
@@ -410,7 +410,7 @@ msgstr ""
 
 # game/events_mc.rpy:161 ## translate crowdin pcDream1_f0cac90d_1:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:162 ## translate crowdin pcDream1_e4520362:
 msgid "[pcthink] Damn, it really doesn't help to wallow in self-pity..."
@@ -434,7 +434,7 @@ msgstr ""
 
 # game/events_mc.rpy:176 ## translate crowdin wakeupDay1_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:178 ## translate crowdin wakeupDay1_dabeb1e2:
 msgid "[n] *Knock* *Knock* *Knock*"
@@ -562,7 +562,7 @@ msgstr ""
 
 # game/events_mc.rpy:238 ## translate crowdin wakeupDay1_a69377ef_1:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:239 ## translate crowdin wakeupDay1_c7fd02d6:
 msgid "[pcthink] Maybe I should look for an apartment again..."
@@ -570,7 +570,7 @@ msgstr ""
 
 # game/events_mc.rpy:240 ## translate crowdin wakeupDay1_a69377ef_2:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:241 ## translate crowdin wakeupDay1_088ca266:
 msgid "[pcthink] It's nice to see [e] again, but I don't want to stay here with [m]..."
@@ -578,7 +578,7 @@ msgstr ""
 
 # game/events_mc.rpy:242 ## translate crowdin wakeupDay1_a69377ef_3:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:243 ## translate crowdin wakeupDay1_15ac3a2e:
 msgid "[pcthink] I can still visit them from time to time..."
@@ -586,7 +586,7 @@ msgstr ""
 
 # game/events_mc.rpy:244 ## translate crowdin wakeupDay1_a69377ef_4:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:245 ## translate crowdin wakeupDay1_f22ad3c6_1:
 msgid "[pcthink] Damn it..."
@@ -602,7 +602,7 @@ msgstr ""
 
 # game/events_mc.rpy:248 ## translate crowdin wakeupDay1_a69377ef_5:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:252 ## translate crowdin wakeupDay1_c2505a61:
 msgid "[n] You go over to the living room and zap around the channels..."
@@ -638,7 +638,7 @@ msgstr ""
 
 # game/events_mc.rpy:270 ## translate crowdin dinnerDay2_3c8e055f:
 msgid "[m] I..."
-msgstr ""
+msgstr "[m] Yo..."
 
 # game/events_mc.rpy:271 ## translate crowdin dinnerDay2_e612037c:
 msgid "[m] ..."
@@ -714,7 +714,7 @@ msgstr ""
 
 # game/events_mc.rpy:304 ## translate crowdin stuffArrivesDay3_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:305 ## translate crowdin stuffArrivesDay3_869ad9b7:
 msgid "[pcthink] Wha... shit, the door. It must be my stuff being delivered!"
@@ -726,7 +726,7 @@ msgstr ""
 
 # game/events_mc.rpy:312 ## translate crowdin getEfromSchool1_719102df:
 msgid "[n] A bit later [withdissolve]"
-msgstr ""
+msgstr "[n] Un poco más tarde [withdissolve]"
 
 # game/events_mc.rpy:315 ## translate crowdin getEfromSchool1_88129d62:
 msgid "[pcthink] Alright, there is the school..."
@@ -774,7 +774,7 @@ msgstr ""
 
 # game/events_mc.rpy:331 ## translate crowdin getEfromSchool1_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:333 ## translate crowdin getEfromSchool1_4071f137:
 msgid "Cop || What?! Surprised?"
@@ -938,7 +938,7 @@ msgstr ""
 
 # game/events_mc.rpy:395 ## translate crowdin getEfromSchool1_fef852ff:
 msgid "[pc] Yeah..."
-msgstr ""
+msgstr "[pc] sí..."
 
 # game/events_mc.rpy:397 ## translate crowdin getEfromSchool1_1bcb5e23:
 msgid "[n] You take the two back home."
@@ -954,7 +954,7 @@ msgstr ""
 
 # game/events_mc.rpy:410 ## translate crowdin afterGetEFromSchool_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:411 ## translate crowdin afterGetEFromSchool_012903ad:
 msgid "[pcthink] Alright, I guess it's time to unpack the rest of my stuff."
@@ -1070,7 +1070,7 @@ msgstr ""
 
 # game/events_mc.rpy:465 ## translate crowdin afterGetEFromSchool_ca581621:
 msgid "[pcthink] What the..."
-msgstr ""
+msgstr "[pcthink] Pero que..."
 
 # game/events_mc.rpy:466 ## translate crowdin afterGetEFromSchool_21f579ff:
 msgid "[pc] Hey what are you doing with my underwear?"
@@ -1126,7 +1126,7 @@ msgstr ""
 
 # game/events_mc.rpy:487 ## translate crowdin afterGetEFromSchool_ca581621_1:
 msgid "[pcthink] What the..."
-msgstr ""
+msgstr "[pcthink] Pero que..."
 
 # game/events_mc.rpy:488 ## translate crowdin afterGetEFromSchool_6c63a394:
 msgid "[j] Come on [e], you've seen them a lot too, don't act so prudishly..."
@@ -1250,7 +1250,7 @@ msgstr ""
 
 # game/events_mc.rpy:539 ## translate crowdin haremChoice_01b39e2c:
 msgid "[e] Khehehe..."
-msgstr ""
+msgstr "[e] Khehehe..."
 
 # game/events_mc.rpy:547 ## translate crowdin haremChoice_1659dccf:
 msgid "[pcthink] Damn, did [j] just stare at [m]s tits?!"
@@ -1350,15 +1350,15 @@ msgstr ""
 
 # game/events_mc.rpy:603 ## translate crowdin pcroomnight3_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:604 ## translate crowdin pcroomnight3_b9b155fe:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:605 ## translate crowdin pcroomnight3_b9b155fe_1:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:607 ## translate crowdin pcroomnight3_1a88aff7:
 msgid "[m] {size=-10}[e]? What are you doing up so late? Trying to sneak into your [bs]'s bed again?{/size}"
@@ -1394,7 +1394,7 @@ msgstr ""
 
 # game/events_mc.rpy:615 ## translate crowdin pcroomnight3_f0cac90d:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:616 ## translate crowdin pcroomnight3_a3d517f0:
 msgid "[pcthink] Well... I guess I'm going to sleep alone tonight..."
@@ -1410,7 +1410,7 @@ msgstr ""
 
 # game/events_mc.rpy:623 ## translate crowdin pcroomnight3_a69377ef_1:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:624 ## translate crowdin pcroomnight3_a2d15ea3:
 msgid "[m] Just what the hell is wrong with you? Why must you constantly embarrass me?"
@@ -1422,7 +1422,7 @@ msgstr ""
 
 # game/events_mc.rpy:626 ## translate crowdin pcroomnight3_a69377ef_2:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:627 ## translate crowdin pcroomnight3_6095f49c:
 msgid "[m] Oh I guess that's a bit too much to ask with a Dad like yours..."
@@ -1434,7 +1434,7 @@ msgstr ""
 
 # game/events_mc.rpy:629 ## translate crowdin pcroomnight3_a69377ef_3:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:630 ## translate crowdin pcroomnight3_151099dc:
 msgid "[m] DON'T JUST STAND THERE LIKE THE FOOL YOU ARE, YOU'RE DRIPPING BLOOD ALL OVER THE FLOOR, GO TO THE BATHROOM AND WASH YOUR FACE!"
@@ -1442,7 +1442,7 @@ msgstr ""
 
 # game/events_mc.rpy:631 ## translate crowdin pcroomnight3_a69377ef_4:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:632 ## translate crowdin pcroomnight3_28aa1485:
 msgid "[m] ...and don't forget to wipe the blood off the floor when you're done..."
@@ -1450,7 +1450,7 @@ msgstr ""
 
 # game/events_mc.rpy:633 ## translate crowdin pcroomnight3_a69377ef_5:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:642 ## translate crowdin wakeupDay3_fe60ed33:
 msgid "[pcthink] Uhh... not again..."
@@ -1458,7 +1458,7 @@ msgstr ""
 
 # game/events_mc.rpy:644 ## translate crowdin wakeupDay3_f0cac90d:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:645 ## translate crowdin wakeupDay3_1eec5249:
 msgid "[pcthink] ...she didn't even care I was hurt..."
@@ -1470,7 +1470,7 @@ msgstr ""
 
 # game/events_mc.rpy:647 ## translate crowdin wakeupDay3_f0cac90d_1:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:648 ## translate crowdin wakeupDay3_27d07940:
 msgid "[pcthink] At least [e] was worried about me..."
@@ -1494,7 +1494,7 @@ msgstr ""
 
 # game/events_mc.rpy:653 ## translate crowdin wakeupDay3_f0cac90d_2:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:654 ## translate crowdin wakeupDay3_d1861303:
 msgid "[pcthink] Well I better find the perfect present for her birthday. I have a lot to make up for and only a few hours time."
@@ -1690,7 +1690,7 @@ msgstr ""
 
 # game/events_mc.rpy:729 ## translate crowdin pcCityDay3_f0cac90d:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:730 ## translate crowdin pcCityDay3_878f0222:
 msgid "[pcthink] Hum... looked better from far away."
@@ -1698,7 +1698,7 @@ msgstr ""
 
 # game/events_mc.rpy:731 ## translate crowdin pcCityDay3_f0cac90d_1:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:732 ## translate crowdin pcCityDay3_36bb9d3d:
 msgid "[pcthink] No... this won't do as well..."
@@ -1706,7 +1706,7 @@ msgstr ""
 
 # game/events_mc.rpy:733 ## translate crowdin pcCityDay3_f0cac90d_2:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:734 ## translate crowdin pcCityDay3_038399c8:
 msgid "[pcthink] No..."
@@ -1722,7 +1722,7 @@ msgstr ""
 
 # game/events_mc.rpy:737 ## translate crowdin pcCityDay3_f0cac90d_3:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:738 ## translate crowdin pcCityDay3_a0c75c22:
 msgid "[pcthink] Ugh... who buys this shit?"
@@ -1730,7 +1730,7 @@ msgstr ""
 
 # game/events_mc.rpy:739 ## translate crowdin pcCityDay3_f0cac90d_4:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:740 ## translate crowdin pcCityDay3_7fc028a8:
 msgid "[n] Several shops and after what feels like hours you start to get exhausted."
@@ -2102,7 +2102,7 @@ msgstr ""
 
 # game/events_mc.rpy:877 ## translate crowdin ebd_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:879 ## translate crowdin ebd_b7bc8b83:
 msgid "[n] A little bit later. [withdissolve]"
@@ -2114,7 +2114,7 @@ msgstr ""
 
 # game/events_mc.rpy:885 ## translate crowdin ebd_c417e350:
 msgid "[pc] Yeah."
-msgstr ""
+msgstr "[pc] sí."
 
 # game/events_mc.rpy:886 ## translate crowdin ebd_f5b6ff60:
 msgid "[j] Crazy..."
@@ -2146,7 +2146,7 @@ msgstr ""
 
 # game/events_mc.rpy:898 ## translate crowdin ebd_72a33094:
 msgid "[e] ..."
-msgstr ""
+msgstr "[e] ..."
 
 # game/events_mc.rpy:899 ## translate crowdin ebd_e612037c:
 msgid "[m] ..."
@@ -2154,7 +2154,7 @@ msgstr ""
 
 # game/events_mc.rpy:900 ## translate crowdin ebd_a69377ef_1:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:902 ## translate crowdin ebd_f0a677d2:
 msgid "[j] Hey, say something [pc]!"
@@ -2170,7 +2170,7 @@ msgstr ""
 
 # game/events_mc.rpy:906 ## translate crowdin ebd_72a33094_1:
 msgid "[e] ..."
-msgstr ""
+msgstr "[e] ..."
 
 # game/events_mc.rpy:907 ## translate crowdin ebd_bb3c8ee6:
 msgid "[m] Well then, why don't you come over here and sit down with us, [e]..."
@@ -2274,7 +2274,7 @@ msgstr ""
 
 # game/events_mc.rpy:948 ## translate crowdin ebd_06a6d364:
 msgid "[pc] Whoa!"
-msgstr ""
+msgstr "[pc] ¡Vaya!"
 
 # game/events_mc.rpy:949 ## translate crowdin ebd_0c127202:
 msgid "[m] Whups..."
@@ -2354,7 +2354,7 @@ msgstr ""
 
 # game/events_mc.rpy:976 ## translate crowdin ebd2_fef852ff:
 msgid "[pc] Yeah..."
-msgstr ""
+msgstr "[pc] sí..."
 
 # game/events_mc.rpy:977 ## translate crowdin ebd2_d4ffef5b:
 msgid "[j] Great! Now let's start the {i}real{/i} party, right [e]? Hehe..."
@@ -2362,7 +2362,7 @@ msgstr ""
 
 # game/events_mc.rpy:979 ## translate crowdin ebd2_72a33094:
 msgid "[e] ..."
-msgstr ""
+msgstr "[e] ..."
 
 # game/events_mc.rpy:980 ## translate crowdin ebd2_0ab94a3c:
 msgid "[j] [e]?"
@@ -2374,7 +2374,7 @@ msgstr ""
 
 # game/events_mc.rpy:984 ## translate crowdin ebd2_72a33094_1:
 msgid "[e] ..."
-msgstr ""
+msgstr "[e] ..."
 
 # game/events_mc.rpy:985 ## translate crowdin ebd2_e23650ca:
 msgid "[j] Awww damn it..."
@@ -2434,7 +2434,7 @@ msgstr ""
 
 # game/events_mc.rpy:1003 ## translate crowdin ebd2_5916f987:
 msgid "[e] Hnn..."
-msgstr ""
+msgstr "[e] Hnn..."
 
 # game/events_mc.rpy:1010 ## translate crowdin ebdEnd_017fb70c:
 msgid "[pcthink] Well, back home..."
@@ -2494,7 +2494,7 @@ msgstr ""
 
 # game/events_mc.rpy:1034 ## translate crowdin ebdEnd_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1035 ## translate crowdin ebdEnd_c52114ef:
 msgid "[pc] Oh well... good night [e]..."
@@ -2506,7 +2506,7 @@ msgstr ""
 
 # game/events_mc.rpy:1049 ## translate crowdin afterEBD_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1052 ## translate crowdin afterEBD_f12901fd:
 msgid "[pcthink] [e]..."
@@ -2530,7 +2530,7 @@ msgstr ""
 
 # game/events_mc.rpy:1057 ## translate crowdin afterEBD_f0cac90d:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:1058 ## translate crowdin afterEBD_7e43320d:
 msgid "[pcthink] ...and why doesn't she talk?"
@@ -2894,7 +2894,7 @@ msgstr ""
 
 # game/events_mc.rpy:1188 ## translate crowdin officeFirst_26b08e4a:
 msgid "[pc] Fuck!"
-msgstr ""
+msgstr "[pc] Mierda!"
 
 # game/events_mc.rpy:1191 ## translate crowdin officeFirst_228fb161:
 msgid "Cop || YOU!"
@@ -2946,7 +2946,7 @@ msgstr ""
 
 # game/events_mc.rpy:1211 ## translate crowdin officeFirst_f0cac90d:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:1213 ## translate crowdin officeFirst_53fca454:
 msgid "[pcthink] How many times have I seen this cell from the inside?"
@@ -2958,7 +2958,7 @@ msgstr ""
 
 # game/events_mc.rpy:1216 ## translate crowdin officeFirst_f0cac90d_1:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:1218 ## translate crowdin officeFirst_2d9183c8:
 msgid "[pcthink] Especially not in wet clothes..."
@@ -3262,7 +3262,7 @@ msgstr ""
 
 # game/events_mc.rpy:1328 ## translate crowdin dinnerDay4Home_72a33094:
 msgid "[e] ..."
-msgstr ""
+msgstr "[e] ..."
 
 # game/events_mc.rpy:1329 ## translate crowdin dinnerDay4Home_f423bdd0:
 msgid "[pcthink] Cute..."
@@ -3278,7 +3278,7 @@ msgstr ""
 
 # game/events_mc.rpy:1337 ## translate crowdin homeday4night_f0cac90d:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:1338 ## translate crowdin homeday4night_815350c3:
 msgid "[pcthink] ...maybe tomorrow..."
@@ -3286,7 +3286,7 @@ msgstr ""
 
 # game/events_mc.rpy:1339 ## translate crowdin homeday4night_f0cac90d_1:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:1340 ## translate crowdin homeday4night_9c027654:
 msgid "[pcthink] Hum... it's really late..."
@@ -3298,7 +3298,7 @@ msgstr ""
 
 # game/events_mc.rpy:1342 ## translate crowdin homeday4night_f0cac90d_2:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:1344 ## translate crowdin homeday4night_eb300fc6:
 msgid "[pcthink] I wonder if she's embarrassed about what happened in her room earlier today..."
@@ -3318,7 +3318,7 @@ msgstr ""
 
 # game/events_mc.rpy:1350 ## translate crowdin homeday4night_f0cac90d_3:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:1352 ## translate crowdin homeday4night_5b73bbbd:
 msgid "[pcthink] Anyway, I better get some sleep..."
@@ -3370,7 +3370,7 @@ msgstr ""
 
 # game/events_mc.rpy:1376 ## translate crowdin d5morning_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1377 ## translate crowdin d5morning_ebe882ba:
 msgid "[pcthink] Damn dreams..."
@@ -3402,7 +3402,7 @@ msgstr ""
 
 # game/events_mc.rpy:1386 ## translate crowdin d5morning_f0cac90d:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:1388 ## translate crowdin d5morning_9f541c54:
 msgid "[pcthink] [e] didn't come over..."
@@ -3418,7 +3418,7 @@ msgstr ""
 
 # game/events_mc.rpy:1393 ## translate crowdin d5morning_a69377ef_1:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1394 ## translate crowdin d5morning_e4a69cb1:
 msgid "[pcthink] [e] didn't look at me once yet..."
@@ -3426,7 +3426,7 @@ msgstr ""
 
 # game/events_mc.rpy:1395 ## translate crowdin d5morning_72a33094:
 msgid "[e] ..."
-msgstr ""
+msgstr "[e] ..."
 
 # game/events_mc.rpy:1396 ## translate crowdin d5morning_367e6ba5:
 msgid "[pc] Is everything alright, [e]?"
@@ -3466,7 +3466,7 @@ msgstr ""
 
 # game/events_mc.rpy:1415 ## translate crowdin d5morning_06a6d364:
 msgid "[pc] Whoa!"
-msgstr ""
+msgstr "[pc] ¡Vaya!"
 
 # game/events_mc.rpy:1418 ## translate crowdin d5morning_58feae78:
 msgid "[pcthink] Wow, [e]..."
@@ -3474,7 +3474,7 @@ msgstr ""
 
 # game/events_mc.rpy:1420 ## translate crowdin d5morning_72a33094_1:
 msgid "[e] ..."
-msgstr ""
+msgstr "[e] ..."
 
 # game/events_mc.rpy:1421 ## translate crowdin d5morning_4cd516c4:
 msgid "[pc] Heh... you should probably go, or you'll be late... We can talk later, okay?"
@@ -3558,7 +3558,7 @@ msgstr ""
 
 # game/events_mc.rpy:1467 ## translate crowdin porn_vr_4_90a099af:
 msgid "[pcthink] Fuck..."
-msgstr ""
+msgstr "[pcthink] Mierda..."
 
 # game/events_mc.rpy:1468 ## translate crowdin porn_vr_4_a14752ab:
 msgid "[pcthink] ...that was... unsatisfying..."
@@ -3566,7 +3566,7 @@ msgstr ""
 
 # game/events_mc.rpy:1470 ## translate crowdin porn_vr_4_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1471 ## translate crowdin porn_vr_4_4bcfd45d:
 msgid "[pcthink] Hum... shit, isn't it dinner time already?"
@@ -3594,7 +3594,7 @@ msgstr ""
 
 # game/events_mc.rpy:1487 ## translate crowdin d6morning_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1488 ## translate crowdin d6morning_ca66ede7:
 msgid "[pcthink] [e] is gone again..."
@@ -3602,7 +3602,7 @@ msgstr ""
 
 # game/events_mc.rpy:1490 ## translate crowdin d6morning_a69377ef_1:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1492 ## translate crowdin d6morning_2edac4fd:
 msgid "[pc] Wait!"
@@ -3618,7 +3618,7 @@ msgstr ""
 
 # game/events_mc.rpy:1495 ## translate crowdin d6morning_a69377ef_2:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1496 ## translate crowdin d6morning_4cc63f49:
 msgid "[pcthink] T-that's impossible, she's my little sister..."
@@ -3690,7 +3690,7 @@ msgstr ""
 
 # game/events_mc.rpy:1527 ## translate crowdin d6morning_a69377ef_3:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1529 ## translate crowdin d6morning_227eb657:
 msgid "[h] Yes?"
@@ -3790,7 +3790,7 @@ msgstr ""
 
 # game/events_mc.rpy:1571 ## translate crowdin d6_backhome_ca581621:
 msgid "[pcthink] What the..."
-msgstr ""
+msgstr "[pcthink] Pero que..."
 
 # game/events_mc.rpy:1572 ## translate crowdin d6_backhome_0e861919:
 msgid "[pcthink] Did I...?"
@@ -3818,7 +3818,7 @@ msgstr ""
 
 # game/events_mc.rpy:1578 ## translate crowdin d6_backhome_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1594 ## translate crowdin d7_wakeup_8bf6dc88:
 msgid "[n] *Knock* *Knock*"
@@ -3994,7 +3994,7 @@ msgstr ""
 
 # game/events_mc.rpy:1668 ## translate crowdin d7_wakeup_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1669 ## translate crowdin d7_wakeup_7e3552b4:
 msgid "[j] Hehe..."
@@ -4042,7 +4042,7 @@ msgstr ""
 
 # game/events_mc.rpy:1688 ## translate crowdin d7_wakeup_a69377ef_1:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1689 ## translate crowdin d7_wakeup_fdacea98:
 msgid "[pc] Damn, I hope [m] doesn't see her like this..."
@@ -4118,7 +4118,7 @@ msgstr ""
 
 # game/events_mc.rpy:1726 ## translate crowdin d7_breakfast_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1727 ## translate crowdin d7_breakfast_e612037c:
 msgid "[m] ..."
@@ -4142,7 +4142,7 @@ msgstr ""
 
 # game/events_mc.rpy:1733 ## translate crowdin d7_breakfast_a69377ef_1:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1734 ## translate crowdin d7_breakfast_bb8fff34:
 msgid "[pc] So, uh..."
@@ -4258,7 +4258,7 @@ msgstr ""
 
 # game/events_mc.rpy:1786 ## translate crowdin d7_breakfast_f0cac90d:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:1787 ## translate crowdin d7_breakfast_324d7900:
 msgid "[pcthink] Hum, I guess I should get some work done..."
@@ -4270,19 +4270,19 @@ msgstr ""
 
 # game/events_mc.rpy:1791 ## translate crowdin d7_breakfast_a69377ef_2:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1792 ## translate crowdin d7_breakfast_b9b155fe:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:1793 ## translate crowdin d7_breakfast_b9b155fe_1:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:1794 ## translate crowdin d7_breakfast_b9b155fe_2:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:1795 ## translate crowdin d7_breakfast_6cbcbb85:
 msgid "[pcthink] Naaaaaaaaw... I can't think... not a single line of code done..."
@@ -4298,7 +4298,7 @@ msgstr ""
 
 # game/events_mc.rpy:1798 ## translate crowdin d7_breakfast_a69377ef_3:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1799 ## translate crowdin d7_breakfast_dadf699b:
 msgid "[pcthink] I'll go for a walk..."
@@ -4314,7 +4314,7 @@ msgstr ""
 
 # game/events_mc.rpy:1807 ## translate crowdin d7_evening_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1808 ## translate crowdin d7_evening_6ea063df:
 msgid "[pcthink] Anyway, I better get some work done now..."
@@ -4338,19 +4338,19 @@ msgstr ""
 
 # game/events_mc.rpy:1845 ## translate crowdin d7_home_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1846 ## translate crowdin d7_home_b9b155fe:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:1847 ## translate crowdin d7_home_b9b155fe_1:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:1848 ## translate crowdin d7_home_b9b155fe_2:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:1908 ## translate crowdin d7_home_eabfa31f:
 msgid "[pcthink] So [st] told him about my visit... I wonder why they were talking about me."
@@ -4362,7 +4362,7 @@ msgstr ""
 
 # game/events_mc.rpy:1915 ## translate crowdin d8_morning_e2ee86ba:
 msgid "[pc] Uhh..."
-msgstr ""
+msgstr "[pc] Uhh..."
 
 # game/events_mc.rpy:1917 ## translate crowdin d8_morning_a2c50bf9:
 msgid "[m] Time to get up, [e]..."
@@ -4406,7 +4406,7 @@ msgstr ""
 
 # game/events_mc.rpy:1935 ## translate crowdin d8_morning_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1937 ## translate crowdin d8_morning_f2c88496:
 msgid "[pcthink] Shit... I'm almost starting to enjoy the time here..."
@@ -4418,7 +4418,7 @@ msgstr ""
 
 # game/events_mc.rpy:1939 ## translate crowdin d8_morning_a69377ef_1:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:1940 ## translate crowdin d8_morning_0eb791b9:
 msgid "[pcthink] I wonder why she didn't mention anything about [e] sleeping in my bed again..."
@@ -4646,7 +4646,7 @@ msgstr ""
 
 # game/events_mc.rpy:2039 ## translate crowdin d8_eveningWJada_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:2040 ## translate crowdin d8_eveningWJada_20b8f121:
 msgid "[pc] Yes?"
@@ -4678,7 +4678,7 @@ msgstr ""
 
 # game/events_mc.rpy:2052 ## translate crowdin d8_eveningWJada_3c8e055f:
 msgid "[m] I..."
-msgstr ""
+msgstr "[m] Yo..."
 
 # game/events_mc.rpy:2053 ## translate crowdin d8_eveningWJada_4d699985:
 msgid "[m] I just wanted to make sure that you all remember that."
@@ -5014,7 +5014,7 @@ msgstr ""
 
 # game/events_mc.rpy:2204 ## translate crowdin d9_breakfast_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:2205 ## translate crowdin d9_breakfast_c8768c83:
 msgid "[pc] ...[mmom]."
@@ -5074,19 +5074,19 @@ msgstr ""
 
 # game/events_mc.rpy:2232 ## translate crowdin d9_breakfast_a69377ef_1:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:2233 ## translate crowdin d9_breakfast_b9b155fe:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:2234 ## translate crowdin d9_breakfast_b9b155fe_1:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:2235 ## translate crowdin d9_breakfast_b9b155fe_2:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:2236 ## translate crowdin d9_breakfast_5531c1c8:
 msgid "[pcthink] Hum... that's weird..."
@@ -5126,7 +5126,7 @@ msgstr ""
 
 # game/events_mc.rpy:2252 ## translate crowdin d9_breakfast_df3a4c48:
 msgid "[pc] Yeah, later..."
-msgstr ""
+msgstr "[pc] sí, te veo luego..."
 
 # game/events_mc.rpy:2253 ## translate crowdin d9_breakfast_ca388340:
 msgid "[pc] [mmom]."
@@ -5158,19 +5158,19 @@ msgstr ""
 
 # game/events_mc.rpy:2269 ## translate crowdin d9_breakfast_b9b155fe_3:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:2270 ## translate crowdin d9_breakfast_b9b155fe_4:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:2271 ## translate crowdin d9_breakfast_b9b155fe_5:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:2277 ## translate crowdin d9_breakfast_a69377ef_2:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:2278 ## translate crowdin d9_breakfast_af934448:
 msgid "[st] ...yes?"
@@ -5194,19 +5194,19 @@ msgstr ""
 
 # game/events_mc.rpy:2283 ## translate crowdin d9_breakfast_a69377ef_3:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:2284 ## translate crowdin d9_breakfast_b9b155fe_6:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:2285 ## translate crowdin d9_breakfast_b9b155fe_7:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:2286 ## translate crowdin d9_breakfast_b9b155fe_8:
 msgid "[extend] ."
-msgstr ""
+msgstr "[extend] ."
 
 # game/events_mc.rpy:2287 ## translate crowdin d9_breakfast_e8152094:
 msgid "[st] This... might be a problem..."
@@ -5722,7 +5722,7 @@ msgstr ""
 
 # game/events_mc.rpy:2468 ## translate crowdin d9dream_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:2469 ## translate crowdin d9dream_da7061f8:
 msgid "Dad || Do you miss your mom, [pc]?"
@@ -5750,7 +5750,7 @@ msgstr ""
 
 # game/events_mc.rpy:2475 ## translate crowdin d9dream_a69377ef_1:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:2476 ## translate crowdin d9dream_785d229f:
 msgid "[n] He puts the photo of your mom into a drawer."
@@ -5818,7 +5818,7 @@ msgstr ""
 
 # game/events_mc.rpy:2497 ## translate crowdin d10wakeup_e2ee86ba:
 msgid "[pc] Uhh..."
-msgstr ""
+msgstr "[pc] Uhh..."
 
 # game/events_mc.rpy:2498 ## translate crowdin d10wakeup_bfc6ca53:
 msgid "[pc] {cps=10}...{/cps}"
@@ -5834,7 +5834,7 @@ msgstr ""
 
 # game/events_mc.rpy:2501 ## translate crowdin d10wakeup_f0cac90d:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:2502 ## translate crowdin d10wakeup_015a74bc:
 msgid "[pcthink] I think that was the only time ever I saw the old man crying..."
@@ -5846,7 +5846,7 @@ msgstr ""
 
 # game/events_mc.rpy:2504 ## translate crowdin d10wakeup_f0cac90d_1:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:2505 ## translate crowdin d10wakeup_853f810c:
 msgid "[pcthink] Shit, time to get up."
@@ -6038,7 +6038,7 @@ msgstr ""
 
 # game/events_mc.rpy:2600 ## translate crowdin d10johnson_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:2602 ## translate crowdin d10johnson_f57abf22:
 msgid "[m] So, I think there's something we should talk about, [j]... but first..."
@@ -6122,7 +6122,7 @@ msgstr ""
 
 # game/events_mc.rpy:2638 ## translate crowdin d10johnson_72a33094:
 msgid "[e] ..."
-msgstr ""
+msgstr "[e] ..."
 
 # game/events_mc.rpy:2639 ## translate crowdin d10johnson_a7c89ecd:
 msgid "[pc] Err..."
@@ -6182,7 +6182,7 @@ msgstr ""
 
 # game/events_mc.rpy:2664 ## translate crowdin d10johnson_72a33094_1:
 msgid "[e] ..."
-msgstr ""
+msgstr "[e] ..."
 
 # game/events_mc.rpy:2666 ## translate crowdin d10johnson_a9ffb6ca:
 msgid "[pc] ...or just stay there and look cute."
@@ -6270,7 +6270,7 @@ msgstr ""
 
 # game/events_mc.rpy:2713 ## translate crowdin d10nightsex_72a33094:
 msgid "[e] ..."
-msgstr ""
+msgstr "[e] ..."
 
 # game/events_mc.rpy:2714 ## translate crowdin d10nightsex_b74916c3:
 msgid "[j] Well, we're not sleeping..."
@@ -6522,7 +6522,7 @@ msgstr ""
 
 # game/events_mc.rpy:2881 ## translate crowdin d10nfe_5916f987:
 msgid "[e] Hnn..."
-msgstr ""
+msgstr "[e] Hnn..."
 
 # game/events_mc.rpy:2883 ## translate crowdin d10nfe_57867369:
 msgid "[e] Nhhhaa..."
@@ -6566,7 +6566,7 @@ msgstr ""
 
 # game/events_mc.rpy:2910 ## translate crowdin d10nfe_72a33094:
 msgid "[e] ..."
-msgstr ""
+msgstr "[e] ..."
 
 # game/events_mc.rpy:2918 ## translate crowdin d10nfe_4d63df1b:
 msgid "[j] Hnn... how are you holding up, [e]?"
@@ -6790,7 +6790,7 @@ msgstr ""
 
 # game/events_mc.rpy:3043 ## translate crowdin d10nend_463e8cb9:
 msgid "[pc] Shit!"
-msgstr ""
+msgstr "[pc] Mierda!"
 
 # game/events_mc.rpy:3044 ## translate crowdin d10nend_c3b6f930:
 msgid "[j] Nhhh... fill her, [pcmd]! Fill her with your hot, juicy cum!"
@@ -6930,7 +6930,7 @@ msgstr ""
 
 # game/events_mc.rpy:3114 ## translate crowdin d10nend_c417e350:
 msgid "[pc] Yeah."
-msgstr ""
+msgstr "[pc] sí."
 
 # game/events_mc.rpy:3116 ## translate crowdin d10nend_49eceec2:
 msgid "[j] How about tomorrow night?"
@@ -7102,7 +7102,7 @@ msgstr ""
 
 # game/events_mc.rpy:3193 ## translate crowdin d11wakeup_a69377ef:
 msgid "[pc] ..."
-msgstr ""
+msgstr "[pc] ..."
 
 # game/events_mc.rpy:3195 ## translate crowdin d11wakeup_cb5a7a19:
 msgid "[m] So, what are your plans for today?"
@@ -7130,7 +7130,7 @@ msgstr ""
 
 # game/events_mc.rpy:3209 ## translate crowdin d11bhpcroom_f0cac90d:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:3210 ## translate crowdin d11bhpcroom_a2266564:
 msgid "[pcthink] Maybe I should look for a good TV to buy..."
@@ -7146,7 +7146,7 @@ msgstr ""
 
 # game/events_mc.rpy:3213 ## translate crowdin d11bhpcroom_f0cac90d_1:
 msgid "[pcthink] ..."
-msgstr ""
+msgstr "[pcthink] ..."
 
 # game/events_mc.rpy:3215 ## translate crowdin d11bhpcroom_40a6633b:
 msgid "[pcthink] Damn, my life really took a 180 over the last two weeks..."
