@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-05-08 15:17\n"
+"PO-Revision-Date: 2022-05-08 15:34\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_j.rpy:3 ## translate crowdin jadaFirstMeet_fbf6c787:
 msgid "[pcthink] I'm a bit hungry."
@@ -338,7 +338,7 @@ msgstr "{color=#570058}Girl1{/color} <unk> HAA, HA, NHHH!"
 
 # game/events_j.rpy:134 ## translate crowdin JVREbirthday_b509d9ed:
 msgid "{color=#cc5dcd}Girl2{/color} || Yeees, fuck [himher], fuck [himher] \"Landlady\"!"
-msgstr ""
+msgstr "{color=#cc5dcd}Girl2{/color} <unk> Yeees, cazzo [himher], cazzo [himher] \"Landlady\"!"
 
 # game/events_j.rpy:135 ## translate crowdin JVREbirthday_55531a2f:
 msgid "[pcthink] Ugh... when did they start doing this in porn?"
@@ -362,7 +362,7 @@ msgstr "{color=#570058}Girl1{/color} <unk> <unk> HAA, HAA, HNAAH! SI! OH SI!"
 
 # game/events_j.rpy:142 ## translate crowdin JVREbirthday_75c7eb86:
 msgid "{color=#cc5dcd}Girl2{/color} || She's going to cum!"
-msgstr ""
+msgstr "{color=#cc5dcd}Girl2{/color} <unk> Sta andando a cum!"
 
 # game/events_j.rpy:143 ## translate crowdin JVREbirthday_0d2e7a55:
 msgid "[pc] Yeah babe, cum for me!"
