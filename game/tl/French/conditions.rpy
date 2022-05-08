@@ -35,8 +35,8 @@ translate french whatToDoHome_87461463:
 # game/conditions.rpy:1776
 translate french whatToDoHome_70aa1e0b:
 
-    # n "Later [withdissolve]"
-    n "Plus tard [withdissolve]"
+    # n "Later" with dissolve
+    n "Plus tard" with dissolve
 
 # game/conditions.rpy:1788
 translate french hall_23b4c9e6:

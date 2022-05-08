@@ -149,8 +149,8 @@ translate french childRoomDay0_50f4faf2:
 # game/events_mc.rpy:51
 translate french kitchenBreakfastDay0_719102df:
 
-    # n "A bit later [withdissolve]"
-    n "Un peu plus tard [withdissolve]"
+    # n "A bit later" with dissolve
+    n "Un peu plus tard" with dissolve
 
 # game/events_mc.rpy:55
 translate french kitchenBreakfastDay0_024f1747:
@@ -317,8 +317,8 @@ translate french kitchenBreakfastDay0_142c6d46:
 # game/events_mc.rpy:90
 translate french kitchenBreakfastDay0_e8626d4a:
 
-    # n "A few minutes later [withdissolve]"
-    n "Quelques minutes plus tard [withdissolve]"
+    # n "A few minutes later" with dissolve
+    n "Quelques minutes plus tard" with dissolve
 
 # game/events_mc.rpy:94
 translate french kitchenBreakfastDay0_71b5423a:
@@ -503,8 +503,8 @@ translate french pcDream1_8f03e192:
 # game/events_mc.rpy:138
 translate french pcDream1_d0053a27:
 
-    # n "In your dreams [withdissolve]"
-    n "Dans vos rêves [withdissolve]"
+    # n "In your dreams" with dissolve
+    n "Dans vos rêves" with dissolve
 
 # game/events_mc.rpy:141
 translate french pcDream1_6834e5d1:
@@ -827,8 +827,8 @@ translate french wakeupDay1_42ed6300:
 # game/events_mc.rpy:233
 translate french wakeupDay1_66b94188:
 
-    # n "After a while [withdissolve]"
-    n "Après un certain temps [withdissolve]"
+    # n "After a while" with dissolve
+    n "Après un certain temps" with dissolve
 
 # game/events_mc.rpy:237
 translate french wakeupDay1_341ebece:
@@ -1085,8 +1085,8 @@ translate french stuffArrivesDay3_74e8e915:
 # game/events_mc.rpy:312
 translate french getEfromSchool1_719102df:
 
-    # n "A bit later [withdissolve]"
-    n "Un peu plus tard [withdissolve]"
+    # n "A bit later" with dissolve
+    n "Un peu plus tard" with dissolve
 
 # game/events_mc.rpy:315
 translate french getEfromSchool1_88129d62:
@@ -1104,7 +1104,7 @@ translate french getEfromSchool1_f8e84e65:
 translate french getEfromSchool1_9a3323ff:
 
     # Voice" "Hey! Stop right there!"
-    "Voix || Hé ! Arrêtez tout de suite !"
+    "Voix" "Hé ! Arrêtez tout de suite !"
 
 # game/events_mc.rpy:318
 translate french getEfromSchool1_32ead6f8:
@@ -1122,7 +1122,7 @@ translate french getEfromSchool1_efbb62e5:
 translate french getEfromSchool1_f21e3a4e:
 
     # Cop" "Hey... *pant* ...I said... *pant* ... stop right there!"
-    "Flic || Hé... *halètement* ...j'ai dit... *halètement* ... arrêtez-vous là !"
+    "Flic" "Hé... *halètement* ...j'ai dit... *halètement* ... arrêtez-vous là !"
 
 # game/events_mc.rpy:324
 translate french getEfromSchool1_5a35ce3d:
@@ -1134,7 +1134,7 @@ translate french getEfromSchool1_5a35ce3d:
 translate french getEfromSchool1_c7dd96ed:
 
     # Cop" "You... *pant* ... shit..."
-    "Flic || Vous... *halètement* ... merde..."
+    "Flic" "Vous... *halètement* ... merde..."
 
 # game/events_mc.rpy:326
 translate french getEfromSchool1_38aa9b62:
@@ -1146,13 +1146,13 @@ translate french getEfromSchool1_38aa9b62:
 translate french getEfromSchool1_b5c7bd7a:
 
     # Cop" "You better shut it... *pant* ...smart ass."
-    "Flic || Tu ferais mieux de la fermer... *halètement* ...petit malin."
+    "Flic" "Tu ferais mieux de la fermer... *halètement* ...petit malin."
 
 # game/events_mc.rpy:330
 translate french getEfromSchool1_04e1c72c:
 
     # Cop" "Just so you know... I know about you... I have seen your files!"
-    "Policier || Juste pour vous... Je sais sur vous... J'ai vu vos fichiers!"
+    "Policier" "Juste pour vous... Je sais sur vous... J'ai vu vos fichiers!"
 
 # game/events_mc.rpy:331
 translate french getEfromSchool1_a69377ef:
@@ -1164,19 +1164,19 @@ translate french getEfromSchool1_a69377ef:
 translate french getEfromSchool1_4071f137:
 
     # Cop" "What?! Surprised?"
-    "Policier || Quoi?! Surpris?"
+    "Policier" "Quoi?! Surpris?"
 
 # game/events_mc.rpy:335
 translate french getEfromSchool1_5bd96603:
 
     # Cop" "It wasn't easy to get them *gasp* and my colleagues even told me to let it go, but I'm not a lazy bum like they are."
-    "Policier || Il n'a pas été facile de les obtenir *gasp* et mes collègues m'ont même dit de laisser tomber, mais je ne suis pas un fainéant comme eux."
+    "Policier" "Il n'a pas été facile de les obtenir *gasp* et mes collègues m'ont même dit de laisser tomber, mais je ne suis pas un fainéant comme eux."
 
 # game/events_mc.rpy:336
 translate french getEfromSchool1_e91b54e7:
 
     # Cop" "The case might be closed, but I know you have skeletons in your closet!"
-    "Policier || L'affaire est peut-être classée, mais je sais que vous avez des squelettes dans votre placard !"
+    "Policier" "L'affaire est peut-être classée, mais je sais que vous avez des squelettes dans votre placard !"
 
 # game/events_mc.rpy:337
 translate french getEfromSchool1_a08e5c45:
@@ -1188,7 +1188,7 @@ translate french getEfromSchool1_a08e5c45:
 translate french getEfromSchool1_b385900b:
 
     # Cop" "I'll be keeping an eye on you!"
-    "Policier || Je garderai un œil sur vous !"
+    "Policier" "Je garderai un œil sur vous !"
 
 # game/events_mc.rpy:340
 translate french getEfromSchool1_22c9823e:
@@ -1200,7 +1200,7 @@ translate french getEfromSchool1_22c9823e:
 translate french getEfromSchool1_9d86ab89:
 
     # Cop" "I'm watching you!"
-    "Policier || Je vous surveille !"
+    "Policier" "Je vous surveille !"
 
 # game/events_mc.rpy:343
 translate french getEfromSchool1_1f323051:
@@ -1523,8 +1523,8 @@ translate french afterGetEFromSchool_1e2add12:
 # game/events_mc.rpy:434
 translate french afterGetEFromSchool_a3af40ea:
 
-    # n "A few minutes later. [withdissolve]"
-    n "Quelques minutes plus tard. [withdissolve]"
+    # n "A few minutes later." with dissolve
+    n "Quelques minutes plus tard." with dissolve
 
 # game/events_mc.rpy:440
 translate french afterGetEFromSchool_7a3851e5:
@@ -2003,8 +2003,8 @@ translate french pcroomnight3_421360dd:
 # game/events_mc.rpy:597
 translate french pcroomnight3_987cdc4b:
 
-    # n "Later that Night. [withdissolve]"
-    n "Plus tard dans la nuit. [withdissolve]"
+    # n "Later that Night." with dissolve
+    n "Plus tard dans la nuit." with dissolve
 
 # game/events_mc.rpy:601
 translate french pcroomnight3_b97d710a:
@@ -2292,7 +2292,7 @@ translate french pcCityDay3_37827316:
 translate french pcCityDay3_d9794f2e:
 
     # Dude" "Yeah?"
-    "Mec || Ouais ?"
+    "Mec" "Ouais ?"
 
 # game/events_mc.rpy:675
 translate french pcCityDay3_9ba53076:
@@ -2310,7 +2310,7 @@ translate french pcCityDay3_3ec4a123:
 translate french pcCityDay3_30b2640a:
 
     # Dude" "Sure..."
-    "Mec || Bien sûr..."
+    "Mec" "Bien sûr..."
 
 # game/events_mc.rpy:678
 translate french pcCityDay3_ec5691e0:
@@ -2322,7 +2322,7 @@ translate french pcCityDay3_ec5691e0:
 translate french pcCityDay3_37d2b588:
 
     # Dude" "Here you go..."
-    "Mec || voilà..."
+    "Mec" "voilà..."
 
 # game/events_mc.rpy:681
 translate french pcCityDay3_1376d297:
@@ -2334,13 +2334,13 @@ translate french pcCityDay3_1376d297:
 translate french pcCityDay3_404de4ef:
 
     # Dude" "Thanks."
-    "Mec || Merci."
+    "Mec" "Merci."
 
 # game/events_mc.rpy:684
 translate french pcCityDay3_2d94c374:
 
     # Girl" "{size=-10}Yeah, bye!{/size}"
-    "Fille || {size=-10}Oui, au revoir !{/size}"
+    "Fille" "{size=-10}Oui, au revoir !{/size}"
 
 # game/events_mc.rpy:685
 translate french pcCityDay3_df2388d3:
@@ -2352,7 +2352,7 @@ translate french pcCityDay3_df2388d3:
 translate french pcCityDay3_f6920ce9:
 
     # Girl" "Oh, you."
-    "Fille || Oh, toi."
+    "Fille" "Oh, toi."
 
 # game/events_mc.rpy:688
 translate french pcCityDay3_9f72f07c:
@@ -2370,7 +2370,7 @@ translate french pcCityDay3_deb02910:
 translate french pcCityDay3_d16d473d:
 
     # Girl" "Ah sorry, haha. You looked really tired last time, that's why I remember you, haha."
-    "Fille || Ah, désolé, haha. Tu avais l'air vraiment fatigué la dernière fois, c'est pour ça que je me souviens de toi, haha."
+    "Fille" "Ah, désolé, haha. Tu avais l'air vraiment fatigué la dernière fois, c'est pour ça que je me souviens de toi, haha."
 
 # game/events_mc.rpy:692
 translate french pcCityDay3_528a0c0a:
@@ -2382,7 +2382,7 @@ translate french pcCityDay3_528a0c0a:
 translate french pcCityDay3_d7aed506:
 
     # Girl" "Haha no, not at all. Err... how is your friend?"
-    "Fille || Haha non, pas du tout. Err... comment va votre amie ?"
+    "Fille" "Haha non, pas du tout. Err... comment va votre amie ?"
 
 # game/events_mc.rpy:694
 translate french pcCityDay3_0ea4f12e:
@@ -2394,19 +2394,19 @@ translate french pcCityDay3_0ea4f12e:
 translate french pcCityDay3_14a251d1:
 
     # Girl" "The older woman..."
-    "Fille || La femme plus âgée..."
+    "Fille" "La femme plus âgée..."
 
 # game/events_mc.rpy:696
 translate french pcCityDay3_26a6d4b5:
 
     # Girl" "Oh that sounds mean. I didn't mean that she looks old or something, haha. She's a regular."
-    "Fille || Oh, ça semble méchant. Je ne voulais pas dire qu'elle a l'air vieille ou autre, haha. C'est une habituée."
+    "Fille" "Oh, ça semble méchant. Je ne voulais pas dire qu'elle a l'air vieille ou autre, haha. C'est une habituée."
 
 # game/events_mc.rpy:697
 translate french pcCityDay3_2643ac94:
 
     # Girl" "...but she looked really sad when she left the other day. I hope she's alright?"
-    "Fille || ...mais elle avait l'air vraiment triste quand elle est partie l'autre jour. J'espère qu'elle va bien ?"
+    "Fille" "...mais elle avait l'air vraiment triste quand elle est partie l'autre jour. J'espère qu'elle va bien ?"
 
 # game/events_mc.rpy:698
 translate french pcCityDay3_b3701ceb:
@@ -2418,7 +2418,7 @@ translate french pcCityDay3_b3701ceb:
 translate french pcCityDay3_1bd56328:
 
     # Girl" "Did you break up with her?"
-    "Fille || Tu as rompu avec elle ?"
+    "Fille" "Tu as rompu avec elle ?"
 
 # game/events_mc.rpy:700
 translate french pcCityDay3_c251847b:
@@ -2430,13 +2430,13 @@ translate french pcCityDay3_c251847b:
 translate french pcCityDay3_bf799a98:
 
     # Dude" "Hey [h], stop chattering, I want to go home!"
-    "Mec || Hé [h], arrête de bavarder, je veux rentrer à la maison !"
+    "Mec" "Hé [h], arrête de bavarder, je veux rentrer à la maison !"
 
 # game/events_mc.rpy:703
 translate french pcCityDay3_897e803a:
 
     # Girl" "Ugh... Looks like I have to start my shift."
-    "Fille || Ugh... On dirait que je dois commencer mon service."
+    "Fille" "Ugh... On dirait que je dois commencer mon service."
 
 # game/events_mc.rpy:704
 translate french pcCityDay3_0bea89ce:
@@ -2448,7 +2448,7 @@ translate french pcCityDay3_0bea89ce:
 translate french pcCityDay3_6be367f3:
 
     # Girl" "I'm [h] by the way."
-    "Fille || Je suis [h] au fait."
+    "Fille" "Je suis [h] au fait."
 
 # game/events_mc.rpy:710
 translate french pcCityDay3_1ca71d76:
@@ -2478,7 +2478,7 @@ translate french pcCityDay3_f0e25423:
 translate french pcCityDay3_607614bd:
 
     # Dude" "[h]!"
-    "Mec || [h]!"
+    "Mec" "[h]!"
 
 # game/events_mc.rpy:716
 translate french pcCityDay3_1799137c:
@@ -2694,25 +2694,25 @@ translate french pcCityDay3_97439a5b:
 translate french pcCityDay3_2d31c06d:
 
     # Reporter" "...building that burned down a few days ago."
-    "Journaliste || ...immeuble qui a brûlé il y a quelques jours."
+    "Journaliste" "...immeuble qui a brûlé il y a quelques jours."
 
 # game/events_mc.rpy:763
 translate french pcCityDay3_a2f0a046:
 
     # Reporter" "The man responsible for the fire stated that he wanted to protect his wife from becoming corrupted by another man."
-    "Journaliste || L'homme responsable de l'incendie a déclaré qu'il voulait empêcher sa femme d'être corrompue par un autre homme."
+    "Journaliste" "L'homme responsable de l'incendie a déclaré qu'il voulait empêcher sa femme d'être corrompue par un autre homme."
 
 # game/events_mc.rpy:764
 translate french pcCityDay3_58185e0f:
 
     # Reporter" "Police told us that the man believes that some unspecified person is using a magical serum to bend his wife's and other women's will."
-    "Journaliste || La police nous a dit que l'homme croit qu'une personne non spécifiée utilise un sérum magique pour faire plier la volonté de sa femme et des autres femmes."
+    "Journaliste" "La police nous a dit que l'homme croit qu'une personne non spécifiée utilise un sérum magique pour faire plier la volonté de sa femme et des autres femmes."
 
 # game/events_mc.rpy:766
 translate french pcCityDay3_3fc5d9e7:
 
     # Reporter" "He was sent to a mental hospital..."
-    "Journaliste || Il a été envoyé dans un hôpital psychiatrique..."
+    "Journaliste" "Il a été envoyé dans un hôpital psychiatrique..."
 
 # game/events_mc.rpy:767
 translate french pcCityDay3_5300c54f:
@@ -3155,8 +3155,8 @@ translate french ebd_a69377ef:
 # game/events_mc.rpy:879
 translate french ebd_b7bc8b83:
 
-    # n "A little bit later. [withdissolve]"
-    n "Un peu plus tard. [withdissolve]"
+    # n "A little bit later." with dissolve
+    n "Un peu plus tard." with dissolve
 
 # game/events_mc.rpy:883
 translate french ebd_4ca3b84a:
@@ -3888,7 +3888,7 @@ translate french officeFirst_7af06681:
 translate french officeFirst_4f3b0408:
 
     # Woman" "Y-yes?!"
-    "Femme || O-oui ?!"
+    "Femme" "O-oui ?!"
 
 # game/events_mc.rpy:1086
 translate french officeFirst_51a6f7e0:
@@ -3900,7 +3900,7 @@ translate french officeFirst_51a6f7e0:
 translate french officeFirst_eeaceb23:
 
     # Woman" "Y-yes!"
-    "Femme || O-oui !"
+    "Femme" "O-oui !"
 
 # game/events_mc.rpy:1088
 translate french officeFirst_b6ac243e:
@@ -3924,7 +3924,7 @@ translate french officeFirst_5cf9f3a1:
 translate french officeFirst_c9aca35f:
 
     # Woman" "O-oh, that's you... please, let's go inside!"
-    "Femme || O-oh, c'est vous... S'il vous plaît, allons à l'intérieur !"
+    "Femme" "O-oh, c'est vous... S'il vous plaît, allons à l'intérieur !"
 
 # game/events_mc.rpy:1093
 translate french officeFirst_d97311e5:
@@ -3942,7 +3942,7 @@ translate french officeFirst_e9edfff6:
 translate french officeFirst_ea7019d0:
 
     # Woman" "Why are you here?"
-    "Femme || Pourquoi êtes-vous là ?"
+    "Femme" "Pourquoi êtes-vous là ?"
 
 # game/events_mc.rpy:1097
 translate french officeFirst_225fadf5:
@@ -3954,7 +3954,7 @@ translate french officeFirst_225fadf5:
 translate french officeFirst_2f424692:
 
     # Woman" "I-I mean, you're starting tomorrow, why are you here today?"
-    "Femme || Je veux dire, vous commencez demain, pourquoi êtes-vous là aujourd'hui ?"
+    "Femme" "Je veux dire, vous commencez demain, pourquoi êtes-vous là aujourd'hui ?"
 
 # game/events_mc.rpy:1099
 translate french officeFirst_10609a33:
@@ -3966,7 +3966,7 @@ translate french officeFirst_10609a33:
 translate french officeFirst_0651871c:
 
     # Woman" "I see."
-    "Femme || Je vois."
+    "Femme" "Je vois."
 
 # game/events_mc.rpy:1101
 translate french officeFirst_0368c379:
@@ -3978,7 +3978,7 @@ translate french officeFirst_0368c379:
 translate french officeFirst_f2fbbb51:
 
     # Woman" "I... C.J... the boss asked me to bring in some papers."
-    "Femme || Je... C.J... le patron m'a demandé d'apporter des papiers."
+    "Femme" "Je... C.J... le patron m'a demandé d'apporter des papiers."
 
 # game/events_mc.rpy:1103
 translate french officeFirst_c7965c80:
@@ -3990,7 +3990,7 @@ translate french officeFirst_c7965c80:
 translate french officeFirst_225cc38a:
 
     # Woman" "Yes, like almost every Sunday."
-    "Femme || Oui, comme presque tous les dimanches."
+    "Femme" "Oui, comme presque tous les dimanches."
 
 # game/events_mc.rpy:1105
 translate french officeFirst_cb272a23:
@@ -4008,7 +4008,7 @@ translate french officeFirst_332ec2ad:
 translate french officeFirst_202424ff:
 
     # Woman" "Yes... I can tell him that you are here."
-    "Femme || Oui... Je peux lui dire que vous êtes ici."
+    "Femme" "Oui... Je peux lui dire que vous êtes ici."
 
 # game/events_mc.rpy:1109
 translate french officeFirst_c3f1eb0b:
@@ -4020,7 +4020,7 @@ translate french officeFirst_c3f1eb0b:
 translate french officeFirst_04e2f270:
 
     # Woman" "Uhm... I can show you a bit, why don't you follow me."
-    "Femme || Euh... Je peux vous montrer un peu, pourquoi ne pas me suivre."
+    "Femme" "Euh... Je peux vous montrer un peu, pourquoi ne pas me suivre."
 
 # game/events_mc.rpy:1111
 translate french officeFirst_d688a87b:
@@ -4032,7 +4032,7 @@ translate french officeFirst_d688a87b:
 translate french officeFirst_dbc67763:
 
     # Woman" "Stephanie..."
-    "Femme || Stéphanie..."
+    "Femme" "Stéphanie..."
 
 # game/events_mc.rpy:1113
 translate french officeFirst_f7e59657:
@@ -4332,7 +4332,7 @@ translate french officeFirst_195d3dfd:
 translate french officeFirst_53981479:
 
     # Cop" "Ouuch!"
-    "Policier || Ouuch!"
+    "Policier" "Ouuch!"
 
 # game/events_mc.rpy:1188
 translate french officeFirst_26b08e4a:
@@ -4344,7 +4344,7 @@ translate french officeFirst_26b08e4a:
 translate french officeFirst_228fb161:
 
     # Cop" "YOU!"
-    "Policier || VOUS !"
+    "Policier" "VOUS !"
 
 # game/events_mc.rpy:1192
 translate french officeFirst_95710a31:
@@ -4362,7 +4362,7 @@ translate french officeFirst_17f6ad68:
 translate french officeFirst_4acfd17a:
 
     # Cop" "So-so, not watching where we're going, are we?"
-    "Policier || Alors, on ne regarde pas où on va, hein ?"
+    "Policier" "Alors, on ne regarde pas où on va, hein ?"
 
 # game/events_mc.rpy:1196
 translate french officeFirst_25d64821:
@@ -4380,7 +4380,7 @@ translate french officeFirst_261aa3ea:
 translate french officeFirst_9a256965:
 
     # Cop" "What was that? Insulting an officer? W-wait... you ran into me, that was obviously an attack! Ha! Now I got you!"
-    "Policier || C'était quoi ça ? Insulter un officier ? A-attendez... vous m'êtes rentré dedans, c'était évidemment une attaque ! Ha ! Maintenant je vous tiens !"
+    "Policier" "C'était quoi ça ? Insulter un officier ? A-attendez... vous m'êtes rentré dedans, c'était évidemment une attaque ! Ha ! Maintenant je vous tiens !"
 
 # game/events_mc.rpy:1200
 translate french officeFirst_2ea675f7:
@@ -4392,7 +4392,7 @@ translate french officeFirst_2ea675f7:
 translate french officeFirst_f40d5809:
 
     # Cop" "Hands where I can see them, turn around, asshole!"
-    "Policier || Les mains où je peux les voir, tournez-vous, connard !"
+    "Policier" "Les mains où je peux les voir, tournez-vous, connard !"
 
 # game/events_mc.rpy:1203
 translate french officeFirst_5fdae6d7:
@@ -4458,13 +4458,13 @@ translate french officeFirst_3e8305e8:
 translate french officeFirst_3307dfad:
 
     # Prostitute" "Hey there, handsome. I haven't seen you here before."
-    "Prostituée || Hé là, beau gosse. Je ne t'ai pas vu ici avant."
+    "Prostituée" "Hé là, beau gosse. Je ne t'ai pas vu ici avant."
 
 # game/events_mc.rpy:1227
 translate french officeFirst_0429c5f5:
 
     # Prostitute" "Hey there, beautiful. I haven't seen you here before."
-    "Prostituée || Hé là, ma belle. Je ne t'ai jamais vue ici auparavant."
+    "Prostituée" "Hé là, ma belle. Je ne t'ai jamais vue ici auparavant."
 
 # game/events_mc.rpy:1229
 translate french officeFirst_9f4df712:
@@ -4476,7 +4476,7 @@ translate french officeFirst_9f4df712:
 translate french officeFirst_a4202cfa:
 
     # Prostitute" "Huh? What do you mean, honey?"
-    "Prostituée || Hein ? Qu'est-ce que tu veux dire, chéri ?"
+    "Prostituée" "Hein ? Qu'est-ce que tu veux dire, chéri ?"
 
 # game/events_mc.rpy:1231
 translate french officeFirst_2df6c4d3:
@@ -4488,7 +4488,7 @@ translate french officeFirst_2df6c4d3:
 translate french officeFirst_996f0cca:
 
     # Prostitute" "But it's never too late to have a bit fun, don't you think, sexy?"
-    "Prostituée || Mais il n'est jamais trop tard pour s'amuser un peu, n'est-ce pas, sexy ?"
+    "Prostituée" "Mais il n'est jamais trop tard pour s'amuser un peu, n'est-ce pas, sexy ?"
 
 # game/events_mc.rpy:1236
 translate french officeFirst_f9decee2:
@@ -4500,13 +4500,13 @@ translate french officeFirst_f9decee2:
 translate french officeFirst_fa635850:
 
     # Prostitute" "No risk, no fun."
-    "Prostituée || Pas de risque, pas de plaisir."
+    "Prostituée" "Pas de risque, pas de plaisir."
 
 # game/events_mc.rpy:1239
 translate french officeFirst_82943c22:
 
     # Prostitute" "Come on, sexy, I'll make it worth your time!"
-    "Prostituée || Allez, sexy, je vais te faire gagner du temps !"
+    "Prostituée" "Allez, sexy, je vais te faire gagner du temps !"
 
 # game/events_mc.rpy:1240
 translate french officeFirst_3151510c:
@@ -4518,7 +4518,7 @@ translate french officeFirst_3151510c:
 translate french officeFirst_df4ac260:
 
     # Prostitute" "Ughh, shit!"
-    "Prostituée || Ughh, merde !"
+    "Prostituée" "Ughh, merde !"
 
 # game/events_mc.rpy:1243
 translate french officeFirst_bf282ccb:
@@ -4530,7 +4530,7 @@ translate french officeFirst_bf282ccb:
 translate french officeFirst_086a64ed:
 
     # Prostitute" "Fuck off, old man, you're not my dad!"
-    "Prostituée || Va te faire foutre, le vieux, t'es pas mon père !"
+    "Prostituée" "Va te faire foutre, le vieux, t'es pas mon père !"
 
 # game/events_mc.rpy:1246
 translate french officeFirst_90d23aed:
@@ -4542,7 +4542,7 @@ translate french officeFirst_90d23aed:
 translate french officeFirst_9df8f015:
 
     # Prostitute" "Pfft..."
-    "Prostituée || Pfft..."
+    "Prostituée" "Pfft..."
 
 # game/events_mc.rpy:1248
 translate french officeFirst_88d25c77:
@@ -4985,8 +4985,8 @@ translate french homeday4night_5b73bbbd:
 # game/events_mc.rpy:1357
 translate french homeday4night_956ae696:
 
-    # m "[bpc]! WHAT THE HELL DID YOU DO THIS TIME? [withhpunch]"
-    m "[bpc]! QU'AS-TU FAIT CETTE FOIS-CI ? [withhpunch]"
+    # m "[bpc]! WHAT THE HELL DID YOU DO THIS TIME?" with hpunch
+    m "[bpc]! QU'AS-TU FAIT CETTE FOIS-CI ?" with hpunch
 
 # game/events_mc.rpy:1358
 translate french homeday4night_5bd3bf2f:
@@ -5298,7 +5298,7 @@ translate french porn_vr_4_f834cc31:
 translate french porn_vr_4_7cd59846:
 
     # Voice" "Mphh... mphhh..."
-    "Voix || Mphh... mphhh..."
+    "Voix" "Mphh... mphhh..."
 
 # game/events_mc.rpy:1456
 translate french porn_vr_4_594132e1:
@@ -5316,7 +5316,7 @@ translate french porn_vr_4_010b482c:
 translate french porn_vr_4_e499de78:
 
     # Girl 2" "Are you about to cum babe?"
-    "Fille 2 || Tu es sur le point de jouir, bébé ?"
+    "Fille 2" "Tu es sur le point de jouir, bébé ?"
 
 # game/events_mc.rpy:1461
 translate french porn_vr_4_794a11fa:
@@ -5813,8 +5813,8 @@ translate french d7_wakeup_225fadf5:
 # game/events_mc.rpy:1617
 translate french d7_wakeup_cb44f5d6:
 
-    # pc "What the?! [e]? [withhpunch]"
-    pc "Qu'est-ce que c'est ?! [e]? [withhpunch]"
+    # pc "What the?! [e]?" with hpunch
+    pc "Qu'est-ce que c'est ?! [e]?" with hpunch
 
 # game/events_mc.rpy:1618
 translate french d7_wakeup_267417d2:
@@ -8532,7 +8532,7 @@ translate french d9_backhome_pcroom_2b1354a9:
 translate french d9dream_99c802ff:
 
     # Voice" "*Sniff*"
-    "Voix || *Renifler*"
+    "Voix" "*Renifler*"
 
 # game/events_mc.rpy:2461
 translate french d9dream_8f56933b:
@@ -8550,7 +8550,7 @@ translate french d9dream_e701d572:
 translate french d9dream_9aef7dc5:
 
     # Dad" "Oh hey, [pc]... *sniff*"
-    "Papa || Oh hé, [pc]... *renifle*"
+    "Papa" "Oh hé, [pc]... *renifle*"
 
 # game/events_mc.rpy:2464
 translate french d9dream_e6e5c075:
@@ -8562,7 +8562,7 @@ translate french d9dream_e6e5c075:
 translate french d9dream_84c70355:
 
     # Dad" "You're back early..."
-    "Papa || Tu rentres tôt..."
+    "Papa" "Tu rentres tôt..."
 
 # game/events_mc.rpy:2466
 translate french d9dream_96535a88:
@@ -8574,7 +8574,7 @@ translate french d9dream_96535a88:
 translate french d9dream_e24b33bd:
 
     # Dad" "No... *sniff* ...must've gotten something in my eye..."
-    "Papa || Non... *renifle* ...j'ai dû me mettre quelque chose dans l'œil..."
+    "Papa" "Non... *renifle* ...j'ai dû me mettre quelque chose dans l'œil..."
 
 # game/events_mc.rpy:2468
 translate french d9dream_a69377ef:
@@ -8586,7 +8586,7 @@ translate french d9dream_a69377ef:
 translate french d9dream_da7061f8:
 
     # Dad" "Do you miss your mom, [pc]?"
-    "Papa || Ta mère te manque-t-elle, [pc]?"
+    "Papa" "Ta mère te manque-t-elle, [pc]?"
 
 # game/events_mc.rpy:2470
 translate french d9dream_3b5608b8:
@@ -8598,7 +8598,7 @@ translate french d9dream_3b5608b8:
 translate french d9dream_234a4777:
 
     # Dad" "Hm... you should forget about her..."
-    "Papa || Hm... tu devrais l'oublier..."
+    "Papa" "Hm... tu devrais l'oublier..."
 
 # game/events_mc.rpy:2472
 translate french d9dream_0628eca5:
@@ -8610,13 +8610,13 @@ translate french d9dream_0628eca5:
 translate french d9dream_d262fbf2:
 
     # Dad" "But it's better for you... for both of us..."
-    "Papa || Mais c'est mieux pour toi... pour nous deux..."
+    "Papa" "Mais c'est mieux pour toi... pour nous deux..."
 
 # game/events_mc.rpy:2474
 translate french d9dream_85c0867b:
 
     # Dad" "...and do yourself a favor and never fall in love..."
-    "Papa || ...et fais-toi une faveur, ne tombe jamais amoureux..."
+    "Papa" "...et fais-toi une faveur, ne tombe jamais amoureux..."
 
 # game/events_mc.rpy:2475
 translate french d9dream_a69377ef_1:
@@ -8640,25 +8640,25 @@ translate french d9dream_f363bd8e:
 translate french d9dream_51070d0f:
 
     # Dad" "[m]?! Pff..."
-    "Papa || [m]?! Pff..."
+    "Papa" "[m]?! Pff..."
 
 # game/events_mc.rpy:2479
 translate french d9dream_14cfced5:
 
     # Dad" "That b... she doesn't even know how to cook a proper meal, let alone how to suck a..."
-    "Papa || Cette b... elle ne sait même pas comment préparer un bon repas, encore moins comment sucer un..."
+    "Papa" "Cette b... elle ne sait même pas comment préparer un bon repas, encore moins comment sucer un..."
 
 # game/events_mc.rpy:2480
 translate french d9dream_8854a3cf:
 
     # Dad" "Uch... damn it..."
-    "Papa || Uch... merde..."
+    "Papa" "Uch... merde..."
 
 # game/events_mc.rpy:2481
 translate french d9dream_d582bfa7:
 
     # Dad" "Just always remember that she's not your mom, even if she tries to be... she's useless and she'll never be your mom!"
-    "Papa || Rappelle-toi toujours qu'elle n'est pas ta mère, même si elle essaie de l'être... elle est inutile et elle ne sera jamais ta mère !"
+    "Papa" "Rappelle-toi toujours qu'elle n'est pas ta mère, même si elle essaie de l'être... elle est inutile et elle ne sera jamais ta mère !"
 
 # game/events_mc.rpy:2482
 translate french d9dream_5d7119e2:
@@ -8670,7 +8670,7 @@ translate french d9dream_5d7119e2:
 translate french d9dream_155a3712:
 
     # Dad" "Now go back to your room or go out and play or whatever you do..."
-    "Papa || Retourne dans ta chambre ou va jouer dehors, comme tu veux..."
+    "Papa" "Retourne dans ta chambre ou va jouer dehors, comme tu veux..."
 
 # game/events_mc.rpy:2484
 translate french d9dream_880b4aa8:
@@ -8688,7 +8688,7 @@ translate french d9dream_465f1434:
 translate french d9dream_14e7ad76:
 
     # Dad" "[pc]?"
-    "Papa || [pc]?"
+    "Papa" "[pc]?"
 
 # game/events_mc.rpy:2487
 translate french d9dream_bbe33639:
@@ -8700,25 +8700,25 @@ translate french d9dream_bbe33639:
 translate french d9dream_0b01384d:
 
     # Dad" "I'm sorry that I..."
-    "Papa || je suis désolé de..."
+    "Papa" "je suis désolé de..."
 
 # game/events_mc.rpy:2489
 translate french d9dream_503d5266:
 
     # Dad" "...sometimes..."
-    "Papa || ...parfois..."
+    "Papa" "...parfois..."
 
 # game/events_mc.rpy:2490
 translate french d9dream_cde1b3be:
 
     # Dad" "..."
-    "Papa || ..."
+    "Papa" "..."
 
 # game/events_mc.rpy:2491
 translate french d9dream_b283b4e3:
 
     # Dad" "Never mind, just go..."
-    "Papa || Peu importe, va..."
+    "Papa" "Peu importe, va..."
 
 # game/events_mc.rpy:2497
 translate french d10wakeup_e2ee86ba:
@@ -9341,8 +9341,8 @@ translate french d10johnson_00b9e6c9:
 # game/events_mc.rpy:2685
 translate french d10johnson_9a8ef00c:
 
-    # n "You go have dinner and it tastes surprisingly well, even though you half expected it to be a disaster since [j] helped with it. [withdissolve]"
-    n "Vous allez dîner et le goût est étonnamment bon, même si vous vous attendiez à moitié à ce que ce soit un désastre puisque [j] a aidé à le préparer. [withdissolve]"
+    # n "You go have dinner and it tastes surprisingly well, even though you half expected it to be a disaster since [j] helped with it." with dissolve
+    n "Vous allez dîner et le goût est étonnamment bon, même si vous vous attendiez à moitié à ce que ce soit un désastre puisque [j] a aidé à le préparer." with dissolve
 
 # game/events_mc.rpy:2686
 translate french d10johnson_3855fdcb:
@@ -9353,8 +9353,8 @@ translate french d10johnson_3855fdcb:
 # game/events_mc.rpy:2701
 translate french d10nightsex_38cd2de2:
 
-    # Voice" "Wakey wakey. [withslowdissolve]"
-    "Voix || Wakey wakey. [withslowdissolve]"
+    # Voice" "Wakey wakey." with slowdissolve
+    "Voix" "Wakey wakey." with slowdissolve
 
 # game/events_mc.rpy:2702
 translate french d10nightsex_9f4f5a57:
@@ -9366,13 +9366,13 @@ translate french d10nightsex_9f4f5a57:
 translate french d10nightsex_9bdc0426:
 
     # Voice" "No, Silly, it's still night!"
-    "Voix || Non, idiot, c'est encore la nuit !"
+    "Voix" "Non, idiot, c'est encore la nuit !"
 
 # game/events_mc.rpy:2704
 translate french d10nightsex_109cf5a7:
 
     # Voice" "Khehehe."
-    "Voix || Khéhéhéhé."
+    "Voix" "Khéhéhéhé."
 
 # game/events_mc.rpy:2706
 translate french d10nightsex_61e4f5ac:
@@ -10193,8 +10193,8 @@ translate french d10nend_c3b6f930:
 # game/events_mc.rpy:3045
 translate french d10nend_d4f1256f:
 
-    # e "Hnnn... nhaaa... [withflash]"
-    e "Hnnn... nhaaa... [withflash]"
+    # e "Hnnn... nhaaa..." with flash
+    e "Hnnn... nhaaa..." with flash
 
 # game/events_mc.rpy:3046
 translate french d10nend_b52f4e4b:
@@ -10205,8 +10205,8 @@ translate french d10nend_b52f4e4b:
 # game/events_mc.rpy:3047
 translate french d10nend_0cf7346a:
 
-    # pc "Holy shit! [withflash]"
-    pc "Putain de merde ! [withflash]"
+    # pc "Holy shit!" with flash
+    pc "Putain de merde !" with flash
 
 # game/events_mc.rpy:3049
 translate french d10nend_f2a00302:
@@ -10343,8 +10343,8 @@ translate french d10nend_d9173080:
 # game/events_mc.rpy:3100
 translate french d10nend_a24b49bc:
 
-    # pc "Shit... [withflash]"
-    pc "Merde... [withflash]"
+    # pc "Shit..." with flash
+    pc "Merde..." with flash
 
 # game/events_mc.rpy:3101
 translate french d10nend_fe9c36e3:
@@ -10355,8 +10355,8 @@ translate french d10nend_fe9c36e3:
 # game/events_mc.rpy:3102
 translate french d10nend_a1c8f658:
 
-    # pc "Oh fuck! Don't stop, don't stop! [withflash]"
-    pc "Oh putain ! Ne t'arrête pas, ne t'arrête pas ! [withflash]"
+    # pc "Oh fuck! Don't stop, don't stop!" with flash
+    pc "Oh putain ! Ne t'arrête pas, ne t'arrête pas !" with flash
 
 # game/events_mc.rpy:3103
 translate french d10nend_808c8846:

@@ -95,8 +95,8 @@ translate french rachelBathroomDay0_a5b0cbf1:
 # game/events_m.rpy:27
 translate french rachelBathroomDay0_38e53f54:
 
-    # n "1 Hour later [withdissolve]"
-    n "1 Heure plus tard [withdissolve]"
+    # n "1 Hour later" with dissolve
+    n "1 Heure plus tard" with dissolve
 
 # game/events_m.rpy:32
 translate french rachelBathroomDay0_5318f927:
@@ -443,8 +443,8 @@ translate french mTellNotToDisturb_9313a3e8:
 # game/events_m.rpy:139
 translate french mTellNotToDisturb_719102df:
 
-    # n "A bit later [withdissolve]"
-    n "Un peu plus tard [withdissolve]"
+    # n "A bit later" with dissolve
+    n "Un peu plus tard" with dissolve
 
 # game/events_m.rpy:144
 translate french mTellNotToDisturb_ea854d01:
@@ -2207,8 +2207,8 @@ translate french rachelElliesBDayReminder_40e1b6da:
 # game/events_m.rpy:563
 translate french rachelElliesBDayReminder_686cd90a:
 
-    # n "30 minutes later [withdissolve]"
-    n "30 minutes plus tard [withdissolve]"
+    # n "30 minutes later" with dissolve
+    n "30 minutes plus tard" with dissolve
 
 # game/events_m.rpy:575
 translate french rachelPills3rd_24cda31b:
@@ -3095,8 +3095,8 @@ translate french bathroomRAfterEBD_311a050e:
 # game/events_m.rpy:793
 translate french bathroomRAfterEBD_1df8a7df:
 
-    # n "A bit later. [withdissolve]"
-    n "Un peu plus tard. [withdissolve]"
+    # n "A bit later." with dissolve
+    n "Un peu plus tard." with dissolve
 
 # game/events_m.rpy:798
 translate french bathroomRAfterEBD_67e07758:
@@ -8567,8 +8567,8 @@ translate french d10shower2_069f3e25:
 # game/events_m.rpy:2344
 translate french d10shower2_2aacafaf:
 
-    # n "A little bit later. [withslowdissolve]"
-    n "Un peu plus tard. [withslowdissolve]"
+    # n "A little bit later." with slowdissolve
+    n "Un peu plus tard." with slowdissolve
 
 translate french strings:
 

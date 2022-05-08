@@ -131,8 +131,8 @@ translate french ellieWakeup_e765d703:
 # game/events_e.rpy:58
 translate french eOnLap_13e3fb92:
 
-    # n "A while later [withdissolve]"
-    n "Un peu plus tard [withdissolve]"
+    # n "A while later" with dissolve
+    n "Un peu plus tard" with dissolve
 
 # game/events_e.rpy:62
 translate french eOnLap_aadbb422:
@@ -269,8 +269,8 @@ translate french eOnLap_a3b9f1c1:
 # game/events_e.rpy:110
 translate french eNightTwo_571fd885:
 
-    # n "Night [withdissolve]"
-    n "Nuit [withdissolve]"
+    # n "Night" with dissolve
+    n "Nuit" with dissolve
 
 # game/events_e.rpy:114
 translate french eNightTwo_a69377ef:
@@ -803,8 +803,8 @@ translate french ellieVR_18a522c8:
 # game/events_e.rpy:253
 translate french ellieVR_d40b86d0:
 
-    # n "Hours later [withdissolve]"
-    n "Quelques heures plus tard [withdissolve]"
+    # n "Hours later" with dissolve
+    n "Quelques heures plus tard" with dissolve
 
 # game/events_e.rpy:262
 translate french childroomPCtalktoEllie_d94ea987:
@@ -1368,7 +1368,7 @@ translate french eKitten_3a7ffe30:
 translate french eKitten_a490b195:
 
     # Voice" "{size=-10}Nya!{/size}"
-    "Voix || {size=-10}Miaou!{/size}"
+    "Voix" "{size=-10}Miaou!{/size}"
 
 # game/events_e.rpy:444
 translate french eKitten_9525ded8:
@@ -1380,7 +1380,7 @@ translate french eKitten_9525ded8:
 translate french eKitten_750ee628:
 
     # Voice" "{size=-10}Nya nya nya...{/size}"
-    "Voix || {size=-10}Miaou miaou miaou...{/size}"
+    "Voix" "{size=-10}Miaou miaou miaou...{/size}"
 
 # game/events_e.rpy:446
 translate french eKitten_068749fe:
@@ -1409,8 +1409,8 @@ translate french eKitten_321a6bca:
 # game/events_e.rpy:452
 translate french eKitten_07ffdbb2:
 
-    # pc "SURPRISE ATTACK! [withhpunch]"
-    pc "ATTAQUE SURPRISE ! [withhpunch]"
+    # pc "SURPRISE ATTACK!" with hpunch
+    pc "ATTAQUE SURPRISE !" with hpunch
 
 # game/events_e.rpy:454
 translate french eKitten_f76a2d84:
@@ -1577,8 +1577,8 @@ translate french eKitten_200d9606:
 # game/events_e.rpy:495
 translate french eKitten_3ef77fca:
 
-    # pc "Fuuuck! [withhpunch]"
-    pc "Meeerrdde ! [withhpunch]"
+    # pc "Fuuuck!" with hpunch
+    pc "Meeerrdde !" with hpunch
 
 # game/events_e.rpy:497
 translate french eKitten_56589d3a:
@@ -1955,14 +1955,14 @@ translate french makedinnerwithE_cc85c724:
 # game/events_e.rpy:627
 translate french eHumpNight5_d8b6e64b:
 
-    # n "At night [withdissolve]"
-    n "La nuit [withdissolve]"
+    # n "At night" with dissolve
+    n "La nuit" with dissolve
 
 # game/events_e.rpy:628
 translate french eHumpNight5_3b4daaf7:
 
-    # m "[bpc] WHERE IS MY WINE? [withhpunch]"
-    m "[bpc] OÙ EST MON VIN ? [withhpunch]"
+    # m "[bpc] WHERE IS MY WINE?" with hpunch
+    m "[bpc] OÙ EST MON VIN ?" with hpunch
 
 # game/events_e.rpy:629
 translate french eHumpNight5_67cbb0aa:
@@ -2291,14 +2291,14 @@ translate french eHumpNight5_r_4142a619:
 # game/events_e.rpy:733
 translate french eHumpNight5_r_a9a510d6:
 
-    # e "Hnnn... haah... [withflash]"
-    e "Hnnn... haah... [withflash]"
+    # e "Hnnn... haah..." with flash
+    e "Hnnn... haah..." with flash
 
 # game/events_e.rpy:737
 translate french eHumpNight5_r_ccfe6e9c:
 
-    # e "Nnnhaaah! [withflash]"
-    e "Nnnhaaah ! [withflash]"
+    # e "Nnnhaaah!" with flash
+    e "Nnnhaaah !" with flash
 
 # game/events_e.rpy:739
 translate french eHumpNight5_r_848a432b:
@@ -2579,8 +2579,8 @@ translate french d7_evening_e_775f4433:
 # game/events_e.rpy:841
 translate french d7_evening_e_5abebc61:
 
-    # pc "Whoa, hold tight, [e]! [withhpunch]"
-    pc "Whoua, accroches-toi, [e]! [withhpunch]"
+    # pc "Whoa, hold tight, [e]!" with hpunch
+    pc "Whoua, accroches-toi, [e]!" with hpunch
 
 # game/events_e.rpy:843
 translate french d7_evening_e_e792b68b:
@@ -2999,8 +2999,8 @@ translate french d9_pcroom_e01_cf11ab79:
 # game/events_e.rpy:997
 translate french d9_pcroom_e01_1fe77d01:
 
-    # pc "Tickle you until you submit! [withhpunch]"
-    pc "Te chatouiller jusqu'à ce que tu te soumets! [withhpunch]"
+    # pc "Tickle you until you submit!" with hpunch
+    pc "Te chatouiller jusqu'à ce que tu te soumets!" with hpunch
 
 # game/events_e.rpy:999
 translate french d9_pcroom_e01_b3a08e3e:
@@ -3275,14 +3275,14 @@ translate french d9_pcroom_e01_e66a9448:
 # game/events_e.rpy:1112
 translate french d9_pcroom_e01_9c0d642e:
 
-    # e "HAAAA! [withflash]"
-    e "HAAAA ! [withflash]"
+    # e "HAAAA!" with flash
+    e "HAAAA !" with flash
 
 # game/events_e.rpy:1120
 translate french d9_pcroom_e01_a6fa37ed:
 
-    # e "Hnaaa, haaa, haaaaa! [withflash]"
-    e "Hnaaa, haaa, haaaaa ! [withflash]"
+    # e "Hnaaa, haaa, haaaaa!" with flash
+    e "Hnaaa, haaa, haaaaa !" with flash
 
 # game/events_e.rpy:1131
 translate french d9_pcroom_e01_ac2fc58a:
@@ -3431,14 +3431,14 @@ translate french d10eshow_61e271ca:
 # game/events_e.rpy:1176
 translate french d10eshow_73bfdce0:
 
-    # n "Seeing the old teddy again makes you think about old times before your mom died... [withdissolve]"
-    n "Revoir le vieux nounours vous fait penser au bon vieux temps avant la mort de votre maman.... [withdissolve]"
+    # n "Seeing the old teddy again makes you think about old times before your mom died..." with dissolve
+    n "Revoir le vieux nounours vous fait penser au bon vieux temps avant la mort de votre maman...." with dissolve
 
 # game/events_e.rpy:1177
 translate french d10eshow_8567b715:
 
-    # pc "... [withdissolve]"
-    pc "... [withdissolve]"
+    # pc "..." with dissolve
+    pc "..." with dissolve
 
 # game/events_e.rpy:1178
 translate french d10eshow_688cad9a:

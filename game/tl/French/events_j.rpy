@@ -41,8 +41,8 @@ translate french jadaFirstMeet_45a17cdf:
 # game/events_j.rpy:9
 translate french jadaFirstMeet_1c30cb5a:
 
-    # Girl" "Owww... [withhpunch]"
-    "Fille || Owww... [withhpunch]"
+    # Girl" "Owww..." with hpunch
+    "Fille" "Owww..." with hpunch
 
 # game/events_j.rpy:10
 translate french jadaFirstMeet_26b08e4a:
@@ -66,7 +66,7 @@ translate french jadaFirstMeet_5fc07764:
 translate french jadaFirstMeet_fd6ca95e:
 
     # Girl" "Uhh... yeah... I-I guess."
-    "Fille || Euh... ouais... je suppose."
+    "Fille" "Euh... ouais... je suppose."
 
 # game/events_j.rpy:15
 translate french jadaFirstMeet_bb5b0f28:
@@ -78,13 +78,13 @@ translate french jadaFirstMeet_bb5b0f28:
 translate french jadaFirstMeet_8cf10d47:
 
     # Girl" "No, I'm sorry, I didn't expect somebody coming out of this room."
-    "Fille || Non, je suis désolée, je ne m'attendais pas à ce que quelqu'un sorte de cette pièce."
+    "Fille" "Non, je suis désolée, je ne m'attendais pas à ce que quelqu'un sorte de cette pièce."
 
 # game/events_j.rpy:18
 translate french jadaFirstMeet_8e6bf8f7:
 
     # Girl" "I'm [j] by the way. You're [e]'s big [bs], right?"
-    "Fille || Je suis [j] au fait. Tu es le grand [e] de [bs], c'est ça ?"
+    "Fille" "Je suis [j] au fait. Tu es le grand [e] de [bs], c'est ça ?"
 
 # game/events_j.rpy:19
 translate french jadaFirstMeet_59478f5c:
@@ -479,14 +479,14 @@ translate french flirtyJ_1e2bd8f1:
 # game/events_j.rpy:124
 translate french JVREbirthday_2efe3878:
 
-    # n "a while later [withdissolve]"
-    n "un peu plus tard [withdissolve]"
+    # n "a while later" with dissolve
+    n "un peu plus tard" with dissolve
 
 # game/events_j.rpy:128
 translate french JVREbirthday_3713fca7:
 
     # {color=#570058}Girl1{/color}" "AHN, AH, HA, HAA..."
-    "{color=#570058}Fille1{/color} || AHN, AH, HA, HAA..."
+    "{color=#570058}Fille1{/color}" "AHN, AH, HA, HAA..."
 
 # game/events_j.rpy:132
 translate french JVREbirthday_44228de8:
@@ -498,13 +498,13 @@ translate french JVREbirthday_44228de8:
 translate french JVREbirthday_b1766523:
 
     # {color=#570058}Girl1{/color}" "HAA, HA, NHHH!"
-    "{color=#570058}Fille1{/color} || HAA, HA, NHHH !"
+    "{color=#570058}Fille1{/color}" "HAA, HA, NHHH !"
 
 # game/events_j.rpy:134
 translate french JVREbirthday_b509d9ed:
 
     # {color=#cc5dcd}Girl2{/color}\" \"Yeees, fuck [himher], fuck [himher] \"Landlady\"!"
-    "{color=#cc5dcd}Fille2{/color}' 'Ouuuii, baise [himher], baise [himher] 'La propriétaire'!"
+    "{color=#cc5dcd}Fille2{/color}" "Ouuuii, baise [himher], baise [himher] 'La propriétaire'!"
 
 # game/events_j.rpy:135
 translate french JVREbirthday_55531a2f:
@@ -516,7 +516,7 @@ translate french JVREbirthday_55531a2f:
 translate french JVREbirthday_58e40556:
 
     # {color=#570058}Girl1{/color}" "Haa, Yes! Babe, I'm close!"
-    "{color=#570058}Fille1{/color} || Haa, oui ! Bébé, j'arrive !"
+    "{color=#570058}Fille1{/color}" "Haa, oui ! Bébé, j'arrive !"
 
 # game/events_j.rpy:139
 translate french JVREbirthday_1901fd06:
@@ -528,19 +528,19 @@ translate french JVREbirthday_1901fd06:
 translate french JVREbirthday_a5e2a79f:
 
     # Voice" "Holy shit, it's {i}really{/i} hot!"
-    "Voix || Putain de merde, c'est {i}vraiment{/i} chaud !"
+    "Voix" "Putain de merde, c'est {i}vraiment{/i} chaud !"
 
 # game/events_j.rpy:141
 translate french JVREbirthday_1a1fd458:
 
     # {color=#570058}Girl1{/color}" "HAA, HAA, HNAAH! YES! OH YES!"
-    "{color=#570058}Fille1{/color} || HAA, HAA, HNAAH ! OUI ! OH OUI !"
+    "{color=#570058}Fille1{/color}" "HAA, HAA, HNAAH ! OUI ! OH OUI !"
 
 # game/events_j.rpy:142
 translate french JVREbirthday_75c7eb86:
 
     # {color=#cc5dcd}Girl2{/color}\" \"She's going to cum!"
-    "{color=#570058}Fille2{/color}' 'Elle va jouir !"
+    "{color=#570058}Fille2{/color}" "Elle va jouir !"
 
 # game/events_j.rpy:143
 translate french JVREbirthday_0d2e7a55:
@@ -552,7 +552,7 @@ translate french JVREbirthday_0d2e7a55:
 translate french JVREbirthday_517c84dc:
 
     # Voice" "Yeah, cum for us!"
-    "Voix || Ouais, éjacule pour nous !"
+    "Voix" "Ouais, éjacule pour nous !"
 
 # game/events_j.rpy:145
 translate french JVREbirthday_4de1330c:
@@ -1115,8 +1115,8 @@ translate french ebdBringJadaHome_f29932bb:
 # game/events_j.rpy:286
 translate french bringJadaHome_ffd9557d:
 
-    # n "a bit later [withdissolve]"
-    n "un peu plus tard [withdissolve]"
+    # n "a bit later" with dissolve
+    n "un peu plus tard" with dissolve
 
 # game/events_j.rpy:290
 translate french bringJadaHome_1580c5d9:
@@ -1782,7 +1782,7 @@ translate french bjhcum_a25eae71:
 translate french bjhcum_f30f51ca:
 
     # Jada's Mom\" \"[j]! Where the fuck have you been?!"
-    "La maman de Jada' '[j]! Putain, où étais-tu ?!"
+    "La maman de Jada" "[j]! Putain, où étais-tu ?!"
 
 # game/events_j.rpy:471
 translate french bjhcum_e0d78c3b:
@@ -1794,7 +1794,7 @@ translate french bjhcum_e0d78c3b:
 translate french bjhcum_61573ae4:
 
     # Jada's Mom\" \"I've been waiting for you all day!"
-    "La maman de Jada' 'Je t'ai attendue toute la journée !"
+    "La maman de Jada" "Je t'ai attendue toute la journée !"
 
 # game/events_j.rpy:473
 translate french bjhcum_52595e81:
@@ -1806,7 +1806,7 @@ translate french bjhcum_52595e81:
 translate french bjhcum_28c3f36d:
 
     # Jada's Mom\" \"I'm talking to you [j]!"
-    "La maman de Jada' 'Je te parle [j]!"
+    "La maman de Jada" "Je te parle [j]!"
 
 # game/events_j.rpy:476
 translate french bjhcum_3bd524b1:
@@ -1830,7 +1830,7 @@ translate french bjhcum_3d53e729:
 translate french bjhcum_037ac4ff:
 
     # Jada's Mom\" \"Oh we'll see about that!"
-    "La maman de Jada' 'Oh, nous verrons cela !"
+    "La maman de Jada" "Oh, nous verrons cela !"
 
 # game/events_j.rpy:481
 translate french bjhcum_e0d78c3b_1:
@@ -1842,7 +1842,7 @@ translate french bjhcum_e0d78c3b_1:
 translate french bjhcum_d65d296c:
 
     # Jada's Mom\" \"... seriously [j], when do you plan to get yourself a boyfriend?!"
-    "La maman de Jada' '... sérieusement [j], quand est-ce que tu comptes te trouver un petit ami ?!"
+    "La maman de Jada" "... sérieusement [j], quand est-ce que tu comptes te trouver un petit ami ?!"
 
 # game/events_j.rpy:485
 translate french bjhcum_d716a5c4:
@@ -1854,13 +1854,13 @@ translate french bjhcum_d716a5c4:
 translate french bjhcum_12482742:
 
     # Jada's Mom\" \"Tch... get your lazy ass inside and don't make me come out here again..."
-    "La maman de Jada' 'Tch... rentre ton cul paresseux à l'intérieur et ne me fais plus venir ici..."
+    "La maman de Jada" "Tch... rentre ton cul paresseux à l'intérieur et ne me fais plus venir ici..."
 
 # game/events_j.rpy:489
 translate french bjhcum_ce3c6653:
 
     # Jada's Mom\" \"Oh? Don't tell me you {i}{b}finally{/b}{/i} got yourself a boyfriend?!"
-    "La maman de Jada' 'Oh ? Ne me dis pas que tu as {i}{b}enfin{/b}{/i} un petit ami ?!"
+    "La maman de Jada" "Oh ? Ne me dis pas que tu as {i}{b}enfin{/b}{/i} un petit ami ?!"
 
 # game/events_j.rpy:490
 translate french bjhcum_e8b3eedd:
@@ -1872,7 +1872,7 @@ translate french bjhcum_e8b3eedd:
 translate french bjhcum_99e0568d:
 
     # Jada's Mom\" \"What? I've already started to think that you're one of those lesbians..."
-    "La maman de Jada' 'Quoi? J'ai déjà commencé à penser que tu es une de ces lesbiennes..."
+    "La maman de Jada" "Quoi? J'ai déjà commencé à penser que tu es une de ces lesbiennes..."
 
 # game/events_j.rpy:492
 translate french bjhcum_17c8bd1c:
@@ -1884,7 +1884,7 @@ translate french bjhcum_17c8bd1c:
 translate french bjhcum_07366fe2:
 
     # Jada's Mom\" \"Whatever, move your ass inside and don't make me come out here again..."
-    "La maman de Jada' 'Peu importe, bouge ton cul à l'intérieur et ne me fais plus venir ici..."
+    "La maman de Jada" "Peu importe, bouge ton cul à l'intérieur et ne me fais plus venir ici..."
 
 # game/events_j.rpy:495
 translate french bjhcum_b4fa3fc0:
@@ -2004,7 +2004,7 @@ translate french d6_wayBackHome_87dd07bf:
 translate french d6_wayBackHome_e2421ad6:
 
     # Man\" \"Come on [t], don't be like that. I've been waiting for so long and you still won't let me even touch you?"
-    "Homme' 'Aller [t], ne sois pas comme ça. J'attends depuis si longtemps et tu ne me laisses même pas te toucher ?"
+    "Homme" "Aller [t], ne sois pas comme ça. J'attends depuis si longtemps et tu ne me laisses même pas te toucher ?"
 
 # game/events_j.rpy:532
 translate french d6_wayBackHome_7b7dda88:
@@ -2028,7 +2028,7 @@ translate french d6_wayBackHome_b5ff0ab4:
 translate french d6_wayBackHome_f6cc78ab:
 
     # Man\" \"Come on [t], I don't want to wait any longer."
-    "Homme' 'Aller [t], je ne veux pas attendre plus longtemps."
+    "Homme" "Aller [t], je ne veux pas attendre plus longtemps."
 
 # game/events_j.rpy:538
 translate french d6_wayBackHome_1b815189:
@@ -2040,7 +2040,7 @@ translate french d6_wayBackHome_1b815189:
 translate french d6_wayBackHome_ff0cfe0c:
 
     # Man\" \"What the fuck [t], we've been together for 2 months!"
-    "Homme' 'C'est quoi ce bordel [t], nous sommes ensemble depuis 2 mois !"
+    "Homme" "C'est quoi ce bordel [t], nous sommes ensemble depuis 2 mois !"
 
 # game/events_j.rpy:540
 translate french d6_wayBackHome_039a1d72:
@@ -2052,7 +2052,7 @@ translate french d6_wayBackHome_039a1d72:
 translate french d6_wayBackHome_3733b784:
 
     # Man\" \"You're warning me? Are you serious? What are you going to do, huh?!"
-    "Homme' 'Tu me préviens ? Tu es sérieuse ? Qu'est-ce que tu vas faire, hein ?!"
+    "Homme" "Tu me préviens ? Tu es sérieuse ? Qu'est-ce que tu vas faire, hein ?!"
 
 # game/events_j.rpy:542
 translate french d6_wayBackHome_bc593759:
@@ -2069,8 +2069,8 @@ translate french d6_wayBackHome_f4545f94:
 # game/events_j.rpy:546
 translate french d6_wayBackHome_247824fd:
 
-    # t "Haaaaya! [withhpunch]"
-    t "Haaaaiiieee ! [withhpunch]"
+    # t "Haaaaya!" with hpunch
+    t "Haaaaiiieee !" with hpunch
 
 # game/events_j.rpy:547
 translate french d6_wayBackHome_28e59d42:
@@ -3473,8 +3473,8 @@ translate french d6_gotobed_withj_67fc39c0:
 # game/events_j.rpy:1009
 translate french d6_gotobed_withj_31268906:
 
-    # j "{cps=15}{size=+10}HAAAAAAAH...{/size}{/cps} [withvpunch]"
-    j "{cps=15}{size= 10}HAAAAAH...{/size}{/cps} [withvpunch]"
+    # j "{cps=15}{size=+10}HAAAAAAAH...{/size}{/cps}" with vpunch
+    j "{cps=15}{size= 10}HAAAAAH...{/size}{/cps}" with vpunch
 
 # game/events_j.rpy:1012
 translate french d6_gotobed_withj_2f842aac:
@@ -3846,7 +3846,7 @@ translate french d7_motel_d26c6a27:
 translate french d7_motel_465da924:
 
     # Girl" "Yeah how lazy is that?"
-    "Fille || Ouais, c'est paresseux, non ?"
+    "Fille" "Ouais, c'est paresseux, non ?"
 
 # game/events_j.rpy:1101
 translate french d7_motel_225fadf5:
@@ -3858,7 +3858,7 @@ translate french d7_motel_225fadf5:
 translate french d7_motel_afc5ac67:
 
     # Girl" "Yes, can you believe it? They're so bad!"
-    "Fille || Oui, tu peux le croire ? Ils sont si mauvais !"
+    "Fille" "Oui, tu peux le croire ? Ils sont si mauvais !"
 
 # game/events_j.rpy:1104
 translate french d7_motel_df6afe22:
@@ -4493,14 +4493,14 @@ translate french d7_motel_r_d0878a73:
 # game/events_j.rpy:1307
 translate french d7_motel_r_f40b5f90:
 
-    # j "I'm... Nnnnnhaaaaa! [withflash]"
-    j "Je suis... Nnnnnhaaaaa ! [withflash]"
+    # j "I'm... Nnnnnhaaaaa!" with flash
+    j "Je suis... Nnnnnhaaaaa !" with flash
 
 # game/events_j.rpy:1309
 translate french d7_motel_r_b2de120e:
 
-    # j "Haaaaa~haaa! [withflash]"
-    j "Haaaaa~haaa ! [withflash]"
+    # j "Haaaaa~haaa!" with flash
+    j "Haaaaa~haaa !" with flash
 
 # game/events_j.rpy:1311
 translate french d7_motel_r_d7f7f532:
@@ -4722,7 +4722,7 @@ translate french d7_motel_r_0deff184:
 translate french d7_motel_r_4ac9dc6d:
 
     # Girl" "Yes, I could hear it all, she was like \"yes [pcmd], give it to me [pcmd]\", haha."
-    "Fille || Oui, j'ai tout entendu, elle était comme 'oui [pcmd], donne le moi [pcmd]', haha."
+    "Fille" "Oui, j'ai tout entendu, elle était comme 'oui [pcmd], donne le moi [pcmd]', haha."
 
 # game/events_j.rpy:1377
 translate french d7_motel_r_905acf6d:
@@ -4734,25 +4734,25 @@ translate french d7_motel_r_905acf6d:
 translate french d7_motel_r_d9a79da0:
 
     # Girl" "[heshe!c] must be really good..."
-    "Fille || [heshe!c] doit être vraiment bonne..."
+    "Fille" "[heshe!c] doit être vraiment bonne..."
 
 # game/events_j.rpy:1381
 translate french d7_motel_r_fa79e39f:
 
     # Girl" "Ah, err..."
-    "Fille || Ah, euh..."
+    "Fille" "Ah, euh..."
 
 # game/events_j.rpy:1383
 translate french d7_motel_r_7b8ffb21:
 
     # Girl" "... t-that's what happens in the movie I told you about earlier... haha."
-    "Fille || C'est ce qui se passe dans le film dont je t'ai parlé plus tôt... haha."
+    "Fille" "C'est ce qui se passe dans le film dont je t'ai parlé plus tôt... haha."
 
 # game/events_j.rpy:1387
 translate french d7_motel_r_c21b7fb6:
 
     # Girl" "Yes..."
-    "Fille || Oui..."
+    "Fille" "Oui..."
 
 # game/events_j.rpy:1388
 translate french d7_motel_r_a69377ef_3:
@@ -4763,8 +4763,8 @@ translate french d7_motel_r_a69377ef_3:
 # game/events_j.rpy:1397
 translate french d9_morning_wakeup_a2da44d8:
 
-    # n "*Boink* [withhpunch]"
-    n "*Boink* [withhpunch]"
+    # n "*Boink*" with hpunch
+    n "*Boink*" with hpunch
 
 # game/events_j.rpy:1400
 translate french d9_morning_wakeup_32ead6f8:
@@ -5303,20 +5303,20 @@ translate french d9_backhome_j_fun_3788d98b:
 # game/events_j.rpy:1571
 translate french d9_backhome_j_fun_a82cd9b3:
 
-    # pc "I'm... cumming! Haa! [withflash]"
-    pc "Je suis... en train de jouir ! Haa ! [withflash]"
+    # pc "I'm... cumming! Haa!" with flash
+    pc "Je suis... en train de jouir ! Haa !" with flash
 
 # game/events_j.rpy:1572
 translate french d9_backhome_j_fun_71b5ee94:
 
-    # pc "Haaa! [withflash]"
-    pc "Haaa ! [withflash]"
+    # pc "Haaa!" with flash
+    pc "Haaa !" with flash
 
 # game/events_j.rpy:1573
 translate french d9_backhome_j_fun_9941a339:
 
-    # pc "Haa! [withflash]"
-    pc "Haa ! [withflash]"
+    # pc "Haa!" with flash
+    pc "Haa !" with flash
 
 # game/events_j.rpy:1575
 translate french d9_backhome_j_fun_301a07d8:
@@ -6473,8 +6473,8 @@ translate french d11jbeforlsex_f3a584b1:
 # game/events_j.rpy:1932
 translate french d11jbeforlsex_e6befaa2:
 
-    # pc "Fuck! [withflash]"
-    pc "Putain! [withflash]"
+    # pc "Fuck!" with flash
+    pc "Putain!" with flash
 
 # game/events_j.rpy:1934
 translate french d11jbeforlsex_63d07698:
@@ -6491,26 +6491,26 @@ translate french d11jbeforlsex_555491d5:
 # game/events_j.rpy:1937
 translate french d11jbeforlsex_3ae6a016:
 
-    # pc "Shit! [withflash]"
-    pc "Merde ! [withflash]"
+    # pc "Shit!" with flash
+    pc "Merde !" with flash
 
 # game/events_j.rpy:1938
 translate french d11jbeforlsex_68f9b6b5:
 
-    # extend " Shit! [withflash]"
-    extend " Merde ! [withflash]"
+    # extend " Shit!" with flash
+    extend " Merde !" with flash
 
 # game/events_j.rpy:1943
 translate french d11jbeforlsex_68d1ad89:
 
-    # extend " Shit! [withvpunch]"
-    extend " Merde ! [withvpunch]"
+    # extend " Shit!" with vpunch
+    extend " Merde !" with vpunch
 
 # game/events_j.rpy:1949
 translate french d11jbeforlsex_68d1ad89_1:
 
-    # extend " Shit! [withvpunch]"
-    extend " Merde ! [withvpunch]"
+    # extend " Shit!" with vpunch
+    extend " Merde !" with vpunch
 
 # game/events_j.rpy:1955
 translate french d11jbeforlsex_e9b271fa:
