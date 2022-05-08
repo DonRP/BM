@@ -2927,25 +2927,25 @@ translate french d7_city_7845dc7d:
 # game/events_t.rpy:907
 translate french d7_city_0bc4dd60:
 
-    # Guy 1\" \"You know this bitch?"
+    # Guy 1" "You know this bitch?"
     "Guy 1" "Tu connais cette salope ?"
 
 # game/events_t.rpy:908
 translate french d7_city_0fe2ba6e:
 
-    # Guy 2\" \"Yeah, she's in the same class as my little sister."
+    # Guy 2" "Yeah, she's in the same class as my little sister."
     "Guy 2" "Ouais, elle est dans la même classe que ma petite sœur."
 
 # game/events_t.rpy:909
 translate french d7_city_b644027e:
 
-    # Guy 1\" \"Hehe, what is a little girl like you doing in a place like this?"
+    # Guy 1" "Hehe, what is a little girl like you doing in a place like this?"
     "Guy 1" "Héhé, qu'est-ce qu'une petite fille comme toi fait dans un endroit comme celui-ci ?"
 
 # game/events_t.rpy:910
 translate french d7_city_5f20f6d6:
 
-    # Guy 2\" \"I bet she's here for a fix."
+    # Guy 2" "I bet she's here for a fix."
     "Guy 2" "Je parie qu'elle est ici pour une dose."
 
 # game/events_t.rpy:911
@@ -2957,13 +2957,13 @@ translate french d7_city_2ab3f982:
 # game/events_t.rpy:912
 translate french d7_city_680d1912:
 
-    # Guy 1\" \"She can have a fix from my dick!"
+    # Guy 1" "She can have a fix from my dick!"
     "Guy 1" "Elle peut avoir une dose de ma bite !"
 
 # game/events_t.rpy:913
 translate french d7_city_72890f35:
 
-    # Guy 2\" \"Haha, is that what you want Katie? Do you want a dose of dick?"
+    # Guy 2" "Haha, is that what you want Katie? Do you want a dose of dick?"
     "Guy 2" "Haha, c'est ce que tu veux Katie ? Tu veux une dose de bite ?"
 
 # game/events_t.rpy:914
@@ -2975,13 +2975,13 @@ translate french d7_city_cc959afa:
 # game/events_t.rpy:915
 translate french d7_city_307a16d3:
 
-    # Guy 1\" \"Why not have some fun first, hehe."
+    # Guy 1" "Why not have some fun first, hehe."
     "Guy 1" "Pourquoi ne pas s'amuser d'abord, héhé."
 
 # game/events_t.rpy:916
 translate french d7_city_da2e1133:
 
-    # Guy 2\" \"Come on Katie, just a little suck!"
+    # Guy 2" "Come on Katie, just a little suck!"
     "Guy 2" "Aller Katie, juste un peu sucer !"
 
 # game/events_t.rpy:917
@@ -3005,13 +3005,13 @@ translate french d7_city_d0e78819:
 # game/events_t.rpy:921
 translate french d7_city_da355043:
 
-    # Guy 1\" \"YOU!"
+    # Guy 1" "YOU!"
     "Guy 1" "TOI!"
 
 # game/events_t.rpy:922
 translate french d7_city_4ed0c211:
 
-    # Guy 2\" \"Get lost, [pc], this is none of your business!"
+    # Guy 2" "Get lost, [pc], this is none of your business!"
     "Guy 2" "Va te faire voir, [pc], ce n'est pas ton affaire !"
 
 # game/events_t.rpy:923
@@ -3023,7 +3023,7 @@ translate french d7_city_1fed5143:
 # game/events_t.rpy:925
 translate french d7_city_80b481b8:
 
-    # Guy 2\" \"What did you just say? Desperate for some beating?"
+    # Guy 2" "What did you just say? Desperate for some beating?"
     "Guy 2" "Qu'est-ce que tu viens de dire ? Tu cherches désespérément à te faire battre ?"
 
 # game/events_t.rpy:926
@@ -3035,19 +3035,19 @@ translate french d7_city_88ac01e1:
 # game/events_t.rpy:928
 translate french d7_city_c408fb2e:
 
-    # Guy 1\" \"There are two of us now, motherfucker!"
+    # Guy 1" "There are two of us now, motherfucker!"
     "Guy 1" "On est deux maintenant, enfoiré !"
 
 # game/events_t.rpy:929
 translate french d7_city_88ab7b93:
 
-    # Guy 2\" \"We'll beat the shit out of you, asshole!"
+    # Guy 2" "We'll beat the shit out of you, asshole!"
     "Guy 2" "On va te casser la gueule, connard !"
 
 # game/events_t.rpy:931
 translate french d7_city_e982009d:
 
-    # Guy 2\" \"What did you... how about {b}you{/b} suck my dick, bitch?!"
+    # Guy 2" "What did you... how about {b}you{/b} suck my dick, bitch?!"
     "Guy 2" "Qu'est-ce que tu... que dirais-tu de {b}toi{/b} de me sucer, salope ?!"
 
 # game/events_t.rpy:932
@@ -3059,7 +3059,7 @@ translate french d7_city_580368e0:
 # game/events_t.rpy:934
 translate french d7_city_1af4967b:
 
-    # Guy 2\" \"I'll make you beg for it!"
+    # Guy 2" "I'll make you beg for it!"
     "Guy 2" "Je vais te faire supplier pour ça !"
 
 # game/events_t.rpy:935

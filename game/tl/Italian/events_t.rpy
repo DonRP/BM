@@ -2927,26 +2927,26 @@ translate italian d7_city_7845dc7d:
 # game/events_t.rpy:907
 translate italian d7_city_0bc4dd60:
 
-    # Guy 1 - You know this bitch?"
-    "Ragazzo 1 - Sai questa cagna?"
+    # Guy 1" "You know this bitch?"
+    "Ragazzo 1" "Sai questa cagna?"
 
 # game/events_t.rpy:908
 translate italian d7_city_0fe2ba6e:
 
-    # Guy 2 - Yeah, she's in the same class as my little sister."
-    "Guy 2 - Sì, lei è nella stessa classe della mia sorellina."
+    # Guy 2" "Yeah, she's in the same class as my little sister."
+    "Guy 2" "Sì, lei è nella stessa classe della mia sorellina."
 
 # game/events_t.rpy:909
 translate italian d7_city_b644027e:
 
-    # Guy 1 - Hehe, what is a little girl like you doing in a place like this?"
-    "Guy 1 - Hehe, che cos'è una bambina come se facessi in un posto come questo?"
+    # Guy 1" "Hehe, what is a little girl like you doing in a place like this?"
+    "Guy 1" "Hehe, che cos'è una bambina come se facessi in un posto come questo?"
 
 # game/events_t.rpy:910
 translate italian d7_city_5f20f6d6:
 
-    # Guy 2 - I bet she's here for a fix."
-    "Guy 2 - Scommetto che è qui per una correzione."
+    # Guy 2" "I bet she's here for a fix."
+    "Guy 2" "Scommetto che è qui per una correzione."
 
 # game/events_t.rpy:911
 translate italian d7_city_2ab3f982:
@@ -2957,14 +2957,14 @@ translate italian d7_city_2ab3f982:
 # game/events_t.rpy:912
 translate italian d7_city_680d1912:
 
-    # Guy 1 - She can have a fix from my dick!"
-    "Guy 1 - Lei può avere una correzione dal mio cazzo!"
+    # Guy 1" "She can have a fix from my dick!"
+    "Guy 1" "Lei può avere una correzione dal mio cazzo!"
 
 # game/events_t.rpy:913
 translate italian d7_city_72890f35:
 
-    # Guy 2 - Haha, is that what you want Katie? Do you want a dose of dick?"
-    "Guy 2 - Haha, è quello che vuoi Katie? Vuoi una dose di cazzo?"
+    # Guy 2" "Haha, is that what you want Katie? Do you want a dose of dick?"
+    "Guy 2" "Haha, è quello che vuoi Katie? Vuoi una dose di cazzo?"
 
 # game/events_t.rpy:914
 translate italian d7_city_cc959afa:
@@ -2975,14 +2975,14 @@ translate italian d7_city_cc959afa:
 # game/events_t.rpy:915
 translate italian d7_city_307a16d3:
 
-    # Guy 1 - Why not have some fun first, hehe."
-    "Guy 1 - Perché non avere un po 'di divertimento prima, hehe."
+    # Guy 1" "Why not have some fun first, hehe."
+    "Guy 1" "Perché non avere un po 'di divertimento prima, hehe."
 
 # game/events_t.rpy:916
 translate italian d7_city_da2e1133:
 
-    # Guy 2 - Come on Katie, just a little suck!"
-    "Guy 2 - Vieni su Katie, solo un po 'di succhio!"
+    # Guy 2" "Come on Katie, just a little suck!"
+    "Guy 2" "Vieni su Katie, solo un po 'di succhio!"
 
 # game/events_t.rpy:917
 translate italian d7_city_04a594b2:
@@ -3005,14 +3005,14 @@ translate italian d7_city_d0e78819:
 # game/events_t.rpy:921
 translate italian d7_city_da355043:
 
-    # Guy 1 - YOU!"
-    "Ragazzo 1 - YOU!"
+    # Guy 1" "YOU!"
+    "Ragazzo 1" "YOU!"
 
 # game/events_t.rpy:922
 translate italian d7_city_4ed0c211:
 
-    # Guy 2 - Get lost, [pc], this is none of your business!"
-    "Guy 2 - Vieni perso, [pc], questo non è nessuno dei tuoi affari!"
+    # Guy 2" "Get lost, [pc], this is none of your business!"
+    "Guy 2" "Vieni perso, [pc], questo non è nessuno dei tuoi affari!"
 
 # game/events_t.rpy:923
 translate italian d7_city_1fed5143:
@@ -3023,8 +3023,8 @@ translate italian d7_city_1fed5143:
 # game/events_t.rpy:925
 translate italian d7_city_80b481b8:
 
-    # Guy 2 - What did you just say? Desperate for some beating?"
-    "Guy 2 - Che cosa hai appena detto? Desperato per qualche battito?"
+    # Guy 2" "What did you just say? Desperate for some beating?"
+    "Guy 2" "Che cosa hai appena detto? Desperato per qualche battito?"
 
 # game/events_t.rpy:926
 translate italian d7_city_88ac01e1:
@@ -3035,20 +3035,20 @@ translate italian d7_city_88ac01e1:
 # game/events_t.rpy:928
 translate italian d7_city_c408fb2e:
 
-    # Guy 1 - There are two of us now, motherfucker!"
-    "Guy 1 - Ci sono due di noi ora, motherfucker!"
+    # Guy 1" "There are two of us now, motherfucker!"
+    "Guy 1" "Ci sono due di noi ora, motherfucker!"
 
 # game/events_t.rpy:929
 translate italian d7_city_88ab7b93:
 
-    # Guy 2 - We'll beat the shit out of you, asshole!"
-    "Guy 2 - batteremo il grido di te, stronzo!"
+    # Guy 2" "We'll beat the shit out of you, asshole!"
+    "Guy 2" "batteremo il grido di te, stronzo!"
 
 # game/events_t.rpy:931
 translate italian d7_city_e982009d:
 
-    # Guy 2 - What did you... how about {b}you{/b} suck my dick, bitch?!"
-    "Guy 2 - Che cosa hai fatto... come circa {b}tu{/b} succhiare il mio cazzo, cagna?!"
+    # Guy 2" "What did you... how about {b}you{/b} suck my dick, bitch?!"
+    "Guy 2" "Che cosa hai fatto... come circa {b}tu{/b} succhiare il mio cazzo, cagna?!"
 
 # game/events_t.rpy:932
 translate italian d7_city_580368e0:
@@ -3059,8 +3059,8 @@ translate italian d7_city_580368e0:
 # game/events_t.rpy:934
 translate italian d7_city_1af4967b:
 
-    # Guy 2 - I'll make you beg for it!"
-    "Guy 2 - Ti farò pregare per esso!"
+    # Guy 2" "I'll make you beg for it!"
+    "Guy 2" "Ti farò pregare per esso!"
 
 # game/events_t.rpy:935
 translate italian d7_city_b30f44aa:

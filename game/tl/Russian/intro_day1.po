@@ -209,7 +209,7 @@ msgid "[pc] Uh, hey I'm here for the apartment."
 msgstr ""
 
 # game/intro_day1.rpy:67 ## translate crowdin intro_day1_4725ed56:
-msgid "Broker\" \"I'm sorry [mrms].."
+msgid "Broker - I'm sorry [mrms].."
 msgstr ""
 
 # game/intro_day1.rpy:69 ## translate crowdin intro_day1_8ff3f37e:
@@ -217,7 +217,7 @@ msgid "[pc] [pcsure]."
 msgstr ""
 
 # game/intro_day1.rpy:71 ## translate crowdin intro_day1_68528fb1:
-msgid "Broker\" \"[pcsure]? Hum... I don't remember your name, did we have an appointment?"
+msgid "Broker - [pcsure]? Hum... I don't remember your name, did we have an appointment?"
 msgstr ""
 
 # game/intro_day1.rpy:73 ## translate crowdin intro_day1_88d7dcd5:
@@ -233,7 +233,7 @@ msgid "Guy || You're too late. It's sold!"
 msgstr ""
 
 # game/intro_day1.rpy:80 ## translate crowdin intro_day1_e507774e:
-msgid "Broker\" \"Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
+msgid "Broker - Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
 msgstr ""
 
 # game/intro_day1.rpy:81 ## translate crowdin intro_day1_99dfcf7e:
@@ -261,7 +261,7 @@ msgid "[n] On your way back you stop for a small snack."
 msgstr ""
 
 # game/intro_day1.rpy:91 ## translate crowdin intro_day1_e1d2b02a:
-msgid "Random Guy\" \"Oh and don't forget the other Ramen, and the Negi."
+msgid "Random Guy - Oh and don't forget the other Ramen, and the Negi."
 msgstr ""
 
 # game/intro_day1.rpy:92 ## translate crowdin intro_day1_ec6c00f8:

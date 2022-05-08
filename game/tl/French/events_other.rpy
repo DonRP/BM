@@ -383,7 +383,7 @@ translate french cafe_d6_78f6f4f3:
 translate french cafe_d6_2c72ca38:
 
     # Woman" "Thanks [h]."
-    "Femme - Merci [h]."
+    "Femme" "Merci [h]."
 
 # game/events_other.rpy:114
 translate french cafe_d6_6c7e8b07:
@@ -485,7 +485,7 @@ translate french cafe_d6_e560578c:
 translate french cafe_d6_426a1e87:
 
     # Woman" "Hey, [h], is [heshe] the reason why you're working on your day off?"
-    "Fille - Hé, [h], c'est [heshe] la raison pour laquelle tu travailles sur ton jour de congé?"
+    "Fille" "Hé, [h], c'est [heshe] la raison pour laquelle tu travailles sur ton jour de congé?"
 
 # game/events_other.rpy:141
 translate french cafe_d6_8b1e859e:
@@ -497,7 +497,7 @@ translate french cafe_d6_8b1e859e:
 translate french cafe_d6_316345e8:
 
     # Woman" "No? Didn't you just storm in here 10 minutes ago, and begged Jason to take his shift?"
-    "Fille - Non? Tu n'as pas juste pris d'assaut ici il y a 10 minutes, et a supplié Jason de prendre son quart de travail?"
+    "Fille" "Non? Tu n'as pas juste pris d'assaut ici il y a 10 minutes, et a supplié Jason de prendre son quart de travail?"
 
 # game/events_other.rpy:144
 translate french cafe_d6_595b14b2:
@@ -509,7 +509,7 @@ translate french cafe_d6_595b14b2:
 translate french cafe_d6_4eb69eb5:
 
     # Woman" "She even put perfume on while coming half changed out of the locker room."
-    "Fille - Elle a même mis du parfum et du maquillage dans le vestiaire."
+    "Fille" "Elle a même mis du parfum et du maquillage dans le vestiaire."
 
 # game/events_other.rpy:148
 translate french cafe_d6_b267cd97:
@@ -905,7 +905,7 @@ translate french job_d6_a69669e3:
 translate french job_d6_79a2b683:
 
     # Guy" "Okay."
-    "Gars - Ok."
+    "Gars" "Ok."
 
 # game/events_other.rpy:262
 translate french job_d6_bee3d30d:
@@ -1493,7 +1493,7 @@ translate french porngirls_ad0a542c:
 translate french porngirls_28dae952:
 
     # {color=#cc5dcd}Girl2{/color}" "What the fuck!? Can't you watch out?"
-    "{color=#cc5dcd}fille2{/color} - C'est quoi ce bordel? Tu ne peux pas faire attention?"
+    "{color=#cc5dcd}fille2{/color}" "C'est quoi ce bordel? Tu ne peux pas faire attention?"
 
 # game/events_other.rpy:426
 translate french porngirls_f45e8f2a:
@@ -1505,7 +1505,7 @@ translate french porngirls_f45e8f2a:
 translate french porngirls_26b438f5:
 
     # {color=#cc5dcd}Girl2{/color}" "Obviously, Idiot!"
-    "{color=#cc5dcd}fille2{/color} - Évidemment, idiot !"
+    "{color=#cc5dcd}fille2{/color}" "Évidemment, idiot !"
 
 # game/events_other.rpy:428
 translate french porngirls_0fcd3896:
@@ -1517,7 +1517,7 @@ translate french porngirls_0fcd3896:
 translate french porngirls_91b098eb:
 
     # {color=#570058}Girl1{/color}" "Unn..."
-    "{color=#570058}Fille1{/color} - Unn..."
+    "{color=#570058}Fille1{/color}" "Unn..."
 
 # game/events_other.rpy:437
 translate french porngirls_59629574:
@@ -1529,7 +1529,7 @@ translate french porngirls_59629574:
 translate french porngirls_4c8fc039:
 
     # {color=#570058}Girl1{/color}" "It's okay, I didn't watch out either."
-    "{color=#570058}Fille1{/color} - C'est bon, je n'ai pas fait attention non plus."
+    "{color=#570058}Fille1{/color}" "C'est bon, je n'ai pas fait attention non plus."
 
 # game/events_other.rpy:440
 translate french porngirls_fa75bbc3:
@@ -1541,13 +1541,13 @@ translate french porngirls_fa75bbc3:
 translate french porngirls_4be0ccaa:
 
     # {color=#570058}Girl1{/color}" "Yes, I'm good, thanks."
-    "{color=#570058}Fille1{/color} - Oui, c'est bon, merci."
+    "{color=#570058}Fille1{/color}" "Oui, c'est bon, merci."
 
 # game/events_other.rpy:443
 translate french porngirls_5458163c:
 
     # {color=#cc5dcd}Girl2{/color}" "Come on [em], don't waste time with [himher]!"
-    "{color=#cc5dcd}Fille2{/color} - Aller [em], ne perdez pas de temps avec [himher]!"
+    "{color=#cc5dcd}Fille2{/color}" "Aller [em], ne perdez pas de temps avec [himher]!"
 
 # game/events_other.rpy:445
 translate french porngirls_6072de8d:
@@ -1559,7 +1559,7 @@ translate french porngirls_6072de8d:
 translate french porngirls_6a0f3349:
 
     # {color=#cc5dcd}Girl2{/color}" "What an idiot..."
-    "{color=#cc5dcd}Fille2{/color} - Quel idiot..."
+    "{color=#cc5dcd}Fille2{/color}" "Quel idiot..."
 
 # game/events_other.rpy:448
 translate french porngirls_8005f5b7:
@@ -1577,7 +1577,7 @@ translate french porngirls_0bb5a51a:
 translate french porngirls_8dc73915:
 
     # {color=#cc5dcd}Girl2{/color}" "What an idiot!"
-    "{color=#cc5dcd}Fille2{/color} - Quel idiot!"
+    "{color=#cc5dcd}Fille2{/color}" "Quel idiot!"
 
 # game/events_other.rpy:460
 translate french porngirls_243efbc1:
@@ -1589,7 +1589,7 @@ translate french porngirls_243efbc1:
 translate french porngirls_94f3582d:
 
     # {color=#cc5dcd}Girl2{/color}" "What a bitch!"
-    "{color=#cc5dcd}Fille2{/color} - Quelle salope!"
+    "{color=#cc5dcd}Fille2{/color}" "Quelle salope!"
 
 # game/events_other.rpy:465
 translate french porngirls_4d881a84:

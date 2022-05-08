@@ -181,7 +181,7 @@ msgid "[n] A bit later [withdissolve]"
 msgstr ""
 
 # game/intro_day3-4.rpy:69 ## translate crowdin intro_day3_a897bc95:
-msgid "Waitress\" \"Here you go."
+msgid "Waitress - Here you go."
 msgstr ""
 
 # game/intro_day3-4.rpy:70 ## translate crowdin intro_day3_0b79a33b:
@@ -189,7 +189,7 @@ msgid "[pc] Thanks... Keep the change."
 msgstr ""
 
 # game/intro_day3-4.rpy:71 ## translate crowdin intro_day3_88f370f6:
-msgid "Waitress\" \"Thanks!"
+msgid "Waitress - Thanks!"
 msgstr ""
 
 # game/intro_day3-4.rpy:74 ## translate crowdin intro_day3_78443c11:

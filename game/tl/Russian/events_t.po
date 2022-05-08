@@ -1953,19 +1953,19 @@ msgid "[pcthink] But who's the girl?"
 msgstr ""
 
 # game/events_t.rpy:907 ## translate crowdin d7_city_0bc4dd60:
-msgid "Guy 1\" \"You know this bitch?"
+msgid "Guy 1 - You know this bitch?"
 msgstr ""
 
 # game/events_t.rpy:908 ## translate crowdin d7_city_0fe2ba6e:
-msgid "Guy 2\" \"Yeah, she's in the same class as my little sister."
+msgid "Guy 2 - Yeah, she's in the same class as my little sister."
 msgstr ""
 
 # game/events_t.rpy:909 ## translate crowdin d7_city_b644027e:
-msgid "Guy 1\" \"Hehe, what is a little girl like you doing in a place like this?"
+msgid "Guy 1 - Hehe, what is a little girl like you doing in a place like this?"
 msgstr ""
 
 # game/events_t.rpy:910 ## translate crowdin d7_city_5f20f6d6:
-msgid "Guy 2\" \"I bet she's here for a fix."
+msgid "Guy 2 - I bet she's here for a fix."
 msgstr ""
 
 # game/events_t.rpy:911 ## translate crowdin d7_city_2ab3f982:
@@ -1973,11 +1973,11 @@ msgid "[t] N-No, I just..."
 msgstr ""
 
 # game/events_t.rpy:912 ## translate crowdin d7_city_680d1912:
-msgid "Guy 1\" \"She can have a fix from my dick!"
+msgid "Guy 1 - She can have a fix from my dick!"
 msgstr ""
 
 # game/events_t.rpy:913 ## translate crowdin d7_city_72890f35:
-msgid "Guy 2\" \"Haha, is that what you want Katie? Do you want a dose of dick?"
+msgid "Guy 2 - Haha, is that what you want Katie? Do you want a dose of dick?"
 msgstr ""
 
 # game/events_t.rpy:914 ## translate crowdin d7_city_cc959afa:
@@ -1985,11 +1985,11 @@ msgid "[t] N-No! Let me go!"
 msgstr ""
 
 # game/events_t.rpy:915 ## translate crowdin d7_city_307a16d3:
-msgid "Guy 1\" \"Why not have some fun first, hehe."
+msgid "Guy 1 - Why not have some fun first, hehe."
 msgstr ""
 
 # game/events_t.rpy:916 ## translate crowdin d7_city_da2e1133:
-msgid "Guy 2\" \"Come on Katie, just a little suck!"
+msgid "Guy 2 - Come on Katie, just a little suck!"
 msgstr ""
 
 # game/events_t.rpy:917 ## translate crowdin d7_city_04a594b2:
@@ -2005,11 +2005,11 @@ msgid "[pc] Hey, is that all you can do? Scaring little girls?"
 msgstr ""
 
 # game/events_t.rpy:921 ## translate crowdin d7_city_da355043:
-msgid "Guy 1\" \"YOU!"
+msgid "Guy 1 - YOU!"
 msgstr ""
 
 # game/events_t.rpy:922 ## translate crowdin d7_city_4ed0c211:
-msgid "Guy 2\" \"Get lost, [pc], this is none of your business!"
+msgid "Guy 2 - Get lost, [pc], this is none of your business!"
 msgstr ""
 
 # game/events_t.rpy:923 ## translate crowdin d7_city_1fed5143:
@@ -2017,7 +2017,7 @@ msgid "[pc] You know, I just thought that you guys must be really desperate. Can
 msgstr ""
 
 # game/events_t.rpy:925 ## translate crowdin d7_city_80b481b8:
-msgid "Guy 2\" \"What did you just say? Desperate for some beating?"
+msgid "Guy 2 - What did you just say? Desperate for some beating?"
 msgstr ""
 
 # game/events_t.rpy:926 ## translate crowdin d7_city_88ac01e1:
@@ -2025,15 +2025,15 @@ msgid "[pc] Yeah, sure, like last time? Bigmouth?"
 msgstr ""
 
 # game/events_t.rpy:928 ## translate crowdin d7_city_c408fb2e:
-msgid "Guy 1\" \"There are two of us now, motherfucker!"
+msgid "Guy 1 - There are two of us now, motherfucker!"
 msgstr ""
 
 # game/events_t.rpy:929 ## translate crowdin d7_city_88ab7b93:
-msgid "Guy 2\" \"We'll beat the shit out of you, asshole!"
+msgid "Guy 2 - We'll beat the shit out of you, asshole!"
 msgstr ""
 
 # game/events_t.rpy:931 ## translate crowdin d7_city_e982009d:
-msgid "Guy 2\" \"What did you... how about {b}you{/b} suck my dick, bitch?!"
+msgid "Guy 2 - What did you... how about {b}you{/b} suck my dick, bitch?!"
 msgstr ""
 
 # game/events_t.rpy:932 ## translate crowdin d7_city_580368e0:
@@ -2041,7 +2041,7 @@ msgid "[pc] You wish!"
 msgstr ""
 
 # game/events_t.rpy:934 ## translate crowdin d7_city_1af4967b:
-msgid "Guy 2\" \"I'll make you beg for it!"
+msgid "Guy 2 - I'll make you beg for it!"
 msgstr ""
 
 # game/events_t.rpy:935 ## translate crowdin d7_city_b30f44aa:

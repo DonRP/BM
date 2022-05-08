@@ -823,8 +823,8 @@ translate italian strings:
     new "Il file di aggiornamento non è stato scaricato."
 
     # renpy/common/00updater.rpy:1015
-    old "The update file does not have the correct digest - it may have been corrupted."
-    new "Il file di aggiornamento non ha il digest corretto - potrebbe essere corrotto."
+    old "The update file does not have the correct digest" "it may have been corrupted."
+    new "Il file di aggiornamento non ha il digest corretto" "potrebbe essere corrotto."
 
     # renpy/common/00updater.rpy:1071
     old "While unpacking {}, unknown type {}."

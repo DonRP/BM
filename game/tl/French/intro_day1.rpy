@@ -311,7 +311,7 @@ translate french intro_day1_68797a1a:
 # game/intro_day1.rpy:67
 translate french intro_day1_4725ed56:
 
-    # Broker\" \"I'm sorry [mrms].."
+    # Broker" "I'm sorry [mrms].."
     "Courtier" "Je suis désolé [mrms].."
 
 # game/intro_day1.rpy:69
@@ -323,7 +323,7 @@ translate french intro_day1_8ff3f37e:
 # game/intro_day1.rpy:71
 translate french intro_day1_68528fb1:
 
-    # Broker\" \"[pcsure]? Hum... I don't remember your name, did we have an appointment?"
+    # Broker" "[pcsure]? Hum... I don't remember your name, did we have an appointment?"
     "Courtier" "[pcsure]? Hum... Je ne me souviens pas de votre nom, avons-nous eu un rendez-vous?"
 
 # game/intro_day1.rpy:73
@@ -347,7 +347,7 @@ translate french intro_day1_8b6d7015:
 # game/intro_day1.rpy:80
 translate french intro_day1_e507774e:
 
-    # Broker\" \"Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
+    # Broker" "Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
     "Courtier" "Eh bien, je suis désolé [mrms] [pcsure]. Ce charmant couple ici vient de conclure l'affaire pour cet appartement."
 
 # game/intro_day1.rpy:81
@@ -389,7 +389,7 @@ translate french intro_day1_e73c363b:
 # game/intro_day1.rpy:91
 translate french intro_day1_e1d2b02a:
 
-    # Random Guy\" \"Oh and don't forget the other Ramen, and the Negi."
+    # Random Guy" "Oh and don't forget the other Ramen, and the Negi."
     "Gars au hasard" "Oh et n'oublie pas l'autre Ramen, et le Negi."
 
 # game/intro_day1.rpy:92

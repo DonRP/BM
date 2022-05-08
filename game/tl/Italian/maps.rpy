@@ -41,8 +41,8 @@ translate italian eboard_e738ea15:
 # game/maps.rpy:161
 translate italian eboard_de0c74ba:
 
-    # pcthink "\"{b}Incest{/b} - if you're about to do it, please inform your neighbours, so they know what's going on.\""
-    pcthink "\"{b}Incest{/b} - se stai per farlo, informi i tuoi vicini, in modo che sappia cosa sta succedendo.\""
+    # pcthink "\"{b}Incest{/b}" "if you're about to do it, please inform your neighbours, so they know what's going on.\""
+    pcthink "\"{b}Incest{/b}" "se stai per farlo, informi i tuoi vicini, in modo che sappia cosa sta succedendo.\""
 
 # game/maps.rpy:162
 translate italian eboard_15aab006:

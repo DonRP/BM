@@ -209,16 +209,16 @@ msgid "[pc] Uh, hey I'm here for the apartment."
 msgstr "[pc] Uh, oye, estoy aquí por el apartamento."
 
 # game/intro_day1.rpy:67 ## translate crowdin intro_day1_4725ed56:
-msgid "Broker\" \"I'm sorry [mrms].."
-msgstr "Corredor\" \"Lo siento [mrms].."
+msgid "Broker - I'm sorry [mrms].."
+msgstr "Corredor - Lo siento [mrms].."
 
 # game/intro_day1.rpy:69 ## translate crowdin intro_day1_8ff3f37e:
 msgid "[pc] [pcsure]."
 msgstr "[pc] [pcsure]."
 
 # game/intro_day1.rpy:71 ## translate crowdin intro_day1_68528fb1:
-msgid "Broker\" \"[pcsure]? Hum... I don't remember your name, did we have an appointment?"
-msgstr "Corredor\" \"[pcsure]? Hum... No recuerdo tu nombre, ¿teníamos una cita?"
+msgid "Broker - [pcsure]? Hum... I don't remember your name, did we have an appointment?"
+msgstr "Corredor - [pcsure]? Hum... No recuerdo tu nombre, ¿teníamos una cita?"
 
 # game/intro_day1.rpy:73 ## translate crowdin intro_day1_88d7dcd5:
 msgid "[pc] No, a friend gave me the address."
@@ -233,8 +233,8 @@ msgid "Guy || You're too late. It's sold!"
 msgstr "Chico || Llegas demasiado tarde. ¡Está vendido!"
 
 # game/intro_day1.rpy:80 ## translate crowdin intro_day1_e507774e:
-msgid "Broker\" \"Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
-msgstr "Corredor\" \"Bueno, lo siento [mrms] [pcsure]. Esta encantadora pareja acaba de cerrar el trato en este apartamento."
+msgid "Broker - Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
+msgstr "Corredor - Bueno, lo siento [mrms] [pcsure]. Esta encantadora pareja acaba de cerrar el trato en este apartamento."
 
 # game/intro_day1.rpy:81 ## translate crowdin intro_day1_99dfcf7e:
 msgid "[pcthink] Shit, this sucks... all the haste for nothing."
@@ -261,8 +261,8 @@ msgid "[n] On your way back you stop for a small snack."
 msgstr "[n] En el camino de regreso te detienes para tomar un pequeño refrigerio."
 
 # game/intro_day1.rpy:91 ## translate crowdin intro_day1_e1d2b02a:
-msgid "Random Guy\" \"Oh and don't forget the other Ramen, and the Negi."
-msgstr "Chico Random\" \"Oh y no te olvides del otro Ramen y el Negi."
+msgid "Random Guy - Oh and don't forget the other Ramen, and the Negi."
+msgstr "Chico Random - Oh y no te olvides del otro Ramen y el Negi."
 
 # game/intro_day1.rpy:92 ## translate crowdin intro_day1_ec6c00f8:
 msgid "Girl || Of course!"

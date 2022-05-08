@@ -1781,8 +1781,8 @@ translate italian bjhcum_a25eae71:
 # game/events_j.rpy:469
 translate italian bjhcum_f30f51ca:
 
-    # Jada's Mom - [j]! Where the fuck have you been?!"
-    "Mamma di Jada - [j]! Dove sei stato la scopa?!"
+    # Jada's Mom" "[j]! Where the fuck have you been?!"
+    "Mamma di Jada" "[j]! Dove sei stato la scopa?!"
 
 # game/events_j.rpy:471
 translate italian bjhcum_e0d78c3b:
@@ -1793,8 +1793,8 @@ translate italian bjhcum_e0d78c3b:
 # game/events_j.rpy:472
 translate italian bjhcum_61573ae4:
 
-    # Jada's Mom - I've been waiting for you all day!"
-    "Mamma di Jada - Ti ho aspettato tutto il giorno!"
+    # Jada's Mom" "I've been waiting for you all day!"
+    "Mamma di Jada" "Ti ho aspettato tutto il giorno!"
 
 # game/events_j.rpy:473
 translate italian bjhcum_52595e81:
@@ -1805,8 +1805,8 @@ translate italian bjhcum_52595e81:
 # game/events_j.rpy:475
 translate italian bjhcum_28c3f36d:
 
-    # Jada's Mom - I'm talking to you [j]!"
-    "Mamma di Jada - Sto parlando con te [j]!"
+    # Jada's Mom" "I'm talking to you [j]!"
+    "Mamma di Jada" "Sto parlando con te [j]!"
 
 # game/events_j.rpy:476
 translate italian bjhcum_3bd524b1:
@@ -1829,8 +1829,8 @@ translate italian bjhcum_3d53e729:
 # game/events_j.rpy:480
 translate italian bjhcum_037ac4ff:
 
-    # Jada's Mom - Oh we'll see about that!"
-    "Mamma di Jada - Oh vedremo a riguardo!"
+    # Jada's Mom" "Oh we'll see about that!"
+    "Mamma di Jada" "Oh vedremo a riguardo!"
 
 # game/events_j.rpy:481
 translate italian bjhcum_e0d78c3b_1:
@@ -1841,8 +1841,8 @@ translate italian bjhcum_e0d78c3b_1:
 # game/events_j.rpy:484
 translate italian bjhcum_d65d296c:
 
-    # Jada's Mom - ... seriously [j], when do you plan to get yourself a boyfriend?!"
-    "Mamma di Jada - ... seriamente [j], quando hai intenzione di farsi un fidanzato?!"
+    # Jada's Mom" "... seriously [j], when do you plan to get yourself a boyfriend?!"
+    "Mamma di Jada" "... seriamente [j], quando hai intenzione di farsi un fidanzato?!"
 
 # game/events_j.rpy:485
 translate italian bjhcum_d716a5c4:
@@ -1853,14 +1853,14 @@ translate italian bjhcum_d716a5c4:
 # game/events_j.rpy:486
 translate italian bjhcum_12482742:
 
-    # Jada's Mom - Tch... get your lazy ass inside and don't make me come out here again..."
-    "Mamma di Jada - Tch... ottenere il vostro culo pigro dentro e non farmi uscire qui di nuovo..."
+    # Jada's Mom" "Tch... get your lazy ass inside and don't make me come out here again..."
+    "Mamma di Jada" "Tch... ottenere il vostro culo pigro dentro e non farmi uscire qui di nuovo..."
 
 # game/events_j.rpy:489
 translate italian bjhcum_ce3c6653:
 
-    # Jada's Mom - Oh? Don't tell me you {i}{b}finally{/b}{/i} got yourself a boyfriend?!"
-    "Mamma di Jada - Oh? Non dirmi {i}{b}finalmente{/b}{/i} ti ha fatto un fidanzato?!"
+    # Jada's Mom" "Oh? Don't tell me you {i}{b}finally{/b}{/i} got yourself a boyfriend?!"
+    "Mamma di Jada" "Oh? Non dirmi {i}{b}finalmente{/b}{/i} ti ha fatto un fidanzato?!"
 
 # game/events_j.rpy:490
 translate italian bjhcum_e8b3eedd:
@@ -1871,8 +1871,8 @@ translate italian bjhcum_e8b3eedd:
 # game/events_j.rpy:491
 translate italian bjhcum_99e0568d:
 
-    # Jada's Mom - What? I've already started to think that you're one of those lesbians..."
-    "Mamma di Jada - Cosa? Ho già iniziato a pensare che sei una di quelle lesbiche..."
+    # Jada's Mom" "What? I've already started to think that you're one of those lesbians..."
+    "Mamma di Jada" "Cosa? Ho già iniziato a pensare che sei una di quelle lesbiche..."
 
 # game/events_j.rpy:492
 translate italian bjhcum_17c8bd1c:
@@ -1883,8 +1883,8 @@ translate italian bjhcum_17c8bd1c:
 # game/events_j.rpy:493
 translate italian bjhcum_07366fe2:
 
-    # Jada's Mom - Whatever, move your ass inside and don't make me come out here again..."
-    "Mamma di Jada - Qualunque cosa, muovi il tuo culo dentro e non farmi uscire qui di nuovo..."
+    # Jada's Mom" "Whatever, move your ass inside and don't make me come out here again..."
+    "Mamma di Jada" "Qualunque cosa, muovi il tuo culo dentro e non farmi uscire qui di nuovo..."
 
 # game/events_j.rpy:495
 translate italian bjhcum_b4fa3fc0:
@@ -2003,8 +2003,8 @@ translate italian d6_wayBackHome_87dd07bf:
 # game/events_j.rpy:531
 translate italian d6_wayBackHome_e2421ad6:
 
-    # Man - Come on [t], don't be like that. I've been waiting for so long and you still won't let me even touch you?"
-    "Uomo - Vieni [t], non essere così. Ho aspettato così a lungo e ancora non mi lascerai nemmeno toccarlo?"
+    # Man" "Come on [t], don't be like that. I've been waiting for so long and you still won't let me even touch you?"
+    "Uomo" "Vieni [t], non essere così. Ho aspettato così a lungo e ancora non mi lascerai nemmeno toccarlo?"
 
 # game/events_j.rpy:532
 translate italian d6_wayBackHome_7b7dda88:
@@ -2027,8 +2027,8 @@ translate italian d6_wayBackHome_b5ff0ab4:
 # game/events_j.rpy:537
 translate italian d6_wayBackHome_f6cc78ab:
 
-    # Man - Come on [t], I don't want to wait any longer."
-    "Uomo - Vieni [t], non voglio più aspettare."
+    # Man" "Come on [t], I don't want to wait any longer."
+    "Uomo" "Vieni [t], non voglio più aspettare."
 
 # game/events_j.rpy:538
 translate italian d6_wayBackHome_1b815189:
@@ -2039,8 +2039,8 @@ translate italian d6_wayBackHome_1b815189:
 # game/events_j.rpy:539
 translate italian d6_wayBackHome_ff0cfe0c:
 
-    # Man - What the fuck [t], we've been together for 2 months!"
-    "Uomo - Che cazzo [t], siamo stati insieme per 2 mesi!"
+    # Man" "What the fuck [t], we've been together for 2 months!"
+    "Uomo" "Che cazzo [t], siamo stati insieme per 2 mesi!"
 
 # game/events_j.rpy:540
 translate italian d6_wayBackHome_039a1d72:
@@ -2051,8 +2051,8 @@ translate italian d6_wayBackHome_039a1d72:
 # game/events_j.rpy:541
 translate italian d6_wayBackHome_3733b784:
 
-    # Man - You're warning me? Are you serious? What are you going to do, huh?!"
-    "Uomo - Mi stai avvertendo? Sei serio? Che cosa farai, eh?!"
+    # Man" "You're warning me? Are you serious? What are you going to do, huh?!"
+    "Uomo" "Mi stai avvertendo? Sei serio? Che cosa farai, eh?!"
 
 # game/events_j.rpy:542
 translate italian d6_wayBackHome_bc593759:

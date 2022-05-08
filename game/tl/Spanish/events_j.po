@@ -1189,7 +1189,7 @@ msgid "[j] Sorry, I'd {i}{b}love{/b}{/i} to invite you to cum inside, hehe, but 
 msgstr ""
 
 # game/events_j.rpy:469 ## translate crowdin bjhcum_f30f51ca:
-msgid "Jada's Mom\" \"[j]! Where the fuck have you been?!"
+msgid "Jada's Mom - [j]! Where the fuck have you been?!"
 msgstr ""
 
 # game/events_j.rpy:471 ## translate crowdin bjhcum_e0d78c3b:
@@ -1197,7 +1197,7 @@ msgid "[j] Ugh..."
 msgstr ""
 
 # game/events_j.rpy:472 ## translate crowdin bjhcum_61573ae4:
-msgid "Jada's Mom\" \"I've been waiting for you all day!"
+msgid "Jada's Mom - I've been waiting for you all day!"
 msgstr ""
 
 # game/events_j.rpy:473 ## translate crowdin bjhcum_52595e81:
@@ -1205,7 +1205,7 @@ msgid "[j] {size=-10}Shit, I'd hoped she'd be asleep already...{/size}"
 msgstr ""
 
 # game/events_j.rpy:475 ## translate crowdin bjhcum_28c3f36d:
-msgid "Jada's Mom\" \"I'm talking to you [j]!"
+msgid "Jada's Mom - I'm talking to you [j]!"
 msgstr ""
 
 # game/events_j.rpy:476 ## translate crowdin bjhcum_3bd524b1:
@@ -1221,7 +1221,7 @@ msgid "[pcthink] Nineteen? She's older than [e]?"
 msgstr ""
 
 # game/events_j.rpy:480 ## translate crowdin bjhcum_037ac4ff:
-msgid "Jada's Mom\" \"Oh we'll see about that!"
+msgid "Jada's Mom - Oh we'll see about that!"
 msgstr ""
 
 # game/events_j.rpy:481 ## translate crowdin bjhcum_e0d78c3b_1:
@@ -1229,7 +1229,7 @@ msgid "[j] Ugh..."
 msgstr ""
 
 # game/events_j.rpy:484 ## translate crowdin bjhcum_d65d296c:
-msgid "Jada's Mom\" \"... seriously [j], when do you plan to get yourself a boyfriend?!"
+msgid "Jada's Mom - ... seriously [j], when do you plan to get yourself a boyfriend?!"
 msgstr ""
 
 # game/events_j.rpy:485 ## translate crowdin bjhcum_d716a5c4:
@@ -1237,11 +1237,11 @@ msgid "[j] MOM! I'm never going to have a stupid boyfriend!"
 msgstr ""
 
 # game/events_j.rpy:486 ## translate crowdin bjhcum_12482742:
-msgid "Jada's Mom\" \"Tch... get your lazy ass inside and don't make me come out here again..."
+msgid "Jada's Mom - Tch... get your lazy ass inside and don't make me come out here again..."
 msgstr ""
 
 # game/events_j.rpy:489 ## translate crowdin bjhcum_ce3c6653:
-msgid "Jada's Mom\" \"Oh? Don't tell me you {i}{b}finally{/b}{/i} got yourself a boyfriend?!"
+msgid "Jada's Mom - Oh? Don't tell me you {i}{b}finally{/b}{/i} got yourself a boyfriend?!"
 msgstr ""
 
 # game/events_j.rpy:490 ## translate crowdin bjhcum_e8b3eedd:
@@ -1249,7 +1249,7 @@ msgid "[j] MOM!"
 msgstr ""
 
 # game/events_j.rpy:491 ## translate crowdin bjhcum_99e0568d:
-msgid "Jada's Mom\" \"What? I've already started to think that you're one of those lesbians..."
+msgid "Jada's Mom - What? I've already started to think that you're one of those lesbians..."
 msgstr ""
 
 # game/events_j.rpy:492 ## translate crowdin bjhcum_17c8bd1c:
@@ -1257,7 +1257,7 @@ msgid "[j] There is nothing wrong with that!"
 msgstr ""
 
 # game/events_j.rpy:493 ## translate crowdin bjhcum_07366fe2:
-msgid "Jada's Mom\" \"Whatever, move your ass inside and don't make me come out here again..."
+msgid "Jada's Mom - Whatever, move your ass inside and don't make me come out here again..."
 msgstr ""
 
 # game/events_j.rpy:495 ## translate crowdin bjhcum_b4fa3fc0:
@@ -1337,7 +1337,7 @@ msgid "[pcthink] Huh? Wasn't that [t]'s voice?"
 msgstr ""
 
 # game/events_j.rpy:531 ## translate crowdin d6_wayBackHome_e2421ad6:
-msgid "Man\" \"Come on [t], don't be like that. I've been waiting for so long and you still won't let me even touch you?"
+msgid "Man - Come on [t], don't be like that. I've been waiting for so long and you still won't let me even touch you?"
 msgstr ""
 
 # game/events_j.rpy:532 ## translate crowdin d6_wayBackHome_7b7dda88:
@@ -1353,7 +1353,7 @@ msgid "[pcthink] Ha, no wonder she gets off so fast..."
 msgstr ""
 
 # game/events_j.rpy:537 ## translate crowdin d6_wayBackHome_f6cc78ab:
-msgid "Man\" \"Come on [t], I don't want to wait any longer."
+msgid "Man - Come on [t], I don't want to wait any longer."
 msgstr ""
 
 # game/events_j.rpy:538 ## translate crowdin d6_wayBackHome_1b815189:
@@ -1361,7 +1361,7 @@ msgid "[t] I don't care! Don't touch me!"
 msgstr ""
 
 # game/events_j.rpy:539 ## translate crowdin d6_wayBackHome_ff0cfe0c:
-msgid "Man\" \"What the fuck [t], we've been together for 2 months!"
+msgid "Man - What the fuck [t], we've been together for 2 months!"
 msgstr ""
 
 # game/events_j.rpy:540 ## translate crowdin d6_wayBackHome_039a1d72:
@@ -1369,7 +1369,7 @@ msgid "[t] Stop touching me, I'm warning you!"
 msgstr ""
 
 # game/events_j.rpy:541 ## translate crowdin d6_wayBackHome_3733b784:
-msgid "Man\" \"You're warning me? Are you serious? What are you going to do, huh?!"
+msgid "Man - You're warning me? Are you serious? What are you going to do, huh?!"
 msgstr ""
 
 # game/events_j.rpy:542 ## translate crowdin d6_wayBackHome_bc593759:

@@ -875,7 +875,7 @@ translate french strings:
     new "Le fichier de mise à jour n’a pas été téléchargé."
 
     # renpy/common/00updater.rpy:1031
-    old "The update file does not have the correct digest - it may have been corrupted."
+    old "The update file does not have the correct digest" "it may have been corrupted."
     new "Le fichier de mise à jour présente une signature incorrecte, le fichier peut avoir été corrompu."
 
     # renpy/common/00updater.rpy:1181

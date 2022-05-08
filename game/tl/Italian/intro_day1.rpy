@@ -311,8 +311,8 @@ translate italian intro_day1_68797a1a:
 # game/intro_day1.rpy:67
 translate italian intro_day1_4725ed56:
 
-    # Broker - I'm sorry [mrms].."
-    "Broker - Mi dispiace [mrms!t].."
+    # Broker" "I'm sorry [mrms].."
+    "Broker" "Mi dispiace [mrms!t].."
 
 # game/intro_day1.rpy:69
 translate italian intro_day1_8ff3f37e:
@@ -323,8 +323,8 @@ translate italian intro_day1_8ff3f37e:
 # game/intro_day1.rpy:71
 translate italian intro_day1_68528fb1:
 
-    # Broker - [pcsure]? Hum... I don't remember your name, did we have an appointment?"
-    "Broker - [pcsure!t]? Hum... Non ricordo il tuo nome, abbiamo un appuntamento?"
+    # Broker" "[pcsure]? Hum... I don't remember your name, did we have an appointment?"
+    "Broker" "[pcsure!t]? Hum... Non ricordo il tuo nome, abbiamo un appuntamento?"
 
 # game/intro_day1.rpy:73
 translate italian intro_day1_88d7dcd5:
@@ -347,8 +347,8 @@ translate italian intro_day1_8b6d7015:
 # game/intro_day1.rpy:80
 translate italian intro_day1_e507774e:
 
-    # Broker - Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
-    "Broker - Beh, mi dispiace [mrms!t] [pcsure!t]. Questa bella coppia qui ha appena chiuso l'accordo su questo appartamento."
+    # Broker" "Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
+    "Broker" "Beh, mi dispiace [mrms!t] [pcsure!t]. Questa bella coppia qui ha appena chiuso l'accordo su questo appartamento."
 
 # game/intro_day1.rpy:81
 translate italian intro_day1_99dfcf7e:
@@ -389,8 +389,8 @@ translate italian intro_day1_e73c363b:
 # game/intro_day1.rpy:91
 translate italian intro_day1_e1d2b02a:
 
-    # Random Guy - Oh and don't forget the other Ramen, and the Negi."
-    "Ragazzo casuale - Oh e non dimenticare l'altro Ramen, e il Negi."
+    # Random Guy" "Oh and don't forget the other Ramen, and the Negi."
+    "Ragazzo casuale" "Oh e non dimenticare l'altro Ramen, e il Negi."
 
 # game/intro_day1.rpy:92
 translate italian intro_day1_ec6c00f8:

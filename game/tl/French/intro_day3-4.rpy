@@ -269,7 +269,7 @@ translate french intro_day3_719102df:
 # game/intro_day3-4.rpy:69
 translate french intro_day3_a897bc95:
 
-    # Waitress\" \"Here you go."
+    # Waitress" "Here you go."
     "Serveuse" "Voilà."
 
 # game/intro_day3-4.rpy:70
@@ -281,7 +281,7 @@ translate french intro_day3_0b79a33b:
 # game/intro_day3-4.rpy:71
 translate french intro_day3_88f370f6:
 
-    # Waitress\" \"Thanks!"
+    # Waitress" "Thanks!"
     "Serveuse" "Merci!"
 
 # game/intro_day3-4.rpy:74

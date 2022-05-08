@@ -1781,7 +1781,7 @@ translate french bjhcum_a25eae71:
 # game/events_j.rpy:469
 translate french bjhcum_f30f51ca:
 
-    # Jada's Mom\" \"[j]! Where the fuck have you been?!"
+    # Jada's Mom" "[j]! Where the fuck have you been?!"
     "La maman de Jada" "[j]! Putain, où étais-tu ?!"
 
 # game/events_j.rpy:471
@@ -1793,7 +1793,7 @@ translate french bjhcum_e0d78c3b:
 # game/events_j.rpy:472
 translate french bjhcum_61573ae4:
 
-    # Jada's Mom\" \"I've been waiting for you all day!"
+    # Jada's Mom" "I've been waiting for you all day!"
     "La maman de Jada" "Je t'ai attendue toute la journée !"
 
 # game/events_j.rpy:473
@@ -1805,7 +1805,7 @@ translate french bjhcum_52595e81:
 # game/events_j.rpy:475
 translate french bjhcum_28c3f36d:
 
-    # Jada's Mom\" \"I'm talking to you [j]!"
+    # Jada's Mom" "I'm talking to you [j]!"
     "La maman de Jada" "Je te parle [j]!"
 
 # game/events_j.rpy:476
@@ -1829,7 +1829,7 @@ translate french bjhcum_3d53e729:
 # game/events_j.rpy:480
 translate french bjhcum_037ac4ff:
 
-    # Jada's Mom\" \"Oh we'll see about that!"
+    # Jada's Mom" "Oh we'll see about that!"
     "La maman de Jada" "Oh, nous verrons cela !"
 
 # game/events_j.rpy:481
@@ -1841,7 +1841,7 @@ translate french bjhcum_e0d78c3b_1:
 # game/events_j.rpy:484
 translate french bjhcum_d65d296c:
 
-    # Jada's Mom\" \"... seriously [j], when do you plan to get yourself a boyfriend?!"
+    # Jada's Mom" "... seriously [j], when do you plan to get yourself a boyfriend?!"
     "La maman de Jada" "... sérieusement [j], quand est-ce que tu comptes te trouver un petit ami ?!"
 
 # game/events_j.rpy:485
@@ -1853,13 +1853,13 @@ translate french bjhcum_d716a5c4:
 # game/events_j.rpy:486
 translate french bjhcum_12482742:
 
-    # Jada's Mom\" \"Tch... get your lazy ass inside and don't make me come out here again..."
+    # Jada's Mom" "Tch... get your lazy ass inside and don't make me come out here again..."
     "La maman de Jada" "Tch... rentre ton cul paresseux à l'intérieur et ne me fais plus venir ici..."
 
 # game/events_j.rpy:489
 translate french bjhcum_ce3c6653:
 
-    # Jada's Mom\" \"Oh? Don't tell me you {i}{b}finally{/b}{/i} got yourself a boyfriend?!"
+    # Jada's Mom" "Oh? Don't tell me you {i}{b}finally{/b}{/i} got yourself a boyfriend?!"
     "La maman de Jada" "Oh ? Ne me dis pas que tu as {i}{b}enfin{/b}{/i} un petit ami ?!"
 
 # game/events_j.rpy:490
@@ -1871,7 +1871,7 @@ translate french bjhcum_e8b3eedd:
 # game/events_j.rpy:491
 translate french bjhcum_99e0568d:
 
-    # Jada's Mom\" \"What? I've already started to think that you're one of those lesbians..."
+    # Jada's Mom" "What? I've already started to think that you're one of those lesbians..."
     "La maman de Jada" "Quoi? J'ai déjà commencé à penser que tu es une de ces lesbiennes..."
 
 # game/events_j.rpy:492
@@ -1883,7 +1883,7 @@ translate french bjhcum_17c8bd1c:
 # game/events_j.rpy:493
 translate french bjhcum_07366fe2:
 
-    # Jada's Mom\" \"Whatever, move your ass inside and don't make me come out here again..."
+    # Jada's Mom" "Whatever, move your ass inside and don't make me come out here again..."
     "La maman de Jada" "Peu importe, bouge ton cul à l'intérieur et ne me fais plus venir ici..."
 
 # game/events_j.rpy:495
@@ -2003,7 +2003,7 @@ translate french d6_wayBackHome_87dd07bf:
 # game/events_j.rpy:531
 translate french d6_wayBackHome_e2421ad6:
 
-    # Man\" \"Come on [t], don't be like that. I've been waiting for so long and you still won't let me even touch you?"
+    # Man" "Come on [t], don't be like that. I've been waiting for so long and you still won't let me even touch you?"
     "Homme" "Aller [t], ne sois pas comme ça. J'attends depuis si longtemps et tu ne me laisses même pas te toucher ?"
 
 # game/events_j.rpy:532
@@ -2027,7 +2027,7 @@ translate french d6_wayBackHome_b5ff0ab4:
 # game/events_j.rpy:537
 translate french d6_wayBackHome_f6cc78ab:
 
-    # Man\" \"Come on [t], I don't want to wait any longer."
+    # Man" "Come on [t], I don't want to wait any longer."
     "Homme" "Aller [t], je ne veux pas attendre plus longtemps."
 
 # game/events_j.rpy:538
@@ -2039,7 +2039,7 @@ translate french d6_wayBackHome_1b815189:
 # game/events_j.rpy:539
 translate french d6_wayBackHome_ff0cfe0c:
 
-    # Man\" \"What the fuck [t], we've been together for 2 months!"
+    # Man" "What the fuck [t], we've been together for 2 months!"
     "Homme" "C'est quoi ce bordel [t], nous sommes ensemble depuis 2 mois !"
 
 # game/events_j.rpy:540
@@ -2051,7 +2051,7 @@ translate french d6_wayBackHome_039a1d72:
 # game/events_j.rpy:541
 translate french d6_wayBackHome_3733b784:
 
-    # Man\" \"You're warning me? Are you serious? What are you going to do, huh?!"
+    # Man" "You're warning me? Are you serious? What are you going to do, huh?!"
     "Homme" "Tu me préviens ? Tu es sérieuse ? Qu'est-ce que tu vas faire, hein ?!"
 
 # game/events_j.rpy:542
