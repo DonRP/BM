@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-28 16:12\n"
+"PO-Revision-Date: 2022-05-08 15:35\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_j.rpy:3 ## translate crowdin jadaFirstMeet_fbf6c787:
 msgid "[pcthink] I'm a bit hungry."
@@ -337,8 +337,8 @@ msgid "{color=#570058}Girl1{/color} || HAA, HA, NHHH!"
 msgstr "{color=#570058}Fille1{/color} || HAA, HA, NHHH !"
 
 # game/events_j.rpy:134 ## translate crowdin JVREbirthday_b509d9ed:
-msgid "{color=#cc5dcd}Girl2{/color}\" \"Yeees, fuck [himher], fuck [himher] \"Landlady\"!"
-msgstr "{color=#cc5dcd}Fille2{/color}' 'Ouuuii, baise [himher], baise [himher] 'La propriétaire'!"
+msgid "{color=#cc5dcd}Girl2{/color} || Yeees, fuck [himher], fuck [himher] \"Landlady\"!"
+msgstr "{color=#cc5dcd}Fille2{/color} || Ouuuii, baise [himher], baise [himher] 'La propriétaire'!"
 
 # game/events_j.rpy:135 ## translate crowdin JVREbirthday_55531a2f:
 msgid "[pcthink] Ugh... when did they start doing this in porn?"
@@ -361,8 +361,8 @@ msgid "{color=#570058}Girl1{/color} || HAA, HAA, HNAAH! YES! OH YES!"
 msgstr "{color=#570058}Fille1{/color} || HAA, HAA, HNAAH ! OUI ! OH OUI !"
 
 # game/events_j.rpy:142 ## translate crowdin JVREbirthday_75c7eb86:
-msgid "{color=#cc5dcd}Girl2{/color}\" \"She's going to cum!"
-msgstr "{color=#570058}Fille2{/color}' 'Elle va jouir !"
+msgid "{color=#cc5dcd}Girl2{/color} || She's going to cum!"
+msgstr "{color=#570058}Fille2{/color} || Elle va jouir !"
 
 # game/events_j.rpy:143 ## translate crowdin JVREbirthday_0d2e7a55:
 msgid "[pc] Yeah babe, cum for me!"
