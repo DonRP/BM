@@ -25,6 +25,12 @@ translate crowdin""": """ ## translate crowdin""",
     # """: """:
 msgid \"""",
     """\" nointeract""": """ [nointeract]\"""",
+    """\" with fade""": """ [withfade]\"""",
+    """\" with dissolve""": """ [withdissolve]\"""",
+    """\" with slowdissolve""": """ [withslowdissolve]\"""",
+    """\" with hpunch""": """ [withhpunch]\"""",
+    """\" with flash""": """ [withflash]\"""",
+    """\" with vpunch""": """ [withvpunch]\"""",
     """\" with Dissolve(2.0)""": """ [withDissolve(2.0)]\"""",
     """\n    """: """\nmsgstr \"""",
     # ch
