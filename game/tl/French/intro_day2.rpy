@@ -17,8 +17,8 @@
 # game/intro_day2.rpy:3
 translate french intro_day2_d8b6e64b:
 
-    # n "At night [withdissolve]"
-    n "La nuit [withdissolve]"
+    # n "At night" with dissolve
+    n "La nuit" with dissolve
 
 # game/intro_day2.rpy:6
 translate french intro_day2_bb2cf764:
@@ -29,50 +29,50 @@ translate french intro_day2_bb2cf764:
 # game/intro_day2.rpy:9
 translate french intro_day2_0de96e02:
 
-    # Loud Voice" "I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN! [withvpunch]"
-    "Voix bruyante || Je l'ai vu! NE T'AVISE PAS DE ME MENTIR À NOUVEAU! [withvpunch]"
+    # Loud Voice" "I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN!" with vpunch
+    "Voix bruyante" "Je l'ai vu! NE T'AVISE PAS DE ME MENTIR À NOUVEAU!" with vpunch
 
 # game/intro_day2.rpy:10
 translate french intro_day2_e7c86f6c:
 
     # Female Voice" "I'm not lying, I didn't do anything. He was just talking to me!"
-    "Voix féminine || Je ne mens pas, je n'ai rien fait. Il ne faisait que me parler!"
+    "Voix féminine" "Je ne mens pas, je n'ai rien fait. Il ne faisait que me parler!"
 
 # game/intro_day2.rpy:11
 translate french intro_day2_46a27d87:
 
     # Loud Voice" "I FUCKIN' TOLD YOU WHAT'S GOIN TO HAPPEN, YOU FUCKIN' SLUT!"
-    "Voix bruyante || JE T'AI DIT CE QUI ALLER SE PASSER, PUTAIN DE SALOPE!"
+    "Voix bruyante" "JE T'AI DIT CE QUI ALLER SE PASSER, PUTAIN DE SALOPE!"
 
 # game/intro_day2.rpy:12
 translate french intro_day2_7b2b0f4d:
 
     # Female Voice" "No, please. I swear I didn't..."
-    "Voix féminine || Non, s'il te plaît. Je jure que je n'ai pas..."
+    "Voix féminine" "Non, s'il te plaît. Je jure que je n'ai pas..."
 
 # game/intro_day2.rpy:13
 translate french intro_day2_2d683f63:
 
     # Loud Voice" "SHUT THE FUCK UP, SLUT!"
-    "Voix bruyante || FERME TA GUEULE, SALOPE!"
+    "Voix bruyante" "FERME TA GUEULE, SALOPE!"
 
 # game/intro_day2.rpy:15
 translate french intro_day2_dbd9bc4b:
 
-    # *SLAP* [withhpunch]"
-    "*SLAP* [withhpunch]"
+    # *SLAP*" with hpunch
+    "*SLAP*" with hpunch
 
 # game/intro_day2.rpy:16
 translate french intro_day2_234974f3:
 
     # Female Voice" "Ahh... n-no, p-please..."
-    "Voix féminine || Ahh... n-non, s'il te plaît..."
+    "Voix féminine" "Ahh... n-non, s'il te plaît..."
 
 # game/intro_day2.rpy:18
 translate french intro_day2_dbd9bc4b_1:
 
-    # *SLAP* [withhpunch]"
-    "*SLAP* [withhpunch]"
+    # *SLAP*" with hpunch
+    "*SLAP*" with hpunch
 
 # game/intro_day2.rpy:19
 translate french intro_day2_3fe3cd48:
@@ -84,25 +84,25 @@ translate french intro_day2_3fe3cd48:
 translate french intro_day2_e3206cca:
 
     # Female Voice" "Please..."
-    "Voix féminine || S'il te plaît..."
+    "Voix féminine" "S'il te plaît..."
 
 # game/intro_day2.rpy:21
 translate french intro_day2_ab5649b7:
 
     # Loud Voice" "I TOLD YOU TO SHUT UP SLUT!"
-    "Voix bruyante || JE T'AI DIT DE LA FERMER SALOPE!"
+    "Voix bruyante" "JE T'AI DIT DE LA FERMER SALOPE!"
 
 # game/intro_day2.rpy:23
 translate french intro_day2_5dbe0428:
 
-    # *SMACK* [withhpunch]"
-    "*CLAQUE* [withhpunch]"
+    # *SMACK*" with hpunch
+    "*CLAQUE*" with hpunch
 
 # game/intro_day2.rpy:24
 translate french intro_day2_801a666c:
 
     # Female Voice" "ACK"
-    "Voix féminine || AIE"
+    "Voix féminine" "AIE"
 
 # game/intro_day2.rpy:25
 translate french intro_day2_3fe3cd48_1:
@@ -114,13 +114,13 @@ translate french intro_day2_3fe3cd48_1:
 translate french intro_day2_92c9fe5c:
 
     # Female Voice" "I'm sorry... I'm sorry..."
-    "Voix féminine || Je suis désolée... Je suis désolée..."
+    "Voix féminine" "Je suis désolée... Je suis désolée..."
 
 # game/intro_day2.rpy:27
 translate french intro_day2_6d188e1b:
 
     # Loud Voice" "Yeah, you better be... now, suck it!"
-    "Voix bruyante || Ouais, t'as intérêt... maintenant, suce-le!"
+    "Voix bruyante" "Ouais, t'as intérêt... maintenant, suce-le!"
 
 # game/intro_day2.rpy:28
 translate french intro_day2_3fe3cd48_2:
@@ -132,19 +132,19 @@ translate french intro_day2_3fe3cd48_2:
 translate french intro_day2_912294a2:
 
     # Loud Voice" "I TOLD YOU TO SUCK!"
-    "Voix bruyante || JE T'AI DIT DE SUCER!"
+    "Voix bruyante" "JE T'AI DIT DE SUCER!"
 
 # game/intro_day2.rpy:30
 translate french intro_day2_420b7706:
 
     # Female Voice" "Yes, yes, I'm sorry..."
-    "Voix féminine || Oui, oui, je suis désolée..."
+    "Voix féminine" "Oui, oui, je suis désolée..."
 
 # game/intro_day2.rpy:31
 translate french intro_day2_c86c2e61:
 
     # Female Voice" "Unn..."
-    "Voix féminine || Nommm..."
+    "Voix féminine" "Nommm..."
 
 # game/intro_day2.rpy:33
 translate french intro_day2_a6b1be05:
@@ -162,7 +162,7 @@ translate french intro_day2_f46c168d:
 translate french intro_day2_7d00296a:
 
     # Loud Voice" "FUCK!"
-    "Voix forte || MERDE!"
+    "Voix forte" "MERDE!"
 
 # game/intro_day2.rpy:37
 translate french intro_day2_cb56ae6b:
@@ -174,7 +174,7 @@ translate french intro_day2_cb56ae6b:
 translate french intro_day2_e0e49eec:
 
     # Dad" "Hey, it's okay. [m] and I just had a small argument. Nothing special. Go to bed [boygirl]."
-    "Papa || Hé, c'est bon. [m] et moi avons juste eu une petite dispute. Rien de spécial. Va te coucher [boygirl]."
+    "Papa" "Hé, c'est bon. [m] et moi avons juste eu une petite dispute. Rien de spécial. Va te coucher [boygirl]."
 
 # game/intro_day2.rpy:39
 translate french intro_day2_cfb4c32d:
@@ -186,13 +186,13 @@ translate french intro_day2_cfb4c32d:
 translate french intro_day2_f9cf8ca5:
 
     # Dad" "It's okay, she was too stupid to watch where she was going and stumbled over something."
-    "Papa || C'est bon, elle était trop bête pour regarder où elle allait et a trébuché sur quelque chose."
+    "Papa" "C'est bon, elle était trop bête pour regarder où elle allait et a trébuché sur quelque chose."
 
 # game/intro_day2.rpy:41
 translate french intro_day2_1e2dd096:
 
     # Dad" "It's just a scratch, she's fine. Go to bed now."
-    "Papa || C'est juste une égratignure, elle va bien. Va te coucher maintenant."
+    "Papa" "C'est juste une égratignure, elle va bien. Va te coucher maintenant."
 
 # game/intro_day2.rpy:42
 translate french intro_day2_9914fdd0:
@@ -216,7 +216,7 @@ translate french intro_day2_bb2cf764_1:
 translate french intro_day2_c5c91f0a:
 
     # Dad" "{size=-10}Are you happy now? You woke [himher] up with your stupid screaming!{/size}"
-    "Papa || {size=-10}Tu es content maintenant? Tu as réveillé [himher] avec tes cris stupides!{/size}"
+    "Papa" "{size=-10}Tu es content maintenant? Tu as réveillé [himher] avec tes cris stupides!{/size}"
 
 # game/intro_day2.rpy:47
 translate french intro_day2_bf658c6a:
@@ -228,7 +228,7 @@ translate french intro_day2_bf658c6a:
 translate french intro_day2_c56ae62d:
 
     # Dad" "{size=-10}Stupid bitch. Turn around!{/size}"
-    "Papa || {size=-10}Salope stupide. Tourne-toi!{/size}"
+    "Papa" "{size=-10}Salope stupide. Tourne-toi!{/size}"
 
 # game/intro_day2.rpy:50
 translate french intro_day2_a27dcaa7:
@@ -246,7 +246,7 @@ translate french intro_day2_b3c1c44e:
 translate french intro_day2_1e4fe5fe:
 
     # Dad" "SHUT UP! I don't fucking care!"
-    "Papa || LA FERME! Je m'en fous putain!"
+    "Papa" "LA FERME! Je m'en fous putain!"
 
 # game/intro_day2.rpy:54
 translate french intro_day2_63910f04:
@@ -353,8 +353,8 @@ translate french intro_day2_fb34457e:
 # game/intro_day2.rpy:76
 translate french intro_day2_a3af40ea:
 
-    # n "A few minutes later. [withdissolve]"
-    n "Quelques minutes plus tard. [withdissolve]"
+    # n "A few minutes later." with dissolve
+    n "Quelques minutes plus tard." with dissolve
 
 # game/intro_day2.rpy:79
 translate french intro_day2_a982138e:
@@ -372,7 +372,7 @@ translate french intro_day2_d72509a6:
 translate french intro_day2_e9a37b17:
 
     # Voice" "Hello [mrms] [pcsure], this is the reception desk. We have a call from a woman named [m], who wants to talk to you."
-    "Voix || Bonjour [mrms] [pcsure], ici la réception. Nous avons un appel d'une femme nommée [m], qui veut vous parler."
+    "Voix" "Bonjour [mrms] [pcsure], ici la réception. Nous avons un appel d'une femme nommée [m], qui veut vous parler."
 
 # game/intro_day2.rpy:84
 translate french intro_day2_9f8e3996:
@@ -390,13 +390,13 @@ translate french intro_day2_49062e41:
 translate french intro_day2_e0758e04:
 
     # Voice" "Do you accept the call [mrms] [pcsure]?"
-    "Voix || Acceptez-vous l'appel [mrms] [pcsure]?"
+    "Voix" "Acceptez-vous l'appel [mrms] [pcsure]?"
 
 # game/intro_day2.rpy:90
 translate french intro_day2_fd18cf3d:
 
     # Voice" "O-Oh... okay, I will tell her..."
-    "Voix || O-Oh... D'accord, je vais lui dire..."
+    "Voix" "O-Oh... D'accord, je vais lui dire..."
 
 # game/intro_day2.rpy:93
 translate french intro_day2_ce4ced57:
@@ -408,7 +408,7 @@ translate french intro_day2_ce4ced57:
 translate french intro_day2_4cbe1206:
 
     # Voice" "Okay, one moment please..."
-    "Voix || Ok, un instant s'il vous plaît..."
+    "Voix" "Ok, un instant s'il vous plaît..."
 
 # game/intro_day2.rpy:98
 translate french intro_day2_bb2cf764_3:
@@ -816,7 +816,7 @@ translate french intro_day2_2_e36dcd5f:
 translate french intro_day2_2_2fcaf026:
 
     # Receptionist" "Oh, hello [mrms] [pcsure], I'm sorry, but that's not possible at the moment. We are awaiting a group of guests that arrive tomorrow."
-    "Réceptionniste || Oh, bonjour [mrms] [pcsure], je suis désolé, mais ce n'est pas possible pour le moment. Nous attendons un groupe qui arrive demain."
+    "Réceptionniste" "Oh, bonjour [mrms] [pcsure], je suis désolé, mais ce n'est pas possible pour le moment. Nous attendons un groupe qui arrive demain."
 
 # game/intro_day2.rpy:180
 translate french intro_day2_2_0df051d9:
@@ -828,7 +828,7 @@ translate french intro_day2_2_0df051d9:
 translate french intro_day2_2_9a03b783:
 
     # Receptionist" "Sorry [mrms] [pcsure], but in fact, all rooms are booked..."
-    "Réceptionniste || Désolé [mrms] [pcsure], mais en fait, toutes les chambres sont réservées..."
+    "Réceptionniste" "Désolé [mrms] [pcsure], mais en fait, toutes les chambres sont réservées..."
 
 # game/intro_day2.rpy:182
 translate french intro_day2_2_4c5f1a6d:
@@ -840,7 +840,7 @@ translate french intro_day2_2_4c5f1a6d:
 translate french intro_day2_2_76c3a2c1:
 
     # Receptionist" "Yes, there is an international trade fair over the next few weeks, so we are awaiting many guests."
-    "Réceptionniste || Oui, il y a une foire commerciale internationale dans les prochaines semaines, donc nous attendons de nombreux invités."
+    "Réceptionniste" "Oui, il y a une foire commerciale internationale dans les prochaines semaines, donc nous attendons de nombreux invités."
 
 # game/intro_day2.rpy:184
 translate french intro_day2_2_b2cce3fa:
@@ -852,13 +852,13 @@ translate french intro_day2_2_b2cce3fa:
 translate french intro_day2_2_c1b93604:
 
     # Receptionist" "I'm sorry, [mrms] [pcsure]. I guess you have to book a room somewhere else, but it's most likely that all of the major hotels are fully booked."
-    "Réceptionniste || Je suis désolé, [mrms] [pcsure]. Je suppose que vous devez réserver une chambre ailleurs, mais il est fort probable que tous les grands hôtels soient complets."
+    "Réceptionniste" "Je suis désolé, [mrms] [pcsure]. Je suppose que vous devez réserver une chambre ailleurs, mais il est fort probable que tous les grands hôtels soient complets."
 
 # game/intro_day2.rpy:186
 translate french intro_day2_2_1fd8babd:
 
     # Receptionist" "You could try some of the smaller motels around town. Maybe some of them still have rooms."
-    "Réceptionniste || Vous pourriez essayer les petits motels de la ville. Il y a peut-être encore des chambres."
+    "Réceptionniste" "Vous pourriez essayer les petits motels de la ville. Il y a peut-être encore des chambres."
 
 # game/intro_day2.rpy:187
 translate french intro_day2_2_34bbc6f2:
@@ -876,7 +876,7 @@ translate french intro_day2_2_1539e91a:
 translate french intro_day2_2_09e731f4:
 
     # Manager" "[r], what the hell!? How many times do I have to tell you that you have to wear a bra?"
-    "Manager || [r], c'est quoi ce bordel !? Combien de fois dois-je te dire que tu dois porter un soutien-gorge ?"
+    "Manager" "[r], c'est quoi ce bordel !? Combien de fois dois-je te dire que tu dois porter un soutien-gorge ?"
 
 # game/intro_day2.rpy:192
 translate french intro_day2_2_badfc039:
@@ -888,13 +888,13 @@ translate french intro_day2_2_badfc039:
 translate french intro_day2_2_c3851b52:
 
     # Manager" "You're sorry?! [r] you shouldn't be sorry, you should be ashamed!"
-    "Manager || Tu es désolé ?! [r] tu ne devrais pas être désolée, tu devrais avoir honte!"
+    "Manager" "Tu es désolé ?! [r] tu ne devrais pas être désolée, tu devrais avoir honte!"
 
 # game/intro_day2.rpy:195
 translate french intro_day2_2_f496b078:
 
     # Manager" "We have standards in this hotel, [r]! Your shameful behavior already got the attention of some of our guests. That's not acceptable."
-    "Manager || Nous avons des normes dans cet hôtel, [r]! Ton comportement honteux a déjà attiré l'attention de certains de nos clients. Ce n'est pas acceptable."
+    "Manager" "Nous avons des normes dans cet hôtel, [r]! Ton comportement honteux a déjà attiré l'attention de certains de nos clients. Ce n'est pas acceptable."
 
 # game/intro_day2.rpy:196
 translate french intro_day2_2_0906f490:
@@ -906,7 +906,7 @@ translate french intro_day2_2_0906f490:
 translate french intro_day2_2_bc1774a0:
 
     # Manager" "That's no excuse for dressing like a whore!"
-    "Manager || Ce n'est pas une excuse pour s'habiller comme une pute !"
+    "Manager" "Ce n'est pas une excuse pour s'habiller comme une pute !"
 
 # game/intro_day2.rpy:198
 translate french intro_day2_2_132a713a:
@@ -924,7 +924,7 @@ translate french intro_day2_2_03697de9:
 translate french intro_day2_2_97d4b59e:
 
     # Manager" "I'm tired of your excuses, [r]. I've had enough of this now. Get your stuff and leave."
-    "Manager || Je suis fatigué de tes excuses, [r]. J'en ai assez maintenant. Prends tes affaires et pars."
+    "Manager" "Je suis fatigué de tes excuses, [r]. J'en ai assez maintenant. Prends tes affaires et pars."
 
 # game/intro_day2.rpy:201
 translate french intro_day2_2_44ee4b94:
@@ -936,7 +936,7 @@ translate french intro_day2_2_44ee4b94:
 translate french intro_day2_2_feab064c:
 
     # Manager" "Don't make a scene now, it's your own fault, I've given you enough warnings!"
-    "Manager || Ne fais pas de scène maintenant, c'est ta faute, je t'ai assez prévenue!"
+    "Manager" "Ne fais pas de scène maintenant, c'est ta faute, je t'ai assez prévenue!"
 
 # game/intro_day2.rpy:203
 translate french intro_day2_2_fee0cc03:
@@ -948,7 +948,7 @@ translate french intro_day2_2_fee0cc03:
 translate french intro_day2_2_391b8c26:
 
     # Manager" "I'll send George over to take care of the reception and I expect you to be gone in half an hour at the latest!"
-    "Manager || Je vais envoyer George s'occuper de la réception et j'espère que tu seras partie dans une demi-heure au plus tard!"
+    "Manager" "Je vais envoyer George s'occuper de la réception et j'espère que tu seras partie dans une demi-heure au plus tard!"
 
 # game/intro_day2.rpy:206
 translate french intro_day2_2_5357dc76:

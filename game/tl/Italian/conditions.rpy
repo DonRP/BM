@@ -35,8 +35,8 @@ translate italian whatToDoHome_87461463:
 # game/conditions.rpy:1776
 translate italian whatToDoHome_70aa1e0b:
 
-    # n "Later [withdissolve]"
-    n "Più tardi [withdissolve]"
+    # n "Later" with dissolve
+    n "Più tardi" with dissolve
 
 # game/conditions.rpy:1788
 translate italian hall_23b4c9e6:

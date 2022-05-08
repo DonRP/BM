@@ -149,8 +149,8 @@ translate italian childRoomDay0_50f4faf2:
 # game/events_mc.rpy:51
 translate italian kitchenBreakfastDay0_719102df:
 
-    # n "A bit later [withdissolve]"
-    n "Un po' più tardi [withdissolve]"
+    # n "A bit later" with dissolve
+    n "Un po' più tardi" with dissolve
 
 # game/events_mc.rpy:55
 translate italian kitchenBreakfastDay0_024f1747:
@@ -317,8 +317,8 @@ translate italian kitchenBreakfastDay0_142c6d46:
 # game/events_mc.rpy:90
 translate italian kitchenBreakfastDay0_e8626d4a:
 
-    # n "A few minutes later [withdissolve]"
-    n "Alcuni minuti dopo [withdissolve]"
+    # n "A few minutes later" with dissolve
+    n "Alcuni minuti dopo" with dissolve
 
 # game/events_mc.rpy:94
 translate italian kitchenBreakfastDay0_71b5423a:
@@ -503,8 +503,8 @@ translate italian pcDream1_8f03e192:
 # game/events_mc.rpy:138
 translate italian pcDream1_d0053a27:
 
-    # n "In your dreams [withdissolve]"
-    n "Nei tuoi sogni [withdissolve]"
+    # n "In your dreams" with dissolve
+    n "Nei tuoi sogni" with dissolve
 
 # game/events_mc.rpy:141
 translate italian pcDream1_6834e5d1:
@@ -827,8 +827,8 @@ translate italian wakeupDay1_42ed6300:
 # game/events_mc.rpy:233
 translate italian wakeupDay1_66b94188:
 
-    # n "After a while [withdissolve]"
-    n "Dopo un po' [withdissolve]"
+    # n "After a while" with dissolve
+    n "Dopo un po'" with dissolve
 
 # game/events_mc.rpy:237
 translate italian wakeupDay1_341ebece:
@@ -1085,8 +1085,8 @@ translate italian stuffArrivesDay3_74e8e915:
 # game/events_mc.rpy:312
 translate italian getEfromSchool1_719102df:
 
-    # n "A bit later [withdissolve]"
-    n "Un po' più tardi [withdissolve]"
+    # n "A bit later" with dissolve
+    n "Un po' più tardi" with dissolve
 
 # game/events_mc.rpy:315
 translate italian getEfromSchool1_88129d62:
@@ -1523,8 +1523,8 @@ translate italian afterGetEFromSchool_1e2add12:
 # game/events_mc.rpy:434
 translate italian afterGetEFromSchool_a3af40ea:
 
-    # n "A few minutes later. [withdissolve]"
-    n "Pochi minuti dopo. [withdissolve]"
+    # n "A few minutes later." with dissolve
+    n "Pochi minuti dopo." with dissolve
 
 # game/events_mc.rpy:440
 translate italian afterGetEFromSchool_7a3851e5:
@@ -2003,8 +2003,8 @@ translate italian pcroomnight3_421360dd:
 # game/events_mc.rpy:597
 translate italian pcroomnight3_987cdc4b:
 
-    # n "Later that Night. [withdissolve]"
-    n "Più tardi quella Notte. [withdissolve]"
+    # n "Later that Night." with dissolve
+    n "Più tardi quella Notte." with dissolve
 
 # game/events_mc.rpy:601
 translate italian pcroomnight3_b97d710a:
@@ -3155,8 +3155,8 @@ translate italian ebd_a69377ef:
 # game/events_mc.rpy:879
 translate italian ebd_b7bc8b83:
 
-    # n "A little bit later. [withdissolve]"
-    n "Un po' più tardi. [withdissolve]"
+    # n "A little bit later." with dissolve
+    n "Un po' più tardi." with dissolve
 
 # game/events_mc.rpy:883
 translate italian ebd_4ca3b84a:
@@ -4985,8 +4985,8 @@ translate italian homeday4night_5b73bbbd:
 # game/events_mc.rpy:1357
 translate italian homeday4night_956ae696:
 
-    # m "[bpc]! WHAT THE HELL DID YOU DO THIS TIME? [withhpunch]"
-    m "[bpc]! COSA HELL DIDI FARE QUESTO TEMPO? [withhpunch]"
+    # m "[bpc]! WHAT THE HELL DID YOU DO THIS TIME?" with hpunch
+    m "[bpc]! COSA HELL DIDI FARE QUESTO TEMPO?" with hpunch
 
 # game/events_mc.rpy:1358
 translate italian homeday4night_5bd3bf2f:
@@ -5813,8 +5813,8 @@ translate italian d7_wakeup_225fadf5:
 # game/events_mc.rpy:1617
 translate italian d7_wakeup_cb44f5d6:
 
-    # pc "What the?! [e]? [withhpunch]"
-    pc "Che cosa?! [e]? [withhpunch]"
+    # pc "What the?! [e]?" with hpunch
+    pc "Che cosa?! [e]?" with hpunch
 
 # game/events_mc.rpy:1618
 translate italian d7_wakeup_267417d2:
@@ -9341,8 +9341,8 @@ translate italian d10johnson_00b9e6c9:
 # game/events_mc.rpy:2685
 translate italian d10johnson_9a8ef00c:
 
-    # n "You go have dinner and it tastes surprisingly well, even though you half expected it to be a disaster since [j] helped with it. [withdissolve]"
-    n "Si va a cena e ha un sapore sorprendentemente bene, anche se la metà si aspettava che fosse un disastro dal [j] aiutato con esso. [withdissolve]"
+    # n "You go have dinner and it tastes surprisingly well, even though you half expected it to be a disaster since [j] helped with it." with dissolve
+    n "Si va a cena e ha un sapore sorprendentemente bene, anche se la metà si aspettava che fosse un disastro dal [j] aiutato con esso." with dissolve
 
 # game/events_mc.rpy:2686
 translate italian d10johnson_3855fdcb:
@@ -9353,8 +9353,8 @@ translate italian d10johnson_3855fdcb:
 # game/events_mc.rpy:2701
 translate italian d10nightsex_38cd2de2:
 
-    # Voice" "Wakey wakey. [withslowdissolve]"
-    "Voce <unk> <unk> Wakey wakey. [withslowdissolve]"
+    # Voice" "Wakey wakey." with slowdissolve
+    "Voce <unk> <unk> Wakey wakey." with slowdissolve
 
 # game/events_mc.rpy:2702
 translate italian d10nightsex_9f4f5a57:
@@ -10193,8 +10193,8 @@ translate italian d10nend_c3b6f930:
 # game/events_mc.rpy:3045
 translate italian d10nend_d4f1256f:
 
-    # e "Hnnn... nhaaa... [withflash]"
-    e "Hnnn... nhaaa... [withflash]"
+    # e "Hnnn... nhaaa..." with flash
+    e "Hnnn... nhaaa..." with flash
 
 # game/events_mc.rpy:3046
 translate italian d10nend_b52f4e4b:
@@ -10205,8 +10205,8 @@ translate italian d10nend_b52f4e4b:
 # game/events_mc.rpy:3047
 translate italian d10nend_0cf7346a:
 
-    # pc "Holy shit! [withflash]"
-    pc "Merda santa! [withflash]"
+    # pc "Holy shit!" with flash
+    pc "Merda santa!" with flash
 
 # game/events_mc.rpy:3049
 translate italian d10nend_f2a00302:
@@ -10343,8 +10343,8 @@ translate italian d10nend_d9173080:
 # game/events_mc.rpy:3100
 translate italian d10nend_a24b49bc:
 
-    # pc "Shit... [withflash]"
-    pc "Shit... [withflash]"
+    # pc "Shit..." with flash
+    pc "Shit..." with flash
 
 # game/events_mc.rpy:3101
 translate italian d10nend_fe9c36e3:
@@ -10355,8 +10355,8 @@ translate italian d10nend_fe9c36e3:
 # game/events_mc.rpy:3102
 translate italian d10nend_a1c8f658:
 
-    # pc "Oh fuck! Don't stop, don't stop! [withflash]"
-    pc "Oh scopata! Non fermarti, non fermarti! [withflash]"
+    # pc "Oh fuck! Don't stop, don't stop!" with flash
+    pc "Oh scopata! Non fermarti, non fermarti!" with flash
 
 # game/events_mc.rpy:3103
 translate italian d10nend_808c8846:

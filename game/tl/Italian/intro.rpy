@@ -287,8 +287,8 @@ translate italian intro_d5ceade4:
 # game/intro.rpy:68
 translate italian intro_12354bf5:
 
-    # n "After a while... [withslowdissolve]"
-    n "Dopo un po'... [withslowdissolve]"
+    # n "After a while..." with slowdissolve
+    n "Dopo un po'..." with slowdissolve
 
 # game/intro.rpy:70
 translate italian intro_69874e88:

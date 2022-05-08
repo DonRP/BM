@@ -17,8 +17,8 @@
 # game/events_t.rpy:3
 translate french tIntroductionDay1_d40b86d0:
 
-    # n "Hours later [withdissolve]"
-    n "Quelques heures plus tard [withdissolve]"
+    # n "Hours later" with dissolve
+    n "Quelques heures plus tard" with dissolve
 
 # game/events_t.rpy:8
 translate french tIntroductionDay1_39855995:
@@ -30,7 +30,7 @@ translate french tIntroductionDay1_39855995:
 translate french tIntroductionDay1_49c00c69:
 
     # Voice" "{size=-10}Good afternoon [e]. How are you today? Did you do everything I told you?{/size}"
-    "Voice || {size=-10}Bon après-midi [e]. Comment vas-tu aujourd'hui ? As-tu fait tout ce que je t'ai dit ?{/size}"
+    "Voice" "{size=-10}Bon après-midi [e]. Comment vas-tu aujourd'hui ? As-tu fait tout ce que je t'ai dit ?{/size}"
 
 # game/events_t.rpy:14
 translate french tIntroductionDay1_78c37348:
@@ -48,7 +48,7 @@ translate french tIntroductionDay1_7684f445:
 translate french tIntroductionDay1_6195cba0:
 
     # Woman" "You must be [pc], I guess?"
-    "Femme || Vous devez être [pc], je suppose ?"
+    "Femme" "Vous devez être [pc], je suppose ?"
 
 # game/events_t.rpy:19
 translate french tIntroductionDay1_c19d9253:
@@ -60,7 +60,7 @@ translate french tIntroductionDay1_c19d9253:
 translate french tIntroductionDay1_e98c5f0a:
 
     # Woman" "Oh? No one told you about me?"
-    "Femme || Oh ? Personne ne vous a parlé de moi ?"
+    "Femme" "Oh ? Personne ne vous a parlé de moi ?"
 
 # game/events_t.rpy:22
 translate french tIntroductionDay1_daa5d770:
@@ -72,7 +72,7 @@ translate french tIntroductionDay1_daa5d770:
 translate french tIntroductionDay1_2c1d6a1f:
 
     # Woman" "I'm [e]'s therapist."
-    "Femme || Je suis le thérapeute de [e]."
+    "Femme" "Je suis le thérapeute de [e]."
 
 # game/events_t.rpy:26
 translate french tIntroductionDay1_eb2004dd:
@@ -2652,13 +2652,13 @@ translate french d7_city_99590f90:
 translate french d7_city_12de2011:
 
     # Girl" "Hey uncle, can you help me?"
-    "Fille || Hé, mon oncle, tu peux m'aider ?"
+    "Fille" "Hé, mon oncle, tu peux m'aider ?"
 
 # game/events_t.rpy:833
 translate french d7_city_829e4c46:
 
     # Girl" "Hey auntie, can you help me?"
-    "Fille || Hé, tatie, tu peux m'aider ?"
+    "Fille" "Hé, tatie, tu peux m'aider ?"
 
 # game/events_t.rpy:834
 translate french d7_city_b9a6cf60:
@@ -2676,7 +2676,7 @@ translate french d7_city_eb36d218:
 translate french d7_city_a5cd53d2:
 
     # Girl" "Over here!"
-    "Fille || Par ici !"
+    "Fille" "Par ici !"
 
 # game/events_t.rpy:838
 translate french d7_city_0aa6f3b9:
@@ -2724,13 +2724,13 @@ translate french d7_city_86065e86:
 translate french d7_city_477faa76:
 
     # Girl" "Shorryyy Katie!"
-    "Fille || Désolllééééeee Katie !"
+    "Fille" "Désolllééééeee Katie !"
 
 # game/events_t.rpy:854
 translate french d7_city_1d57676d:
 
     # Girl" "Lalala~"
-    "Fille || Lalala~"
+    "Fille" "Lalala~"
 
 # game/events_t.rpy:855
 translate french d7_city_c873d93e:
@@ -2904,7 +2904,7 @@ translate french d7_city_ab076aba:
 translate french d7_city_ea9bea23:
 
     # Voice" "DON'T CALL ME KATIE!"
-    "Voix || NE M'APPELLE PAS KATIE!"
+    "Voix" "NE M'APPELLE PAS KATIE!"
 
 # game/events_t.rpy:903
 translate french d7_city_32ead6f8:
@@ -2928,25 +2928,25 @@ translate french d7_city_7845dc7d:
 translate french d7_city_0bc4dd60:
 
     # Guy 1\" \"You know this bitch?"
-    "Guy 1' 'Tu connais cette salope ?"
+    "Guy 1" "Tu connais cette salope ?"
 
 # game/events_t.rpy:908
 translate french d7_city_0fe2ba6e:
 
     # Guy 2\" \"Yeah, she's in the same class as my little sister."
-    "Guy 2' 'Ouais, elle est dans la même classe que ma petite sœur."
+    "Guy 2" "Ouais, elle est dans la même classe que ma petite sœur."
 
 # game/events_t.rpy:909
 translate french d7_city_b644027e:
 
     # Guy 1\" \"Hehe, what is a little girl like you doing in a place like this?"
-    "Guy 1' 'Héhé, qu'est-ce qu'une petite fille comme toi fait dans un endroit comme celui-ci ?"
+    "Guy 1" "Héhé, qu'est-ce qu'une petite fille comme toi fait dans un endroit comme celui-ci ?"
 
 # game/events_t.rpy:910
 translate french d7_city_5f20f6d6:
 
     # Guy 2\" \"I bet she's here for a fix."
-    "Guy 2' 'Je parie qu'elle est ici pour une dose."
+    "Guy 2" "Je parie qu'elle est ici pour une dose."
 
 # game/events_t.rpy:911
 translate french d7_city_2ab3f982:
@@ -2958,13 +2958,13 @@ translate french d7_city_2ab3f982:
 translate french d7_city_680d1912:
 
     # Guy 1\" \"She can have a fix from my dick!"
-    "Guy 1' 'Elle peut avoir une dose de ma bite !"
+    "Guy 1" "Elle peut avoir une dose de ma bite !"
 
 # game/events_t.rpy:913
 translate french d7_city_72890f35:
 
     # Guy 2\" \"Haha, is that what you want Katie? Do you want a dose of dick?"
-    "Guy 2' 'Haha, c'est ce que tu veux Katie ? Tu veux une dose de bite ?"
+    "Guy 2" "Haha, c'est ce que tu veux Katie ? Tu veux une dose de bite ?"
 
 # game/events_t.rpy:914
 translate french d7_city_cc959afa:
@@ -2976,13 +2976,13 @@ translate french d7_city_cc959afa:
 translate french d7_city_307a16d3:
 
     # Guy 1\" \"Why not have some fun first, hehe."
-    "Guy 1' 'Pourquoi ne pas s'amuser d'abord, héhé."
+    "Guy 1" "Pourquoi ne pas s'amuser d'abord, héhé."
 
 # game/events_t.rpy:916
 translate french d7_city_da2e1133:
 
     # Guy 2\" \"Come on Katie, just a little suck!"
-    "Guy 2' 'Aller Katie, juste un peu sucer !"
+    "Guy 2" "Aller Katie, juste un peu sucer !"
 
 # game/events_t.rpy:917
 translate french d7_city_04a594b2:
@@ -3006,13 +3006,13 @@ translate french d7_city_d0e78819:
 translate french d7_city_da355043:
 
     # Guy 1\" \"YOU!"
-    "Guy 1' 'TOI!"
+    "Guy 1" "TOI!"
 
 # game/events_t.rpy:922
 translate french d7_city_4ed0c211:
 
     # Guy 2\" \"Get lost, [pc], this is none of your business!"
-    "Guy 2' 'Va te faire voir, [pc], ce n'est pas ton affaire !"
+    "Guy 2" "Va te faire voir, [pc], ce n'est pas ton affaire !"
 
 # game/events_t.rpy:923
 translate french d7_city_1fed5143:
@@ -3024,7 +3024,7 @@ translate french d7_city_1fed5143:
 translate french d7_city_80b481b8:
 
     # Guy 2\" \"What did you just say? Desperate for some beating?"
-    "Guy 2' 'Qu'est-ce que tu viens de dire ? Tu cherches désespérément à te faire battre ?"
+    "Guy 2" "Qu'est-ce que tu viens de dire ? Tu cherches désespérément à te faire battre ?"
 
 # game/events_t.rpy:926
 translate french d7_city_88ac01e1:
@@ -3036,19 +3036,19 @@ translate french d7_city_88ac01e1:
 translate french d7_city_c408fb2e:
 
     # Guy 1\" \"There are two of us now, motherfucker!"
-    "Guy 1' 'On est deux maintenant, enfoiré !"
+    "Guy 1" "On est deux maintenant, enfoiré !"
 
 # game/events_t.rpy:929
 translate french d7_city_88ab7b93:
 
     # Guy 2\" \"We'll beat the shit out of you, asshole!"
-    "Guy 2' 'On va te casser la gueule, connard !"
+    "Guy 2" "On va te casser la gueule, connard !"
 
 # game/events_t.rpy:931
 translate french d7_city_e982009d:
 
     # Guy 2\" \"What did you... how about {b}you{/b} suck my dick, bitch?!"
-    "Guy 2' 'Qu'est-ce que tu... que dirais-tu de {b}toi{/b} de me sucer, salope ?!"
+    "Guy 2" "Qu'est-ce que tu... que dirais-tu de {b}toi{/b} de me sucer, salope ?!"
 
 # game/events_t.rpy:932
 translate french d7_city_580368e0:
@@ -3060,7 +3060,7 @@ translate french d7_city_580368e0:
 translate french d7_city_1af4967b:
 
     # Guy 2\" \"I'll make you beg for it!"
-    "Guy 2' 'Je vais te faire supplier pour ça !"
+    "Guy 2" "Je vais te faire supplier pour ça !"
 
 # game/events_t.rpy:935
 translate french d7_city_b30f44aa:
@@ -3282,7 +3282,7 @@ translate french d7_city_6807f573:
 translate french d7_city_e5339b17:
 
     # Girl" "WOOHOOO!"
-    "Fille || WOHOOO!"
+    "Fille" "WOHOOO!"
 
 # game/events_t.rpy:1005
 translate french d7_city_152da006:
@@ -3342,7 +3342,7 @@ translate french d7_city_e5531711:
 translate french d7_city_d47c4177:
 
     # Girl" "WOOOO!"
-    "Fille || WOOOO!"
+    "Fille" "WOOOO!"
 
 # game/events_t.rpy:1019
 translate french d7_city_88e56bff:
@@ -3384,7 +3384,7 @@ translate french d7_city_1bb01731_4:
 translate french d7_city_63e0631c:
 
     # Girl" "Katieeeee! Can you push me?!"
-    "Fille || Katieeeeee! Peux-tu me pousser?!"
+    "Fille" "Katieeeeee! Peux-tu me pousser?!"
 
 # game/events_t.rpy:1031
 translate french d7_city_1bb01731_5:
@@ -3534,7 +3534,7 @@ translate french d7_city_c13c9007:
 translate french d7_city_e5339b17_1:
 
     # Girl" "WOOHOOO!"
-    "Fille || WOHOOO!"
+    "Fille" "WOHOOO!"
 
 # game/events_t.rpy:1067
 translate french d7_city_a69377ef_2:
@@ -4806,7 +4806,7 @@ translate french d10takekathome_472e2902:
 translate french d10takekathome_aca552e2:
 
     # Guy" "[t], I was waiting for you."
-    "Gars || [t], je t'attendais."
+    "Gars" "[t], je t'attendais."
 
 # game/events_t.rpy:1455
 translate french d10takekathome_7c95b21a:
@@ -4818,7 +4818,7 @@ translate french d10takekathome_7c95b21a:
 translate french d10takekathome_3e0b47aa:
 
     # Guy" "But I wanted to apologize."
-    "Gars || Mais je voulais m'excuser."
+    "Gars" "Mais je voulais m'excuser."
 
 # game/events_t.rpy:1459
 translate french d10takekathome_40d05d5e:
@@ -4836,13 +4836,13 @@ translate french d10takekathome_e57d7f7a:
 translate french d10takekathome_bc41d869:
 
     # Guy" "Who's that?"
-    "Gars || Qui c'est ?"
+    "Gars" "Qui c'est ?"
 
 # game/events_t.rpy:1465
 translate french d10takekathome_6175cd27:
 
     # Guy" "Don't tell me he's..."
-    "Gars || Ne me dis pas qu'il est..."
+    "Gars" "Ne me dis pas qu'il est..."
 
 # game/events_t.rpy:1467
 translate french d10takekathome_17cda043:
@@ -4878,13 +4878,13 @@ translate french d10takekathome_f3e7ce9d:
 translate french d10takekathome_5319d021:
 
     # Guy" "W-What?"
-    "Gars || Q-Quoi ?"
+    "Gars" "Q-Quoi ?"
 
 # game/events_t.rpy:1479
 translate french d10takekathome_fd342644:
 
     # Guy" "A-Are you lesbian now?!"
-    "Gars || tu es lesbienne maintenant ?!"
+    "Gars" "tu es lesbienne maintenant ?!"
 
 # game/events_t.rpy:1480
 translate french d10takekathome_0c8e7f39:
@@ -4896,13 +4896,13 @@ translate french d10takekathome_0c8e7f39:
 translate french d10takekathome_d7533d38:
 
     # Guy" "B-But... but..."
-    "Gars || M-Mais... mais..."
+    "Gars" "M-Mais... mais..."
 
 # game/events_t.rpy:1483
 translate french d10takekathome_5416477b:
 
     # Guy" "T-That's NTR!!!"
-    "Gars || C'est NTR !!!"
+    "Gars" "C'est NTR !!!"
 
 # game/events_t.rpy:1485
 translate french d10takekathome_ae99a11e:
@@ -4926,7 +4926,7 @@ translate french d10takekathome_3652c0c4:
 translate french d10takekathome_16ddbad7:
 
     # Guy" "Y-You can't do this to me, [t]."
-    "Gars || Tu ne peux pas me faire ça, [t]."
+    "Gars" "Tu ne peux pas me faire ça, [t]."
 
 # game/events_t.rpy:1492
 translate french d10takekathome_2413bfa9:
@@ -6377,8 +6377,8 @@ translate french lookatkat_d7d74b91:
 # game/events_t.rpy:2011
 translate french lookatkat_3fbd70eb:
 
-    # n "You get in the car and drive back home. [withslowdissolve]"
-    n "Vous montez dans la voiture et rentrez chez vous. [withslowdissolve]"
+    # n "You get in the car and drive back home." with slowdissolve
+    n "Vous montez dans la voiture et rentrez chez vous." with slowdissolve
 
 # game/events_t.rpy:2013
 translate french lookatkat_d76169d0:

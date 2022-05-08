@@ -17,8 +17,8 @@
 # game/intro_day3-4.rpy:3
 translate french intro_day3_8046137e:
 
-    # n "Next morning in the motel [withdissolve]"
-    n "Le lendemain matin au motel [withdissolve]"
+    # n "Next morning in the motel" with dissolve
+    n "Le lendemain matin au motel" with dissolve
 
 # game/intro_day3-4.rpy:7
 translate french intro_day3_0d0ec209:
@@ -77,26 +77,26 @@ translate french intro_day3_4ba8725b:
 # game/intro_day3-4.rpy:21
 translate french intro_day3_d8b6e64b:
 
-    # n "At night [withdissolve]"
-    n "La nuit [withdissolve]"
+    # n "At night" with dissolve
+    n "La nuit" with dissolve
 
 # game/intro_day3-4.rpy:25
 translate french intro_day3_be5544eb:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*craquement*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*craquement*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:26
 translate french intro_day3_be5544eb_1:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*craquement*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*craquement*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:27
 translate french intro_day3_be5544eb_2:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*craquement*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*craquement*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:29
 translate french intro_day3_399aa3d1:
@@ -107,44 +107,44 @@ translate french intro_day3_399aa3d1:
 # game/intro_day3-4.rpy:30
 translate french intro_day3_be5544eb_3:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*craquement*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*craquement*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:31
 translate french intro_day3_be5544eb_4:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*craquement*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*craquement*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:32
 translate french intro_day3_4214b531:
 
     # Voice" "{size=-10}Ahh, yes!{/size}"
-    "Voix || {size=-10}Ahh, oui!{/size}"
+    "Voix" "{size=-10}Ahh, oui!{/size}"
 
 # game/intro_day3-4.rpy:33
 translate french intro_day3_be5544eb_5:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*craquement*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*craquement*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:34
 translate french intro_day3_be5544eb_6:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*craquement*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*craquement*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:35
 translate french intro_day3_be5544eb_7:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*craquement*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*craquement*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:36
 translate french intro_day3_af9ff73e:
 
     # Voice" "{size=-10}Ahnn, babe!!{/size}"
-    "Voix || {size=-10}Ahnn, bébé!!{/size}"
+    "Voix" "{size=-10}Ahnn, bébé!!{/size}"
 
 # game/intro_day3-4.rpy:37
 translate french intro_day3_6d74e256:
@@ -161,14 +161,14 @@ translate french intro_day3_9fe8ca06:
 # game/intro_day3-4.rpy:40
 translate french intro_day3_be5544eb_8:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*craquement*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*craquement*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:41
 translate french intro_day3_be5544eb_9:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*craquement*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*craquement*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:42
 translate french intro_day3_a69377ef:
@@ -179,26 +179,26 @@ translate french intro_day3_a69377ef:
 # game/intro_day3-4.rpy:44
 translate french intro_day3_d40b86d0:
 
-    # n "Hours later [withdissolve]"
-    n "Quelques heures plus tard [withdissolve]"
+    # n "Hours later" with dissolve
+    n "Quelques heures plus tard" with dissolve
 
 # game/intro_day3-4.rpy:49
 translate french intro_day3_bb39f960:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*grondement*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*grondement*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:50
 translate french intro_day3_bb39f960_1:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*grondement*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*grondement*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:51
 translate french intro_day3_bb39f960_2:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*grondement*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*grondement*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:52
 translate french intro_day3_a69377ef_1:
@@ -209,20 +209,20 @@ translate french intro_day3_a69377ef_1:
 # game/intro_day3-4.rpy:53
 translate french intro_day3_bb39f960_3:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*grondement*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*grondement*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:54
 translate french intro_day3_bb39f960_4:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*grondement*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*grondement*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:55
 translate french intro_day3_bb39f960_5:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*grondement*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*grondement*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:56
 translate french intro_day3_5a69a7fb:
@@ -233,20 +233,20 @@ translate french intro_day3_5a69a7fb:
 # game/intro_day3-4.rpy:57
 translate french intro_day3_bb39f960_6:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*grondement*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*grondement*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:58
 translate french intro_day3_bb39f960_7:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*grondement*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*grondement*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:59
 translate french intro_day3_bb39f960_8:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*grondement*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*grondement*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:60
 translate french intro_day3_6aeae667:
@@ -263,14 +263,14 @@ translate french intro_day3_cf0bc38d:
 # game/intro_day3-4.rpy:65
 translate french intro_day3_719102df:
 
-    # n "A bit later [withdissolve]"
-    n "Un peu plus tard [withdissolve]"
+    # n "A bit later" with dissolve
+    n "Un peu plus tard" with dissolve
 
 # game/intro_day3-4.rpy:69
 translate french intro_day3_a897bc95:
 
     # Waitress\" \"Here you go."
-    "Serveuse' 'Voilà."
+    "Serveuse" "Voilà."
 
 # game/intro_day3-4.rpy:70
 translate french intro_day3_0b79a33b:
@@ -282,7 +282,7 @@ translate french intro_day3_0b79a33b:
 translate french intro_day3_88f370f6:
 
     # Waitress\" \"Thanks!"
-    "Serveuse' 'Merci!"
+    "Serveuse" "Merci!"
 
 # game/intro_day3-4.rpy:74
 translate french intro_day3_78443c11:
@@ -354,7 +354,7 @@ translate french intro_day3_f0bf90b6:
 translate french intro_day3_c553ea32:
 
     # Voice" "[pc]?"
-    "Voix || [pc]?"
+    "Voix" "[pc]?"
 
 # game/intro_day3-4.rpy:89
 translate french intro_day3_61e4f5ac:
@@ -683,8 +683,8 @@ translate french intro_day3_70b96ab6:
 # game/intro_day3-4.rpy:158
 translate french intro_day3_b1fd587f:
 
-    # n "Later that day. [withdissolve]"
-    n "Plus tard dans la journée. [withdissolve]"
+    # n "Later that day." with dissolve
+    n "Plus tard dans la journée." with dissolve
 
 # game/intro_day3-4.rpy:162
 translate french intro_day3_da524ba3:
@@ -1223,6 +1223,6 @@ translate french intro_day3_41ba250b:
 # game/intro_day3-4.rpy:290
 translate french intro_day3_1876c646:
 
-    # n "Home Day 0 [withdissolve]"
-    n "Jour dans la maison 0 [withdissolve]"
+    # n "Home Day 0" with dissolve
+    n "Jour dans la maison 0" with dissolve
 

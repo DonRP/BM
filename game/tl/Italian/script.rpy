@@ -17,14 +17,14 @@
 # game/script.rpy:346
 translate italian start_7dd9eee1:
 
-    # n "This game is a work of fiction, all characters are at least 99 years old and obviously not related to any living persons.\n [withfade]"
-    n "Questo gioco è un'opera di finzione, tutti i caratteri hanno almeno 99 anni e ovviamente non sono legati a persone viventi.\n [withfade]"
+    # n "This game is a work of fiction, all characters are at least 99 years old and obviously not related to any living persons.\n" with fade
+    n "Questo gioco è un'opera di finzione, tutti i caratteri hanno almeno 99 anni e ovviamente non sono legati a persone viventi.\n" with fade
 
 # game/script.rpy:348
 translate italian start_af67b41c:
 
-    # n "This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old. None of the characters are in any way related to any living persons.\n [withfade]"
-    n "Questo gioco è un'opera di finzione, tutti i personaggi sono progettati per rappresentare la loro età nel gioco e hanno almeno 18 anni. Nessuno dei caratteri è in alcun modo legato a persone viventi.\n [withfade]"
+    # n "This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old. None of the characters are in any way related to any living persons.\n" with fade
+    n "Questo gioco è un'opera di finzione, tutti i personaggi sono progettati per rappresentare la loro età nel gioco e hanno almeno 18 anni. Nessuno dei caratteri è in alcun modo legato a persone viventi.\n" with fade
 
 # game/script.rpy:349
 translate italian start_36a0049e:

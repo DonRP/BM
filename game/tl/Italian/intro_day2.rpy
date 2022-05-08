@@ -17,8 +17,8 @@
 # game/intro_day2.rpy:3
 translate italian intro_day2_d8b6e64b:
 
-    # n "At night [withdissolve]"
-    n "Di notte [withdissolve]"
+    # n "At night" with dissolve
+    n "Di notte" with dissolve
 
 # game/intro_day2.rpy:6
 translate italian intro_day2_bb2cf764:
@@ -29,8 +29,8 @@ translate italian intro_day2_bb2cf764:
 # game/intro_day2.rpy:9
 translate italian intro_day2_0de96e02:
 
-    # Loud Voice" "I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN! [withvpunch]"
-    "Voce rumorosa <unk> <unk> HAVE SEEN IT! NON DARE LIE TO ME AGAIN! [withvpunch]"
+    # Loud Voice" "I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN!" with vpunch
+    "Voce rumorosa <unk> <unk> HAVE SEEN IT! NON DARE LIE TO ME AGAIN!" with vpunch
 
 # game/intro_day2.rpy:10
 translate italian intro_day2_e7c86f6c:
@@ -59,8 +59,8 @@ translate italian intro_day2_2d683f63:
 # game/intro_day2.rpy:15
 translate italian intro_day2_dbd9bc4b:
 
-    # *SLAP* [withhpunch]"
-    "*SLAP* [withhpunch]"
+    # *SLAP*" with hpunch
+    "*SLAP*" with hpunch
 
 # game/intro_day2.rpy:16
 translate italian intro_day2_234974f3:
@@ -71,8 +71,8 @@ translate italian intro_day2_234974f3:
 # game/intro_day2.rpy:18
 translate italian intro_day2_dbd9bc4b_1:
 
-    # *SLAP* [withhpunch]"
-    "*SLAP* [withhpunch]"
+    # *SLAP*" with hpunch
+    "*SLAP*" with hpunch
 
 # game/intro_day2.rpy:19
 translate italian intro_day2_3fe3cd48:
@@ -95,8 +95,8 @@ translate italian intro_day2_ab5649b7:
 # game/intro_day2.rpy:23
 translate italian intro_day2_5dbe0428:
 
-    # *SMACK* [withhpunch]"
-    "*SMACK* [withhpunch]"
+    # *SMACK*" with hpunch
+    "*SMACK*" with hpunch
 
 # game/intro_day2.rpy:24
 translate italian intro_day2_801a666c:
@@ -353,8 +353,8 @@ translate italian intro_day2_fb34457e:
 # game/intro_day2.rpy:76
 translate italian intro_day2_a3af40ea:
 
-    # n "A few minutes later. [withdissolve]"
-    n "Pochi minuti dopo. [withdissolve]"
+    # n "A few minutes later." with dissolve
+    n "Pochi minuti dopo." with dissolve
 
 # game/intro_day2.rpy:79
 translate italian intro_day2_a982138e:

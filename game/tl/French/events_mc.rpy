@@ -3912,7 +3912,7 @@ translate french officeFirst_b6ac243e:
 translate french officeFirst_ba58eaa8:
 
     # Woman" "pc "[pcsure]?"
-    "Femme || [pc] [pcsure]?"
+    "Femme" "[pc] [pcsure]?"
 
 # game/events_mc.rpy:1090
 translate french officeFirst_5cf9f3a1:

@@ -41,8 +41,8 @@ translate italian jadaFirstMeet_45a17cdf:
 # game/events_j.rpy:9
 translate italian jadaFirstMeet_1c30cb5a:
 
-    # Girl" "Owww... [withhpunch]"
-    "Ragazza <unk> <unk> Owww... [withhpunch]"
+    # Girl" "Owww..." with hpunch
+    "Ragazza <unk> <unk> Owww..." with hpunch
 
 # game/events_j.rpy:10
 translate italian jadaFirstMeet_26b08e4a:
@@ -479,8 +479,8 @@ translate italian flirtyJ_1e2bd8f1:
 # game/events_j.rpy:124
 translate italian JVREbirthday_2efe3878:
 
-    # n "a while later [withdissolve]"
-    n "un po' più tardi [withdissolve]"
+    # n "a while later" with dissolve
+    n "un po' più tardi" with dissolve
 
 # game/events_j.rpy:128
 translate italian JVREbirthday_3713fca7:
@@ -1115,8 +1115,8 @@ translate italian ebdBringJadaHome_f29932bb:
 # game/events_j.rpy:286
 translate italian bringJadaHome_ffd9557d:
 
-    # n "a bit later [withdissolve]"
-    n "un po' più tardi [withdissolve]"
+    # n "a bit later" with dissolve
+    n "un po' più tardi" with dissolve
 
 # game/events_j.rpy:290
 translate italian bringJadaHome_1580c5d9:
@@ -2069,8 +2069,8 @@ translate italian d6_wayBackHome_f4545f94:
 # game/events_j.rpy:546
 translate italian d6_wayBackHome_247824fd:
 
-    # t "Haaaaya! [withhpunch]"
-    t "Haaaaya! [withhpunch]"
+    # t "Haaaaya!" with hpunch
+    t "Haaaaya!" with hpunch
 
 # game/events_j.rpy:547
 translate italian d6_wayBackHome_28e59d42:
@@ -3473,8 +3473,8 @@ translate italian d6_gotobed_withj_67fc39c0:
 # game/events_j.rpy:1009
 translate italian d6_gotobed_withj_31268906:
 
-    # j "{cps=15}{size=+10}HAAAAAAAH...{/size}{/cps} [withvpunch]"
-    j "{cps=15}{size=+10}HAAAAAAAH...{/size}{/cps} [withvpunch]"
+    # j "{cps=15}{size=+10}HAAAAAAAH...{/size}{/cps}" with vpunch
+    j "{cps=15}{size=+10}HAAAAAAAH...{/size}{/cps}" with vpunch
 
 # game/events_j.rpy:1012
 translate italian d6_gotobed_withj_2f842aac:
@@ -4493,14 +4493,14 @@ translate italian d7_motel_r_d0878a73:
 # game/events_j.rpy:1307
 translate italian d7_motel_r_f40b5f90:
 
-    # j "I'm... Nnnnnhaaaaa! [withflash]"
-    j "I'm... Nnnnnhaaaaa! [withflash]"
+    # j "I'm... Nnnnnhaaaaa!" with flash
+    j "I'm... Nnnnnhaaaaa!" with flash
 
 # game/events_j.rpy:1309
 translate italian d7_motel_r_b2de120e:
 
-    # j "Haaaaa~haaa! [withflash]"
-    j "Haaaaa~haaa! [withflash]"
+    # j "Haaaaa~haaa!" with flash
+    j "Haaaaa~haaa!" with flash
 
 # game/events_j.rpy:1311
 translate italian d7_motel_r_d7f7f532:
@@ -4763,8 +4763,8 @@ translate italian d7_motel_r_a69377ef_3:
 # game/events_j.rpy:1397
 translate italian d9_morning_wakeup_a2da44d8:
 
-    # n "*Boink* [withhpunch]"
-    n "*Boink* [withhpunch]"
+    # n "*Boink*" with hpunch
+    n "*Boink*" with hpunch
 
 # game/events_j.rpy:1400
 translate italian d9_morning_wakeup_32ead6f8:
@@ -5303,20 +5303,20 @@ translate italian d9_backhome_j_fun_3788d98b:
 # game/events_j.rpy:1571
 translate italian d9_backhome_j_fun_a82cd9b3:
 
-    # pc "I'm... cumming! Haa! [withflash]"
-    pc "I'm... cumming! Haa! [withflash]"
+    # pc "I'm... cumming! Haa!" with flash
+    pc "I'm... cumming! Haa!" with flash
 
 # game/events_j.rpy:1572
 translate italian d9_backhome_j_fun_71b5ee94:
 
-    # pc "Haaa! [withflash]"
-    pc "Haaa! [withflash]"
+    # pc "Haaa!" with flash
+    pc "Haaa!" with flash
 
 # game/events_j.rpy:1573
 translate italian d9_backhome_j_fun_9941a339:
 
-    # pc "Haa! [withflash]"
-    pc "Haa! [withflash]"
+    # pc "Haa!" with flash
+    pc "Haa!" with flash
 
 # game/events_j.rpy:1575
 translate italian d9_backhome_j_fun_301a07d8:
@@ -6473,8 +6473,8 @@ translate italian d11jbeforlsex_f3a584b1:
 # game/events_j.rpy:1932
 translate italian d11jbeforlsex_e6befaa2:
 
-    # pc "Fuck! [withflash]"
-    pc "Fuck! [withflash]"
+    # pc "Fuck!" with flash
+    pc "Fuck!" with flash
 
 # game/events_j.rpy:1934
 translate italian d11jbeforlsex_63d07698:
@@ -6491,26 +6491,26 @@ translate italian d11jbeforlsex_555491d5:
 # game/events_j.rpy:1937
 translate italian d11jbeforlsex_3ae6a016:
 
-    # pc "Shit! [withflash]"
-    pc "Merda! [withflash]"
+    # pc "Shit!" with flash
+    pc "Merda!" with flash
 
 # game/events_j.rpy:1938
 translate italian d11jbeforlsex_68f9b6b5:
 
-    # extend " Shit! [withflash]"
-    extend " Merda! [withflash]"
+    # extend " Shit!" with flash
+    extend " Merda!" with flash
 
 # game/events_j.rpy:1943
 translate italian d11jbeforlsex_68d1ad89:
 
-    # extend " Shit! [withvpunch]"
-    extend " Merda! [withvpunch]"
+    # extend " Shit!" with vpunch
+    extend " Merda!" with vpunch
 
 # game/events_j.rpy:1949
 translate italian d11jbeforlsex_68d1ad89_1:
 
-    # extend " Shit! [withvpunch]"
-    extend " Merda! [withvpunch]"
+    # extend " Shit!" with vpunch
+    extend " Merda!" with vpunch
 
 # game/events_j.rpy:1955
 translate italian d11jbeforlsex_e9b271fa:

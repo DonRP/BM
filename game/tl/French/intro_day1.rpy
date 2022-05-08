@@ -17,8 +17,8 @@
 # game/intro_day1.rpy:3
 translate french intro_day1_26086d61:
 
-    # n "Next Day [withdissolve]"
-    n "Jour suivant [withdissolve]"
+    # n "Next Day" with dissolve
+    n "Jour suivant" with dissolve
 
 # game/intro_day1.rpy:4
 translate french intro_day1_c95d7cc7:
@@ -54,7 +54,7 @@ translate french intro_day1_d72509a6:
 translate french intro_day1_6c2bd191:
 
     # Voice" "Hello [mrms] [pcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
-    "Voix || Bonjour [mrms] [pcsure], c'est Maggy Shelter. Je suis désolée mais j'ai de mauvaises nouvelles pour vous."
+    "Voix" "Bonjour [mrms] [pcsure], c'est Maggy Shelter. Je suis désolée mais j'ai de mauvaises nouvelles pour vous."
 
 # game/intro_day1.rpy:14
 translate french intro_day1_e76b2b51:
@@ -90,7 +90,7 @@ translate french intro_day1_6742a0b1:
 translate french intro_day1_f6bfe289:
 
     # Maggy" "Oh no, that must have been a shock to you."
-    "Maggy || Oh non, ça a dû être un choc pour vous."
+    "Maggy" "Oh non, ça a dû être un choc pour vous."
 
 # game/intro_day1.rpy:20
 translate french intro_day1_c396e8dd:
@@ -102,7 +102,7 @@ translate french intro_day1_c396e8dd:
 translate french intro_day1_fe20b456:
 
     # Maggy" "I'm so sorry [mrms] [pcsure]. Do you have somewhere else to stay?"
-    "Maggy || Je suis vraiment désolée [mrms] [pcsure]. Avez-vous un autre endroit où aller ?"
+    "Maggy" "Je suis vraiment désolée [mrms] [pcsure]. Avez-vous un autre endroit où aller ?"
 
 # game/intro_day1.rpy:22
 translate french intro_day1_b1b648a5:
@@ -114,7 +114,7 @@ translate french intro_day1_b1b648a5:
 translate french intro_day1_1642f9e0:
 
     # Maggy" "That's good to hear."
-    "Maggy || C'est bon à entendre."
+    "Maggy" "C'est bon à entendre."
 
 # game/intro_day1.rpy:24
 translate french intro_day1_15ea5f47:
@@ -126,7 +126,7 @@ translate french intro_day1_15ea5f47:
 translate french intro_day1_1dd487f2:
 
     # Maggy" "No, I'm sorry [mrms] [pcsure], there are no apartments free at the moment."
-    "Maggy || Non, je suis désolé [mrms] [pcsure], il n'y a pas d'appartements libres pour le moment."
+    "Maggy" "Non, je suis désolé [mrms] [pcsure], il n'y a pas d'appartements libres pour le moment."
 
 # game/intro_day1.rpy:26
 translate french intro_day1_e734f5df:
@@ -144,13 +144,13 @@ translate french intro_day1_6971775b:
 translate french intro_day1_830b6420:
 
     # Maggy" "..."
-    "Maggy || ..."
+    "Maggy" "..."
 
 # game/intro_day1.rpy:29
 translate french intro_day1_34d02470:
 
     # Maggy" "I... I might... but I have to make a few calls first."
-    "Maggy || Je... Je pourrais... mais je dois d'abord passer quelques coups de fil."
+    "Maggy" "Je... Je pourrais... mais je dois d'abord passer quelques coups de fil."
 
 # game/intro_day1.rpy:30
 translate french intro_day1_77c1565b:
@@ -174,7 +174,7 @@ translate french intro_day1_7232f241:
 translate french intro_day1_b61b07dd:
 
     # Maggy" "Okay then, I will call you as soon as I know something [mrms] [pcsure]."
-    "Maggy || Ok alors, je vous appelle dès que je sais quelque chose [mrms] [pcsure]."
+    "Maggy" "Ok alors, je vous appelle dès que je sais quelque chose [mrms] [pcsure]."
 
 # game/intro_day1.rpy:34
 translate french intro_day1_8931345c:
@@ -186,7 +186,7 @@ translate french intro_day1_8931345c:
 translate french intro_day1_827a732c:
 
     # Maggy" "Good bye [mrms].... ahem, [pc]."
-    "Maggy || Au revoir [mrms].... ahem, [pc]."
+    "Maggy" "Au revoir [mrms].... ahem, [pc]."
 
 # game/intro_day1.rpy:36
 translate french intro_day1_a77f3932:
@@ -258,7 +258,7 @@ translate french intro_day1_c7379241:
 translate french intro_day1_80fb1595:
 
     # Maggy" "Hey [mrms]..[pc]. Yes I might have something for you, but you have to hurry."
-    "Maggy || Hé [mrms]..[pc]. Oui, j'ai peut-être quelque chose pour toi, mais tu dois te dépêcher."
+    "Maggy" "Hé [mrms]..[pc]. Oui, j'ai peut-être quelque chose pour toi, mais tu dois te dépêcher."
 
 # game/intro_day1.rpy:51
 translate french intro_day1_5b7ef6d3:
@@ -276,7 +276,7 @@ translate french intro_day1_3dcfbf46:
 translate french intro_day1_3d21c59c:
 
     # Maggy" "Haha, glad to help."
-    "Maggy || Haha, heureux de vous aider."
+    "Maggy" "Haha, heureux de vous aider."
 
 # game/intro_day1.rpy:56
 translate french intro_day1_237e9798:
@@ -287,8 +287,8 @@ translate french intro_day1_237e9798:
 # game/intro_day1.rpy:59
 translate french intro_day1_846bba63:
 
-    # n "Half an hour later [withdissolve]"
-    n "Une demi-heure plus tard [withdissolve]"
+    # n "Half an hour later" with dissolve
+    n "Une demi-heure plus tard" with dissolve
 
 # game/intro_day1.rpy:61
 translate french intro_day1_12255e40:
@@ -312,7 +312,7 @@ translate french intro_day1_68797a1a:
 translate french intro_day1_4725ed56:
 
     # Broker\" \"I'm sorry [mrms].."
-    "Courtier' 'Je suis désolé [mrms].."
+    "Courtier" "Je suis désolé [mrms].."
 
 # game/intro_day1.rpy:69
 translate french intro_day1_8ff3f37e:
@@ -324,7 +324,7 @@ translate french intro_day1_8ff3f37e:
 translate french intro_day1_68528fb1:
 
     # Broker\" \"[pcsure]? Hum... I don't remember your name, did we have an appointment?"
-    "Courtier' '[pcsure]? Hum... Je ne me souviens pas de votre nom, avons-nous eu un rendez-vous?"
+    "Courtier" "[pcsure]? Hum... Je ne me souviens pas de votre nom, avons-nous eu un rendez-vous?"
 
 # game/intro_day1.rpy:73
 translate french intro_day1_88d7dcd5:
@@ -336,19 +336,19 @@ translate french intro_day1_88d7dcd5:
 translate french intro_day1_deb7173e:
 
     # Guy" "You're too late, man."
-    "Gars || C'est trop tard, mec."
+    "Gars" "C'est trop tard, mec."
 
 # game/intro_day1.rpy:78
 translate french intro_day1_8b6d7015:
 
     # Guy" "You're too late. It's sold!"
-    "Gars || C'est trop tard. C'est vendu!"
+    "Gars" "C'est trop tard. C'est vendu!"
 
 # game/intro_day1.rpy:80
 translate french intro_day1_e507774e:
 
     # Broker\" \"Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
-    "Courtier' 'Eh bien, je suis désolé [mrms] [pcsure]. Ce charmant couple ici vient de conclure l'affaire pour cet appartement."
+    "Courtier" "Eh bien, je suis désolé [mrms] [pcsure]. Ce charmant couple ici vient de conclure l'affaire pour cet appartement."
 
 # game/intro_day1.rpy:81
 translate french intro_day1_99dfcf7e:
@@ -390,13 +390,13 @@ translate french intro_day1_e73c363b:
 translate french intro_day1_e1d2b02a:
 
     # Random Guy\" \"Oh and don't forget the other Ramen, and the Negi."
-    "Gars au hasard' 'Oh et n'oublie pas l'autre Ramen, et le Negi."
+    "Gars au hasard" "Oh et n'oublie pas l'autre Ramen, et le Negi."
 
 # game/intro_day1.rpy:92
 translate french intro_day1_ec6c00f8:
 
     # Girl" "Of course!"
-    "Fille || Bien sûr!"
+    "Fille" "Bien sûr!"
 
 # game/intro_day1.rpy:93
 translate french intro_day1_f0cac90d:
@@ -449,8 +449,8 @@ translate french intro_day1_b2b82112:
 # game/intro_day1.rpy:106
 translate french intro_day1_46387776:
 
-    # m "[pc]? Is that you? [withvpunch]"
-    m "[pc]? C'est toi? [withvpunch]"
+    # m "[pc]? Is that you?" with vpunch
+    m "[pc]? C'est toi?" with vpunch
 
 # game/intro_day1.rpy:107
 translate french intro_day1_90a099af:
@@ -791,8 +791,8 @@ translate french intro_day1_3b445d96:
 # game/intro_day1.rpy:185
 translate french intro_day1_719102df:
 
-    # n "A bit later [withdissolve]"
-    n "Un peu plus tard [withdissolve]"
+    # n "A bit later" with dissolve
+    n "Un peu plus tard" with dissolve
 
 # game/intro_day1.rpy:189
 translate french intro_day1_69397787:
@@ -881,8 +881,8 @@ translate french intro_day1_4bc411f5:
 # game/intro_day1.rpy:211
 translate french intro_day1_779ce34b:
 
-    # pc "You are NOT my mom. Not even my stepmom. You're just some woman who used to live with my dad, you weren't even married. [withhpunch]"
-    pc "Tu N'es PAS ma mère. Ni même ma belle-mère. Tu es juste une femme qui vivait avec mon père, tu n'étais même pas mariée à lui. [withhpunch]"
+    # pc "You are NOT my mom. Not even my stepmom. You're just some woman who used to live with my dad, you weren't even married." with hpunch
+    pc "Tu N'es PAS ma mère. Ni même ma belle-mère. Tu es juste une femme qui vivait avec mon père, tu n'étais même pas mariée à lui." with hpunch
 
 # game/intro_day1.rpy:213
 translate french intro_day1_e69acfb2:

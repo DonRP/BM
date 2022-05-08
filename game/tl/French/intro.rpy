@@ -96,13 +96,13 @@ translate french intro_6dc07ea8:
 translate french intro_ef06476f:
 
     # Cab driver" "Alright, that's as close as we can get."
-    "Chauffeur de taxi || D'accord, c'est aussi proche que possible."
+    "Chauffeur de taxi" "D'accord, c'est aussi proche que possible."
 
 # game/intro.rpy:26
 translate french intro_dbcbd63e:
 
     # Cab driver" "As I said earlier, the road is blocked by construction work, but it's not far from here anyway."
-    "Chauffeur de taxi || Comme je l'ai dit plus tôt, la route est bloquée par des travaux de construction, mais ce n'est pas loin d'ici de toute façon."
+    "Chauffeur de taxi" "Comme je l'ai dit plus tôt, la route est bloquée par des travaux de construction, mais ce n'est pas loin d'ici de toute façon."
 
 # game/intro.rpy:27
 translate french intro_25e6aa2b:
@@ -126,7 +126,7 @@ translate french intro_6f4510a3:
 translate french intro_f5a5e7ce:
 
     # Cab driver" "'Kay, good luck."
-    "Chauffeur de taxi || 'Ok, bonne chance."
+    "Chauffeur de taxi" "'Ok, bonne chance."
 
 # game/intro.rpy:32
 translate french intro_942da871:
@@ -240,7 +240,7 @@ translate french intro_55596f45:
 translate french intro_d011e9b5:
 
     # Cop" "...that sounds fishy! Let me see your ID!"
-    "Policier || ...ça a l'air louche! Montrez-moi votre carte d'identité!"
+    "Policier" "...ça a l'air louche! Montrez-moi votre carte d'identité!"
 
 # game/intro.rpy:60
 translate french intro_8be234d7:
@@ -252,7 +252,7 @@ translate french intro_8be234d7:
 translate french intro_7144fd86:
 
     # Cop" "Yeah, that's what they all say... Your ID!"
-    "Policier || Ouais, c'est ce qu'ils disent tous... Votre carte d'identité!"
+    "Policier" "Ouais, c'est ce qu'ils disent tous... Votre carte d'identité!"
 
 # game/intro.rpy:62
 translate french intro_ddbf7dad:
@@ -264,7 +264,7 @@ translate french intro_ddbf7dad:
 translate french intro_a512ea4d:
 
     # Cop" "Listen, [boygirl]! If you don't show me your ID right now, I have some comfortable cuffs and a cosy little holding cell waiting for you."
-    "Policier || Ecoutez, [boygirl]! Si vous ne me montrez pas votre carte d'identité tout de suite, j'ai des menottes confortables et une petite cellule de détention confortable qui vous attend."
+    "Policier" "Ecoutez, [boygirl]! Si vous ne me montrez pas votre carte d'identité tout de suite, j'ai des menottes confortables et une petite cellule de détention confortable qui vous attend."
 
 # game/intro.rpy:64
 translate french intro_e617caae:
@@ -287,14 +287,14 @@ translate french intro_d5ceade4:
 # game/intro.rpy:68
 translate french intro_12354bf5:
 
-    # n "After a while... [withslowdissolve]"
-    n "Après un certain temps... [withslowdissolve]"
+    # n "After a while..." with slowdissolve
+    n "Après un certain temps..." with slowdissolve
 
 # game/intro.rpy:70
 translate french intro_69874e88:
 
     # Cop" "...and you better stay in the city, or you'll be in trouble!"
-    "Policier || ...et vous feriez mieux de rester en ville, ou vous aurez des ennuis !"
+    "Policier" "...et vous feriez mieux de rester en ville, ou vous aurez des ennuis !"
 
 # game/intro.rpy:71
 translate french intro_37a87cb8:
@@ -324,7 +324,7 @@ translate french intro_932e84e0:
 translate french intro_a09e7d34:
 
     # Receptionist" "Good evening, how can I help you?"
-    "Réceptionniste || Bonsoir, comment puis-je vous aider?"
+    "Réceptionniste" "Bonsoir, comment puis-je vous aider?"
 
 # game/intro.rpy:81
 translate french intro_da861a3e:
@@ -336,7 +336,7 @@ translate french intro_da861a3e:
 translate french intro_07b4f57e:
 
     # Receptionist" "Uhm... uh-huh, yes..."
-    "Réceptionniste || Euh... Euh, oui..."
+    "Réceptionniste" "Euh... Euh, oui..."
 
 # game/intro.rpy:110
 translate french intro_31133b56:
@@ -348,13 +348,13 @@ translate french intro_31133b56:
 translate french intro_7dc85376:
 
     # Receptionist" "It's room number 24 on the second floor."
-    "Réceptionniste || C'est la chambre numéro 24 au deuxième étage."
+    "Réceptionniste" "C'est la chambre numéro 24 au deuxième étage."
 
 # game/intro.rpy:114
 translate french intro_e8b2bd40:
 
     # Receptionist" "Here's the key. Have a pleasant stay!"
-    "Réceptionniste || Voici la clé. Bon séjour!"
+    "Réceptionniste" "Voici la clé. Bon séjour!"
 
 # game/intro.rpy:115
 translate french intro_0b71a1d8:

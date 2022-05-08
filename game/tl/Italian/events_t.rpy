@@ -17,8 +17,8 @@
 # game/events_t.rpy:3
 translate italian tIntroductionDay1_d40b86d0:
 
-    # n "Hours later [withdissolve]"
-    n "Ore successive [withdissolve]"
+    # n "Hours later" with dissolve
+    n "Ore successive" with dissolve
 
 # game/events_t.rpy:8
 translate italian tIntroductionDay1_39855995:
@@ -2730,7 +2730,7 @@ translate italian d7_city_477faa76:
 translate italian d7_city_1d57676d:
 
     # Girl" "Lalala~"
-    "Girl || Lalala~"
+    "Girl" "Lalala~"
 
 # game/events_t.rpy:855
 translate italian d7_city_c873d93e:
@@ -6377,8 +6377,8 @@ translate italian lookatkat_d7d74b91:
 # game/events_t.rpy:2011
 translate italian lookatkat_3fbd70eb:
 
-    # n "You get in the car and drive back home. [withslowdissolve]"
-    n "Si arriva in auto e tornare a casa. [withslowdissolve]"
+    # n "You get in the car and drive back home." with slowdissolve
+    n "Si arriva in auto e tornare a casa." with slowdissolve
 
 # game/events_t.rpy:2013
 translate italian lookatkat_d76169d0:

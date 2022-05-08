@@ -17,8 +17,8 @@
 # game/intro_day1.rpy:3
 translate italian intro_day1_26086d61:
 
-    # n "Next Day [withdissolve]"
-    n "Giorno successivo [withdissolve]"
+    # n "Next Day" with dissolve
+    n "Giorno successivo" with dissolve
 
 # game/intro_day1.rpy:4
 translate italian intro_day1_c95d7cc7:
@@ -144,7 +144,7 @@ translate italian intro_day1_6971775b:
 translate italian intro_day1_830b6420:
 
     # Maggy" "..."
-    "Maggy || ..."
+    "Maggy" "..."
 
 # game/intro_day1.rpy:29
 translate italian intro_day1_34d02470:
@@ -287,8 +287,8 @@ translate italian intro_day1_237e9798:
 # game/intro_day1.rpy:59
 translate italian intro_day1_846bba63:
 
-    # n "Half an hour later [withdissolve]"
-    n "mezz'ora dopo [withdissolve]"
+    # n "Half an hour later" with dissolve
+    n "mezz'ora dopo" with dissolve
 
 # game/intro_day1.rpy:61
 translate italian intro_day1_12255e40:
@@ -449,8 +449,8 @@ translate italian intro_day1_b2b82112:
 # game/intro_day1.rpy:106
 translate italian intro_day1_46387776:
 
-    # m "[pc]? Is that you? [withvpunch]"
-    m "[pc]? Sei tu? [withvpunch]"
+    # m "[pc]? Is that you?" with vpunch
+    m "[pc]? Sei tu?" with vpunch
 
 # game/intro_day1.rpy:107
 translate italian intro_day1_90a099af:
@@ -791,8 +791,8 @@ translate italian intro_day1_3b445d96:
 # game/intro_day1.rpy:185
 translate italian intro_day1_719102df:
 
-    # n "A bit later [withdissolve]"
-    n "Un po' più tardi [withdissolve]"
+    # n "A bit later" with dissolve
+    n "Un po' più tardi" with dissolve
 
 # game/intro_day1.rpy:189
 translate italian intro_day1_69397787:
@@ -881,8 +881,8 @@ translate italian intro_day1_4bc411f5:
 # game/intro_day1.rpy:211
 translate italian intro_day1_779ce34b:
 
-    # pc "You are NOT my mom. Not even my stepmom. You're just some woman who used to live with my dad, you weren't even married. [withhpunch]"
-    pc "Non sei mia mamma. Neanche la mia matrigna. Sei solo una donna che viveva con mio papà, non eravate nemmeno sposati. [withhpunch]"
+    # pc "You are NOT my mom. Not even my stepmom. You're just some woman who used to live with my dad, you weren't even married." with hpunch
+    pc "Non sei mia mamma. Neanche la mia matrigna. Sei solo una donna che viveva con mio papà, non eravate nemmeno sposati." with hpunch
 
 # game/intro_day1.rpy:213
 translate italian intro_day1_e69acfb2:

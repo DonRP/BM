@@ -95,8 +95,8 @@ translate italian rachelBathroomDay0_a5b0cbf1:
 # game/events_m.rpy:27
 translate italian rachelBathroomDay0_38e53f54:
 
-    # n "1 Hour later [withdissolve]"
-    n "1 Ora più tardi [withdissolve]"
+    # n "1 Hour later" with dissolve
+    n "1 Ora più tardi" with dissolve
 
 # game/events_m.rpy:32
 translate italian rachelBathroomDay0_5318f927:
@@ -443,8 +443,8 @@ translate italian mTellNotToDisturb_9313a3e8:
 # game/events_m.rpy:139
 translate italian mTellNotToDisturb_719102df:
 
-    # n "A bit later [withdissolve]"
-    n "Un po' più tardi [withdissolve]"
+    # n "A bit later" with dissolve
+    n "Un po' più tardi" with dissolve
 
 # game/events_m.rpy:144
 translate italian mTellNotToDisturb_ea854d01:
@@ -2207,8 +2207,8 @@ translate italian rachelElliesBDayReminder_40e1b6da:
 # game/events_m.rpy:563
 translate italian rachelElliesBDayReminder_686cd90a:
 
-    # n "30 minutes later [withdissolve]"
-    n "30 minuti dopo [withdissolve]"
+    # n "30 minutes later" with dissolve
+    n "30 minuti dopo" with dissolve
 
 # game/events_m.rpy:575
 translate italian rachelPills3rd_24cda31b:
@@ -3095,8 +3095,8 @@ translate italian bathroomRAfterEBD_311a050e:
 # game/events_m.rpy:793
 translate italian bathroomRAfterEBD_1df8a7df:
 
-    # n "A bit later. [withdissolve]"
-    n "Un po' più tardi. [withdissolve]"
+    # n "A bit later." with dissolve
+    n "Un po' più tardi." with dissolve
 
 # game/events_m.rpy:798
 translate italian bathroomRAfterEBD_67e07758:
@@ -8567,8 +8567,8 @@ translate italian d10shower2_069f3e25:
 # game/events_m.rpy:2344
 translate italian d10shower2_2aacafaf:
 
-    # n "A little bit later. [withslowdissolve]"
-    n "Un po' più tardi. [withslowdissolve]"
+    # n "A little bit later." with slowdissolve
+    n "Un po' più tardi." with slowdissolve
 
 translate italian strings:
 

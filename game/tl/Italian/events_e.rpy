@@ -131,8 +131,8 @@ translate italian ellieWakeup_e765d703:
 # game/events_e.rpy:58
 translate italian eOnLap_13e3fb92:
 
-    # n "A while later [withdissolve]"
-    n "Un po' più tardi [withdissolve]"
+    # n "A while later" with dissolve
+    n "Un po' più tardi" with dissolve
 
 # game/events_e.rpy:62
 translate italian eOnLap_aadbb422:
@@ -269,8 +269,8 @@ translate italian eOnLap_a3b9f1c1:
 # game/events_e.rpy:110
 translate italian eNightTwo_571fd885:
 
-    # n "Night [withdissolve]"
-    n "Notte [withdissolve]"
+    # n "Night" with dissolve
+    n "Notte" with dissolve
 
 # game/events_e.rpy:114
 translate italian eNightTwo_a69377ef:
@@ -803,8 +803,8 @@ translate italian ellieVR_18a522c8:
 # game/events_e.rpy:253
 translate italian ellieVR_d40b86d0:
 
-    # n "Hours later [withdissolve]"
-    n "Ore successive [withdissolve]"
+    # n "Hours later" with dissolve
+    n "Ore successive" with dissolve
 
 # game/events_e.rpy:262
 translate italian childroomPCtalktoEllie_d94ea987:
@@ -1409,8 +1409,8 @@ translate italian eKitten_321a6bca:
 # game/events_e.rpy:452
 translate italian eKitten_07ffdbb2:
 
-    # pc "SURPRISE ATTACK! [withhpunch]"
-    pc "SURPRISE ATTACK! [withhpunch]"
+    # pc "SURPRISE ATTACK!" with hpunch
+    pc "SURPRISE ATTACK!" with hpunch
 
 # game/events_e.rpy:454
 translate italian eKitten_f76a2d84:
@@ -1577,8 +1577,8 @@ translate italian eKitten_200d9606:
 # game/events_e.rpy:495
 translate italian eKitten_3ef77fca:
 
-    # pc "Fuuuck! [withhpunch]"
-    pc "Fuuuck! [withhpunch]"
+    # pc "Fuuuck!" with hpunch
+    pc "Fuuuck!" with hpunch
 
 # game/events_e.rpy:497
 translate italian eKitten_56589d3a:
@@ -1955,14 +1955,14 @@ translate italian makedinnerwithE_cc85c724:
 # game/events_e.rpy:627
 translate italian eHumpNight5_d8b6e64b:
 
-    # n "At night [withdissolve]"
-    n "Di notte [withdissolve]"
+    # n "At night" with dissolve
+    n "Di notte" with dissolve
 
 # game/events_e.rpy:628
 translate italian eHumpNight5_3b4daaf7:
 
-    # m "[bpc] WHERE IS MY WINE? [withhpunch]"
-    m "[bpc] DOVE È IL MIO VINO? [withhpunch]"
+    # m "[bpc] WHERE IS MY WINE?" with hpunch
+    m "[bpc] DOVE È IL MIO VINO?" with hpunch
 
 # game/events_e.rpy:629
 translate italian eHumpNight5_67cbb0aa:
@@ -2291,14 +2291,14 @@ translate italian eHumpNight5_r_4142a619:
 # game/events_e.rpy:733
 translate italian eHumpNight5_r_a9a510d6:
 
-    # e "Hnnn... haah... [withflash]"
-    e "Hnnn... haah... [withflash]"
+    # e "Hnnn... haah..." with flash
+    e "Hnnn... haah..." with flash
 
 # game/events_e.rpy:737
 translate italian eHumpNight5_r_ccfe6e9c:
 
-    # e "Nnnhaaah! [withflash]"
-    e "Nnnhaaah! [withflash]"
+    # e "Nnnhaaah!" with flash
+    e "Nnnhaaah!" with flash
 
 # game/events_e.rpy:739
 translate italian eHumpNight5_r_848a432b:
@@ -2579,8 +2579,8 @@ translate italian d7_evening_e_775f4433:
 # game/events_e.rpy:841
 translate italian d7_evening_e_5abebc61:
 
-    # pc "Whoa, hold tight, [e]! [withhpunch]"
-    pc "Whoa, tieni stretto, [e]! [withhpunch]"
+    # pc "Whoa, hold tight, [e]!" with hpunch
+    pc "Whoa, tieni stretto, [e]!" with hpunch
 
 # game/events_e.rpy:843
 translate italian d7_evening_e_e792b68b:
@@ -2999,8 +2999,8 @@ translate italian d9_pcroom_e01_cf11ab79:
 # game/events_e.rpy:997
 translate italian d9_pcroom_e01_1fe77d01:
 
-    # pc "Tickle you until you submit! [withhpunch]"
-    pc "Tickle you until you submit! [withhpunch]"
+    # pc "Tickle you until you submit!" with hpunch
+    pc "Tickle you until you submit!" with hpunch
 
 # game/events_e.rpy:999
 translate italian d9_pcroom_e01_b3a08e3e:
@@ -3275,14 +3275,14 @@ translate italian d9_pcroom_e01_e66a9448:
 # game/events_e.rpy:1112
 translate italian d9_pcroom_e01_9c0d642e:
 
-    # e "HAAAA! [withflash]"
-    e "HAAAA! [withflash]"
+    # e "HAAAA!" with flash
+    e "HAAAA!" with flash
 
 # game/events_e.rpy:1120
 translate italian d9_pcroom_e01_a6fa37ed:
 
-    # e "Hnaaa, haaa, haaaaa! [withflash]"
-    e "Hnaaa, haaa, haaaaa! [withflash]"
+    # e "Hnaaa, haaa, haaaaa!" with flash
+    e "Hnaaa, haaa, haaaaa!" with flash
 
 # game/events_e.rpy:1131
 translate italian d9_pcroom_e01_ac2fc58a:
@@ -3431,14 +3431,14 @@ translate italian d10eshow_61e271ca:
 # game/events_e.rpy:1176
 translate italian d10eshow_73bfdce0:
 
-    # n "Seeing the old teddy again makes you think about old times before your mom died... [withdissolve]"
-    n "Vedendo di nuovo il vecchio peluche ti fa pensare ai vecchi tempi prima che tua mamma morisca... [withdissolve]"
+    # n "Seeing the old teddy again makes you think about old times before your mom died..." with dissolve
+    n "Vedendo di nuovo il vecchio peluche ti fa pensare ai vecchi tempi prima che tua mamma morisca..." with dissolve
 
 # game/events_e.rpy:1177
 translate italian d10eshow_8567b715:
 
-    # pc "... [withdissolve]"
-    pc "... [withdissolve]"
+    # pc "..." with dissolve
+    pc "..." with dissolve
 
 # game/events_e.rpy:1178
 translate italian d10eshow_688cad9a:

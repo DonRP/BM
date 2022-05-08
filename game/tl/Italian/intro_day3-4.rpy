@@ -17,8 +17,8 @@
 # game/intro_day3-4.rpy:3
 translate italian intro_day3_8046137e:
 
-    # n "Next morning in the motel [withdissolve]"
-    n "La prossima mattina nel motel [withdissolve]"
+    # n "Next morning in the motel" with dissolve
+    n "La prossima mattina nel motel" with dissolve
 
 # game/intro_day3-4.rpy:7
 translate italian intro_day3_0d0ec209:
@@ -77,26 +77,26 @@ translate italian intro_day3_4ba8725b:
 # game/intro_day3-4.rpy:21
 translate italian intro_day3_d8b6e64b:
 
-    # n "At night [withdissolve]"
-    n "Di notte [withdissolve]"
+    # n "At night" with dissolve
+    n "Di notte" with dissolve
 
 # game/intro_day3-4.rpy:25
 translate italian intro_day3_be5544eb:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*creak*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*creak*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:26
 translate italian intro_day3_be5544eb_1:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*creak*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*creak*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:27
 translate italian intro_day3_be5544eb_2:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*creak*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*creak*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:29
 translate italian intro_day3_399aa3d1:
@@ -107,14 +107,14 @@ translate italian intro_day3_399aa3d1:
 # game/intro_day3-4.rpy:30
 translate italian intro_day3_be5544eb_3:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*creak*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*creak*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:31
 translate italian intro_day3_be5544eb_4:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*creak*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*creak*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:32
 translate italian intro_day3_4214b531:
@@ -125,20 +125,20 @@ translate italian intro_day3_4214b531:
 # game/intro_day3-4.rpy:33
 translate italian intro_day3_be5544eb_5:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*creak*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*creak*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:34
 translate italian intro_day3_be5544eb_6:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*creak*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*creak*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:35
 translate italian intro_day3_be5544eb_7:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*creak*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*creak*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:36
 translate italian intro_day3_af9ff73e:
@@ -161,14 +161,14 @@ translate italian intro_day3_9fe8ca06:
 # game/intro_day3-4.rpy:40
 translate italian intro_day3_be5544eb_8:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*creak*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*creak*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:41
 translate italian intro_day3_be5544eb_9:
 
-    # n "*creak*{w=1}{nw} [withhpunch]"
-    n "*creak*{w=1}{nw} [withhpunch]"
+    # n "*creak*{w=1}{nw}" with hpunch
+    n "*creak*{w=1}{nw}" with hpunch
 
 # game/intro_day3-4.rpy:42
 translate italian intro_day3_a69377ef:
@@ -179,26 +179,26 @@ translate italian intro_day3_a69377ef:
 # game/intro_day3-4.rpy:44
 translate italian intro_day3_d40b86d0:
 
-    # n "Hours later [withdissolve]"
-    n "Ore successive [withdissolve]"
+    # n "Hours later" with dissolve
+    n "Ore successive" with dissolve
 
 # game/intro_day3-4.rpy:49
 translate italian intro_day3_bb39f960:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*rumble*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*rumble*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:50
 translate italian intro_day3_bb39f960_1:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*rumble*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*rumble*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:51
 translate italian intro_day3_bb39f960_2:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*rumble*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*rumble*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:52
 translate italian intro_day3_a69377ef_1:
@@ -209,20 +209,20 @@ translate italian intro_day3_a69377ef_1:
 # game/intro_day3-4.rpy:53
 translate italian intro_day3_bb39f960_3:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*rumble*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*rumble*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:54
 translate italian intro_day3_bb39f960_4:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*rumble*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*rumble*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:55
 translate italian intro_day3_bb39f960_5:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*rumble*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*rumble*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:56
 translate italian intro_day3_5a69a7fb:
@@ -233,20 +233,20 @@ translate italian intro_day3_5a69a7fb:
 # game/intro_day3-4.rpy:57
 translate italian intro_day3_bb39f960_6:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*rumble*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*rumble*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:58
 translate italian intro_day3_bb39f960_7:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*rumble*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*rumble*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:59
 translate italian intro_day3_bb39f960_8:
 
-    # n "*rumble*{w=0.5}{nw} [withvpunch]"
-    n "*rumble*{w=0.5}{nw} [withvpunch]"
+    # n "*rumble*{w=0.5}{nw}" with vpunch
+    n "*rumble*{w=0.5}{nw}" with vpunch
 
 # game/intro_day3-4.rpy:60
 translate italian intro_day3_6aeae667:
@@ -263,8 +263,8 @@ translate italian intro_day3_cf0bc38d:
 # game/intro_day3-4.rpy:65
 translate italian intro_day3_719102df:
 
-    # n "A bit later [withdissolve]"
-    n "Un po' più tardi [withdissolve]"
+    # n "A bit later" with dissolve
+    n "Un po' più tardi" with dissolve
 
 # game/intro_day3-4.rpy:69
 translate italian intro_day3_a897bc95:
@@ -683,8 +683,8 @@ translate italian intro_day3_70b96ab6:
 # game/intro_day3-4.rpy:158
 translate italian intro_day3_b1fd587f:
 
-    # n "Later that day. [withdissolve]"
-    n "Più tardi quel giorno [withdissolve]"
+    # n "Later that day." with dissolve
+    n "Più tardi quel giorno" with dissolve
 
 # game/intro_day3-4.rpy:162
 translate italian intro_day3_da524ba3:
@@ -1223,6 +1223,6 @@ translate italian intro_day3_41ba250b:
 # game/intro_day3-4.rpy:290
 translate italian intro_day3_1876c646:
 
-    # n "Home Day 0 [withdissolve]"
-    n "Home Day 0 [withdissolve]"
+    # n "Home Day 0" with dissolve
+    n "Home Day 0" with dissolve
 
