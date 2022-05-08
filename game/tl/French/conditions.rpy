@@ -89,74 +89,74 @@ translate french bathroom_72087c33:
 translate french strings:
 
     # game/conditions.rpy:10
-    old "[mschoice] Mr."
-    new "[mschoice] M."
+    old "Mr."
+    new "M."
 
     # game/conditions.rpy:11
-    old "[mschoice] he"
-    new "[mschoice] il "
+    old "he"
+    new "il"
 
     # game/conditions.rpy:12
-    old "[mschoice] boy"
-    new "[mschoice] garçon"
+    old "boy"
+    new "gars"
 
     # game/conditions.rpy:13
-    old "[mschoice] Daddy"
-    new "[mschoice] Papa"
+    old "Daddy"
+    new "Papa"
 
     # game/conditions.rpy:14
-    old "[mschoice] son"
-    new "[mschoice] fils"
+    old "son"
+    new "fils"
 
     # game/conditions.rpy:15
-    old "[mschoice] him"
-    new "[mschoice] lui"
+    old "him"
+    new "lui"
 
     # game/conditions.rpy:16
-    old "[mschoice] John"
-    new "[mschoice] John"
+    old "John"
+    new "John"
 
     # game/conditions.rpy:17
-    old "[mschoice] brother"
-    new "[mschoice] frère"
+    old "brother"
+    new "frère"
 
     # game/conditions.rpy:18
-    old "[mschoice] his"
-    new "[mschoice] son"
+    old "his"
+    new "son"
 
     # game/conditions.rpy:21
-    old "[mschoice] male"
-    new "[mschoice] masculin"
+    old "male"
+    new "masculin"
 
     # game/conditions.rpy:22
-    old "[mschoice] Doe"
-    new "[mschoice] Doe"
+    old "Doe"
+    new "Doe"
 
     # game/conditions.rpy:1752
-    old "[mschoice] Take a nap"
-    new "[mschoice] Faire une sieste"
+    old "Take a nap"
+    new "Faire une sieste"
 
     # game/conditions.rpy:1752
-    old "[mschoice] Look for [e]"
-    new "[mschoice] Chercher pour [e]"
+    old "Look for [e]"
+    new "Chercher pour [e]"
 
     # game/conditions.rpy:1752
-    old "[mschoice] Look for [m]"
-    new "[mschoice] Regarder pour [m]"
+    old "Look for [m]"
+    new "Regarder pour [m]"
 
     # game/conditions.rpy:1752
-    old "[mschoice] Turn the pc on"
-    new "[mschoice] Allumer le PC"
+    old "Turn the pc on"
+    new "Allumer le PC"
 
     # game/conditions.rpy:1752
-    old "[mschoice] Leave"
-    new "[mschoice] Quitter"
+    old "Leave"
+    new "Quitter"
 
     # game/conditions.rpy:1752
-    old "[mschoice] Look around"
-    new "[mschoice] Regarder autour de vous"
+    old "Look around"
+    new "Regarder autour de vous"
 
     # game/conditions.rpy:1861
-    old "[mschoice] Look"
-    new "[mschoice] Regarder"
+    old "Look"
+    new "Regarder"
 

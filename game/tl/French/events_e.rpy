@@ -90,7 +90,7 @@ translate french ellieWakeup_306c049e:
 translate french ellieWakeup_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:45
 translate french ellieWakeup_25870ba5:
@@ -192,13 +192,13 @@ translate french eOnLap_71aa1aba:
 translate french eOnLap_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:83
 translate french eOnLap_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:84
 translate french eOnLap_abef54db:
@@ -210,13 +210,13 @@ translate french eOnLap_abef54db:
 translate french eOnLap_72a33094_1:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:87
 translate french eOnLap_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:88
 translate french eOnLap_c008fbe0:

@@ -8573,114 +8573,114 @@ translate french d10shower2_2aacafaf:
 translate french strings:
 
     # game/events_m.rpy:75
-    old "[mschoice] Knock at the door"
-    new "[mschoice] Frapper à la porte"
+    old "Knock at the door"
+    new "Frapper à la porte"
 
     # game/events_m.rpy:75
-    old "[mschoice] Just open the door"
-    new "[mschoice] Ouvrir juste la porte"
+    old "Just open the door"
+    new "Ouvrir juste la porte"
 
     # game/events_m.rpy:572
-    old "[mschoice] Storm in"
-    new "[mschoice] Rentrer comme une furie"
+    old "Storm in"
+    new "Rentrer comme une furie"
 
     # game/events_m.rpy:742
-    old "[mschoice] Tell her about the alcohol"
-    new "[mschoice] Lui dire à propos de l'alcool"
+    old "Tell her about the alcohol"
+    new "Lui dire à propos de l'alcool"
 
     # game/events_m.rpy:742
-    old "[mschoice] Don't tell her"
-    new "[mschoice] Ne pas lui dire"
+    old "Don't tell her"
+    new "Ne pas lui dire"
 
     # game/events_m.rpy:993
-    old "[mschoice] Push her to talk."
-    new "[mschoice] La pousser à parler."
+    old "Push her to talk."
+    new "La pousser à parler."
 
     # game/events_m.rpy:993
-    old "[mschoice] Wait."
-    new "[mschoice] Attendre."
+    old "Wait."
+    new "Attendre."
 
     # game/events_m.rpy:1027
-    old "[mschoice] Give her the bottle."
-    new "[mschoice] Lui donner la bouteille."
+    old "Give her the bottle."
+    new "Lui donner la boite."
 
     # game/events_m.rpy:1027
-    old "[mschoice] Give her one pill."
-    new "[mschoice] Lui donner une pilule."
+    old "Give her one pill."
+    new "Lui donner une pilule."
 
     # game/events_m.rpy:1414
-    old "[mschoice] Grab her arm."
-    new "[mschoice] Attraper son bras."
+    old "Grab her arm."
+    new "Attraper son bras."
 
     # game/events_m.rpy:1414
-    old "[mschoice] Let her be."
-    new "[mschoice] La laisser tranquille."
+    old "Let her be."
+    new "La laisser tranquille."
 
     # game/events_m.rpy:1526
-    old "[mschoice] Knock."
-    new "[mschoice] Frapper."
+    old "Knock."
+    new "Frapper."
 
     # game/events_m.rpy:1526
-    old "[mschoice] Just go in."
-    new "[mschoice] Juste entrer."
+    old "Just go in."
+    new "Juste entrer."
 
     # game/events_m.rpy:1532
-    old "[mschoice] Knock again."
-    new "[mschoice] Frapper encore."
+    old "Knock again."
+    new "Frapper encore."
 
     # game/events_m.rpy:1681
-    old "[mschoice] Be honest and show your feelings."
-    new "[mschoice] Etre honnête et montrer vos sentiments."
+    old "Be honest and show your feelings."
+    new "Etre honnête et montrer vos sentiments."
 
     # game/events_m.rpy:1681
-    old "[mschoice] Listen to [himher] and focus on what [heshe] wants!"
-    new "[mschoice] Écouter [himher] et se concentrer sur ce que [heshe] veut !"
+    old "Listen to [himher] and focus on what [heshe] wants!"
+    new "Écouter [himher!t] et se concentrer sur ce que [heshe!t] veut !"
 
     # game/events_m.rpy:1681
-    old "[mschoice] Don't approach [himher]!"
-    new "[mschoice] Ne pas s'approcher de [himher]!"
+    old "Don't approach [himher]!"
+    new "Ne pas s'approcher de [himher!t]!"
 
     # game/events_m.rpy:1894
-    old "[mschoice] Tell her that she looks great."
-    new "[mschoice] Lui dire qu'elle est très belle."
+    old "Tell her that she looks great."
+    new "Lui dire qu'elle est très belle."
 
     # game/events_m.rpy:1894
-    old "[mschoice] The weather! The weather looks to be great!"
-    new "[mschoice] Le temps ! La météo s'annonce excellente !"
+    old "The weather! The weather looks to be great!"
+    new "Le temps ! La météo s'annonce excellente !"
 
     # game/events_m.rpy:1955
-    old "[mschoice] You should keep doing workouts."
-    new "[mschoice] Continuer à faire des exercices."
+    old "You should keep doing workouts."
+    new "Continuer à faire des exercices."
 
     # game/events_m.rpy:1955
-    old "[mschoice] You don't need that workout you look great anyway!"
-    new "[mschoice] Tu n'as pas besoin de cette séance d'entraînement, tu es quand même très belle !"
+    old "You don't need that workout you look great anyway!"
+    new "Tu n'as pas besoin de cette séance d'entraînement, tu es quand même très belle !"
 
     # game/events_m.rpy:2165
-    old "[mschoice] Tell her to come in next time."
-    new "[mschoice] Lui dire de venir la prochaine fois."
+    old "Tell her to come in next time."
+    new "Lui dire de venir la prochaine fois."
 
     # game/events_m.rpy:2165
-    old "[mschoice] Ask her if she would mind you seeing her under the shower again."
-    new "[mschoice] Lui demander si ça la dérangerait que vous la revoyiez sous la douche."
+    old "Ask her if she would mind you seeing her under the shower again."
+    new "Lui demander si ça la dérangerait que vous la revoyiez sous la douche."
 
     # game/events_m.rpy:2165
-    old "[mschoice] Tease her."
-    new "[mschoice] La taquiner."
+    old "Tease her."
+    new "La taquiner."
 
     # game/events_m.rpy:2243
-    old "[mschoice] Check."
-    new "[mschoice] Vérifier."
+    old "Check."
+    new "Vérifier."
 
     # game/events_m.rpy:2243
-    old "[mschoice] Go back to your room."
-    new "[mschoice] Retourner dans votre chambre."
+    old "Go back to your room."
+    new "Retourner dans votre chambre."
 
     # game/events_m.rpy:2249
-    old "[mschoice] Go in."
-    new "[mschoice] Entrer."
+    old "Go in."
+    new "Entrer."
 
     # game/events_m.rpy:2249
-    old "[mschoice] Don't. (Go back to your room)"
-    new "[mschoice] Ne pas le faire. (Retourner dans votre chambre)"
+    old "Don't. (Go back to your room)"
+    new "Ne pas le faire. (Retourner dans votre chambre)"
 
