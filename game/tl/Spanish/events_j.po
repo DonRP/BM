@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-05-03 03:03\n"
+"PO-Revision-Date: 2022-05-08 15:16\n"
 
 # TODO: Translation updated at 2022-04-03 HH:HH# game/events_j.rpy:3 ## translate crowdin jadaFirstMeet_fbf6c787:
 msgid "[pcthink] I'm a bit hungry."
@@ -337,7 +337,7 @@ msgid "{color=#570058}Girl1{/color} || HAA, HA, NHHH!"
 msgstr ""
 
 # game/events_j.rpy:134 ## translate crowdin JVREbirthday_b509d9ed:
-msgid "{color=#cc5dcd}Girl2{/color}\" \"Yeees, fuck [himher], fuck [himher] \"Landlady\"!"
+msgid "{color=#cc5dcd}Girl2{/color} || Yeees, fuck [himher], fuck [himher] \"Landlady\"!"
 msgstr ""
 
 # game/events_j.rpy:135 ## translate crowdin JVREbirthday_55531a2f:
@@ -361,7 +361,7 @@ msgid "{color=#570058}Girl1{/color} || HAA, HAA, HNAAH! YES! OH YES!"
 msgstr ""
 
 # game/events_j.rpy:142 ## translate crowdin JVREbirthday_75c7eb86:
-msgid "{color=#cc5dcd}Girl2{/color}\" \"She's going to cum!"
+msgid "{color=#cc5dcd}Girl2{/color} || She's going to cum!"
 msgstr ""
 
 # game/events_j.rpy:143 ## translate crowdin JVREbirthday_0d2e7a55:
