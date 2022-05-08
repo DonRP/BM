@@ -41,6 +41,8 @@ msgid \"""",
     """ \"t1 \"""": """ \"[t1] """,
     """ \"boss \"""": """ \"[boss] """,
     """ \"pcthink \"""": """ \"[pcthink] """,
+    """ \"em \"""": """ \"[em] """,
+    """ \"jess \"""": """ \"[jess] """,
 
     """ \"extend \"""": """ \"[extend] """,
 
@@ -63,6 +65,7 @@ msgid \"""",
     """ \"Receptionist\" \"""": """ \"Receptionist || """,
     """ \"Manager\" \"""": """ \"Manager || """,
     """ \"Girl 2\" \"""": """ \"Girl 2 || """,
+    """ \"{color=#cc5dcd}Girl2{/color}\" \"""": """ \"{color=#cc5dcd}Girl2{/color} || """,
     
     # Fix
     """msgstr \"\"[""": """msgstr \"[@""",

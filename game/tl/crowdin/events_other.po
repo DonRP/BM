@@ -991,16 +991,16 @@ msgid "[pc] Whoa, shit!"
 msgstr "[pc] Whoa, shit!"
 
 # game/events_other.rpy:425 ## translate crowdin porngirls_28dae952:
-msgid "{color=#cc5dcd}Girl2{/color}" "What the fuck!? Can't you watch out?"
-msgstr "{color=#cc5dcd}Girl2{/color}" "What the fuck!? Can't you watch out?"
+msgid "{color=#cc5dcd}Girl2{/color} || What the fuck!? Can't you watch out?"
+msgstr "{color=#cc5dcd}Girl2{/color} || What the fuck!? Can't you watch out?"
 
 # game/events_other.rpy:426 ## translate crowdin porngirls_f45e8f2a:
 msgid "[pc] Sorry I was distracted!"
 msgstr "[pc] Sorry I was distracted!"
 
 # game/events_other.rpy:427 ## translate crowdin porngirls_26b438f5:
-msgid "{color=#cc5dcd}Girl2{/color}" "Obviously, Idiot!"
-msgstr "{color=#cc5dcd}Girl2{/color}" "Obviously, Idiot!"
+msgid "{color=#cc5dcd}Girl2{/color} || Obviously, Idiot!"
+msgstr "{color=#cc5dcd}Girl2{/color} || Obviously, Idiot!"
 
 # game/events_other.rpy:428 ## translate crowdin porngirls_0fcd3896:
 msgid "[pc] Hey, she didn't watch out either!"
@@ -1027,36 +1027,36 @@ msgid "{color=#570058}Girl1{/color} || Yes, I'm good, thanks."
 msgstr "{color=#570058}Girl1{/color} || Yes, I'm good, thanks."
 
 # game/events_other.rpy:443 ## translate crowdin porngirls_5458163c:
-msgid "{color=#cc5dcd}Girl2{/color}" "Come on [em], don't waste time with [himher]!"
-msgstr "{color=#cc5dcd}Girl2{/color}" "Come on [em], don't waste time with [himher]!"
+msgid "{color=#cc5dcd}Girl2{/color} || Come on [em], don't waste time with [himher]!"
+msgstr "{color=#cc5dcd}Girl2{/color} || Come on [em], don't waste time with [himher]!"
 
 # game/events_other.rpy:445 ## translate crowdin porngirls_6072de8d:
-msgid "em "Sorry, we're in a hurry."
-msgstr "em "Sorry, we're in a hurry."
+msgid "[em] Sorry, we're in a hurry."
+msgstr "[em] Sorry, we're in a hurry."
 
 # game/events_other.rpy:447 ## translate crowdin porngirls_6a0f3349:
-msgid "{color=#cc5dcd}Girl2{/color}" "What an idiot..."
-msgstr "{color=#cc5dcd}Girl2{/color}" "What an idiot..."
+msgid "{color=#cc5dcd}Girl2{/color} || What an idiot..."
+msgstr "{color=#cc5dcd}Girl2{/color} || What an idiot..."
 
 # game/events_other.rpy:448 ## translate crowdin porngirls_8005f5b7:
-msgid "em "Hey, it's not [hisher] fault, [jess]..."
-msgstr "em "Hey, it's not [hisher] fault, [jess]..."
+msgid "[em] Hey, it's not [hisher] fault, [jess]..."
+msgstr "[em] Hey, it's not [hisher] fault, [jess]..."
 
 # game/events_other.rpy:449 ## translate crowdin porngirls_0bb5a51a:
 msgid "[pcthink] Hmm... where did I see them before?"
 msgstr "[pcthink] Hmm... where did I see them before?"
 
 # game/events_other.rpy:459 ## translate crowdin porngirls_8dc73915:
-msgid "{color=#cc5dcd}Girl2{/color}" "What an idiot!"
-msgstr "{color=#cc5dcd}Girl2{/color}" "What an idiot!"
+msgid "{color=#cc5dcd}Girl2{/color} || What an idiot!"
+msgstr "{color=#cc5dcd}Girl2{/color} || What an idiot!"
 
 # game/events_other.rpy:460 ## translate crowdin porngirls_243efbc1:
 msgid "[pc] Bitch!"
 msgstr "[pc] Bitch!"
 
 # game/events_other.rpy:463 ## translate crowdin porngirls_94f3582d:
-msgid "{color=#cc5dcd}Girl2{/color}" "What a bitch!"
-msgstr "{color=#cc5dcd}Girl2{/color}" "What a bitch!"
+msgid "{color=#cc5dcd}Girl2{/color} || What a bitch!"
+msgstr "{color=#cc5dcd}Girl2{/color} || What a bitch!"
 
 # game/events_other.rpy:465 ## translate crowdin porngirls_4d881a84:
 msgid "[pc] Thanks, same to you too..."
@@ -3151,48 +3151,48 @@ msgid "[pcthink] Or maybe I'm just seeing things..."
 msgstr "[pcthink] Or maybe I'm just seeing things..."
 
 # game/events_other.rpy:1476 ## translate crowdin d11visitcafe_ffec5ce1:
-msgid "jess "FUCK YOU! [withhpunch]"
-msgstr "jess "FUCK YOU! [withhpunch]"
+msgid "[jess] FUCK YOU! [withhpunch]"
+msgstr "[jess] FUCK YOU! [withhpunch]"
 
 # game/events_other.rpy:1478 ## translate crowdin d11visitcafe_a6e95e94:
 msgid "[pc] What the..."
 msgstr "[pc] What the..."
 
 # game/events_other.rpy:1479 ## translate crowdin d11visitcafe_48f81267:
-msgid "em "[jess]!"
-msgstr "em "[jess]!"
+msgid "[em] [jess]!"
+msgstr "[em] [jess]!"
 
 # game/events_other.rpy:1481 ## translate crowdin d11visitcafe_2f47cd1a:
-msgid "jess "{b}Such an asshole!{/b}"
-msgstr "jess "{b}Such an asshole!{/b}"
+msgid "[jess] {b}Such an asshole!{/b}"
+msgstr "[jess] {b}Such an asshole!{/b}"
 
 # game/events_other.rpy:1483 ## translate crowdin d11visitcafe_99a1c13e:
-msgid "em "[jess], don't yell like that!"
-msgstr "em "[jess], don't yell like that!"
+msgid "[em] [jess], don't yell like that!"
+msgstr "[em] [jess], don't yell like that!"
 
 # game/events_other.rpy:1485 ## translate crowdin d11visitcafe_d85f4c5b:
 msgid "[h] Could you please be a bit quieter, you might annoy the other guests..."
 msgstr "[h] Could you please be a bit quieter, you might annoy the other guests..."
 
 # game/events_other.rpy:1486 ## translate crowdin d11visitcafe_949b27d3:
-msgid "jess "Other..."
-msgstr "jess "Other..."
+msgid "[jess] Other..."
+msgstr "[jess] Other..."
 
 # game/events_other.rpy:1488 ## translate crowdin d11visitcafe_870b7b59:
-msgid "jess "Oh..."
-msgstr "jess "Oh..."
+msgid "[jess] Oh..."
+msgstr "[jess] Oh..."
 
 # game/events_other.rpy:1491 ## translate crowdin d11visitcafe_a69377ef_1:
 msgid "[pc] ..."
 msgstr "[pc] ..."
 
 # game/events_other.rpy:1493 ## translate crowdin d11visitcafe_8e38038d:
-msgid "jess "[em]!"
-msgstr "jess "[em]!"
+msgid "[jess] [em]!"
+msgstr "[jess] [em]!"
 
 # game/events_other.rpy:1494 ## translate crowdin d11visitcafe_b9b9c170:
-msgid "em "What?!"
-msgstr "em "What?!"
+msgid "[em] What?!"
+msgstr "[em] What?!"
 
 # game/events_other.rpy:1496 ## translate crowdin d11visitcafe_702049b7:
 msgid "[pcthink] I wonder what happened..."
@@ -3287,128 +3287,128 @@ msgid "[pc] *Slurp*"
 msgstr "[pc] *Slurp*"
 
 # game/events_other.rpy:1542 ## translate crowdin d11visitcafe_8d396662:
-msgid "jess "Forget it!"
-msgstr "jess "Forget it!"
+msgid "[jess] Forget it!"
+msgstr "[jess] Forget it!"
 
 # game/events_other.rpy:1543 ## translate crowdin d11visitcafe_941abed7:
-msgid "em "God, [jess], seriously! It's not like we have any choice."
-msgstr "em "God, [jess], seriously! It's not like we have any choice."
+msgid "[em] God, [jess], seriously! It's not like we have any choice."
+msgstr "[em] God, [jess], seriously! It's not like we have any choice."
 
 # game/events_other.rpy:1545 ## translate crowdin d11visitcafe_bb3f62f8:
-msgid "jess "You don't even know [himher], [em]!"
-msgstr "jess "You don't even know [himher], [em]!"
+msgid "[jess] You don't even know [himher], [em]!"
+msgstr "[jess] You don't even know [himher], [em]!"
 
 # game/events_other.rpy:1547 ## translate crowdin d11visitcafe_56882e20:
-msgid "em "As if that even matters to you."
-msgstr "em "As if that even matters to you."
+msgid "[em] As if that even matters to you."
+msgstr "[em] As if that even matters to you."
 
 # game/events_other.rpy:1549 ## translate crowdin d11visitcafe_d5010d5d:
-msgid "jess "[em], no!"
-msgstr "jess "[em], no!"
+msgid "[jess] [em], no!"
+msgstr "[jess] [em], no!"
 
 # game/events_other.rpy:1551 ## translate crowdin d11visitcafe_c5a46fad:
-msgid "em "Do you really want to blow it, just because of a mistake?"
-msgstr "em "Do you really want to blow it, just because of a mistake?"
+msgid "[em] Do you really want to blow it, just because of a mistake?"
+msgstr "[em] Do you really want to blow it, just because of a mistake?"
 
 # game/events_other.rpy:1553 ## translate crowdin d11visitcafe_d0efd1a0:
-msgid "jess "What?! It's not my fault that asshole cancelled last minute!"
-msgstr "jess "What?! It's not my fault that asshole cancelled last minute!"
+msgid "[jess] What?! It's not my fault that asshole cancelled last minute!"
+msgstr "[jess] What?! It's not my fault that asshole cancelled last minute!"
 
 # game/events_other.rpy:1555 ## translate crowdin d11visitcafe_19e2ff5d:
-msgid "em "Maybe, but we can still do it, we have our own equipment."
-msgstr "em "Maybe, but we can still do it, we have our own equipment."
+msgid "[em] Maybe, but we can still do it, we have our own equipment."
+msgstr "[em] Maybe, but we can still do it, we have our own equipment."
 
 # game/events_other.rpy:1557 ## translate crowdin d11visitcafe_3489ef84:
-msgid "jess "Uch..."
-msgstr "jess "Uch..."
+msgid "[jess] Uch..."
+msgstr "[jess] Uch..."
 
 # game/events_other.rpy:1559 ## translate crowdin d11visitcafe_3826f784:
-msgid "em "I'll ask [himher]..."
-msgstr "em "I'll ask [himher]..."
+msgid "[em] I'll ask [himher]..."
+msgstr "[em] I'll ask [himher]..."
 
 # game/events_other.rpy:1561 ## translate crowdin d11visitcafe_8e38038d_1:
-msgid "jess "[em]!"
-msgstr "jess "[em]!"
+msgid "[jess] [em]!"
+msgstr "[jess] [em]!"
 
 # game/events_other.rpy:1563 ## translate crowdin d11visitcafe_5c905081:
-msgid "em "Hey, uhh... sorry for all the yelling, we had a rough day."
-msgstr "em "Hey, uhh... sorry for all the yelling, we had a rough day."
+msgid "[em] Hey, uhh... sorry for all the yelling, we had a rough day."
+msgstr "[em] Hey, uhh... sorry for all the yelling, we had a rough day."
 
 # game/events_other.rpy:1564 ## translate crowdin d11visitcafe_4be405a5:
 msgid "[pc] No problem."
 msgstr "[pc] No problem."
 
 # game/events_other.rpy:1565 ## translate crowdin d11visitcafe_5d4eaf9a:
-msgid "em "And sorry for last time as well."
-msgstr "em "And sorry for last time as well."
+msgid "[em] And sorry for last time as well."
+msgstr "[em] And sorry for last time as well."
 
 # game/events_other.rpy:1566 ## translate crowdin d11visitcafe_b219d344:
 msgid "[pc] It's okay."
 msgstr "[pc] It's okay."
 
 # game/events_other.rpy:1568 ## translate crowdin d11visitcafe_3183bfa2:
-msgid "em "Jeez, I just realized, you must have a really bad impression of us."
-msgstr "em "Jeez, I just realized, you must have a really bad impression of us."
+msgid "[em] Jeez, I just realized, you must have a really bad impression of us."
+msgstr "[em] Jeez, I just realized, you must have a really bad impression of us."
 
 # game/events_other.rpy:1571 ## translate crowdin d11visitcafe_32e86590:
 msgid "[pc] Everyone has a bad day once in a while."
 msgstr "[pc] Everyone has a bad day once in a while."
 
 # game/events_other.rpy:1573 ## translate crowdin d11visitcafe_5785d991:
-msgid "em "I guess that's true."
-msgstr "em "I guess that's true."
+msgid "[em] I guess that's true."
+msgstr "[em] I guess that's true."
 
 # game/events_other.rpy:1576 ## translate crowdin d11visitcafe_2023da0c:
-msgid "em "Oh, well, she's a little... hot-blooded, but believe me, she's really nice when you know her."
-msgstr "em "Oh, well, she's a little... hot-blooded, but believe me, she's really nice when you know her."
+msgid "[em] Oh, well, she's a little... hot-blooded, but believe me, she's really nice when you know her."
+msgstr "[em] Oh, well, she's a little... hot-blooded, but believe me, she's really nice when you know her."
 
 # game/events_other.rpy:1578 ## translate crowdin d11visitcafe_b19ab782:
-msgid "em "Anyway, we have a little problem as you might've noticed. One of our... co-workers dropped out last minute, and we don't have a replacement for the shoot, so I thought you might be interested?"
-msgstr "em "Anyway, we have a little problem as you might've noticed. One of our... co-workers dropped out last minute, and we don't have a replacement for the shoot, so I thought you might be interested?"
+msgid "[em] Anyway, we have a little problem as you might've noticed. One of our... co-workers dropped out last minute, and we don't have a replacement for the shoot, so I thought you might be interested?"
+msgstr "[em] Anyway, we have a little problem as you might've noticed. One of our... co-workers dropped out last minute, and we don't have a replacement for the shoot, so I thought you might be interested?"
 
 # game/events_other.rpy:1579 ## translate crowdin d11visitcafe_4cd8217b:
 msgid "[pc] Me? A shoot?"
 msgstr "[pc] Me? A shoot?"
 
 # game/events_other.rpy:1581 ## translate crowdin d11visitcafe_4bf2157f:
-msgid "em "Mh-hm, you look good, I think you'd fit quite well, and it's a one time thing, quick money, and..."
-msgstr "em "Mh-hm, you look good, I think you'd fit quite well, and it's a one time thing, quick money, and..."
+msgid "[em] Mh-hm, you look good, I think you'd fit quite well, and it's a one time thing, quick money, and..."
+msgstr "[em] Mh-hm, you look good, I think you'd fit quite well, and it's a one time thing, quick money, and..."
 
 # game/events_other.rpy:1582 ## translate crowdin d11visitcafe_6a8bf316:
 msgid "[pc] And?"
 msgstr "[pc] And?"
 
 # game/events_other.rpy:1584 ## translate crowdin d11visitcafe_6f94c325:
-msgid "em "Well, we get to know each other."
-msgstr "em "Well, we get to know each other."
+msgid "[em] Well, we get to know each other."
+msgstr "[em] Well, we get to know each other."
 
 # game/events_other.rpy:1585 ## translate crowdin d11visitcafe_849e0643:
 msgid "[pc] Oh, of course."
 msgstr "[pc] Oh, of course."
 
 # game/events_other.rpy:1587 ## translate crowdin d11visitcafe_fabf4635:
-msgid "em "So? Interested?"
-msgstr "em "So? Interested?"
+msgid "[em] So? Interested?"
+msgstr "[em] So? Interested?"
 
 # game/events_other.rpy:1588 ## translate crowdin d11visitcafe_91e50754:
 msgid "[pc] Well... it's not that I need money."
 msgstr "[pc] Well... it's not that I need money."
 
 # game/events_other.rpy:1590 ## translate crowdin d11visitcafe_af6be78d:
-msgid "em "You'd really help us out, and it's an easy and fun job, promise."
-msgstr "em "You'd really help us out, and it's an easy and fun job, promise."
+msgid "[em] You'd really help us out, and it's an easy and fun job, promise."
+msgstr "[em] You'd really help us out, and it's an easy and fun job, promise."
 
 # game/events_other.rpy:1591 ## translate crowdin d11visitcafe_bf1c68fb:
 msgid "[pc] Hmm... what kind of..."
 msgstr "[pc] Hmm... what kind of..."
 
 # game/events_other.rpy:1593 ## translate crowdin d11visitcafe_042718f6:
-msgid "em "You know what?"
-msgstr "em "You know what?"
+msgid "[em] You know what?"
+msgstr "[em] You know what?"
 
 # game/events_other.rpy:1595 ## translate crowdin d11visitcafe_f90b79c6:
-msgid "em "Just think about it and call me if you're interested. We have the whole week, so take your time."
-msgstr "em "Just think about it and call me if you're interested. We have the whole week, so take your time."
+msgid "[em] Just think about it and call me if you're interested. We have the whole week, so take your time."
+msgstr "[em] Just think about it and call me if you're interested. We have the whole week, so take your time."
 
 # game/events_other.rpy:1596 ## translate crowdin d11visitcafe_91ac9809_1:
 msgid "[pc] Okay, sure..."
@@ -3419,40 +3419,40 @@ msgid "[n] You take your phone out and save the number she gives you."
 msgstr "[n] You take your phone out and save the number she gives you."
 
 # game/events_other.rpy:1600 ## translate crowdin d11visitcafe_a96c19d4:
-msgid "em "What's your name by the way?"
-msgstr "em "What's your name by the way?"
+msgid "[em] What's your name by the way?"
+msgstr "[em] What's your name by the way?"
 
 # game/events_other.rpy:1601 ## translate crowdin d11visitcafe_027b9b87:
 msgid "[pc] [pc]."
 msgstr "[pc] [pc]."
 
 # game/events_other.rpy:1602 ## translate crowdin d11visitcafe_6924e533:
-msgid "em "Nice to meet you, [pc]. I'm Emma, but you can call me [em]."
-msgstr "em "Nice to meet you, [pc]. I'm Emma, but you can call me [em]."
+msgid "[em] Nice to meet you, [pc]. I'm Emma, but you can call me [em]."
+msgstr "[em] Nice to meet you, [pc]. I'm Emma, but you can call me [em]."
 
 # game/events_other.rpy:1603 ## translate crowdin d11visitcafe_d3dd0b41:
 msgid "[pc] Nice to meet you, too, [em]."
 msgstr "[pc] Nice to meet you, too, [em]."
 
 # game/events_other.rpy:1604 ## translate crowdin d11visitcafe_8ae261e2:
-msgid "em "And, erm..."
-msgstr "em "And, erm..."
+msgid "[em] And, erm..."
+msgstr "[em] And, erm..."
 
 # game/events_other.rpy:1606 ## translate crowdin d11visitcafe_f7b18348:
-msgid "em "...just call me, even if you're not interested."
-msgstr "em "...just call me, even if you're not interested."
+msgid "[em] ...just call me, even if you're not interested."
+msgstr "[em] ...just call me, even if you're not interested."
 
 # game/events_other.rpy:1608 ## translate crowdin d11visitcafe_f932f7c6:
-msgid "em "Alright, I better get back to [jess], she needs some special attention today."
-msgstr "em "Alright, I better get back to [jess], she needs some special attention today."
+msgid "[em] Alright, I better get back to [jess], she needs some special attention today."
+msgstr "[em] Alright, I better get back to [jess], she needs some special attention today."
 
 # game/events_other.rpy:1610 ## translate crowdin d11visitcafe_472fb1cf:
 msgid "[pc] Haha, sure."
 msgstr "[pc] Haha, sure."
 
 # game/events_other.rpy:1612 ## translate crowdin d11visitcafe_9e731fed:
-msgid "em "I hope to hear from you."
-msgstr "em "I hope to hear from you."
+msgid "[em] I hope to hear from you."
+msgstr "[em] I hope to hear from you."
 
 # game/events_other.rpy:1617 ## translate crowdin d11visitcafe_fcf832c0:
 msgid "[pcthink] A shoot, huh..."
@@ -3547,20 +3547,20 @@ msgid "[h] No... mostly too scared..."
 msgstr "[h] No... mostly too scared..."
 
 # game/events_other.rpy:1660 ## translate crowdin d11visitcafe_b0c3248e:
-msgid "em "Bye!"
-msgstr "em "Bye!"
+msgid "[em] Bye!"
+msgstr "[em] Bye!"
 
 # game/events_other.rpy:1662 ## translate crowdin d11visitcafe_a2f1d32f:
 msgid "[h] Oh, good bye, have a nice day."
 msgstr "[h] Oh, good bye, have a nice day."
 
 # game/events_other.rpy:1664 ## translate crowdin d11visitcafe_7383fa17:
-msgid "em "Thanks, you too."
-msgstr "em "Thanks, you too."
+msgid "[em] Thanks, you too."
+msgstr "[em] Thanks, you too."
 
 # game/events_other.rpy:1665 ## translate crowdin d11visitcafe_b0261b06:
-msgid "jess "Bye."
-msgstr "jess "Bye."
+msgid "[jess] Bye."
+msgstr "[jess] Bye."
 
 # game/events_other.rpy:1668 ## translate crowdin d11visitcafe_e7fa7113:
 msgid "[pc] Hmm... I guess I better leave too."
