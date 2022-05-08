@@ -10781,110 +10781,110 @@ translate french d11bhpcroom_0b75a0f5:
 translate french strings:
 
     # game/events_mc.rpy:249
-    old "[mschoice] Watch TV in the living room"
-    new "[mschoice] Regarder la TV dans le salon"
+    old "Watch TV in the living room"
+    new "Regarder la TV dans le salon"
 
     # game/events_mc.rpy:505
-    old "[mschoice] {i}(Damn, I love the idea...){/i}"
-    new "[mschoice] {i}(Bon sang, j'adore l'idée...){/i}"
+    old "{i}(Damn, I love the idea...){/i}"
+    new "{i}(Bon sang, j'adore l'idée...){/i}"
 
     # game/events_mc.rpy:505
-    old "[mschoice] {i}(There is no way I would ever do that!){/i}"
-    new "[mschoice] {i}(Il n'y a aucune chance que je fasse ça !){/i}"
+    old "{i}(There is no way I would ever do that!){/i}"
+    new "{i}(Il n'y a aucune chance que je fasse ça !){/i}"
 
     # game/events_mc.rpy:572
-    old "[mschoice] She will come over tonight anyway... gimme porn!"
-    new "[mschoice] Elle viendra ce soir de toute façon... Aller du porno !"
+    old "She will come over tonight anyway... gimme porn!"
+    new "Elle viendra ce soir de toute façon... Aller du porno !"
 
     # game/events_mc.rpy:572
-    old "[mschoice] I should really talk to her now!"
-    new "[mschoice] Je devrais vraiment lui parler maintenant !"
+    old "I should really talk to her now!"
+    new "Je devrais vraiment lui parler maintenant !"
 
     # game/events_mc.rpy:707
-    old "[mschoice] Introduce yourself."
-    new "[mschoice] Se présenter."
+    old "Introduce yourself."
+    new "Se présenter."
 
     # game/events_mc.rpy:707
-    old "[mschoice] Say good bye and leave."
-    new "[mschoice] Dire au revoir et partir."
+    old "Say good bye and leave."
+    new "Dire au revoir et partir."
 
     # game/events_mc.rpy:1518
-    old "[mschoice] Call her?"
-    new "[mschoice] L'appeler ?"
+    old "Call her?"
+    new "L'appeler ?"
 
     # game/events_mc.rpy:1518
-    old "[mschoice] Call her!"
-    new "[mschoice] Appelez-la !"
+    old "Call her!"
+    new "Appelez-la !"
 
     # game/events_mc.rpy:1518
-    old "[mschoice] Nah, not now."
-    new "[mschoice] Nan, pas maintenant."
+    old "Nah, not now."
+    new "Nan, pas maintenant."
 
     # game/events_mc.rpy:1620
-    old "[mschoice] Push [j] out of the bed."
-    new "[mschoice] Pousser [j] hors du lit."
+    old "Push [j] out of the bed."
+    new "Pousser [j] hors du lit."
 
     # game/events_mc.rpy:1620
-    old "[mschoice] Hide [e] under the blanket."
-    new "[mschoice] Cacher [e] sous la couverture."
+    old "Hide [e] under the blanket."
+    new "Cacher [e] sous la couverture."
 
     # game/events_mc.rpy:1735
-    old "[mschoice] Tell them you're sorry."
-    new "[mschoice] Leur dire que vous êtes désolé."
+    old "Tell them you're sorry."
+    new "Leur dire que vous êtes désolé."
 
     # game/events_mc.rpy:1735
-    old "[mschoice] Talk about the weather."
-    new "[mschoice] Parler de la météo."
+    old "Talk about the weather."
+    new "Parler de la météo."
 
     # game/events_mc.rpy:2197
-    old "[mschoice] Call her Mom."
-    new "[mschoice] Appeler sa mère."
+    old "Call her Mom."
+    new "Appeler sa mère."
 
     # game/events_mc.rpy:2197
-    old "[mschoice] Change the topic."
-    new "[mschoice] Changer de sujet."
+    old "Change the topic."
+    new "Changer de sujet."
 
     # game/events_mc.rpy:2320
-    old "[mschoice] The good news."
-    new "[mschoice] La bonne nouvelle."
+    old "The good news."
+    new "La bonne nouvelle."
 
     # game/events_mc.rpy:2320
-    old "[mschoice] The bad news."
-    new "[mschoice] La mauvaise nouvelle."
+    old "The bad news."
+    new "La mauvaise nouvelle."
 
     # game/events_mc.rpy:2772
-    old "[mschoice] [e]."
-    new "[mschoice] [e]."
+    old "[e]."
+    new "[e]."
 
     # game/events_mc.rpy:2772
-    old "[mschoice] [j]."
-    new "[mschoice] [j]."
+    old "[j]."
+    new "[j]."
 
     # game/events_mc.rpy:2817
-    old "[mschoice] Switch to [j]."
-    new "[mschoice] Passer à [j]."
+    old "Switch to [j]."
+    new "Passer à [j]."
 
     # game/events_mc.rpy:2817
-    old "[mschoice] Go on, [e]."
-    new "[mschoice] Continuer avec [e]."
+    old "Go on, [e]."
+    new "Continuer avec [e]."
 
     # game/events_mc.rpy:2817
-    old "[mschoice] Cum."
-    new "[mschoice] Jouir."
+    old "Cum."
+    new "Jouir."
 
     # game/events_mc.rpy:2857
-    old "[mschoice] Switch to [e]."
-    new "[mschoice] Passer à [e]."
+    old "Switch to [e]."
+    new "Passer à [e]."
 
     # game/events_mc.rpy:2857
-    old "[mschoice] Go on, [j]."
-    new "[mschoice] Continuer avec [j]."
+    old "Go on, [j]."
+    new "Continuer avec [j]."
 
     # game/events_mc.rpy:2926
-    old "[mschoice] Switch to fuck [j]."
-    new "[mschoice] Baiser [j]."
+    old "Switch to fuck [j]."
+    new "Baiser [j]."
 
     # game/events_mc.rpy:2971
-    old "[mschoice] Switch to fuck [e]."
-    new "[mschoice] Baiser [e]."
+    old "Switch to fuck [e]."
+    new "Baiser [e]."
 
