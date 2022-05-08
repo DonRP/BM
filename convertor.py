@@ -16,8 +16,8 @@ dict = {
 \"""",
     """""": """\"\n\"""",
     """""": """\"\n\"""",
-    """    old \"""": """msgid \"""",
-    """    new \"""": """msgstr[0] \"""",
+    """    old \"""": """msgid \"[mschoice] """,
+    """    new \"""": """msgstr \"[mschoice] """,
 
     # search_text : replace_text
     """
