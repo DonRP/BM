@@ -31,7 +31,6 @@ msgid \"""",
     """\" with flash""": """ [withflash]\"""",
     """\" with vpunch""": """ [withvpunch]\"""",
     """\" with Dissolve(2.0)""": """ [withDissolve(2.0)]\"""",
-    """\n    """: """\nmsgstr \"""",
     # ch
     """   \"n \"""": """   \"[n] """,
     """   \"q \"""": """   \"[q] """,
@@ -54,6 +53,7 @@ msgid \"""",
     """   \"jess \"""": """   \"[jess] """,
     """   \"extend \"""": """   \"[extend] """,
     # Fix
+    """\n    \"""": """\nmsgstr \"""",
     """msgstr \"\"[""": """msgstr \"[@""",
     """msgid \"\"[""": """msgid \"[@""",
     #Final
