@@ -437,8 +437,8 @@ translate italian intro_day2_e612037c:
 # game/intro_day2.rpy:103
 translate italian intro_day2_45e9ae7e:
 
-    # m "pc "I'm sorry for yesterday, I shouldn't have left so suddenly, but I..."
-    m "pc "Mi dispiace per ieri, non avrei dovuto lasciare così all'improvviso, ma io..."
+    # m "[pc] I'm sorry for yesterday, I shouldn't have left so suddenly, but I..."
+    m "[pc] Mi dispiace per ieri, non avrei dovuto lasciare così all'improvviso, ma io..."
 
 # game/intro_day2.rpy:105
 translate italian intro_day2_8a231ed3:
@@ -1007,10 +1007,10 @@ translate italian intro_day2_2_8b8ab9fe:
 translate italian strings:
 
     # game/intro_day2.rpy:88
-    old "[mschoice] No way, and tell her to never call again!"
-    new "[mschoice] Nessun modo, e dirle di non chiamare mai più!"
+    old "No way, and tell her to never call again!"
+    new "Nessun modo, e dirle di non chiamare mai più!"
 
     # game/intro_day2.rpy:88
-    old "[mschoice] ...yeah."
-    new "[mschoice] ...sì."
+    old "...yeah."
+    new "...sì."
 

@@ -311,20 +311,20 @@ translate italian intro_day1_68797a1a:
 # game/intro_day1.rpy:67
 translate italian intro_day1_4725ed56:
 
-    # Broker\" \"I'm sorry [mrms].."
-    "Broker\" \"Mi dispiace [mrms].."
+    # Broker - I'm sorry [mrms].."
+    "Broker - Mi dispiace [mrms!t].."
 
 # game/intro_day1.rpy:69
 translate italian intro_day1_8ff3f37e:
 
     # pc "[pcsure]."
-    pc "[pcsure]."
+    pc "[pcsure!t]."
 
 # game/intro_day1.rpy:71
 translate italian intro_day1_68528fb1:
 
-    # Broker\" \"[pcsure]? Hum... I don't remember your name, did we have an appointment?"
-    "Broker\" \"[pcsure]? Hum... Non ricordo il tuo nome, abbiamo un appuntamento?"
+    # Broker - [pcsure]? Hum... I don't remember your name, did we have an appointment?"
+    "Broker - [pcsure!t]? Hum... Non ricordo il tuo nome, abbiamo un appuntamento?"
 
 # game/intro_day1.rpy:73
 translate italian intro_day1_88d7dcd5:
@@ -347,8 +347,8 @@ translate italian intro_day1_8b6d7015:
 # game/intro_day1.rpy:80
 translate italian intro_day1_e507774e:
 
-    # Broker\" \"Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
-    "Broker\" \"Beh, mi dispiace [mrms] [pcsure]. Questa bella coppia qui ha appena chiuso l'accordo su questo appartamento."
+    # Broker - Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
+    "Broker - Beh, mi dispiace [mrms!t] [pcsure!t]. Questa bella coppia qui ha appena chiuso l'accordo su questo appartamento."
 
 # game/intro_day1.rpy:81
 translate italian intro_day1_99dfcf7e:
@@ -389,8 +389,8 @@ translate italian intro_day1_e73c363b:
 # game/intro_day1.rpy:91
 translate italian intro_day1_e1d2b02a:
 
-    # Random Guy\" \"Oh and don't forget the other Ramen, and the Negi."
-    "Ragazzo casuale\" \"Oh e non dimenticare l'altro Ramen, e il Negi."
+    # Random Guy - Oh and don't forget the other Ramen, and the Negi."
+    "Ragazzo casuale - Oh e non dimenticare l'altro Ramen, e il Negi."
 
 # game/intro_day1.rpy:92
 translate italian intro_day1_ec6c00f8:
@@ -857,8 +857,8 @@ translate italian intro_day1_e612037c_2:
 # game/intro_day1.rpy:205
 translate italian intro_day1_1dc31bd7:
 
-    # m "pc "I..."
-    m "pc "I..."
+    # m "[pc] I..."
+    m "[pc] I..."
 
 # game/intro_day1.rpy:207
 translate italian intro_day1_859c53a1:
@@ -966,7 +966,7 @@ translate italian intro_day1_bebb5211:
 translate italian intro_day1_2d69d5e9:
 
     # m "I hated you because you were his [ds]... and... that was wrong."
-    m "Ti odiavo perché tu eri il suo [ds]e... e... quello era sbagliato."
+    m "Ti odiavo perché tu eri il suo [ds!t]e... e... quello era sbagliato."
 
 # game/intro_day1.rpy:235
 translate italian intro_day1_8e89036a:
@@ -1091,10 +1091,10 @@ translate italian intro_day1_2_e52e13f1:
 translate italian strings:
 
     # game/intro_day1.rpy:167
-    old "[mschoice] Go with her."
-    new "[mschoice] Vai con lei."
+    old "Go with her."
+    new "Vai con lei."
 
     # game/intro_day1.rpy:167
-    old "[mschoice] Just leave."
-    new "[mschoice] Basta andarsene."
+    old "Just leave."
+    new "Basta andarsene."
 

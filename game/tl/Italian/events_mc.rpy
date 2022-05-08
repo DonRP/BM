@@ -227,8 +227,8 @@ translate italian kitchenBreakfastDay0_8fbec38d:
 # game/events_mc.rpy:70
 translate italian kitchenBreakfastDay0_46a844ac:
 
-    # m "e "eat up, okay?"
-    m "e "mangiare su, ok?"
+    # m "[e] eat up, okay?"
+    m "[e] mangiare su, ok?"
 
 # game/events_mc.rpy:72
 translate italian kitchenBreakfastDay0_b3d1ca42:
@@ -449,8 +449,8 @@ translate italian pcDream1_e59fabcc:
 # game/events_mc.rpy:126
 translate italian pcDream1_f7c84076:
 
-    # pcthink "e "surely has grown up, but... actually I thought she should be a bit older by now."
-    pcthink "e "è sicuramente cresciuto, ma... in realtà pensavo che avrebbe dovuto essere un po' più anziana adesso."
+    # pcthink "[e] surely has grown up, but... actually I thought she should be a bit older by now."
+    pcthink "[e] è sicuramente cresciuto, ma... in realtà pensavo che avrebbe dovuto essere un po' più anziana adesso."
 
 # game/events_mc.rpy:127
 translate italian pcDream1_825c8758:
@@ -570,13 +570,13 @@ translate italian pcDream1_86b1fd11:
 translate italian pcDream1_a19c3737:
 
     # m "I don't want to hear any excuses from you! You stupid [ds] of an asshole!"
-    m "Non voglio sentire scuse da te! Sei stupido [ds] di un culo!"
+    m "Non voglio sentire scuse da te! Sei stupido [ds!t] di un culo!"
 
 # game/events_mc.rpy:152
 translate italian pcDream1_10b5ce69:
 
     # e "Mommy, please, [heshe] helped me!"
-    e "Mamma, per favore, [heshe] mi ha aiutato!"
+    e "Mamma, per favore, [heshe!t] mi ha aiutato!"
 
 # game/events_mc.rpy:153
 translate italian pcDream1_c2cdcf05:
@@ -726,19 +726,19 @@ translate italian wakeupDay1_ffc63eee:
 translate italian wakeupDay1_4781350b:
 
     # m "Looks like someone wanted to cuddle a bit with her big [bs]."
-    m "Sembra che qualcuno volesse coccolare un po 'con il suo grande [bs]."
+    m "Sembra che qualcuno volesse coccolare un po 'con il suo grande [bs!t]."
 
 # game/events_mc.rpy:202
 translate italian wakeupDay1_251417f1:
 
     # m "But, [e], you really shouldn't sneak into your [bs]'s room like this."
-    m "Ma, [e], non dovresti intrufolarti nella tua stanza di [bs]così."
+    m "Ma, [e], non dovresti intrufolarti nella tua stanza di [bs!t] così."
 
 # game/events_mc.rpy:208
 translate italian wakeupDay1_fd57a2d8:
 
-    # n "e "jumps over you and leaves the room."
-    n "e "salta sopra di te e lascia la stanza."
+    # n "[e] jumps over you and leaves the room."
+    n "[e] salta sopra di te e lascia la stanza."
 
 # game/events_mc.rpy:211
 translate italian wakeupDay1_5d70399b:
@@ -768,7 +768,7 @@ translate italian wakeupDay1_dbd30717:
 translate italian wakeupDay1_01fbb572:
 
     # m "Hahaha, don't worry, Hun. I have seen that before... even though, you've obviously become a [pcgender]..."
-    m "Hahaha, non ti preoccupare, Hun. L'ho visto prima... anche se, ovviamente, sei diventato un [pcgender]..."
+    m "Hahaha, non ti preoccupare, Hun. L'ho visto prima... anche se, ovviamente, sei diventato un [pcgender!t]..."
 
 # game/events_mc.rpy:221
 translate italian wakeupDay1_d82c55e9:
@@ -1224,7 +1224,7 @@ translate italian getEfromSchool1_fc5cd1ac:
 translate italian getEfromSchool1_7ec6f8c8:
 
     # j "{size=-10}...and you really should have told me how hot [heshe] is{/size}."
-    j "{size=-10}...e dovresti davvero dirmi quanto sia caldo [heshe] {/size}."
+    j "{size=-10}...e dovresti davvero dirmi quanto sia caldo [heshe!t] {/size}."
 
 # game/events_mc.rpy:351
 translate italian getEfromSchool1_b5156e92:
@@ -1260,7 +1260,7 @@ translate italian getEfromSchool1_2e48f33f:
 translate italian getEfromSchool1_3e82ab9a:
 
     # j "Can't you at least wait until you're home before you hump your big [bs]?"
-    j "Non puoi almeno aspettare fino a quando sei a casa prima di gobbare il tuo grande [bs]?"
+    j "Non puoi almeno aspettare fino a quando sei a casa prima di gobbare il tuo grande [bs!t]?"
 
 # game/events_mc.rpy:362
 translate italian getEfromSchool1_e262c0dd:
@@ -1493,8 +1493,8 @@ translate italian afterGetEFromSchool_9bee5006:
 # game/events_mc.rpy:427
 translate italian afterGetEFromSchool_5c58ed99:
 
-    # n "e "nods."
-    n "e "nods."
+    # n "[e] nods."
+    n "[e] nods."
 
 # game/events_mc.rpy:428
 translate italian afterGetEFromSchool_581b1a35:
@@ -1734,7 +1734,7 @@ translate italian haremChoice_f6a70ae5:
 translate italian haremChoice_f42382f7:
 
     # j "I bet [heshe] wouldn't mind if we did share, hehe... right [pc]?"
-    j "Scommetto [heshe] non mi dispiacerebbe se fossimo in condivisione, hehe... giusto [pc]?"
+    j "Scommetto [heshe!t] non mi dispiacerebbe se fossimo in condivisione, hehe... giusto [pc]?"
 
 # game/events_mc.rpy:502
 translate italian haremChoice_b9d784ee:
@@ -2040,7 +2040,7 @@ translate italian pcroomnight3_b9b155fe_1:
 translate italian pcroomnight3_1a88aff7:
 
     # m "{size=-10}[e]? What are you doing up so late? Trying to sneak into your [bs]'s bed again?{/size}"
-    m "{size=-10}[e]? Cosa stai facendo così tardi? Cerchi di entrare di nuovo nel letto del tuo [bs]?{/size}"
+    m "{size=-10}[e]? Cosa stai facendo così tardi? Cerchi di entrare di nuovo nel letto del tuo [bs!t]?{/size}"
 
 # game/events_mc.rpy:608
 translate italian pcroomnight3_962b8eaa:
@@ -2052,7 +2052,7 @@ translate italian pcroomnight3_962b8eaa:
 translate italian pcroomnight3_a643ba94:
 
     # m "{size=-10}You should really let [himher] sleep [e]...{/size}"
-    m "{size=-10}Dovresti davvero lasciare [himher] dormire [e]...{/size}"
+    m "{size=-10}Dovresti davvero lasciare [himher!t] dormire [e]...{/size}"
 
 # game/events_mc.rpy:610
 translate italian pcroomnight3_2f115d4d:
@@ -2064,13 +2064,13 @@ translate italian pcroomnight3_2f115d4d:
 translate italian pcroomnight3_142bf015:
 
     # m "{size=-10}Listen [e], I know you're really happy that [pc] is back, but [heshe] just moved in and we both don't know if [heshe] intends to stay...{/size}"
-    m "{size=-10}Ascolta [e], So che sei davvero felice che [pc] sia tornato, ma [heshe] appena spostato e entrambi non sappiamo se [heshe] intende rimanere. .{/size}"
+    m "{size=-10}Ascolta [e], So che sei davvero felice che [pc] sia tornato, ma [heshe!t] appena spostato e entrambi non sappiamo se [heshe!t] intende rimanere. .{/size}"
 
 # game/events_mc.rpy:612
 translate italian pcroomnight3_0e370ad3:
 
     # m "{size=-10}...also, [heshe]'s been away for a long time, we basically don't know anything about [himher]. Plus, do you even know if [heshe] is okay with you sleeping in [hisher] bed?{/size}"
-    m "{size=-10}...anche, [heshe]è stato via per molto tempo, fondamentalmente non sappiamo nulla di [himher]. Inoltre, sai anche se [heshe] va bene con te nel letto [hisher] ?{/size}"
+    m "{size=-10}...anche, [heshe!t]è stato via per molto tempo, fondamentalmente non sappiamo nulla di [himher!t]. Inoltre, sai anche se [heshe!t] va bene con te nel letto [hisher!t] ?{/size}"
 
 # game/events_mc.rpy:613
 translate italian pcroomnight3_7e05c46a:
@@ -2082,7 +2082,7 @@ translate italian pcroomnight3_7e05c46a:
 translate italian pcroomnight3_9689d40d:
 
     # m "{size=-10}Come on [e], go back to your room. If [heshe]'s going to stay, you'll have enough opportunities to cuddle with [himher] in the future...{/size}"
-    m "{size=-10}Vieni su [e], torna alla tua stanza. Se [heshe]sta per rimanere, avrai abbastanza opportunità di coccolare con [himher] in futuro...{/size}"
+    m "{size=-10}Vieni su [e], torna alla tua stanza. Se [heshe]sta per rimanere, avrai abbastanza opportunità di coccolare con [himher!t] in futuro...{/size}"
 
 # game/events_mc.rpy:615
 translate italian pcroomnight3_f0cac90d:
@@ -2124,7 +2124,7 @@ translate italian pcroomnight3_a2d15ea3:
 translate italian pcroomnight3_eca096dd:
 
     # m "Can't you be a normal [boygirl] once in your life?"
-    m "Non puoi essere un normale [boygirl] una volta nella tua vita?"
+    m "Non puoi essere un normale [boygirl!t] una volta nella tua vita?"
 
 # game/events_mc.rpy:626
 translate italian pcroomnight3_a69377ef_2:
@@ -2885,8 +2885,8 @@ translate italian ebdPreps_d3107ef6:
 # game/events_mc.rpy:807
 translate italian ebdPreps_e8f66559:
 
-    # m "e "doesn't have many friends because of... how she is."
-    m "e "non ha molti amici a causa di... com'è."
+    # m "[e] doesn't have many friends because of... how she is."
+    m "[e] non ha molti amici a causa di... com'è."
 
 # game/events_mc.rpy:808
 translate italian ebdPreps_5848f0a7:
@@ -3264,7 +3264,7 @@ translate italian ebd_bb3c8ee6:
 translate italian ebd_628d2bbd:
 
     # j "...WHAHAHA, [heshe] really fell out of the bed?"
-    j "...WHAHAHA, [heshe] è davvero caduto dal letto?"
+    j "...WHAHAHA, [heshe!t] è davvero caduto dal letto?"
 
 # game/events_mc.rpy:911
 translate italian ebd_a702c4e1:
@@ -3276,7 +3276,7 @@ translate italian ebd_a702c4e1:
 translate italian ebd_adb99edb:
 
     # m "And guess what, [heshe] was sleeping completely naked, haha."
-    m "E indovinate cosa, [heshe] dormiva completamente nudo, haha."
+    m "E indovinate cosa, [heshe!t] dormiva completamente nudo, haha."
 
 # game/events_mc.rpy:913
 translate italian ebd_258a582b:
@@ -3786,7 +3786,7 @@ translate italian afterEBD_be5aaa98:
 translate italian afterEBD_a0d3b905:
 
     # pcthink "...with her own [bs]?"
-    pcthink "...con il suo [bs]?"
+    pcthink "...con il suo [bs!t]?"
 
 # game/events_mc.rpy:1057
 translate italian afterEBD_f0cac90d:
@@ -4710,7 +4710,7 @@ translate italian officeFirst_b568e141:
 translate italian officeFirst_9c60277f:
 
     # oc "First of all, [heshe] is not {b}your{/b} prisoner..."
-    oc "Prima di tutto, [heshe] non è {b}il tuo prigioniero {/b}..."
+    oc "Prima di tutto, [heshe!t] non è {b}il tuo prigioniero {/b}..."
 
 # game/events_mc.rpy:1284
 translate italian officeFirst_91fb484b:
@@ -4937,8 +4937,8 @@ translate italian homeday4night_9c027654:
 # game/events_mc.rpy:1341
 translate italian homeday4night_9ffe0b3c:
 
-    # pcthink "e "should be here by now..."
-    pcthink "e "dovrebbe essere qui ora..."
+    # pcthink "[e] should be here by now..."
+    pcthink "[e] dovrebbe essere qui ora..."
 
 # game/events_mc.rpy:1342
 translate italian homeday4night_f0cac90d_2:
@@ -4992,7 +4992,7 @@ translate italian homeday4night_956ae696:
 translate italian homeday4night_5bd3bf2f:
 
     # oc "Calm down, [m]. It doesn't help to yell at [himher]."
-    oc "Calmati, [m]. Non aiuta a urlare a [himher]."
+    oc "Calmati, [m]. Non aiuta a urlare a [himher!t]."
 
 # game/events_mc.rpy:1359
 translate italian homeday4night_8aee846a:
@@ -5016,7 +5016,7 @@ translate italian homeday4night_42a34ab2:
 translate italian homeday4night_7feca2c9:
 
     # m "So what did [heshe] do this time?"
-    m "Che cosa ha fatto [heshe] questa volta?"
+    m "Che cosa ha fatto [heshe!t] questa volta?"
 
 # game/events_mc.rpy:1363
 translate italian homeday4night_3c2af74d:
@@ -5034,13 +5034,13 @@ translate italian homeday4night_e612037c:
 translate italian homeday4night_99f84bee:
 
     # m "I'm sorry, [oc]... [heshe]'s just..."
-    m "Mi dispiace, [oc]... [heshe]è solo..."
+    m "Mi dispiace, [oc]... [heshe!t]è solo..."
 
 # game/events_mc.rpy:1366
 translate italian homeday4night_149911e6:
 
     # m "I just can't stand [himher] any longer..."
-    m "Non posso più sopportare [himher]..."
+    m "Non posso più sopportare [himher!t]..."
 
 # game/events_mc.rpy:1375
 translate italian d5morning_03946767:
@@ -5105,8 +5105,8 @@ translate italian d5morning_f0cac90d:
 # game/events_mc.rpy:1388
 translate italian d5morning_9f541c54:
 
-    # pcthink "e "didn't come over..."
-    pcthink "e "non è finito..."
+    # pcthink "[e] didn't come over..."
+    pcthink "[e] non è finito..."
 
 # game/events_mc.rpy:1389
 translate italian d5morning_c1686997:
@@ -5129,8 +5129,8 @@ translate italian d5morning_a69377ef_1:
 # game/events_mc.rpy:1394
 translate italian d5morning_e4a69cb1:
 
-    # pcthink "e "didn't look at me once yet..."
-    pcthink "e "non mi ha ancora guardato una volta..."
+    # pcthink "[e] didn't look at me once yet..."
+    pcthink "[e] non mi ha ancora guardato una volta..."
 
 # game/events_mc.rpy:1395
 translate italian d5morning_72a33094:
@@ -5393,8 +5393,8 @@ translate italian d6morning_a69377ef:
 # game/events_mc.rpy:1488
 translate italian d6morning_ca66ede7:
 
-    # pcthink "e "is gone again..."
-    pcthink "e "è andato di nuovo..."
+    # pcthink "[e] is gone again..."
+    pcthink "[e] è andato di nuovo..."
 
 # game/events_mc.rpy:1490
 translate italian d6morning_a69377ef_1:
@@ -6047,8 +6047,8 @@ translate italian d7_wakeup_9bee5006:
 # game/events_mc.rpy:1684
 translate italian d7_wakeup_79c731b2:
 
-    # n "e "jumps up and quickly runs out the balcony."
-    n "e "salta e chiude rapidamente il balcone."
+    # n "[e] jumps up and quickly runs out the balcony."
+    n "[e] salta e chiude rapidamente il balcone."
 
 # game/events_mc.rpy:1686
 translate italian d7_wakeup_7fe431b0:
@@ -6341,8 +6341,8 @@ translate italian d7_breakfast_c648d533:
 # game/events_mc.rpy:1775
 translate italian d7_breakfast_c946a8f3:
 
-    # j "e "can have her big [bs] all for herself again, or maybe even..."
-    j "e "può avere il suo grande [bs] tutto per se stessa di nuovo, o forse..."
+    # j "[e] can have her big [bs] all for herself again, or maybe even..."
+    j "[e] può avere il suo grande [bs!t] tutto per se stessa di nuovo, o forse..."
 
 # game/events_mc.rpy:1777
 translate italian d7_breakfast_04348ff1:
@@ -6617,8 +6617,8 @@ translate italian d8_morning_f2c88496:
 # game/events_mc.rpy:1938
 translate italian d8_morning_6cafa954:
 
-    # pcthink "m "really changed, but I'm sure she's still hiding something from me."
-    pcthink "m "è cambiato davvero, ma sono sicuro che mi sta ancora nascondendo qualcosa."
+    # pcthink "[m] really changed, but I'm sure she's still hiding something from me."
+    pcthink "[m] è cambiato davvero, ma sono sicuro che mi sta ancora nascondendo qualcosa."
 
 # game/events_mc.rpy:1939
 translate italian d8_morning_a69377ef_1:
@@ -6803,8 +6803,8 @@ translate italian d8_eveningWJada_83ad7b2f:
 # game/events_mc.rpy:1995
 translate italian d8_eveningWJada_52f9ab04:
 
-    # pc "j "said thank you for letting her stay."
-    pc "j "ha detto grazie per aver lasciato il suo soggiorno."
+    # pc "[j] said thank you for letting her stay."
+    pc "[j] ha detto grazie per aver lasciato il suo soggiorno."
 
 # game/events_mc.rpy:1997
 translate italian d8_eveningWJada_2302705b:
@@ -7043,8 +7043,8 @@ translate italian d8_eveningWJada_ca366517:
 # game/events_mc.rpy:2059
 translate italian d8_eveningWJada_c3c54b71:
 
-    # j "e "and I will of course sleep in [e]'s room."
-    j "e "e naturalmente dormirò nella stanza di [e]."
+    # j "[e] and I will of course sleep in [e]'s room."
+    j "[e] e naturalmente dormirò nella stanza di [e]."
 
 # game/events_mc.rpy:2060
 translate italian d8_eveningWJada_225fadf5:
@@ -7248,7 +7248,7 @@ translate italian d8_eveningWJada_305b9374:
 translate italian d8_eveningWJada_cfbbd79b:
 
     # j "{size=-10}...really like [himher]!{/size}"
-    j "{size=-10}...davvero come [himher]!{/size}"
+    j "{size=-10}...davvero come [himher!t]!{/size}"
 
 # game/events_mc.rpy:2124
 translate italian d8_eveningWJada_75fc793d:
@@ -7355,8 +7355,8 @@ translate italian d9_wakeup_02e42931:
 # game/events_mc.rpy:2148
 translate italian d9_wakeup_930497c3:
 
-    # m "oc "said that your Dad will probably stay home for a while from now on..."
-    m "oc "ha detto che il tuo papà probabilmente rimarrà a casa per un po' di tempo..."
+    # m "[oc] said that your Dad will probably stay home for a while from now on..."
+    m "[oc] ha detto che il tuo papà probabilmente rimarrà a casa per un po' di tempo..."
 
 # game/events_mc.rpy:2149
 translate italian d9_wakeup_dd2d8f0d:
@@ -7475,8 +7475,8 @@ translate italian d9_breakfast_fcf41317:
 # game/events_mc.rpy:2191
 translate italian d9_breakfast_472b2611:
 
-    # m "j "you know that I'm not [hisher] mom."
-    m "j "sai che non sono [hisher] mamma."
+    # m "[j] you know that I'm not [hisher] mom."
+    m "[j] sai che non sono [hisher!t] mamma."
 
 # game/events_mc.rpy:2192
 translate italian d9_breakfast_3fa6b1c9:
@@ -8879,8 +8879,8 @@ translate italian d10johnson_32b17776:
 # game/events_mc.rpy:2543
 translate italian d10johnson_9f733bc4:
 
-    # oc "m "called me after he was gone."
-    oc "m "mi ha chiamato dopo che era andato."
+    # oc "[m] called me after he was gone."
+    oc "[m] mi ha chiamato dopo che era andato."
 
 # game/events_mc.rpy:2545
 translate italian d10johnson_a731af6d:
@@ -9641,8 +9641,8 @@ translate italian d10nle_8829d4f3:
 # game/events_mc.rpy:2820
 translate italian md10nle_3b7ae288:
 
-    # pc "j "come over here, I want to taste you as well!"
-    pc "j "venite qui, voglio assaggiarvi pure!"
+    # pc "[j] come over here, I want to taste you as well!"
+    pc "[j] venite qui, voglio assaggiarvi pure!"
 
 # game/events_mc.rpy:2821
 translate italian md10nle_3b76887f:
@@ -9953,8 +9953,8 @@ translate italian d10nfj_08681c4a:
 # game/events_mc.rpy:2954
 translate italian d10nfj_bf503bc9:
 
-    # pc "e "come here."
-    pc "e "vieni qui."
+    # pc "[e] come here."
+    pc "[e] vieni qui."
 
 # game/events_mc.rpy:2956
 translate italian d10nfj_52d6b73f:
@@ -10781,110 +10781,110 @@ translate italian d11bhpcroom_0b75a0f5:
 translate italian strings:
 
     # game/events_mc.rpy:249
-    old "[mschoice] Watch TV in the living room"
-    new "[mschoice] Guarda la TV nel soggiorno"
+    old "Watch TV in the living room"
+    new "Guarda la TV nel soggiorno"
 
     # game/events_mc.rpy:505
-    old "[mschoice] {i}(Damn, I love the idea...){/i}"
-    new "[mschoice] {i}(Damn, amo l'idea...){/i}"
+    old "{i}(Damn, I love the idea...){/i}"
+    new "{i}(Damn, amo l'idea...){/i}"
 
     # game/events_mc.rpy:505
-    old "[mschoice] {i}(There is no way I would ever do that!){/i}"
-    new "[mschoice] {i}(Non c'è modo di farlo mai!){/i}"
+    old "{i}(There is no way I would ever do that!){/i}"
+    new "{i}(Non c'è modo di farlo mai!){/i}"
 
     # game/events_mc.rpy:572
-    old "[mschoice] She will come over tonight anyway... gimme porn!"
-    new "[mschoice] Lei verrà questa sera comunque... gimme porno!"
+    old "She will come over tonight anyway... gimme porn!"
+    new "Lei verrà questa sera comunque... gimme porno!"
 
     # game/events_mc.rpy:572
-    old "[mschoice] I should really talk to her now!"
-    new "[mschoice] Dovrei davvero parlare con lei adesso!"
+    old "I should really talk to her now!"
+    new "Dovrei davvero parlare con lei adesso!"
 
     # game/events_mc.rpy:707
-    old "[mschoice] Introduce yourself."
-    new "[mschoice] Introduci te stesso."
+    old "Introduce yourself."
+    new "Introduci te stesso."
 
     # game/events_mc.rpy:707
-    old "[mschoice] Say good bye and leave."
-    new "[mschoice] Dite il buon addio e partite."
+    old "Say good bye and leave."
+    new "Dite il buon addio e partite."
 
     # game/events_mc.rpy:1518
-    old "[mschoice] Call her?"
-    new "[mschoice] Chiamatela?"
+    old "Call her?"
+    new "Chiamatela?"
 
     # game/events_mc.rpy:1518
-    old "[mschoice] Call her!"
-    new "[mschoice] Chiamatela!"
+    old "Call her!"
+    new "Chiamatela!"
 
     # game/events_mc.rpy:1518
-    old "[mschoice] Nah, not now."
-    new "[mschoice] Nah, non adesso."
+    old "Nah, not now."
+    new "Nah, non adesso."
 
     # game/events_mc.rpy:1620
-    old "[mschoice] Push [j] out of the bed."
-    new "[mschoice] Spingi [j] fuori dal letto."
+    old "Push [j] out of the bed."
+    new "Spingi [j] fuori dal letto."
 
     # game/events_mc.rpy:1620
-    old "[mschoice] Hide [e] under the blanket."
-    new "[mschoice] Nascondi [e] sotto la coperta."
+    old "Hide [e] under the blanket."
+    new "Nascondi [e] sotto la coperta."
 
     # game/events_mc.rpy:1735
-    old "[mschoice] Tell them you're sorry."
-    new "[mschoice] Di' loro che ti dispiace."
+    old "Tell them you're sorry."
+    new "Di' loro che ti dispiace."
 
     # game/events_mc.rpy:1735
-    old "[mschoice] Talk about the weather."
-    new "[mschoice] Parla del tempo."
+    old "Talk about the weather."
+    new "Parla del tempo."
 
     # game/events_mc.rpy:2197
-    old "[mschoice] Call her Mom."
-    new "[mschoice] Chiama la sua mamma."
+    old "Call her Mom."
+    new "Chiama la sua mamma."
 
     # game/events_mc.rpy:2197
-    old "[mschoice] Change the topic."
-    new "[mschoice] Cambia l'argomento."
+    old "Change the topic."
+    new "Cambia l'argomento."
 
     # game/events_mc.rpy:2320
-    old "[mschoice] The good news."
-    new "[mschoice] Le buone notizie."
+    old "The good news."
+    new "Le buone notizie."
 
     # game/events_mc.rpy:2320
-    old "[mschoice] The bad news."
-    new "[mschoice] Le brutte notizie."
+    old "The bad news."
+    new "Le brutte notizie."
 
     # game/events_mc.rpy:2772
-    old "[mschoice] [e]."
-    new "[mschoice] [e]."
+    old "[e]."
+    new "[e]."
 
     # game/events_mc.rpy:2772
-    old "[mschoice] [j]."
-    new "[mschoice] [j]."
+    old "[j]."
+    new "[j]."
 
     # game/events_mc.rpy:2817
-    old "[mschoice] Switch to [j]."
-    new "[mschoice] Passa a [j]."
+    old "Switch to [j]."
+    new "Passa a [j]."
 
     # game/events_mc.rpy:2817
-    old "[mschoice] Go on, [e]."
-    new "[mschoice] Vai su, [e]."
+    old "Go on, [e]."
+    new "Vai su, [e]."
 
     # game/events_mc.rpy:2817
-    old "[mschoice] Cum."
-    new "[mschoice] Cum."
+    old "Cum."
+    new "Cum."
 
     # game/events_mc.rpy:2857
-    old "[mschoice] Switch to [e]."
-    new "[mschoice] Passa a [e]."
+    old "Switch to [e]."
+    new "Passa a [e]."
 
     # game/events_mc.rpy:2857
-    old "[mschoice] Go on, [j]."
-    new "[mschoice] Vai su, [j]."
+    old "Go on, [j]."
+    new "Vai su, [j]."
 
     # game/events_mc.rpy:2926
-    old "[mschoice] Switch to fuck [j]."
-    new "[mschoice] Passa al cazzo [j]."
+    old "Switch to fuck [j]."
+    new "Passa al cazzo [j]."
 
     # game/events_mc.rpy:2971
-    old "[mschoice] Switch to fuck [e]."
-    new "[mschoice] Passa al cazzo [e]."
+    old "Switch to fuck [e]."
+    new "Passa al cazzo [e]."
 

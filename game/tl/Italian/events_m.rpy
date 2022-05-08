@@ -107,8 +107,8 @@ translate italian rachelBathroomDay0_5318f927:
 # game/events_m.rpy:35
 translate italian rachelBathroomDay0_6361038f:
 
-    # pcthink "m "really took her time in the shower."
-    pcthink "m "ha davvero preso il suo tempo sotto la doccia."
+    # pcthink "[m] really took her time in the shower."
+    pcthink "[m] ha davvero preso il suo tempo sotto la doccia."
 
 # game/events_m.rpy:36
 translate italian rachelBathroomDay0_f0cac90d_1:
@@ -893,8 +893,8 @@ translate italian rachelPills2nd_edd29639:
 # game/events_m.rpy:273
 translate italian rachelPills2nd_12e63916:
 
-    # pc "e "didn't seem to be overly excited..."
-    pc "e "non sembrava essere troppo eccitato..."
+    # pc "[e] didn't seem to be overly excited..."
+    pc "[e] non sembrava essere troppo eccitato..."
 
 # game/events_m.rpy:275
 translate italian rachelPills2nd_8e44bdea:
@@ -966,7 +966,7 @@ translate italian rachelPills2nd_18310d1a:
 translate italian rachelPills2nd_fb7f1c26:
 
     # m "...and after I realized how shitty I was to you, it got even worse... I almost destroyed your childhood and [e] lost her precious big [bs] because of me..."
-    m "...e dopo che mi sono reso conto di quanto sia stato per te, è peggiorato... Ho quasi distrutto la tua infanzia e [e] perso il suo prezioso grande [bs] a causa di me..."
+    m "...e dopo che mi sono reso conto di quanto sia stato per te, è peggiorato... Ho quasi distrutto la tua infanzia e [e] perso il suo prezioso grande [bs!t] a causa di me..."
 
 # game/events_m.rpy:288
 translate italian rachelPills2nd_58708270:
@@ -990,7 +990,7 @@ translate italian rachelPills2nd_e9a0e4a2:
 translate italian rachelPills2nd_92f4d0a1:
 
     # m "But now you're back. [e] is happy to have her big [bs] back and I'm happy to have a handsome young [pcgender] here I can count on and trust."
-    m "Ma ora sei tornato. [e] è felice di avere il suo grande [bs] indietro e sono felice di avere un bel giovane [pcgender] qui posso contare su e fidarmi."
+    m "Ma ora sei tornato. [e] è felice di avere il suo grande [bs!t] indietro e sono felice di avere un bel giovane [pcgender!t] qui posso contare su e fidarmi."
 
 # game/events_m.rpy:294
 translate italian rachelPills2nd_7111c54a:
@@ -1002,7 +1002,7 @@ translate italian rachelPills2nd_7111c54a:
 translate italian rachelPills2nd_01d5138e:
 
     # m "But now you're back. [e] is happy to have her big [bs] back and I'm happy to have a beautiful young [pcgender] here I can count on and trust."
-    m "Ma ora sei tornato. [e] è felice di avere il suo grande [bs] indietro e sono felice di avere un bel giovane [pcgender] qui posso contare su e fidarmi."
+    m "Ma ora sei tornato. [e] è felice di avere il suo grande [bs!t] indietro e sono felice di avere un bel giovane [pcgender!t] qui posso contare su e fidarmi."
 
 # game/events_m.rpy:297
 translate italian rachelPills2nd_a2fd94ad:
@@ -2249,8 +2249,8 @@ translate italian rachelPills3rd_0d6e51fa:
 # game/events_m.rpy:595
 translate italian rachelPills3rd_acd0e8b3:
 
-    # pc "m "I have to... What the!?"
-    pc "m "Devo fare... Che cosa!?"
+    # pc "[m] I have to... What the!?"
+    pc "[m] Devo fare... Che cosa!?"
 
 # game/events_m.rpy:597
 translate italian rachelPills3rd_d2dfe07d:
@@ -2897,8 +2897,8 @@ translate italian ebdRachelToBed_f22ad3c6:
 # game/events_m.rpy:744
 translate italian ebdRachelToBed_39c0f9e9:
 
-    # pc "m "you're drunk, there was alcohol in the fruit-punch..."
-    pc "m "sei ubriaco, c'era alcool nel punzone della frutta..."
+    # pc "[m] you're drunk, there was alcohol in the fruit-punch..."
+    pc "[m] sei ubriaco, c'era alcool nel punzone della frutta..."
 
 # game/events_m.rpy:745
 translate italian ebdRachelToBed_b2505349:
@@ -3335,8 +3335,8 @@ translate italian bathroomRAfterEBD_a69377ef_2:
 # game/events_m.rpy:853
 translate italian bathroomRAfterEBD_1f46489f:
 
-    # pcthink "e "is still sleeping..."
-    pcthink "e "sta ancora dormendo..."
+    # pcthink "[e] is still sleeping..."
+    pcthink "[e] sta ancora dormendo..."
 
 # game/events_m.rpy:854
 translate italian bathroomRAfterEBD_2fb13a0b:
@@ -3594,7 +3594,7 @@ translate italian rachelsaffair_95354b65:
 translate italian rachelsaffair_fcd42e14:
 
     # m "Yes [heshe] is, but it feels so wrong... I feel really bad about it and to be honest, I think [heshe] really cares a lot for [e]."
-    m "Sì [heshe] è, ma si sente così sbagliato... Mi sento davvero male su di esso e per essere onesti, penso che [heshe] davvero si preoccupa molto [e]."
+    m "Sì [heshe!t] è, ma si sente così sbagliato... Mi sento davvero male su di esso e per essere onesti, penso che [heshe!t] davvero si preoccupa molto [e]."
 
 # game/events_m.rpy:912
 translate italian rachelsaffair_58c9fec2:
@@ -3666,7 +3666,7 @@ translate italian rachelsaffair_e612037c_5:
 translate italian rachelsaffair_1d0e3606:
 
     # m "No, I'm sorry, but I think we shouldn't meet for now... I don't want [himher] to notice anything until... until I'm ready for it."
-    m "No, mi dispiace, ma penso che non dovremmo incontrarci per ora... Non voglio [himher] notare nulla finche... finché non sarò pronto per questo."
+    m "No, mi dispiace, ma penso che non dovremmo incontrarci per ora... Non voglio [himher!t] notare nulla finche... finché non sarò pronto per questo."
 
 # game/events_m.rpy:924
 translate italian rachelsaffair_e612037c_6:
@@ -3690,7 +3690,7 @@ translate italian rachelsaffair_3ebcf718:
 translate italian rachelsaffair_06845916:
 
     # m "Alright, I should hang up, [heshe] could be back soon."
-    m "Bene, dovrei appendere, [heshe] potrebbe tornare presto."
+    m "Bene, dovrei appendere, [heshe!t] potrebbe tornare presto."
 
 # game/events_m.rpy:928
 translate italian rachelsaffair_2d135ad9:
@@ -4601,8 +4601,8 @@ translate italian d6_backhomeRachel_2331e59f:
 # game/events_m.rpy:1173
 translate italian d6_backhomeRachel_d99a9baa:
 
-    # m "t "is here too, I don't want to disturb the therapy..."
-    m "t "è anche qui, non voglio disturbare la terapia..."
+    # m "[t] is here too, I don't want to disturb the therapy..."
+    m "[t] è anche qui, non voglio disturbare la terapia..."
 
 # game/events_m.rpy:1174
 translate italian d6_backhomeRachel_40e1b6da:
@@ -4788,7 +4788,7 @@ translate italian d6_backhomeRachel_cc15f051:
 translate italian d6_backhomeRachel_0d626e1b:
 
     # m "Or maybe it's because you've... developed some feelings for her, feelings one shouldn't have for [hisher] sister..."
-    m "O forse è perché sei... hai sviluppato alcuni sentimenti per lei, sentimenti che non si dovrebbe avere per [hisher] sorella..."
+    m "O forse è perché sei... hai sviluppato alcuni sentimenti per lei, sentimenti che non si dovrebbe avere per [hisher!t] sorella..."
 
 # game/events_m.rpy:1214
 translate italian d6_backhomeRachel_c7cc06d9:
@@ -5075,8 +5075,8 @@ translate italian d6_rachel_pills_f2c8a49a:
 # game/events_m.rpy:1278
 translate italian d6_rachel_pills_ff7d5dcf:
 
-    # pc "m "I... uff..."
-    pc "m "Io... uff..."
+    # pc "[m] I... uff..."
+    pc "[m] Io... uff..."
 
 # game/events_m.rpy:1280
 translate italian d6_rachel_pills_814045c5:
@@ -6342,7 +6342,7 @@ translate italian d8_rachel_pills_2d515194:
 translate italian d8_rachel_pills_03be39a2:
 
     # pc "Maybe she's just nervous around you. I mean, everyone gets a bit nervous around someone [heshe]'s attracted to..."
-    pc "Forse è nervosa intorno a te. Intendo dire che tutti si innervosiscono intorno a qualcuno [heshe]attratto da..."
+    pc "Forse è nervosa intorno a te. Intendo dire che tutti si innervosiscono intorno a qualcuno [heshe!t] attratto da..."
 
 # game/events_m.rpy:1628
 translate italian d8_rachel_pills_893fe2d7:
@@ -7139,8 +7139,8 @@ translate italian d10shower_289898d3:
 # game/events_m.rpy:1863
 translate italian d10shower_16d83b5c:
 
-    # m "e "and [j] will probably not get up soon, but I've made us some breakfast."
-    m "e "e [j] probabilmente non si alzeranno presto, ma ci ho fatto un po' di colazione."
+    # m "[e] and [j] will probably not get up soon, but I've made us some breakfast."
+    m "[e] e [j] probabilmente non si alzeranno presto, ma ci ho fatto un po' di colazione."
 
 # game/events_m.rpy:1865
 translate italian d10shower_8561f259:
@@ -7482,7 +7482,7 @@ translate italian d10outdoor_8238cecc:
 translate italian d10outdoor_21b6cbb6:
 
     # m "Actually, I think you've become a really attractive [pcgender]."
-    m "In realtà, penso che tu sia diventato davvero attraente [pcgender]."
+    m "In realtà, penso che tu sia diventato davvero attraente [pcgender!t]."
 
 # game/events_m.rpy:1985
 translate italian d10outdoor_a69377ef:
@@ -7860,13 +7860,13 @@ translate italian d10outdoor_145cce3e:
 translate italian d10outdoor_471b5f96:
 
     # m "You were still there... his [ds]..."
-    m "Eravate ancora lì... il suo [ds]..."
+    m "Eravate ancora lì... il suo [ds!t]..."
 
 # game/events_m.rpy:2092
 translate italian d10outdoor_8fd2f4f9:
 
     # m "The [ds] of the woman he always compared me with, the [ds] of the man that caused me so much pain..."
-    m "Il [ds] della donna che mi ha sempre paragonato, il [ds] dell'uomo che mi ha causato così tanto dolore..."
+    m "Il [ds!t] della donna che mi ha sempre paragonato, il [ds!t] dell'uomo che mi ha causato così tanto dolore..."
 
 # game/events_m.rpy:2093
 translate italian d10outdoor_fbfe2299:
@@ -8033,8 +8033,8 @@ translate italian d10outdoor_a69377ef_5:
 # game/events_m.rpy:2134
 translate italian d10outdoor_1dc31bd7:
 
-    # m "pc "I..."
-    m "pc "I..."
+    # m "[pc] I..."
+    m "[pc] I..."
 
 # game/events_m.rpy:2138
 translate italian d10outdoor_9664d4a0_1:
@@ -8243,8 +8243,8 @@ translate italian d10outdoor_bb13efe5:
 # game/events_m.rpy:2204
 translate italian d10outdoor_b4b32bba:
 
-    # n "m "seems to feel relieved when you arrive home, you can't help but feel the same..."
-    n "m "sembra di sentirsi sollevati quando arrivi a casa, non puoi fare a meno di sentire lo stesso..."
+    # n "[m] seems to feel relieved when you arrive home, you can't help but feel the same..."
+    n "[m] sembra di sentirsi sollevati quando arrivi a casa, non puoi fare a meno di sentire lo stesso..."
 
 # game/events_m.rpy:2207
 translate italian d10outdoor_ec000b2e:
@@ -8531,8 +8531,8 @@ translate italian d10shower2_e6b5c996:
 # game/events_m.rpy:2331
 translate italian d10shower2_d0150a9e:
 
-    # pc "t "and [e] are busy with their session."
-    pc "t "e [e] sono occupati con la loro sessione."
+    # pc "[t] and [e] are busy with their session."
+    pc "[t] e [e] sono occupati con la loro sessione."
 
 # game/events_m.rpy:2333
 translate italian d10shower2_327a82b7:
@@ -8573,114 +8573,114 @@ translate italian d10shower2_2aacafaf:
 translate italian strings:
 
     # game/events_m.rpy:75
-    old "[mschoice] Knock at the door"
-    new "[mschoice] Toccare alla porta"
+    old "Knock at the door"
+    new "Toccare alla porta"
 
     # game/events_m.rpy:75
-    old "[mschoice] Just open the door"
-    new "[mschoice] Basta aprire la porta"
+    old "Just open the door"
+    new "Basta aprire la porta"
 
     # game/events_m.rpy:572
-    old "[mschoice] Storm in"
-    new "[mschoice] Storm in"
+    old "Storm in"
+    new "Storm in"
 
     # game/events_m.rpy:742
-    old "[mschoice] Tell her about the alcohol"
-    new "[mschoice] Le dica dell'alcol"
+    old "Tell her about the alcohol"
+    new "Le dica dell'alcol"
 
     # game/events_m.rpy:742
-    old "[mschoice] Don't tell her"
-    new "[mschoice] Non dirglielo"
+    old "Don't tell her"
+    new "Non dirglielo"
 
     # game/events_m.rpy:993
-    old "[mschoice] Push her to talk."
-    new "[mschoice] La spinga a parlare."
+    old "Push her to talk."
+    new "La spinga a parlare."
 
     # game/events_m.rpy:993
-    old "[mschoice] Wait."
-    new "[mschoice] Aspetta."
+    old "Wait."
+    new "Aspetta."
 
     # game/events_m.rpy:1027
-    old "[mschoice] Give her the bottle."
-    new "[mschoice] Datele la bottiglia."
+    old "Give her the bottle."
+    new "Datele la bottiglia."
 
     # game/events_m.rpy:1027
-    old "[mschoice] Give her one pill."
-    new "[mschoice] Datele una pillola."
+    old "Give her one pill."
+    new "Datele una pillola."
 
     # game/events_m.rpy:1414
-    old "[mschoice] Grab her arm."
-    new "[mschoice] Afferra il braccio."
+    old "Grab her arm."
+    new "Afferra il braccio."
 
     # game/events_m.rpy:1414
-    old "[mschoice] Let her be."
-    new "[mschoice] La lasci essere."
+    old "Let her be."
+    new "La lasci essere."
 
     # game/events_m.rpy:1526
-    old "[mschoice] Knock."
-    new "[mschoice] Knock."
+    old "Knock."
+    new "Knock."
 
     # game/events_m.rpy:1526
-    old "[mschoice] Just go in."
-    new "[mschoice] Entra e basta."
+    old "Just go in."
+    new "Entra e basta."
 
     # game/events_m.rpy:1532
-    old "[mschoice] Knock again."
-    new "[mschoice] Toccare di nuovo."
+    old "Knock again."
+    new "Toccare di nuovo."
 
     # game/events_m.rpy:1681
-    old "[mschoice] Be honest and show your feelings."
-    new "[mschoice] Sii onesto e mostri i tuoi sentimenti."
+    old "Be honest and show your feelings."
+    new "Sii onesto e mostri i tuoi sentimenti."
 
     # game/events_m.rpy:1681
-    old "[mschoice] Listen to [himher] and focus on what [heshe] wants!"
-    new "[mschoice] Ascolta [himher] e concentrati su quello che [heshe] vuole!"
+    old "Listen to [himher] and focus on what [heshe] wants!"
+    new "Ascolta [himher!t] e concentrati su quello che [heshe!t] vuole!"
 
     # game/events_m.rpy:1681
-    old "[mschoice] Don't approach [himher]!"
-    new "[mschoice] Non avvicinarti a [himher]!"
+    old "Don't approach [himher]!"
+    new "Non avvicinarti a [himher!t]!"
 
     # game/events_m.rpy:1894
-    old "[mschoice] Tell her that she looks great."
-    new "[mschoice] Le dica che sembra grande."
+    old "Tell her that she looks great."
+    new "Le dica che sembra grande."
 
     # game/events_m.rpy:1894
-    old "[mschoice] The weather! The weather looks to be great!"
-    new "[mschoice] Il tempo! Il tempo sembra essere fantastico!"
+    old "The weather! The weather looks to be great!"
+    new "Il tempo! Il tempo sembra essere fantastico!"
 
     # game/events_m.rpy:1955
-    old "[mschoice] You should keep doing workouts."
-    new "[mschoice] Dovresti continuare a fare allenamenti."
+    old "You should keep doing workouts."
+    new "Dovresti continuare a fare allenamenti."
 
     # game/events_m.rpy:1955
-    old "[mschoice] You don't need that workout you look great anyway!"
-    new "[mschoice] Non hai bisogno di quell'allenamento che sembri comunque fantastico!"
+    old "You don't need that workout you look great anyway!"
+    new "Non hai bisogno di quell'allenamento che sembri comunque fantastico!"
 
     # game/events_m.rpy:2165
-    old "[mschoice] Tell her to come in next time."
-    new "[mschoice] Le dica di venire la prossima volta."
+    old "Tell her to come in next time."
+    new "Le dica di venire la prossima volta."
 
     # game/events_m.rpy:2165
-    old "[mschoice] Ask her if she would mind you seeing her under the shower again."
-    new "[mschoice] Chiedetele se le dispiacerebbe vederla di nuovo sotto la doccia."
+    old "Ask her if she would mind you seeing her under the shower again."
+    new "Chiedetele se le dispiacerebbe vederla di nuovo sotto la doccia."
 
     # game/events_m.rpy:2165
-    old "[mschoice] Tease her."
-    new "[mschoice] La insegnate."
+    old "Tease her."
+    new "La insegnate."
 
     # game/events_m.rpy:2243
-    old "[mschoice] Check."
-    new "[mschoice] Verifica."
+    old "Check."
+    new "Verifica."
 
     # game/events_m.rpy:2243
-    old "[mschoice] Go back to your room."
-    new "[mschoice] Torna alla tua stanza."
+    old "Go back to your room."
+    new "Torna alla tua stanza."
 
     # game/events_m.rpy:2249
-    old "[mschoice] Go in."
-    new "[mschoice] Vai dentro."
+    old "Go in."
+    new "Vai dentro."
 
     # game/events_m.rpy:2249
-    old "[mschoice] Don't. (Go back to your room)"
-    new "[mschoice] Non tornare alla tua stanza)"
+    old "Don't. (Go back to your room)"
+    new "Non tornare alla tua stanza)"
 

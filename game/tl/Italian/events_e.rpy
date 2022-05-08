@@ -347,8 +347,8 @@ translate italian eNightTwo_48a6aa32:
 # game/events_e.rpy:128
 translate italian eNightTwo_90c3eb04:
 
-    # n "e "moves slowly, trying to make no noises. As she reaches your bed, she climbs into it and gives you a soft poke."
-    n "e "si muove lentamente, cercando di non fare rumori. Quando lei raggiunge il tuo letto, si arrampica e ti dà un poke morbido."
+    # n "[e] moves slowly, trying to make no noises. As she reaches your bed, she climbs into it and gives you a soft poke."
+    n "[e] si muove lentamente, cercando di non fare rumori. Quando lei raggiunge il tuo letto, si arrampica e ti dà un poke morbido."
 
 # game/events_e.rpy:129
 translate italian eNightTwo_67d98cf0:
@@ -359,8 +359,8 @@ translate italian eNightTwo_67d98cf0:
 # game/events_e.rpy:130
 translate italian eNightTwo_240afb77:
 
-    # n "e "fiddles a bit with the blanket, you assume that she is trying to get under it without waking you up."
-    n "e "un po 'con la coperta, si suppone che lei sta cercando di ottenere sotto di esso senza svegliarti."
+    # n "[e] fiddles a bit with the blanket, you assume that she is trying to get under it without waking you up."
+    n "[e] un po 'con la coperta, si suppone che lei sta cercando di ottenere sotto di esso senza svegliarti."
 
 # game/events_e.rpy:131
 translate italian eNightTwo_d0eeea8f:
@@ -929,8 +929,8 @@ translate italian childroomPCtalktoEllie_be8d3b3c:
 # game/events_e.rpy:299
 translate italian childroomPCtalktoEllie_59d200fe:
 
-    # n "e "hugs you again as if she doesn't want to let you go anymore. You assure her that you're not going to disappear again. She doesn't answer, but you can tell that she is happy.{p}After a while [m] calls for dinner..."
-    n "e "ti abbraccia di nuovo come se lei non vuole lasciarti andare più. Le assicuri che non sparirai di nuovo. Lei non risponde, ma si può dire che è felice.{p}Dopo un po' [m] chiama per cena..."
+    # n "[e] hugs you again as if she doesn't want to let you go anymore. You assure her that you're not going to disappear again. She doesn't answer, but you can tell that she is happy.{p}After a while [m] calls for dinner..."
+    n "[e] ti abbraccia di nuovo come se lei non vuole lasciarti andare più. Le assicuri che non sparirai di nuovo. Lei non risponde, ma si può dire che è felice.{p}Dopo un po' [m] chiama per cena..."
 
 # game/events_e.rpy:304
 translate italian childroomESleepDay3_2fb7f884:
@@ -1001,20 +1001,20 @@ translate italian ebdLookForE_340eb60b:
 # game/events_e.rpy:339
 translate italian ebdLookForE_ba05f132:
 
-    # j "pc "the heroine, hehe."
-    j "pc "l'eroina, hehe."
+    # j "[pc] the heroine, hehe."
+    j "[pc] l'eroina, hehe."
 
 # game/events_e.rpy:341
 translate italian ebdLookForE_f01b3f03:
 
-    # j "pc "the hero, hehe."
-    j "pc "l'eroe, hehe."
+    # j "[pc] the hero, hehe."
+    j "[pc] l'eroe, hehe."
 
 # game/events_e.rpy:342
 translate italian ebdLookForE_5400efb8:
 
     # m "Haha, yes [heshe] was always like that when it came to [e]..."
-    m "Haha, sì [heshe] era sempre così quando si trattava di [e]..."
+    m "Haha, sì [heshe!t] era sempre così quando si trattava di [e]..."
 
 # game/events_e.rpy:345
 translate italian ebdLookForE_3dad1e68:
@@ -2141,8 +2141,8 @@ translate italian eHumpNight5_r_1c1d04b3:
 # game/events_e.rpy:678
 translate italian eHumpNight5_r_b38f1ea3:
 
-    # pc "e "stop it! We can't do this!"
-    pc "e "fermarlo! Non possiamo farlo!"
+    # pc "[e] stop it! We can't do this!"
+    pc "[e] fermarlo! Non possiamo farlo!"
 
 # game/events_e.rpy:680
 translate italian eHumpNight5_r_306cb5c7:
@@ -2315,8 +2315,8 @@ translate italian eHumpNight5_r_36fcc878:
 # game/events_e.rpy:743
 translate italian eHumpNight5_r_c52f5a7a:
 
-    # n "e "collapses on top of you, she hugs you tightly and softly kisses your neck a few times while still panting heavily."
-    n "e "crolla in cima a te, lei abbraccia strettamente e dolcemente bacia il collo un paio di volte mentre ancora ansimando pesantemente."
+    # n "[e] collapses on top of you, she hugs you tightly and softly kisses your neck a few times while still panting heavily."
+    n "[e] crolla in cima a te, lei abbraccia strettamente e dolcemente bacia il collo un paio di volte mentre ancora ansimando pesantemente."
 
 # game/events_e.rpy:745
 translate italian eHumpNight5_r_b6e072e3:
@@ -2921,8 +2921,8 @@ translate italian d9_pcroom_e01_e65928e8:
 # game/events_e.rpy:974
 translate italian d9_pcroom_e01_f5743234:
 
-    # pc "e "are you alright?"
-    pc "e "hai ragione?"
+    # pc "[e] are you alright?"
+    pc "[e] hai ragione?"
 
 # game/events_e.rpy:976
 translate italian d9_pcroom_e01_5860e317:
@@ -3131,14 +3131,14 @@ translate italian d9_pcroom_e01_069bf969:
 # game/events_e.rpy:1053
 translate italian d9_pcroom_e01_480e4b44:
 
-    # n "e "kisses the head of your dick and starts to suck it."
-    n "e "bacia la testa del tuo cazzo e inizia a succhiarlo."
+    # n "[e] kisses the head of your dick and starts to suck it."
+    n "[e] bacia la testa del tuo cazzo e inizia a succhiarlo."
 
 # game/events_e.rpy:1055
 translate italian d9_pcroom_e01_1910c5a9:
 
-    # n "e "kisses your already moist slit and starts to lick your clit."
-    n "e "bacia il tuo già umido fessura e inizia a leccare il tuo clit."
+    # n "[e] kisses your already moist slit and starts to lick your clit."
+    n "[e] bacia il tuo già umido fessura e inizia a leccare il tuo clit."
 
 # game/events_e.rpy:1056
 translate italian d9_pcroom_e01_1b84ad6b:
@@ -3173,8 +3173,8 @@ translate italian d9_pcroom_e01_c7924e89:
 # game/events_e.rpy:1064
 translate italian d9_pcroom_e01_326f16cc:
 
-    # pc "e "did you smear honey onto your pussy?"
-    pc "e "hai spalmato del miele sulla tua figa?"
+    # pc "[e] did you smear honey onto your pussy?"
+    pc "[e] hai spalmato del miele sulla tua figa?"
 
 # game/events_e.rpy:1065
 translate italian d9_pcroom_e01_d04c5a54:
@@ -3407,8 +3407,8 @@ translate italian d10eshow_6c5791b9:
 # game/events_e.rpy:1169
 translate italian d10eshow_fbb7ffce:
 
-    # j "e "wasn't sure what to wear today, so we decided to let you decide."
-    j "e "non era sicuro di cosa indossare oggi, quindi abbiamo deciso di lasciarti decidere."
+    # j "[e] wasn't sure what to wear today, so we decided to let you decide."
+    j "[e] non era sicuro di cosa indossare oggi, quindi abbiamo deciso di lasciarti decidere."
 
 # game/events_e.rpy:1170
 translate italian d10eshow_faf363ba:
@@ -3425,8 +3425,8 @@ translate italian d10eshow_ca7f80d9:
 # game/events_e.rpy:1174
 translate italian d10eshow_61e271ca:
 
-    # n "e "gets up and you place yourself on the bed next to your old teddy bear..."
-    n "e "si alza e ti metti sul letto accanto al tuo vecchio orsacchiotto di peluche..."
+    # n "[e] gets up and you place yourself on the bed next to your old teddy bear..."
+    n "[e] si alza e ti metti sul letto accanto al tuo vecchio orsacchiotto di peluche..."
 
 # game/events_e.rpy:1176
 translate italian d10eshow_73bfdce0:
@@ -3462,7 +3462,7 @@ translate italian d10eshow_f605c5ae:
 translate italian d10eshow_4d4db786:
 
     # j "Maybe you need to shake your ass a bit to get [hisher] attention, hehe."
-    j "Forse hai bisogno di scuotere un po' il culo per ottenere [hisher] attenzione, hehe."
+    j "Forse hai bisogno di scuotere un po' il culo per ottenere [hisher!t] attenzione, hehe."
 
 # game/events_e.rpy:1194
 translate italian d10eshow_24564eab:
@@ -3480,7 +3480,7 @@ translate italian d10eshow_93227c0c:
 translate italian d10eshow_0e4787b7:
 
     # j "Now hurry up, [e] before [heshe] loses concentration again!"
-    j "Ora affrettati, [e] prima che [heshe] perda di nuovo la concentrazione!"
+    j "Ora affrettati, [e] prima che [heshe!t] perda di nuovo la concentrazione!"
 
 # game/events_e.rpy:1197
 translate italian d10eshow_9bee5006:
@@ -3498,7 +3498,7 @@ translate italian d10eshow_328234f8:
 translate italian d10eshow_7d3f0a17:
 
     # j "Show [himher] the next outfit, [e]."
-    j "Mostra [himher] il prossimo outfit, [e]."
+    j "Mostra [himher!t] il prossimo outfit, [e]."
 
 # game/events_e.rpy:1207
 translate italian d10eshow_9bee5006_1:
@@ -3659,86 +3659,86 @@ translate italian d10eshow_f0cac90d:
 translate italian strings:
 
     # game/events_e.rpy:6
-    old "[mschoice] get closer"
-    new "[mschoice] avvicinarsi"
+    old "get closer"
+    new "avvicinarsi"
 
     # game/events_e.rpy:15
-    old "[mschoice] get really close"
-    new "[mschoice] chiudi davvero"
+    old "get really close"
+    new "chiudi davvero"
 
     # game/events_e.rpy:19
-    old "[mschoice] Wake her up"
-    new "[mschoice] Svegliala su"
+    old "Wake her up"
+    new "Svegliala su"
 
     # game/events_e.rpy:19
-    old "[mschoice] Just look"
-    new "[mschoice] Guarda"
+    old "Just look"
+    new "Guarda"
 
     # game/events_e.rpy:305
-    old "[mschoice] Look for her."
-    new "[mschoice] La cerchi."
+    old "Look for her."
+    new "La cerchi."
 
     # game/events_e.rpy:305
-    old "[mschoice] Don't look for her."
-    new "[mschoice] Non la cerchi."
+    old "Don't look for her."
+    new "Non la cerchi."
 
     # game/events_e.rpy:310
-    old "[mschoice] Get closer."
-    new "[mschoice] Avvicinati."
+    old "Get closer."
+    new "Avvicinati."
 
     # game/events_e.rpy:310
-    old "[mschoice] Leave."
-    new "[mschoice] Partenza."
+    old "Leave."
+    new "Partenza."
 
     # game/events_e.rpy:675
-    old "[mschoice] Shit this is..."
-    new "[mschoice] Shit this is..."
+    old "Shit this is..."
+    new "Shit this is..."
 
     # game/events_e.rpy:675
-    old "[mschoice] ...so wrong, I need to stop her!"
-    new "[mschoice] ... così sbagliato, ho bisogno di fermarla!"
+    old "...so wrong, I need to stop her!"
+    new "... così sbagliato, ho bisogno di fermarla!"
 
     # game/events_e.rpy:675
-    old "[mschoice] ...so hot, I can't believe she's doing this!"
-    new "[mschoice] ...così caldo, non riesco a credere che stia facendo questo!"
+    old "...so hot, I can't believe she's doing this!"
+    new "...così caldo, non riesco a credere che stia facendo questo!"
 
     # game/events_e.rpy:857
-    old "[mschoice] Her bed."
-    new "[mschoice] Il suo letto."
+    old "Her bed."
+    new "Il suo letto."
 
     # game/events_e.rpy:857
-    old "[mschoice] Your bed."
-    new "[mschoice] Il tuo letto."
+    old "Your bed."
+    new "Il tuo letto."
 
     # game/events_e.rpy:935
-    old "[mschoice] (Make a noise)"
-    new "[mschoice] (Fai un rumore)"
+    old "(Make a noise)"
+    new "(Fai un rumore)"
 
     # game/events_e.rpy:935
-    old "[mschoice] (Wait)"
-    new "[mschoice] (Wait)"
+    old "(Wait)"
+    new "(Wait)"
 
     # game/events_e.rpy:1201
-    old "[mschoice] Looks great, I like it."
-    new "[mschoice] Sembra grande, mi piace."
+    old "Looks great, I like it."
+    new "Sembra grande, mi piace."
 
     # game/events_e.rpy:1201
-    old "[mschoice] Nah, your normal outfit looks better."
-    new "[mschoice] Nah, il tuo vestito normale sembra meglio."
+    old "Nah, your normal outfit looks better."
+    new "Nah, il tuo vestito normale sembra meglio."
 
     # game/events_e.rpy:1211
-    old "[mschoice] Hot!"
-    new "[mschoice] Caldo!"
+    old "Hot!"
+    new "Caldo!"
 
     # game/events_e.rpy:1211
-    old "[mschoice] Nah, that's too goth style."
-    new "[mschoice] Nah, questo è troppo goth stile."
+    old "Nah, that's too goth style."
+    new "Nah, questo è troppo goth stile."
 
     # game/events_e.rpy:1220
-    old "[mschoice] Looks great, but isn't that a little bit too much for everyday use?"
-    new "[mschoice] Sembra grande, ma non è un po 'troppo per l'uso quotidiano?"
+    old "Looks great, but isn't that a little bit too much for everyday use?"
+    new "Sembra grande, ma non è un po 'troppo per l'uso quotidiano?"
 
     # game/events_e.rpy:1220
-    old "[mschoice] Luscious! I love it!"
-    new "[mschoice] Luscioso! Mi piace!"
+    old "Luscious! I love it!"
+    new "Luscioso! Mi piace!"
 

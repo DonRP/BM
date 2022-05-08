@@ -156,7 +156,7 @@ translate italian tIntroductionDay1_4b54d6e8:
 translate italian tIntroductionDay1_6ff7343e:
 
     # pc "Did she? Well I'm her [bs] after all."
-    pc "Ha fatto? Beh, dopo tutto, sono lei [bs]."
+    pc "Ha fatto? Beh, dopo tutto, sono lei [bs!t]."
 
 # game/events_t.rpy:48
 translate italian tIntroductionDay1_80339907:
@@ -203,8 +203,8 @@ translate italian tIntroductionDay1_f3ec1b00:
 # game/events_t.rpy:58
 translate italian tIntroductionDay1_f8359cf8:
 
-    # pcthink "e "didn't seem to be overly excited either... she almost looked like she wanted me to help her."
-    pcthink "e "non sembrava essere troppo eccitata neanche... sembrava quasi che volesse che la aiutasse."
+    # pcthink "[e] didn't seem to be overly excited either... she almost looked like she wanted me to help her."
+    pcthink "[e] non sembrava essere troppo eccitata neanche... sembrava quasi che volesse che la aiutasse."
 
 # game/events_t.rpy:60
 translate italian tIntroductionDay1_d866bbba:
@@ -702,7 +702,7 @@ translate italian talkTone_98b8ebda:
 translate italian talkTone_b1e166ac:
 
     # m "Oh [e], come on, you know [t] is a busy woman. You can cuddle with your [bs] later."
-    m "Oh [e], vieni, sai che [t] è una donna occupata. Puoi coccolare con il tuo [bs] più tardi."
+    m "Oh [e], vieni, sai che [t] è una donna occupata. Puoi coccolare con il tuo [bs!t] più tardi."
 
 # game/events_t.rpy:200
 translate italian talkTone_58b6458b:
@@ -2927,26 +2927,26 @@ translate italian d7_city_7845dc7d:
 # game/events_t.rpy:907
 translate italian d7_city_0bc4dd60:
 
-    # Guy 1\" \"You know this bitch?"
-    "Ragazzo 1\" \"Sai questa cagna?"
+    # Guy 1 - You know this bitch?"
+    "Ragazzo 1 - Sai questa cagna?"
 
 # game/events_t.rpy:908
 translate italian d7_city_0fe2ba6e:
 
-    # Guy 2\" \"Yeah, she's in the same class as my little sister."
-    "Guy 2\" \"Sì, lei è nella stessa classe della mia sorellina."
+    # Guy 2 - Yeah, she's in the same class as my little sister."
+    "Guy 2 - Sì, lei è nella stessa classe della mia sorellina."
 
 # game/events_t.rpy:909
 translate italian d7_city_b644027e:
 
-    # Guy 1\" \"Hehe, what is a little girl like you doing in a place like this?"
-    "Guy 1\" \"Hehe, che cos'è una bambina come se facessi in un posto come questo?"
+    # Guy 1 - Hehe, what is a little girl like you doing in a place like this?"
+    "Guy 1 - Hehe, che cos'è una bambina come se facessi in un posto come questo?"
 
 # game/events_t.rpy:910
 translate italian d7_city_5f20f6d6:
 
-    # Guy 2\" \"I bet she's here for a fix."
-    "Guy 2\" \"Scommetto che è qui per una correzione."
+    # Guy 2 - I bet she's here for a fix."
+    "Guy 2 - Scommetto che è qui per una correzione."
 
 # game/events_t.rpy:911
 translate italian d7_city_2ab3f982:
@@ -2957,14 +2957,14 @@ translate italian d7_city_2ab3f982:
 # game/events_t.rpy:912
 translate italian d7_city_680d1912:
 
-    # Guy 1\" \"She can have a fix from my dick!"
-    "Guy 1\" \"Lei può avere una correzione dal mio cazzo!"
+    # Guy 1 - She can have a fix from my dick!"
+    "Guy 1 - Lei può avere una correzione dal mio cazzo!"
 
 # game/events_t.rpy:913
 translate italian d7_city_72890f35:
 
-    # Guy 2\" \"Haha, is that what you want Katie? Do you want a dose of dick?"
-    "Guy 2\" \"Haha, è quello che vuoi Katie? Vuoi una dose di cazzo?"
+    # Guy 2 - Haha, is that what you want Katie? Do you want a dose of dick?"
+    "Guy 2 - Haha, è quello che vuoi Katie? Vuoi una dose di cazzo?"
 
 # game/events_t.rpy:914
 translate italian d7_city_cc959afa:
@@ -2975,14 +2975,14 @@ translate italian d7_city_cc959afa:
 # game/events_t.rpy:915
 translate italian d7_city_307a16d3:
 
-    # Guy 1\" \"Why not have some fun first, hehe."
-    "Guy 1\" \"Perché non avere un po 'di divertimento prima, hehe."
+    # Guy 1 - Why not have some fun first, hehe."
+    "Guy 1 - Perché non avere un po 'di divertimento prima, hehe."
 
 # game/events_t.rpy:916
 translate italian d7_city_da2e1133:
 
-    # Guy 2\" \"Come on Katie, just a little suck!"
-    "Guy 2\" \"Vieni su Katie, solo un po 'di succhio!"
+    # Guy 2 - Come on Katie, just a little suck!"
+    "Guy 2 - Vieni su Katie, solo un po 'di succhio!"
 
 # game/events_t.rpy:917
 translate italian d7_city_04a594b2:
@@ -3005,14 +3005,14 @@ translate italian d7_city_d0e78819:
 # game/events_t.rpy:921
 translate italian d7_city_da355043:
 
-    # Guy 1\" \"YOU!"
-    "Ragazzo 1\" \"YOU!"
+    # Guy 1 - YOU!"
+    "Ragazzo 1 - YOU!"
 
 # game/events_t.rpy:922
 translate italian d7_city_4ed0c211:
 
-    # Guy 2\" \"Get lost, [pc], this is none of your business!"
-    "Guy 2\" \"Vieni perso, [pc], questo non è nessuno dei tuoi affari!"
+    # Guy 2 - Get lost, [pc], this is none of your business!"
+    "Guy 2 - Vieni perso, [pc], questo non è nessuno dei tuoi affari!"
 
 # game/events_t.rpy:923
 translate italian d7_city_1fed5143:
@@ -3023,8 +3023,8 @@ translate italian d7_city_1fed5143:
 # game/events_t.rpy:925
 translate italian d7_city_80b481b8:
 
-    # Guy 2\" \"What did you just say? Desperate for some beating?"
-    "Guy 2\" \"Che cosa hai appena detto? Desperato per qualche battito?"
+    # Guy 2 - What did you just say? Desperate for some beating?"
+    "Guy 2 - Che cosa hai appena detto? Desperato per qualche battito?"
 
 # game/events_t.rpy:926
 translate italian d7_city_88ac01e1:
@@ -3035,20 +3035,20 @@ translate italian d7_city_88ac01e1:
 # game/events_t.rpy:928
 translate italian d7_city_c408fb2e:
 
-    # Guy 1\" \"There are two of us now, motherfucker!"
-    "Guy 1\" \"Ci sono due di noi ora, motherfucker!"
+    # Guy 1 - There are two of us now, motherfucker!"
+    "Guy 1 - Ci sono due di noi ora, motherfucker!"
 
 # game/events_t.rpy:929
 translate italian d7_city_88ab7b93:
 
-    # Guy 2\" \"We'll beat the shit out of you, asshole!"
-    "Guy 2\" \"batteremo il grido di te, stronzo!"
+    # Guy 2 - We'll beat the shit out of you, asshole!"
+    "Guy 2 - batteremo il grido di te, stronzo!"
 
 # game/events_t.rpy:931
 translate italian d7_city_e982009d:
 
-    # Guy 2\" \"What did you... how about {b}you{/b} suck my dick, bitch?!"
-    "Guy 2\" \"Che cosa hai fatto... come circa {b}tu{/b} succhiare il mio cazzo, cagna?!"
+    # Guy 2 - What did you... how about {b}you{/b} suck my dick, bitch?!"
+    "Guy 2 - Che cosa hai fatto... come circa {b}tu{/b} succhiare il mio cazzo, cagna?!"
 
 # game/events_t.rpy:932
 translate italian d7_city_580368e0:
@@ -3059,8 +3059,8 @@ translate italian d7_city_580368e0:
 # game/events_t.rpy:934
 translate italian d7_city_1af4967b:
 
-    # Guy 2\" \"I'll make you beg for it!"
-    "Guy 2\" \"Ti farò pregare per esso!"
+    # Guy 2 - I'll make you beg for it!"
+    "Guy 2 - Ti farò pregare per esso!"
 
 # game/events_t.rpy:935
 translate italian d7_city_b30f44aa:
@@ -3461,8 +3461,8 @@ translate italian d7_city_4dd18129:
 # game/events_t.rpy:1049
 translate italian d7_city_641a870c:
 
-    # pcthink "t "really cares for that girl... almost like a mother..."
-    pcthink "t "si preoccupa davvero quella ragazza... quasi come una madre..."
+    # pcthink "[t] really cares for that girl... almost like a mother..."
+    pcthink "[t] si preoccupa davvero quella ragazza... quasi come una madre..."
 
 # game/events_t.rpy:1050
 translate italian d7_city_c03e36ac:
@@ -3978,7 +3978,7 @@ translate italian d9_tcoffee_d7958b90:
 translate italian d9_tcoffee_6caebc70:
 
     # pc "Oh come on, I'm her [bs]."
-    pc "Ah vieni, io sono lei [bs]."
+    pc "Ah vieni, io sono lei [bs!t]."
 
 # game/events_t.rpy:1199
 translate italian d9_tcoffee_11aa9346:
@@ -5976,7 +5976,7 @@ translate italian lookatkat_867fc857:
 translate italian lookatkat_633106a4:
 
     # pc "What? Are you afraid of being close to your [boygirl]friend?"
-    pc "Cosa? Hai paura di essere vicino al tuo amico [boygirl]?"
+    pc "Cosa? Hai paura di essere vicino al tuo amico [boygirl!t]?"
 
 # game/events_t.rpy:1903
 translate italian lookatkat_eb401569:
@@ -6389,42 +6389,42 @@ translate italian lookatkat_d76169d0:
 translate italian strings:
 
     # game/events_t.rpy:302
-    old "[mschoice] Touch between her legs."
-    new "[mschoice] Tocca tra le gambe."
+    old "Touch between her legs."
+    new "Tocca tra le gambe."
 
     # game/events_t.rpy:480
-    old "[mschoice] Yes."
-    new "[mschoice] Sì."
+    old "Yes."
+    new "Sì."
 
     # game/events_t.rpy:522
-    old "[mschoice] Check if she's telling the truth."
-    new "[mschoice] Controlla se sta dicendo la verità."
+    old "Check if she's telling the truth."
+    new "Controlla se sta dicendo la verità."
 
     # game/events_t.rpy:522
-    old "[mschoice] I don't care."
-    new "[mschoice] Non mi importa."
+    old "I don't care."
+    new "Non mi importa."
 
     # game/events_t.rpy:797
-    old "[mschoice] Follow her."
-    new "[mschoice] La segua."
+    old "Follow her."
+    new "La segua."
 
     # game/events_t.rpy:797
-    old "[mschoice] I need coffee!!!"
-    new "[mschoice] Ho bisogno di caffè!!!"
+    old "I need coffee!!!"
+    new "Ho bisogno di caffè!!!"
 
     # game/events_t.rpy:1793
-    old "[mschoice] (Look down.)"
-    new "[mschoice] (Look down.)"
+    old "(Look down.)"
+    new "(Look down.)"
 
     # game/events_t.rpy:1793
-    old "[mschoice] (Look up.)"
-    new "[mschoice] (Salite.)"
+    old "(Look up.)"
+    new "(Salite.)"
 
     # game/events_t.rpy:1793
-    old "[mschoice] (Tell her to turn around.)"
-    new "[mschoice] (Tell lei a girarsi.)"
+    old "(Tell her to turn around.)"
+    new "(Tell lei a girarsi.)"
 
     # game/events_t.rpy:1793
-    old "[mschoice] (Tell her to bend over.) {i}{color=#f00}advance scene{/color}{/i}"
-    new "[mschoice] (Tell her to bend over.) {i}{color=#f00}advance scene{/color}{/i}"
+    old "(Tell her to bend over.) {i}{color=#f00}advance scene{/color}{/i}"
+    new "(Tell her to bend over.) {i}{color=#f00}advance scene{/color}{/i}"
 

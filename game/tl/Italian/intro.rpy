@@ -276,7 +276,7 @@ translate italian intro_e617caae:
 translate italian intro_19e002f0:
 
     # pc "Fine... Here is my ID... and don't call me [boygirl]..."
-    pc "Fine... Ecco il mio ID... e non chiamarmi [boygirl]..."
+    pc "Fine... Ecco il mio ID... e non chiamarmi [boygirl!t]..."
 
 # game/intro.rpy:67
 translate italian intro_d5ceade4:
@@ -407,10 +407,10 @@ translate italian intro_b8e7ae91:
 translate italian strings:
 
     # game/intro.rpy:85
-    old "[mschoice] Choose your first name."
-    new "[mschoice] Scegli il tuo nome."
+    old "Choose your first name."
+    new "Scegli il tuo nome."
 
     # game/intro.rpy:86
-    old "[mschoice] Choose your last name."
-    new "[mschoice] Scegli il tuo cognome."
+    old "Choose your last name."
+    new "Scegli il tuo cognome."
 
