@@ -17,362 +17,314 @@
 translate italian strings:
 
     # game/screens.rpy:208
-    old "[mschoice] {b}Show dialogue background box?{/b}"
-    new "[mschoice] {b}Mostra la finestra di dialogo in background?{/b}"
+    old "{b}Show dialogue background box?{/b}"
+    new "{b}Mostra la finestra di dialogo in background?{/b}"
 
     # game/screens.rpy:209
-    old "[mschoice] {i}(You can change this again in the Preferences.){/i}"
-    new "[mschoice] {i}(È possibile modificare di nuovo questo nelle Preferenze.){/i}"
+    old "{i}(You can change this again in the Preferences.){/i}"
+    new "{i}(È possibile modificare di nuovo questo nelle Preferenze.){/i}"
 
     # game/screens.rpy:210
-    old "[mschoice] Yes"
-    new "[mschoice] Si"
+    old "Yes"
+    new "Si"
 
     # game/screens.rpy:211
-    old "[mschoice] No"
-    new "[mschoice] No"
+    old "No"
+    new "No"
 
     # game/screens.rpy:317
-    old "[mschoice] Back"
-    new "[mschoice] Indietro"
+    old "Back"
+    new "Indietro"
 
     # game/screens.rpy:318
-    old "[mschoice] History"
-    new "[mschoice] History"
+    old "History"
+    new "History"
 
     # game/screens.rpy:319
-    old "[mschoice] Hide"
-    new "[mschoice] Nascondi"
+    old "Hide"
+    new "Nascondi"
 
     # game/screens.rpy:320
-    old "[mschoice] Skip"
-    new "[mschoice] Salta"
+    old "Skip"
+    new "Salta"
 
     # game/screens.rpy:321
-    old "[mschoice] Auto"
-    new "[mschoice] Auto"
+    old "Auto"
+    new "Auto"
 
     # game/screens.rpy:322
-    old "[mschoice] Q.Save"
-    new "[mschoice] Q.Save"
+    old "Q.Save"
+    new "Q.Save"
 
     # game/screens.rpy:323
-    old "[mschoice] Q.Load"
-    new "[mschoice] Q.Load"
+    old "Q.Load"
+    new "Q.Load"
 
     # game/screens.rpy:324
-    old "[mschoice] Menu"
-    new "[mschoice] Menu"
+    old "Menu"
+    new "Menu"
 
     # game/screens.rpy:376
-    old "[mschoice] Save"
-    new "[mschoice] Salva"
+    old "Save"
+    new "Salva"
 
     # game/screens.rpy:378
-    old "[mschoice] Load"
-    new "[mschoice] Carico"
+    old "Load"
+    new "Carico"
 
     # game/screens.rpy:380
-    old "[mschoice] Preferences"
-    new "[mschoice] Preferenze"
+    old "Preferences"
+    new "Preferenze"
 
     # game/screens.rpy:384
-    old "[mschoice] End Replay"
-    new "[mschoice] End Replay"
+    old "End Replay"
+    new "End Replay"
 
     # game/screens.rpy:388
-    old "[mschoice] Main Menu"
-    new "[mschoice] Menu principale"
+    old "Main Menu"
+    new "Menu principale"
 
     # game/screens.rpy:390
-    old "[mschoice] About"
-    new "[mschoice] Informazioni"
+    old "About"
+    new "Informazioni"
 
     # game/screens.rpy:395
-    old "[mschoice] Help"
-    new "[mschoice] Aiuto"
-
-    # game/screens.rpy:398
-    old "[mschoice] Quit"
-    new "[mschoice] Esci"
-
-    # game/screens.rpy:556
-    old "[mschoice] Return"
-    new "[mschoice] Ritorno"
+    old "Help"
+    new "Aiuto"
 
     # game/screens.rpy:640
-    old "[mschoice] Version [config.version!t]\n"
-    new "[mschoice] Versione [config.version!t]\n"
+    old "Version [config.version!t]\n"
+    new "Versione [config.version!t]\n"
 
     # game/screens.rpy:646
-    old "[mschoice] Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "[mschoice] Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-
-    # game/screens.rpy:686
-    old "[mschoice] Page {}"
-    new "[mschoice] Pagina {}"
-
-    # game/screens.rpy:686
-    old "[mschoice] Automatic saves"
-    new "[mschoice] Salvataggi automatici"
-
-    # game/screens.rpy:686
-    old "[mschoice] Quick saves"
-    new "[mschoice] Salvataggi rapidi"
+    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:729
-    old "[mschoice] {#file_time}%a, %b %d %Y, %H:%M"
-    new "[mschoice] {#file_time}%a, %b %d %Y, %H:%M"
+    old "{#file_time}%a, %b %d %Y, %H:%M"
+    new "{#file_time}%a, %b %d %Y, %H:%M"
 
     # game/screens.rpy:729
-    old "[mschoice] empty slot"
-    new "[mschoice] posto vuoto"
+    old "empty slot"
+    new "posto vuoto"
 
     # game/screens.rpy:748
-    old "[mschoice] <"
-    new "[mschoice] <"
+    old "<"
+    new "<"
 
     # game/screens.rpy:751
-    old "[mschoice] {#auto_page}A"
-    new "[mschoice] {#auto_page}A"
+    old "{#auto_page}A"
+    new "{#auto_page}A"
 
     # game/screens.rpy:754
-    old "[mschoice] {#quick_page}Q"
-    new "[mschoice] {#quick_page}Q"
+    old "{#quick_page}Q"
+    new "{#quick_page}Q"
 
     # game/screens.rpy:767
-    old "[mschoice] >"
-    new "[mschoice] >"
+    old ">"
+    new ">"
 
     # game/screens.rpy:828
-    old "[mschoice] Display"
-    new "[mschoice] Display"
+    old "Display"
+    new "Display"
 
     # game/screens.rpy:829
-    old "[mschoice] Window"
-    new "[mschoice] Finestra"
-
-    # game/screens.rpy:830
-    old "[mschoice] Fullscreen"
-    new "[mschoice] Fullscreen"
+    old "Window"
+    new "Finestra"
 
     # game/screens.rpy:834
-    old "[mschoice] Rollback Side"
-    new "[mschoice] Rollback Side"
-
-    # game/screens.rpy:835
-    old "[mschoice] Disable"
-    new "[mschoice] Disabilita"
+    old "Rollback Side"
+    new "Rollback Side"
 
     # game/screens.rpy:836
-    old "[mschoice] Left"
-    new "[mschoice] Sinistra"
+    old "Left"
+    new "Sinistra"
 
     # game/screens.rpy:837
-    old "[mschoice] Right"
-    new "[mschoice] Destra"
+    old "Right"
+    new "Destra"
 
     # game/screens.rpy:842
-    old "[mschoice] Unseen Text"
-    new "[mschoice] Unseen Text"
+    old "Unseen Text"
+    new "Unseen Text"
 
     # game/screens.rpy:843
-    old "[mschoice] After Choices"
-    new "[mschoice] Dopo le scelte"
+    old "After Choices"
+    new "Dopo le scelte"
 
     # game/screens.rpy:844
-    old "[mschoice] Transitions"
-    new "[mschoice] Transitions"
+    old "Transitions"
+    new "Transitions"
 
     # game/screens.rpy:850
-    old "[mschoice] Show Textbox"
-    new "[mschoice] Mostra casella di testo"
+    old "Show Textbox"
+    new "Mostra casella di testo"
 
     # game/screens.rpy:856
-    old "[mschoice] Language"
-    new "[mschoice] Lingua"
+    old "Language"
+    new "Lingua"
 
     # game/screens.rpy:879
-    old "[mschoice] Text Speed"
-    new "[mschoice] Velocità testo"
+    old "Text Speed"
+    new "Velocità testo"
 
     # game/screens.rpy:883
-    old "[mschoice] Auto-Forward Time"
-    new "[mschoice] Auto-Forward Time"
+    old "Auto-Forward Time"
+    new "Auto-Forward Time"
 
     # game/screens.rpy:890
-    old "[mschoice] Music Volume"
-    new "[mschoice] Volume musica"
+    old "Music Volume"
+    new "Volume musica"
 
     # game/screens.rpy:897
-    old "[mschoice] Sound Volume"
-    new "[mschoice] Volume del suono"
+    old "Sound Volume"
+    new "Volume del suono"
 
     # game/screens.rpy:903
-    old "[mschoice] Test"
-    new "[mschoice] Test"
+    old "Test"
+    new "Test"
 
     # game/screens.rpy:907
-    old "[mschoice] Voice Volume"
-    new "[mschoice] Volume vocale"
+    old "Voice Volume"
+    new "Volume vocale"
 
     # game/screens.rpy:919
-    old "[mschoice] Mute All"
-    new "[mschoice] Silenzia tutto"
-
-    # game/screens.rpy:923
-    old "[mschoice] Reset"
-    new "[mschoice] Reset"
-
-    # game/screens.rpy:934
-    old "[mschoice] Text Size Scaling"
-    new "[mschoice] Scala dimensione testo"
-
-    # game/screens.rpy:946
-    old "[mschoice] Line Spacing Scaling"
-    new "[mschoice] Scala spaziatura linea"
+    old "Mute All"
+    new "Silenzia tutto"
 
     # game/screens.rpy:1070
-    old "[mschoice] The dialogue history is empty."
-    new "[mschoice] La cronologia del dialogo è vuota."
+    old "The dialogue history is empty."
+    new "La cronologia del dialogo è vuota."
 
     # game/screens.rpy:1140
-    old "[mschoice] Keyboard"
-    new "[mschoice] Keyboard"
+    old "Keyboard"
+    new "Keyboard"
 
     # game/screens.rpy:1141
-    old "[mschoice] Mouse"
-    new "[mschoice] Mouse"
-
-    # game/screens.rpy:1144
-    old "[mschoice] Gamepad"
-    new "[mschoice] Gamepad"
+    old "Mouse"
+    new "Mouse"
 
     # game/screens.rpy:1157
-    old "[mschoice] Enter"
-    new "[mschoice] Invio"
+    old "Enter"
+    new "Invio"
 
     # game/screens.rpy:1158
-    old "[mschoice] Advances dialogue and activates the interface."
-    new "[mschoice] Avanza il dialogo e attiva l'interfaccia."
+    old "Advances dialogue and activates the interface."
+    new "Avanza il dialogo e attiva l'interfaccia."
 
     # game/screens.rpy:1161
-    old "[mschoice] Space"
-    new "[mschoice] Spazio"
+    old "Space"
+    new "Spazio"
 
     # game/screens.rpy:1162
-    old "[mschoice] Advances dialogue without selecting choices."
-    new "[mschoice] Avanza il dialogo senza selezionare le scelte."
+    old "Advances dialogue without selecting choices."
+    new "Avanza il dialogo senza selezionare le scelte."
 
     # game/screens.rpy:1165
-    old "[mschoice] Arrow Keys"
-    new "[mschoice] Tasti freccia"
+    old "Arrow Keys"
+    new "Tasti freccia"
 
     # game/screens.rpy:1166
-    old "[mschoice] Navigate the interface."
-    new "[mschoice] Naviga nell'interfaccia."
+    old "Navigate the interface."
+    new "Naviga nell'interfaccia."
 
     # game/screens.rpy:1169
-    old "[mschoice] Escape"
-    new "[mschoice] Escape"
+    old "Escape"
+    new "Escape"
 
     # game/screens.rpy:1170
-    old "[mschoice] Accesses the game menu."
-    new "[mschoice] Accede al menu di gioco."
+    old "Accesses the game menu."
+    new "Accede al menu di gioco."
 
     # game/screens.rpy:1173
-    old "[mschoice] Ctrl"
-    new "[mschoice] Ctrl"
+    old "Ctrl"
+    new "Ctrl"
 
     # game/screens.rpy:1174
-    old "[mschoice] Skips dialogue while held down."
-    new "[mschoice] Salta il dialogo mentre è trattenuto."
+    old "Skips dialogue while held down."
+    new "Salta il dialogo mentre è trattenuto."
 
     # game/screens.rpy:1177
-    old "[mschoice] Tab"
-    new "[mschoice] Tab"
+    old "Tab"
+    new "Tab"
 
     # game/screens.rpy:1178
-    old "[mschoice] Toggles dialogue skipping."
-    new "[mschoice] Attiva/Disattiva salto dialogo."
+    old "Toggles dialogue skipping."
+    new "Attiva/Disattiva salto dialogo."
 
     # game/screens.rpy:1181
-    old "[mschoice] Page Up"
-    new "[mschoice] Pagina su"
+    old "Page Up"
+    new "Pagina su"
 
     # game/screens.rpy:1182
-    old "[mschoice] Rolls back to earlier dialogue."
-    new "[mschoice] Torna al dialogo precedente."
+    old "Rolls back to earlier dialogue."
+    new "Torna al dialogo precedente."
 
     # game/screens.rpy:1185
-    old "[mschoice] Page Down"
-    new "[mschoice] Pagina Giù"
+    old "Page Down"
+    new "Pagina Giù"
 
     # game/screens.rpy:1186
-    old "[mschoice] Rolls forward to later dialogue."
-    new "[mschoice] Rotola in avanti per il dialogo successivo."
+    old "Rolls forward to later dialogue."
+    new "Rotola in avanti per il dialogo successivo."
 
     # game/screens.rpy:1190
-    old "[mschoice] Hides the user interface."
-    new "[mschoice] Nasconde l'interfaccia utente."
+    old "Hides the user interface."
+    new "Nasconde l'interfaccia utente."
 
     # game/screens.rpy:1194
-    old "[mschoice] Takes a screenshot."
-    new "[mschoice] Prende uno screenshot."
+    old "Takes a screenshot."
+    new "Prende uno screenshot."
 
     # game/screens.rpy:1198
-    old "[mschoice] Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "[mschoice] Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
     # game/screens.rpy:1204
-    old "[mschoice] Left Click"
-    new "[mschoice] Click sinistro"
+    old "Left Click"
+    new "Click sinistro"
 
     # game/screens.rpy:1208
-    old "[mschoice] Middle Click"
-    new "[mschoice] Clic centrale"
+    old "Middle Click"
+    new "Clic centrale"
 
     # game/screens.rpy:1212
-    old "[mschoice] Right Click"
-    new "[mschoice] Click destro"
+    old "Right Click"
+    new "Click destro"
 
     # game/screens.rpy:1216
-    old "[mschoice] Mouse Wheel Up\nClick Rollback Side"
-    new "[mschoice] Mouse Wheel Up\nClick Rollback Lato"
+    old "Mouse Wheel Up\nClick Rollback Side"
+    new "Mouse Wheel Up\nClick Rollback Lato"
 
     # game/screens.rpy:1220
-    old "[mschoice] Mouse Wheel Down"
-    new "[mschoice] Mouse Wheel Down"
+    old "Mouse Wheel Down"
+    new "Mouse Wheel Down"
 
     # game/screens.rpy:1227
-    old "[mschoice] Right Trigger\nA/Bottom Button"
-    new "[mschoice] Trigger destro\n/ Pulsante inferiore"
+    old "Right Trigger\nA/Bottom Button"
+    new "Trigger destro\n/ Pulsante inferiore"
 
     # game/screens.rpy:1231
-    old "[mschoice] Left Trigger\nLeft Shoulder"
-    new "[mschoice] Trigger sinistro\nSpalla sinistra"
+    old "Left Trigger\nLeft Shoulder"
+    new "Trigger sinistro\nSpalla sinistra"
 
     # game/screens.rpy:1235
-    old "[mschoice] Right Shoulder"
-    new "[mschoice] Spalla destra"
+    old "Right Shoulder"
+    new "Spalla destra"
 
     # game/screens.rpy:1240
-    old "[mschoice] D-Pad, Sticks"
-    new "[mschoice] D-Pad, Sticks"
+    old "D-Pad, Sticks"
+    new "D-Pad, Sticks"
 
     # game/screens.rpy:1244
-    old "[mschoice] Start, Guide"
-    new "[mschoice] Inizio, Guida"
+    old "Start, Guide"
+    new "Inizio, Guida"
 
     # game/screens.rpy:1248
-    old "[mschoice] Y/Top Button"
-    new "[mschoice] Pulsante Y/Top"
-
-    # game/screens.rpy:1251
-    old "[mschoice] Calibrate"
-    new "[mschoice] Calibrate"
+    old "Y/Top Button"
+    new "Pulsante Y/Top"
 
     # game/screens.rpy:1363
-    old "[mschoice] Skipping"
-    new "[mschoice] Salto"
+    old "Skipping"
+    new "Salto"
 

@@ -275,70 +275,70 @@ translate french working_256a6b7e:
 translate french strings:
 
     # game/maps.rpy:5
-    old "[mschoice] Leave Home"
-    new "[mschoice] Quitter la maison"
+    old "Leave Home"
+    new "Quitter la maison"
 
     # game/maps.rpy:6
-    old "[mschoice] Rachel's Bedroom"
-    new "[mschoice] La chambre de Rachel"
+    old "Rachel's Bedroom"
+    new "La chambre de Rachel"
 
     # game/maps.rpy:7
-    old "[mschoice] Kitchen"
-    new "[mschoice] Cuisine"
+    old "Kitchen"
+    new "Cuisine"
 
     # game/maps.rpy:8
-    old "[mschoice] Hall"
-    new "[mschoice] Hall"
+    old "Hall"
+    new "Hall"
 
     # game/maps.rpy:9
-    old "[mschoice] Livingroom"
-    new "[mschoice] Salon"
+    old "Livingroom"
+    new "Salon"
 
     # game/maps.rpy:10
-    old "[mschoice] Where do you want to go?"
-    new "[mschoice] Où voulez-vous aller?"
+    old "Where do you want to go?"
+    new "Où voulez-vous aller?"
 
     # game/maps.rpy:16
-    old "[mschoice] Your Room"
-    new "[mschoice] Votre chambre"
+    old "Your Room"
+    new "Votre chambre"
 
     # game/maps.rpy:17
-    old "[mschoice] Ellie's Room"
-    new "[mschoice] La chambre d'Ellie"
+    old "Ellie's Room"
+    new "La chambre d'Ellie"
 
     # game/maps.rpy:18
-    old "[mschoice] Bathroom"
-    new "[mschoice] Salle de bain"
+    old "Bathroom"
+    new "Salle de bain"
 
     # game/maps.rpy:19
-    old "[mschoice] Entrance Hall"
-    new "[mschoice] Hall d'entrée"
+    old "Entrance Hall"
+    new "Hall d'entrée"
 
     # game/maps.rpy:20
-    old "[mschoice] Desk"
-    new "[mschoice] Bureau"
+    old "Desk"
+    new "Bureau"
 
     # game/maps.rpy:225
-    old "[mschoice] Look closer."
-    new "[mschoice] Regarder de plus près."
+    old "Look closer."
+    new "Regarder de plus près."
 
     # game/maps.rpy:225
-    old "[mschoice] Nah, better not touch it."
-    new "[mschoice] Nah, mieux vaut ne pas y toucher."
+    old "Nah, better not touch it."
+    new "Nah, mieux vaut ne pas y toucher."
 
     # game/maps.rpy:233
-    old "[mschoice] Keep going."
-    new "[mschoice] Continuer."
+    old "Keep going."
+    new "Continuer."
 
     # game/maps.rpy:233
-    old "[mschoice] No point in going on..."
-    new "[mschoice] Pas la peine de continuer..."
+    old "No point in going on..."
+    new "Pas la peine de continuer..."
 
     # game/maps.rpy:351
-    old "[mschoice] Check the cafe."
-    new "[mschoice] Vérifier le café."
+    old "Check the cafe."
+    new "Vérifier le café."
 
     # game/maps.rpy:351
-    old "[mschoice] Go to the office."
-    new "[mschoice] Aller au bureau."
+    old "Go to the office."
+    new "Aller au bureau."
 

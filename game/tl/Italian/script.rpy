@@ -77,46 +77,45 @@ translate italian gameOverE_9ad555d3:
 translate italian strings:
 
     # game/script.rpy:352
-    old "[mschoice] Play as Man"
-    new "[mschoice] Gioca come uomo"
+    old "Play as Man"
+    new "Gioca come uomo"
 
     # game/script.rpy:352
-    old "[mschoice] Play as Woman (lesbian)"
-    new "[mschoice] Gioca come donna (lesbiche)"
+    old "Play as Woman (lesbian)"
+    new "Gioca come donna (lesbiche)"
 
     # game/script.rpy:363
-    old "[mschoice] female"
-    new "[mschoice] femmina"
+    old "female"
+    new "femmina"
 
     # game/script.rpy:365
-    old "[mschoice] Ms."
-    new "[mschoice] Ms."
+    old "Ms."
+    new "Ms."
 
     # game/script.rpy:366
-    old "[mschoice] she"
-    new "[mschoice] lei"
+    old "she"
+    new "lei"
 
     # game/script.rpy:367
-    old "[mschoice] girl"
-    new "[mschoice] ragazza"
+    old "girl"
+    new "ragazza"
 
     # game/script.rpy:368
-    old "[mschoice] Mommy"
-    new "[mschoice] Mommy"
+    old "Mommy"
+    new "Mommy"
 
     # game/script.rpy:369
-    old "[mschoice] daughter"
-    new "[mschoice] figlia"
+    old "daughter"
+    new "figlia"
 
     # game/script.rpy:370
-    old "[mschoice] her"
-    new "[mschoice] lei"
+    old "her"
+    new "lei"
 
     # game/script.rpy:371
-    old "[mschoice] Jill"
-    new "[mschoice] Jill"
+    old "Jill"
+    new "Jill"
 
     # game/script.rpy:372
-    old "[mschoice] sister"
-    new "[mschoice] sorella"
-
+    old "sister"
+    new "sorella"

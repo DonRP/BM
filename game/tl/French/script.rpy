@@ -77,46 +77,45 @@ translate french gameOverE_9ad555d3:
 translate french strings:
 
     # game/script.rpy:352
-    old "[mschoice] Play as Man"
-    new "[mschoice] Jouer en tant qu'homme"
+    old "Play as Man"
+    new "Jouer en tant qu'homme"
 
     # game/script.rpy:352
-    old "[mschoice] Play as Woman (lesbian)"
-    new "[mschoice] Jouer en tant que femme (lesbienne)"
+    old "Play as Woman (lesbian)"
+    new "Jouer en tant que femme (lesbienne)"
 
     # game/script.rpy:363
-    old "[mschoice] female"
-    new "[mschoice] féminin"
+    old "female"
+    new "féminin"
 
     # game/script.rpy:365
-    old "[mschoice] Ms."
-    new "[mschoice] Mme."
+    old "Ms."
+    new "Mme."
 
     # game/script.rpy:366
-    old "[mschoice] she"
-    new "[mschoice] elle"
+    old "she"
+    new "elle"
 
     # game/script.rpy:367
-    old "[mschoice] girl"
-    new "[mschoice] fille"
+    old "girl"
+    new "jeune fille"
 
     # game/script.rpy:368
-    old "[mschoice] Mommy"
-    new "[mschoice] Maman"
+    old "Mommy"
+    new "Maman"
 
     # game/script.rpy:369
-    old "[mschoice] daughter"
-    new "[mschoice] fille"
+    old "daughter"
+    new "fille"
 
     # game/script.rpy:370
-    old "[mschoice] her"
-    new "[mschoice] elle"
+    old "her"
+    new "sa"
 
     # game/script.rpy:371
-    old "[mschoice] Jill"
-    new "[mschoice] Jill"
+    old "Jill"
+    new "Jill"
 
     # game/script.rpy:372
-    old "[mschoice] sister"
-    new "[mschoice] sœur"
-
+    old "sister"
+    new "sœur"

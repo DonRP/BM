@@ -714,7 +714,7 @@ translate italian intro_day3_6304347d:
 translate italian intro_day3_90741ea4:
 
     # m "Heyyy, look who found [hisher] way home."
-    m "Heyyy, guarda chi ha trovato [hisher] modo di casa."
+    m "Heyyy, guarda chi ha trovato [hisher!t] modo di casa."
 
 # game/intro_day3-4.rpy:170
 translate italian intro_day3_c536639b:
