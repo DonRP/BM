@@ -96,7 +96,7 @@ translate french tIntroductionDay1_6d770962:
 translate french tIntroductionDay1_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:31
 translate french tIntroductionDay1_46ea1fc5:
@@ -156,7 +156,7 @@ translate french tIntroductionDay1_4b54d6e8:
 translate french tIntroductionDay1_6ff7343e:
 
     # pc "Did she? Well I'm her [bs] after all."
-    pc "L'a-t-elle fait ? Eh bien, je suis son [bs] après tout."
+    pc "L'a-t-elle fait ? Eh bien, je suis son [bs!t] après tout."
 
 # game/events_t.rpy:48
 translate french tIntroductionDay1_80339907:
@@ -203,8 +203,8 @@ translate french tIntroductionDay1_f3ec1b00:
 # game/events_t.rpy:58
 translate french tIntroductionDay1_f8359cf8:
 
-    # pcthink "e "didn't seem to be overly excited either... she almost looked like she wanted me to help her."
-    pcthink "e "ne semblait pas non plus très excitée... elle avait presque l'air de vouloir que je l'aide."
+    # pcthink "[e] didn't seem to be overly excited either... she almost looked like she wanted me to help her."
+    pcthink "[e] ne semblait pas non plus très excitée... elle avait presque l'air de vouloir que je l'aide."
 
 # game/events_t.rpy:60
 translate french tIntroductionDay1_d866bbba:
@@ -228,7 +228,7 @@ translate french tLeavingDay1_9f997bde:
 translate french tLeavingDay1_1bb01731:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:73
 translate french tLeavingDay1_52e63628:
@@ -444,7 +444,7 @@ translate french talkTone_f3f81d98:
 translate french talkTone_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:132
 translate french talkTone_b9b155fe:
@@ -468,19 +468,19 @@ translate french talkTone_b9b155fe_2:
 translate french talkTone_1bb01731:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:138
 translate french talkTone_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:144
 translate french talkTone_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:145
 translate french talkTone_b9b155fe_3:
@@ -504,13 +504,13 @@ translate french talkTone_b17b9d8d:
 translate french talkTone_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:153
 translate french talkTone_1bb01731_1:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:157
 translate french talkTone_d26c6a27:
@@ -528,7 +528,7 @@ translate french talkTone_e7c2f889:
 translate french talkTone_1bb01731_2:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:160
 translate french talkTone_8cac5dd8:
@@ -564,7 +564,7 @@ translate french talkTone_a33f1a86:
 translate french talkTone_1bb01731_3:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:166
 translate french talkTone_d54759a0:
@@ -576,7 +576,7 @@ translate french talkTone_d54759a0:
 translate french talkTone_1bb01731_4:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:169
 translate french talkTone_bdbcc61f:
@@ -588,13 +588,13 @@ translate french talkTone_bdbcc61f:
 translate french talkTone_a69377ef_4:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:171
 translate french talkTone_1bb01731_5:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:172
 translate french talkTone_59c53d55:
@@ -618,7 +618,7 @@ translate french talkTone_a6ffc25f:
 translate french talkTone_1bb01731_6:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:178
 translate french talkTone_f22492ca:
@@ -702,7 +702,7 @@ translate french talkTone_98b8ebda:
 translate french talkTone_b1e166ac:
 
     # m "Oh [e], come on, you know [t] is a busy woman. You can cuddle with your [bs] later."
-    m "Oh [e], aller, tu sais que [t] est une femme occupée. Tu pourras faire des câlins à ton [bs] plus tard."
+    m "Oh [e], aller, tu sais que [t] est une femme occupée. Tu pourras faire des câlins à ton [bs!t] plus tard."
 
 # game/events_t.rpy:200
 translate french talkTone_58b6458b:
@@ -786,7 +786,7 @@ translate french talkTone_89d5aa4d:
 translate french talkTone_a69377ef_5:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:225
 translate french talkTone_68d179b3:
@@ -822,7 +822,7 @@ translate french talkTone_9e0a896f:
 translate french talkTone_a69377ef_6:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:231
 translate french talkTone_8ce1ddce:
@@ -894,7 +894,7 @@ translate french talkTone_4e097a61:
 translate french talkTone_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_t.rpy:250
 translate french talkTone_051ee3b4:
@@ -1008,7 +1008,7 @@ translate french coerceT1_3ef8a3bf:
 translate french coerceT1_1bb01731:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:280
 translate french coerceT1_2ece0882:
@@ -1086,7 +1086,7 @@ translate french coerceT1_5bc150d6:
 translate french coerceT1_1bb01731_1:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:297
 translate french coerceT1_902f5d38:
@@ -1098,7 +1098,7 @@ translate french coerceT1_902f5d38:
 translate french coerceT1_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:300
 translate french coerceT1_a2351e72:
@@ -1140,7 +1140,7 @@ translate french coerceT1_5c96684d:
 translate french coerceT1_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:314
 translate french coerceT1_f9f04f06:
@@ -1368,7 +1368,7 @@ translate french coerceT1_5c96684d_1:
 translate french coerceT1_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:419
 translate french coerceT1_f9f04f06_1:
@@ -1716,7 +1716,7 @@ translate french tcoerce2_07448689:
 translate french tcoerce2_1bb01731:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:517
 translate french tcoerce2_bfaac42e:
@@ -2016,7 +2016,7 @@ translate french tcoerce2_r_dae8a1d5:
 translate french tcoerce2_r_1bb01731:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:617
 translate french tcoerce2_r_fa37e4cf:
@@ -2034,7 +2034,7 @@ translate french tcoerce2_r_bc0ce04a:
 translate french tcoerce2_r_1bb01731_1:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:620
 translate french tcoerce2_r_29dda0f2:
@@ -2232,7 +2232,7 @@ translate french coerceT3_390aa2d3:
 translate french coerceT3_1bb01731:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:690
 translate french coerceT3_53e494fa:
@@ -2292,7 +2292,7 @@ translate french coerceT3_82069a64:
 translate french coerceT3_1bb01731_1:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:709
 translate french coerceT3_9892fab0:
@@ -2340,7 +2340,7 @@ translate french coerceT3_e7282e99:
 translate french coerceT3_4a9cede2:
 
     # t "*Gag*"
-    t "*Bâillon*"
+    t "*Glups*"
 
 # game/events_t.rpy:728
 translate french coerceT3_fc067d80:
@@ -2472,7 +2472,7 @@ translate french coerceT3_0e64502c:
 translate french coerceT3_1bb01731_2:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:771
 translate french coerceT3_c873d93e:
@@ -2514,7 +2514,7 @@ translate french coerceT3_be2a096f:
 translate french d7_city_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:785
 translate french d7_city_c244b80e:
@@ -2592,7 +2592,7 @@ translate french d7_city_0caa3a21:
 translate french d7_city_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_t.rpy:813
 translate french d7_city_6da48ac0:
@@ -3174,7 +3174,7 @@ translate french d7_city_d7d842a2:
 translate french d7_city_1bb01731:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:975
 translate french d7_city_95e7b821:
@@ -3204,7 +3204,7 @@ translate french d7_city_6b1d1eb5:
 translate french d7_city_1bb01731_1:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:985
 translate french d7_city_5aede86b:
@@ -3222,7 +3222,7 @@ translate french d7_city_7faa1dbd:
 translate french d7_city_1bb01731_2:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:988
 translate french d7_city_3afba4c4:
@@ -3252,7 +3252,7 @@ translate french d7_city_c873d93e_1:
 translate french d7_city_1bb01731_3:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:997
 translate french d7_city_3f5bba72:
@@ -3378,7 +3378,7 @@ translate french d7_city_b53dcf84:
 translate french d7_city_1bb01731_4:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1029
 translate french d7_city_63e0631c:
@@ -3390,7 +3390,7 @@ translate french d7_city_63e0631c:
 translate french d7_city_1bb01731_5:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1033
 translate french d7_city_2b253195:
@@ -3461,8 +3461,8 @@ translate french d7_city_4dd18129:
 # game/events_t.rpy:1049
 translate french d7_city_641a870c:
 
-    # pcthink "t "really cares for that girl... almost like a mother..."
-    pcthink "t "s'occupe vraiment de cette fille... presque comme une mère..."
+    # pcthink "[t] really cares for that girl... almost like a mother..."
+    pcthink "[t] s'occupe vraiment de cette fille... presque comme une mère..."
 
 # game/events_t.rpy:1050
 translate french d7_city_c03e36ac:
@@ -3522,7 +3522,7 @@ translate french d7_city_c581affd:
 translate french d7_city_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:1064
 translate french d7_city_c13c9007:
@@ -3540,7 +3540,7 @@ translate french d7_city_e5339b17_1:
 translate french d7_city_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:1068
 translate french d7_city_8601fbae:
@@ -3708,7 +3708,7 @@ translate french d9_tcoffee_a9ab07bf:
 translate french d9_tcoffee_1bb01731:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1123
 translate french d9_tcoffee_07556804:
@@ -3732,7 +3732,7 @@ translate french d9_tcoffee_ab0407ce:
 translate french d9_tcoffee_1bb01731_1:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1130
 translate french d9_tcoffee_312badd0:
@@ -3780,13 +3780,13 @@ translate french d9_tcoffee_1b4df084:
 translate french d9_tcoffee_1bb01731_2:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1142
 translate french d9_tcoffee_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:1143
 translate french d9_tcoffee_3e9b1757:
@@ -3822,7 +3822,7 @@ translate french d9_tcoffee_38cd19ae:
 translate french d9_tcoffee_1bb01731_3:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1154
 translate french d9_tcoffee_497d16fc:
@@ -3978,7 +3978,7 @@ translate french d9_tcoffee_d7958b90:
 translate french d9_tcoffee_6caebc70:
 
     # pc "Oh come on, I'm her [bs]."
-    pc "Oh aller, je suis son [bs]."
+    pc "Oh aller, je suis son [bs!t]."
 
 # game/events_t.rpy:1199
 translate french d9_tcoffee_11aa9346:
@@ -4086,7 +4086,7 @@ translate french d9_tcoffee_b7b30f2a:
 translate french d9_tcoffee_1bb01731_4:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1230
 translate french d9_tcoffee_a7fe8bae:
@@ -4110,7 +4110,7 @@ translate french d9_tcoffee_f0088e21:
 translate french d9_tcoffee_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:1236
 translate french d9_tcoffee_c4281508:
@@ -4188,7 +4188,7 @@ translate french d10takekathome_a08419a8:
 translate french d10takekathome_1bb01731:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1268
 translate french d10takekathome_90967d9f:
@@ -4278,7 +4278,7 @@ translate french d10takekathome_1e99cea9:
 translate french d10takekathome_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:1300
 translate french d10takekathome_65c2bfae:
@@ -4308,13 +4308,13 @@ translate french d10takekathome_0c4004b1:
 translate french d10takekathome_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:1308
 translate french d10takekathome_1bb01731_1:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1309
 translate french d10takekathome_ddd926d5:
@@ -4368,13 +4368,13 @@ translate french d10takekathome_12a6a431:
 translate french d10takekathome_1bb01731_2:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1326
 translate french d10takekathome_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:1328
 translate french d10takekathome_9a5c389b:
@@ -4404,13 +4404,13 @@ translate french d10takekathome_de5fe506:
 translate french d10takekathome_1bb01731_3:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1336
 translate french d10takekathome_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:1337
 translate french d10takekathome_15408d0c:
@@ -4452,7 +4452,7 @@ translate french d10takekathome_fef852ff:
 translate french d10takekathome_1bb01731_4:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1349
 translate french d10takekathome_f5628d83:
@@ -4620,13 +4620,13 @@ translate french d10takekathome_daf3c834:
 translate french d10takekathome_a69377ef_4:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:1398
 translate french d10takekathome_1bb01731_5:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1400
 translate french d10takekathome_a7c89ecd:
@@ -4668,7 +4668,7 @@ translate french d10takekathome_31ae54bc:
 translate french d10takekathome_1bb01731_6:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1412
 translate french d10takekathome_f194243b:
@@ -4710,7 +4710,7 @@ translate french d10takekathome_dca0f8f2:
 translate french d10takekathome_1bb01731_7:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1425
 translate french d10takekathome_2bdf0389:
@@ -4722,7 +4722,7 @@ translate french d10takekathome_2bdf0389:
 translate french d10takekathome_1bb01731_8:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1428
 translate french d10takekathome_4efb0bac:
@@ -5004,7 +5004,7 @@ translate french d10takekathome_2c0fdb5a:
 translate french d10takekathome_1bb01731_9:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1522
 translate french d10takekathome_9a934e6e_1:
@@ -5106,7 +5106,7 @@ translate french d10takekathome_2e588465:
 translate french d10takekathome_a69377ef_5:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:1553
 translate french d10takekathome_310a0d28:
@@ -5118,7 +5118,7 @@ translate french d10takekathome_310a0d28:
 translate french d10takekathome_1bb01731_10:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1557
 translate french d10takekathome_be85fc8b:
@@ -5136,7 +5136,7 @@ translate french d10takekathome_7d040cb2:
 translate french d10takekathome_1bb01731_11:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1563
 translate french d10takekathome_16e31c71:
@@ -5574,7 +5574,7 @@ translate french d10takekathome_dc60b6f9:
 translate french d10takekathome_1bb01731_12:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1706
 translate french d10takekathome_bfaac42e:
@@ -5712,7 +5712,7 @@ translate french d10takekathome_ac77550c:
 translate french d10takekathome_1bb01731_13:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1754
 translate french d10takekathome_4db7bcad:
@@ -5724,7 +5724,7 @@ translate french d10takekathome_4db7bcad:
 translate french d10takekathome_1bb01731_14:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1757
 translate french d10takekathome_ecc05874:
@@ -5760,7 +5760,7 @@ translate french d10takekathome_d810d948:
 translate french d10takekathome_1bb01731_15:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1777
 translate french d10takekathome_8b8a535c:
@@ -5772,7 +5772,7 @@ translate french d10takekathome_8b8a535c:
 translate french d10takekathome_1bb01731_16:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1781
 translate french d10takekathome_45e9e971_1:
@@ -5784,7 +5784,7 @@ translate french d10takekathome_45e9e971_1:
 translate french d10takekathome_1bb01731_17:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1785
 translate french d10takekathome_3dce63d0:
@@ -5856,7 +5856,7 @@ translate french lookatkat_77429550:
 translate french lookatkat_1bb01731:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1855
 translate french lookatkat_5cefeab4:
@@ -5874,7 +5874,7 @@ translate french lookatkat_8900ce31:
 translate french lookatkat_1bb01731_1:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1859
 translate french lookatkat_7d2746af:
@@ -5976,7 +5976,7 @@ translate french lookatkat_867fc857:
 translate french lookatkat_633106a4:
 
     # pc "What? Are you afraid of being close to your [boygirl]friend?"
-    pc "Quoi ? As-tu peur d'être proche de ton [boygirl]ami ?"
+    pc "Quoi ? As-tu peur d'être proche de ton petit ami ?"
 
 # game/events_t.rpy:1903
 translate french lookatkat_eb401569:
@@ -6102,7 +6102,7 @@ translate french lookatkat_46921bdc:
 translate french lookatkat_1bb01731_2:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1932
 translate french lookatkat_6b5f82d2:
@@ -6174,7 +6174,7 @@ translate french lookatkat_43e531df:
 translate french lookatkat_1bb01731_3:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_t.rpy:1952
 translate french lookatkat_6c1cc0e9:
@@ -6246,7 +6246,7 @@ translate french lookatkat_598726e6:
 translate french lookatkat_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:1974
 translate french lookatkat_33678d98:
@@ -6270,7 +6270,7 @@ translate french lookatkat_7479e7d6:
 translate french lookatkat_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_t.rpy:1982
 translate french lookatkat_122644ff:
@@ -6318,7 +6318,7 @@ translate french lookatkat_05367c9a:
 translate french lookatkat_5da36dfe:
 
     # pcthink "?"
-    new "[pcthink]?"
+    pcthink "?"
 
 # game/events_t.rpy:1998
 translate french lookatkat_3fa813f4:
@@ -6336,7 +6336,7 @@ translate french lookatkat_2f896ab0:
 translate french lookatkat_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_t.rpy:2001
 translate french lookatkat_c698e0cf:
@@ -6348,7 +6348,7 @@ translate french lookatkat_c698e0cf:
 translate french lookatkat_f0cac90d_1:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_t.rpy:2003
 translate french lookatkat_a08e5c45:
@@ -6389,42 +6389,42 @@ translate french lookatkat_d76169d0:
 translate french strings:
 
     # game/events_t.rpy:302
-    old "[mschoice] Touch between her legs."
-    new "[mschoice] Toucher entre ses jambes."
+    old "Touch between her legs."
+    new "Toucher entre ses jambes."
 
     # game/events_t.rpy:480
-    old "[mschoice] Yes."
-    new "[mschoice] Oui."
+    old "Yes."
+    new "Oui."
 
     # game/events_t.rpy:522
-    old "[mschoice] Check if she's telling the truth."
-    new "[mschoice] Vérifier si elle dit la vérité."
+    old "Check if she's telling the truth."
+    new "Vérifier si elle dit la vérité."
 
     # game/events_t.rpy:522
-    old "[mschoice] I don't care."
-    new "[mschoice] Je m'en fiche."
+    old "I don't care."
+    new "Je m'en fiche."
 
     # game/events_t.rpy:797
-    old "[mschoice] Follow her."
-    new "[mschoice] La suivre."
+    old "Follow her."
+    new "La suivre."
 
     # game/events_t.rpy:797
-    old "[mschoice] I need coffee!!!"
-    new "[mschoice] J'ai besoin de café !!!"
+    old "I need coffee!!!"
+    new "J'ai besoin de café !!!"
 
     # game/events_t.rpy:1793
-    old "[mschoice] (Look down.)"
-    new "[mschoice] (Regarder en bas.)"
+    old "(Look down.)"
+    new "(Regarder en bas.)"
 
     # game/events_t.rpy:1793
-    old "[mschoice] (Look up.)"
-    new "[mschoice] (Regarder en haut.)"
+    old "(Look up.)"
+    new "(Regarder en haut.)"
 
     # game/events_t.rpy:1793
-    old "[mschoice] (Tell her to turn around.)"
-    new "[mschoice] (lui dire de se retourner.)"
+    old "(Tell her to turn around.)"
+    new "(Lui dire de se retourner.)"
 
     # game/events_t.rpy:1793
-    old "[mschoice] (Tell her to bend over.) {i}{color=#f00}advance scene{/color}{/i}"
-    new "[mschoice] (Lui dire de se pencher.) {i}{color=#f00}avancez la scène{/color}{/i}"
+    old "(Tell her to bend over.) {i}{color=#f00}advance scene{/color}{/i}"
+    new "(Lui dire de se pencher.) {i}{color=#f00}avancez la scène{/color}{/i}"
 

@@ -24,7 +24,7 @@ translate french rachelBathroomDay0_da4f73a4:
 translate french rachelBathroomDay0_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:9
 translate french rachelBathroomDay0_a0e8589f:
@@ -36,7 +36,7 @@ translate french rachelBathroomDay0_a0e8589f:
 translate french rachelBathroomDay0_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_m.rpy:11
 translate french rachelBathroomDay0_40acab92:
@@ -54,7 +54,7 @@ translate french rachelBathroomDay0_2b3af680:
 translate french rachelBathroomDay0_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+   pc "..."
 
 # game/events_m.rpy:16
 translate french rachelBathroomDay0_b1c43f2c:
@@ -107,14 +107,14 @@ translate french rachelBathroomDay0_5318f927:
 # game/events_m.rpy:35
 translate french rachelBathroomDay0_6361038f:
 
-    # pcthink "m "really took her time in the shower."
-    pcthink "m "a vraiment pris son temps sous la douche."
+    # pcthink "[m] really took her time in the shower."
+    pcthink "[m] a vraiment pris son temps sous la douche."
 
 # game/events_m.rpy:36
 translate french rachelBathroomDay0_f0cac90d_1:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_m.rpy:39
 translate french rachelBathroomDay0_cfe754bf:
@@ -216,7 +216,7 @@ translate french breakfastDay0_6f4c46dc:
 translate french breakfastDay0_bb2cf764:
 
     # n "..."
-    new "[n]..."
+    n "..."
 
 # game/events_m.rpy:72
 translate french breakfastDay0_1b82c2bf:
@@ -966,7 +966,7 @@ translate french rachelPills2nd_18310d1a:
 translate french rachelPills2nd_fb7f1c26:
 
     # m "...and after I realized how shitty I was to you, it got even worse... I almost destroyed your childhood and [e] lost her precious big [bs] because of me..."
-    m "...et après avoir réalisé à quel point j'étais une merde pour toi, c'est devenu encore pire... J'ai presque détruit ton enfance et [e] a perdu son précieux grand [bs] à cause de moi..."
+    m "...et après avoir réalisé à quel point j'étais une merde pour toi, c'est devenu encore pire... J'ai presque détruit ton enfance et [e] a perdu son précieux grand [bs!t] à cause de moi..."
 
 # game/events_m.rpy:288
 translate french rachelPills2nd_58708270:
@@ -990,7 +990,7 @@ translate french rachelPills2nd_e9a0e4a2:
 translate french rachelPills2nd_92f4d0a1:
 
     # m "But now you're back. [e] is happy to have her big [bs] back and I'm happy to have a handsome young [pcgender] here I can count on and trust."
-    m "Mais maintenant tu es de retour. [e] est heureuse d'avoir son grand [bs] de retour et je suis heureuse d'avoir un beau jeune [pcgender] ici sur lequel je peux compter et avoir confiance."
+    m "Mais maintenant tu es de retour. [e] est heureuse d'avoir son grand [bs!t] de retour et je suis heureuse d'avoir un beau jeune [pcgender!t] ici sur lequel je peux compter et avoir confiance."
 
 # game/events_m.rpy:294
 translate french rachelPills2nd_7111c54a:
@@ -1002,7 +1002,7 @@ translate french rachelPills2nd_7111c54a:
 translate french rachelPills2nd_01d5138e:
 
     # m "But now you're back. [e] is happy to have her big [bs] back and I'm happy to have a beautiful young [pcgender] here I can count on and trust."
-    m "Mais maintenant tu es de retour. [e] est heureuse d'avoir sa grande [bs] de retour et je suis heureuse d'avoir une belle et jeune [pcgender] ici sur laquelle je peux compter et avoir confiance."
+    m "Mais maintenant tu es de retour. [e] est heureuse d'avoir sa grande [bs!t] de retour et je suis heureuse d'avoir une belle et jeune [pcgender!t] ici sur laquelle je peux compter et avoir confiance."
 
 # game/events_m.rpy:297
 translate french rachelPills2nd_a2fd94ad:
@@ -2094,7 +2094,7 @@ translate french rachelElliesBDayReminder_d7f2678b:
 translate french rachelElliesBDayReminder_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:540
 translate french rachelElliesBDayReminder_8196b5e4:
@@ -2112,7 +2112,7 @@ translate french rachelElliesBDayReminder_208b8d59:
 translate french rachelElliesBDayReminder_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:544
 translate french rachelElliesBDayReminder_4985f4ee:
@@ -2172,13 +2172,13 @@ translate french rachelElliesBDayReminder_508fd3ca:
 translate french rachelElliesBDayReminder_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:557
 translate french rachelElliesBDayReminder_b9e2d34a:
 
     # pcthink "[e]s birthday... Why would she tell me about it if she's just playing with me? Is [e] really going to turn 18 tomorrow?"
-    pcthink "e "a l'anniversaire... Pourquoi m'en parlerait-elle si elle ne fait que jouer avec moi ? Est-ce que [e] va vraiment avoir 18 ans demain ?"
+    pcthink "[e] a l'anniversaire... Pourquoi m'en parlerait-elle si elle ne fait que jouer avec moi ? Est-ce que [e] va vraiment avoir 18 ans demain ?"
 
 # game/events_m.rpy:558
 translate french rachelElliesBDayReminder_cc383178:
@@ -2772,7 +2772,7 @@ translate french ebdRachelToBed_99c64d45:
 translate french ebdRachelToBed_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:716
 translate french ebdRachelToBed_16c6ecd1:
@@ -2910,7 +2910,7 @@ translate french ebdRachelToBed_b2505349:
 translate french ebdRachelToBed_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:747
 translate french ebdRachelToBed_16e9dbf8:
@@ -2922,7 +2922,7 @@ translate french ebdRachelToBed_16e9dbf8:
 translate french ebdRachelToBed_e612037c_1:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:749
 translate french ebdRachelToBed_01b5bab3:
@@ -2940,7 +2940,7 @@ translate french ebdRachelToBed_f7d92e8d:
 translate french ebdRachelToBed_e612037c_2:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:752
 translate french ebdRachelToBed_4ddf21bc:
@@ -3114,7 +3114,7 @@ translate french bathroomRAfterEBD_be5c34d3:
 translate french bathroomRAfterEBD_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:804
 translate french bathroomRAfterEBD_aa1402d3:
@@ -3144,7 +3144,7 @@ translate french bathroomRAfterEBD_b3012118:
 translate french bathroomRAfterEBD_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:811
 translate french bathroomRAfterEBD_e7aa4578:
@@ -3174,7 +3174,7 @@ translate french bathroomRAfterEBD_1d544276:
 translate french bathroomRAfterEBD_e612037c_1:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:818
 translate french bathroomRAfterEBD_675fc0a6:
@@ -3210,7 +3210,7 @@ translate french bathroomRAfterEBD_f5f51c33:
 translate french bathroomRAfterEBD_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:826
 translate french bathroomRAfterEBD_5a1785a6:
@@ -3330,13 +3330,13 @@ translate french bathroomRAfterEBD_a9d28fb7:
 translate french bathroomRAfterEBD_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:853
 translate french bathroomRAfterEBD_1f46489f:
 
-    # pcthink "e "is still sleeping..."
-    pcthink "e "est toujours en train de dormir..."
+    # pcthink "[e] is still sleeping..."
+    pcthink "[e] est toujours en train de dormir..."
 
 # game/events_m.rpy:854
 translate french bathroomRAfterEBD_2fb13a0b:
@@ -3432,7 +3432,7 @@ translate french rachelsaffair_349c6964:
 translate french rachelsaffair_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:885
 translate french rachelsaffair_698e0e34:
@@ -3444,7 +3444,7 @@ translate french rachelsaffair_698e0e34:
 translate french rachelsaffair_e612037c_1:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:887
 translate french rachelsaffair_41f52a13:
@@ -3594,7 +3594,7 @@ translate french rachelsaffair_95354b65:
 translate french rachelsaffair_fcd42e14:
 
     # m "Yes [heshe] is, but it feels so wrong... I feel really bad about it and to be honest, I think [heshe] really cares a lot for [e]."
-    m "Oui [heshe] l'est, mais c'est si mal... Je me sens vraiment mal à ce sujet et pour être honnête, je pense que [heshe] tient vraiment beaucoup à [e]."
+    m "Oui [heshe!t] l'est, mais c'est si mal... Je me sens vraiment mal à ce sujet et pour être honnête, je pense que [heshe!t] tient vraiment beaucoup à [e]."
 
 # game/events_m.rpy:912
 translate french rachelsaffair_58c9fec2:
@@ -3624,7 +3624,7 @@ translate french rachelsaffair_e9a0e4a2:
 translate french rachelsaffair_e612037c_2:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:917
 translate french rachelsaffair_194c5e6f:
@@ -3636,7 +3636,7 @@ translate french rachelsaffair_194c5e6f:
 translate french rachelsaffair_e612037c_3:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:919
 translate french rachelsaffair_5702ca3d:
@@ -3648,7 +3648,7 @@ translate french rachelsaffair_5702ca3d:
 translate french rachelsaffair_e612037c_4:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:921
 translate french rachelsaffair_d280544c:
@@ -3660,19 +3660,19 @@ translate french rachelsaffair_d280544c:
 translate french rachelsaffair_e612037c_5:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:923
 translate french rachelsaffair_1d0e3606:
 
     # m "No, I'm sorry, but I think we shouldn't meet for now... I don't want [himher] to notice anything until... until I'm ready for it."
-    m "Non, je suis désolé, mais je pense que nous ne devrions pas nous rencontrer pour le moment... Je ne veux pas que [himher] remarque quoi que ce soit jusqu'à... jusqu'à ce que je sois prête pour ça."
+    m "Non, je suis désolé, mais je pense que nous ne devrions pas nous rencontrer pour le moment... Je ne veux pas que [himher!t] remarque quoi que ce soit jusqu'à... jusqu'à ce que je sois prête pour ça."
 
 # game/events_m.rpy:924
 translate french rachelsaffair_e612037c_6:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:925
 translate french rachelsaffair_806f1e68:
@@ -3690,7 +3690,7 @@ translate french rachelsaffair_3ebcf718:
 translate french rachelsaffair_06845916:
 
     # m "Alright, I should hang up, [heshe] could be back soon."
-    m "Très bien, je devrais raccrocher, [heshe] pourrait revenir bientôt."
+    m "Très bien, je devrais raccrocher, [heshe!t] pourrait revenir bientôt."
 
 # game/events_m.rpy:928
 translate french rachelsaffair_2d135ad9:
@@ -3822,13 +3822,13 @@ translate french rachelsaffair_55de34af:
 translate french rachelsaffair_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:964
 translate french rachelsaffair_e612037c_7:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:966
 translate french rachelsaffair_b83aaccc:
@@ -3852,7 +3852,7 @@ translate french rachelsaffair_2d0f01e2:
 translate french rachelsaffair_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:972
 translate french rachelsaffair_af69212f:
@@ -3870,7 +3870,7 @@ translate french rachelsaffair_3aa0e494:
 translate french rachelsaffair_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_m.rpy:975
 translate french rachelsaffair_d59e31b3:
@@ -3924,7 +3924,7 @@ translate french rachelGivePills_3131a06c:
 translate french rachelGivePills_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:991
 translate french rachelGivePills_5c9216fb:
@@ -3948,7 +3948,7 @@ translate french rachelGivePills_40b7c8ad:
 translate french rachelGivePills_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:1000
 translate french rachelGivePills_8589d27a:
@@ -4278,7 +4278,7 @@ translate french afterTcoerce2_0710b814:
 translate french afterTcoerce2_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:1097
 translate french afterTcoerce2_e205992d:
@@ -4290,7 +4290,7 @@ translate french afterTcoerce2_e205992d:
 translate french afterTcoerce2_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:1099
 translate french afterTcoerce2_b92f9e61:
@@ -4416,7 +4416,7 @@ translate french afterTcoerce2_5074161a:
 translate french afterTcoerce2_e612037c_1:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:1126
 translate french afterTcoerce2_b1983da6:
@@ -4428,7 +4428,7 @@ translate french afterTcoerce2_b1983da6:
 translate french afterTcoerce2_e612037c_2:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:1128
 translate french afterTcoerce2_b2cbc34c:
@@ -4446,7 +4446,7 @@ translate french afterTcoerce2_b583b956:
 translate french afterTcoerce2_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:1136
 translate french afterTcoerce2_30e63c05:
@@ -4482,7 +4482,7 @@ translate french afterTcoerce2_e0258978:
 translate french afterTcoerce2_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_m.rpy:1142
 translate french afterTcoerce2_5eed2f02:
@@ -4518,7 +4518,7 @@ translate french d6_backhomeRachel_a8b3c301:
 translate french d6_backhomeRachel_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:1155
 translate french d6_backhomeRachel_6038be4e:
@@ -4788,7 +4788,7 @@ translate french d6_backhomeRachel_cc15f051:
 translate french d6_backhomeRachel_0d626e1b:
 
     # m "Or maybe it's because you've... developed some feelings for her, feelings one shouldn't have for [hisher] sister..."
-    m "Ou peut-être est-ce parce que tu as... développé des sentiments pour elle, des sentiments que l'on ne devrait pas avoir pour [hisher] sœur..."
+    m "Ou peut-être est-ce parce que tu as... développé des sentiments pour elle, des sentiments que l'on ne devrait pas avoir pour [hisher!t] sœur..."
 
 # game/events_m.rpy:1214
 translate french d6_backhomeRachel_c7cc06d9:
@@ -5028,7 +5028,7 @@ translate french d6_backhomeRachel_216c7368:
 translate french d6_backhomeRachel_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_m.rpy:1268
 translate french d6_rachel_pills_3fad21d5:
@@ -5046,7 +5046,7 @@ translate french d6_rachel_pills_f3281ff4:
 translate french d6_rachel_pills_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:1272
 translate french d6_rachel_pills_05947ee2:
@@ -5736,7 +5736,7 @@ translate french d8_rachel_talk_772064f0:
 translate french d8_rachel_talk_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:1473
 translate french d8_rachel_talk_7841b110:
@@ -5982,13 +5982,13 @@ translate french d8_rachel_pills_2599aa1f:
 translate french d8_rachel_pills_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:1542
 translate french d8_rachel_pills_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:1543
 translate french d8_rachel_pills_77711451:
@@ -6342,7 +6342,7 @@ translate french d8_rachel_pills_2d515194:
 translate french d8_rachel_pills_03be39a2:
 
     # pc "Maybe she's just nervous around you. I mean, everyone gets a bit nervous around someone [heshe]'s attracted to..."
-    pc "Peut-être qu'elle est juste nerveuse en ta présence. Je veux dire, tout le monde est un peu nerveux autour de quelqu'un [heshe] qui est attiré par..."
+    pc "Peut-être qu'elle est juste nerveuse en ta présence. Je veux dire, tout le monde est un peu nerveux autour de quelqu'un [heshe!t] qui est attiré par..."
 
 # game/events_m.rpy:1628
 translate french d8_rachel_pills_893fe2d7:
@@ -6540,7 +6540,7 @@ translate french d8_rachel_pills_189e5c99:
 translate french d8_rachel_pills_e612037c_1:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:1675
 translate french d8_rachel_pills_3aaa0aca:
@@ -6966,7 +6966,7 @@ translate french d9_backhome_a4301c58:
 translate french d9_backhome_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:1808
 translate french d9_backhome_f81580c9:
@@ -7482,13 +7482,13 @@ translate french d10outdoor_8238cecc:
 translate french d10outdoor_21b6cbb6:
 
     # m "Actually, I think you've become a really attractive [pcgender]."
-    m "En fait, je pense que tu es devenu un [pcgender] très attirant."
+    m "En fait, je pense que tu es devenu un [pcgender!t] très attirant."
 
 # game/events_m.rpy:1985
 translate french d10outdoor_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:1986
 translate french d10outdoor_ac9a4a20:
@@ -7518,7 +7518,7 @@ translate french d10outdoor_a8cbcab4:
 translate french d10outdoor_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:1995
 translate french d10outdoor_b2cbc34c:
@@ -7536,7 +7536,7 @@ translate french d10outdoor_67519a39:
 translate french d10outdoor_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:1999
 translate french d10outdoor_f176e573:
@@ -7626,7 +7626,7 @@ translate french d10outdoor_6af210ef:
 translate french d10outdoor_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:2026
 translate french d10outdoor_4aa5673e:
@@ -7662,7 +7662,7 @@ translate french d10outdoor_493705a8:
 translate french d10outdoor_e612037c_1:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:2037
 translate french d10outdoor_50d9c930:
@@ -7680,7 +7680,7 @@ translate french d10outdoor_1c888d47:
 translate french d10outdoor_e612037c_2:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:2042
 translate french d10outdoor_d50a79e7:
@@ -7698,7 +7698,7 @@ translate french d10outdoor_f102b975:
 translate french d10outdoor_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:2049
 translate french d10outdoor_b9dcb048:
@@ -7716,7 +7716,7 @@ translate french d10outdoor_b784e815:
 translate french d10outdoor_e612037c_3:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:2056
 translate french d10outdoor_9664d4a0:
@@ -7824,7 +7824,7 @@ translate french d10outdoor_067965a7:
 translate french d10outdoor_e612037c_4:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:2084
 translate french d10outdoor_1ef71e97:
@@ -7860,13 +7860,13 @@ translate french d10outdoor_145cce3e:
 translate french d10outdoor_471b5f96:
 
     # m "You were still there... his [ds]..."
-    m "Tu étais encore là... son [ds]..."
+    m "Tu étais encore là... [hisher!t] [ds!t]..."
 
 # game/events_m.rpy:2092
 translate french d10outdoor_8fd2f4f9:
 
     # m "The [ds] of the woman he always compared me with, the [ds] of the man that caused me so much pain..."
-    m "Le [ds] de la femme à laquelle il m'a toujours comparée, le [ds] de l'homme qui m'a fait tant de mal..."
+    m "Le [ds!t] de la femme à laquelle il m'a toujours comparée, le [ds!t] de l'homme qui m'a fait tant de mal..."
 
 # game/events_m.rpy:2093
 translate french d10outdoor_fbfe2299:
@@ -7914,7 +7914,7 @@ translate french d10outdoor_e8c7d3ae:
 translate french d10outdoor_a69377ef_4:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:2103
 translate french d10outdoor_45bd493a:
@@ -8028,13 +8028,13 @@ translate french d10outdoor_19c1e4e2:
 translate french d10outdoor_a69377ef_5:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:2134
 translate french d10outdoor_1dc31bd7:
 
-    # m "pc "I..."
-    m "pc "Je..."
+    # m "[pc] I..."
+    m "[pc] Je..."
 
 # game/events_m.rpy:2138
 translate french d10outdoor_9664d4a0_1:
@@ -8406,7 +8406,7 @@ translate french d10shower2_1af068ca:
 translate french d10shower2_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_m.rpy:2275
 translate french d10shower2_42139ae9:
@@ -8424,7 +8424,7 @@ translate french d10shower2_797b9195:
 translate french d10shower2_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_m.rpy:2282
 translate french d10shower2_feecf759:

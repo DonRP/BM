@@ -276,7 +276,7 @@ translate french eNightTwo_571fd885:
 translate french eNightTwo_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:115
 translate french eNightTwo_e181cb8d:
@@ -300,7 +300,7 @@ translate french eNightTwo_9877b237:
 translate french eNightTwo_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:119
 translate french eNightTwo_c9f69022:
@@ -426,13 +426,13 @@ translate french eNightTwo_06a6d364:
 translate french eNightTwo_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:150
 translate french eNightTwo_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:151
 translate french eNightTwo_fd8d22fa:
@@ -456,7 +456,7 @@ translate french eNightTwo_ced17646:
 translate french eNightTwo_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:158
 translate french eNightTwo_8abd4064:
@@ -558,7 +558,7 @@ translate french ellieVR_efda9eec:
 translate french ellieVR_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:185
 translate french ellieVR_4157d45c:
@@ -582,7 +582,7 @@ translate french ellieVR_9215125e:
 translate french ellieVR_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:191
 translate french ellieVR_19ce51e2:
@@ -696,7 +696,7 @@ translate french ellieVR_26b08e4a:
 translate french ellieVR_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:227
 translate french ellieVR_ffed844f:
@@ -738,7 +738,7 @@ translate french ellieVR_225fadf5:
 translate french ellieVR_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:236
 translate french ellieVR_d593d4b0:
@@ -756,7 +756,7 @@ translate french ellieVR_8a23b254:
 translate french ellieVR_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:244
 translate french ellieVR_12367861:
@@ -774,7 +774,7 @@ translate french ellieVR_d7619335:
 translate french ellieVR_72a33094_1:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:247
 translate french ellieVR_2c706d0a:
@@ -864,7 +864,7 @@ translate french childroomPCtalktoEllie_c935987d:
 translate french childroomPCtalktoEllie_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:284
 translate french childroomPCtalktoEllie_5766a3a8:
@@ -1001,20 +1001,20 @@ translate french ebdLookForE_340eb60b:
 # game/events_e.rpy:339
 translate french ebdLookForE_ba05f132:
 
-    # j "pc "the heroine, hehe."
-    j "pc "l'héroïne, héhé."
+    # j "[pc] the heroine, hehe."
+    j "[pc] l'héroïne, héhé."
 
 # game/events_e.rpy:341
 translate french ebdLookForE_f01b3f03:
 
-    # j "pc "the hero, hehe."
-    j "pc "le héros, héhé."
+    # j "[pc] the hero, hehe."
+    j "[pc] le héros, héhé."
 
 # game/events_e.rpy:342
 translate french ebdLookForE_5400efb8:
 
     # m "Haha, yes [heshe] was always like that when it came to [e]..."
-    m "Haha, oui [heshe] était toujours comme ça quand il s'agissait de [e]...."
+    m "Haha, oui [heshe!t] était toujours comme ça quand il s'agissait de [e]...."
 
 # game/events_e.rpy:345
 translate french ebdLookForE_3dad1e68:
@@ -1032,7 +1032,7 @@ translate french ebdLookForE_fed36e56:
 translate french ebdLookForE_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:349
 translate french ebdLookForE_f72ffc4e:
@@ -1206,7 +1206,7 @@ translate french ebdLookForE_22692aa8:
 translate french ebdLookForE_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:400
 translate french ebdLookForE_fa9208b8:
@@ -1236,7 +1236,7 @@ translate french ebdLookForE_fbfad1b5:
 translate french ebdLookForE_72a33094_1:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:408
 translate french ebdLookForE_75e3b183:
@@ -1248,7 +1248,7 @@ translate french ebdLookForE_75e3b183:
 translate french ebdLookForE_72a33094_2:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:411
 translate french ebdLookForE_85d4fb7e:
@@ -1260,7 +1260,7 @@ translate french ebdLookForE_85d4fb7e:
 translate french ebdLookForE_72a33094_3:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:415
 translate french ebdLookForE_f7d47dfc:
@@ -1308,7 +1308,7 @@ translate french ebdLookForE_7087669c:
 translate french ebdLookForE_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_e.rpy:430
 translate french ebdLookForE_b9b155fe:
@@ -1458,7 +1458,7 @@ translate french eKitten_81e4f020:
 translate french eKitten_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:465
 translate french eKitten_a35d0fa7:
@@ -1470,7 +1470,7 @@ translate french eKitten_a35d0fa7:
 translate french eKitten_72a33094_1:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:467
 translate french eKitten_7f57fde6:
@@ -1620,7 +1620,7 @@ translate french eKitten_7dccd8a5:
 translate french eKitten_72a33094_2:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:509
 translate french eKitten_9a87df45:
@@ -1656,7 +1656,7 @@ translate french eKitten_ea1d8eae:
 translate french eKitten_72a33094_3:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:518
 translate french eKitten_1a5216f5:
@@ -1668,13 +1668,13 @@ translate french eKitten_1a5216f5:
 translate french eKitten_72a33094_4:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:520
 translate french eKitten_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:521
 translate french eKitten_eaeb8068:
@@ -2328,7 +2328,7 @@ translate french eHumpNight5_r_b6e072e3:
 translate french eHumpNight5_r_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_e.rpy:748
 translate french eHumpNight5_r_616b5333:
@@ -2412,7 +2412,7 @@ translate french d7_evening_e_a1ca29ef:
 translate french d7_evening_e_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:790
 translate french d7_evening_e_13333b57:
@@ -2826,7 +2826,7 @@ translate french d9_ebathroom_9a647d95:
 translate french d9_ebathroom_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:933
 translate french d9_ebathroom_5e7c388b:
@@ -2988,7 +2988,7 @@ translate french d9_pcroom_e01_c4153278:
 translate french d9_pcroom_e01_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:995
 translate french d9_pcroom_e01_cf11ab79:
@@ -3102,7 +3102,7 @@ translate french d9_pcroom_e01_be8d3b3c:
 translate french d9_pcroom_e01_72a33094_1:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:1046
 translate french d9_pcroom_e01_765d8c3e:
@@ -3318,13 +3318,13 @@ translate french d9_pcroom_e01_9ec09061:
 translate french d9_pcroom_e01_72a33094_2:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_e.rpy:1142
 translate french d9_pcroom_e01_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:1143
 translate french d9_pcroom_e01_87f9d62d:
@@ -3462,7 +3462,7 @@ translate french d10eshow_f605c5ae:
 translate french d10eshow_4d4db786:
 
     # j "Maybe you need to shake your ass a bit to get [hisher] attention, hehe."
-    j "Peut-être que tu dois secouer un peu ton cul pour attirer l'attention de [hisher] , héhé."
+    j "Peut-être que tu dois secouer un peu ton cul pour attirer l'attention de [hisher!t] , héhé."
 
 # game/events_e.rpy:1194
 translate french d10eshow_24564eab:
@@ -3480,7 +3480,7 @@ translate french d10eshow_93227c0c:
 translate french d10eshow_0e4787b7:
 
     # j "Now hurry up, [e] before [heshe] loses concentration again!"
-    j "Maintenant dépêche-toi, [e] avant que [heshe] ne perde à nouveau sa concentration !"
+    j "Maintenant dépêche-toi, [e] avant que [heshe!t] ne perde à nouveau sa concentration !"
 
 # game/events_e.rpy:1197
 translate french d10eshow_9bee5006:
@@ -3498,7 +3498,7 @@ translate french d10eshow_328234f8:
 translate french d10eshow_7d3f0a17:
 
     # j "Show [himher] the next outfit, [e]."
-    j "Montre [himher] la tenue suivante, [e]."
+    j "Montre [himher!t] la tenue suivante, [e]."
 
 # game/events_e.rpy:1207
 translate french d10eshow_9bee5006_1:
@@ -3594,7 +3594,7 @@ translate french d10eshow_ab816072:
 translate french d10eshow_1bb01731:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_e.rpy:1253
 translate french d10eshow_d74cb7c9:
@@ -3612,7 +3612,7 @@ translate french d10eshow_c08c150b:
 translate french d10eshow_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:1258
 translate french d10eshow_7e9000d9:
@@ -3642,7 +3642,7 @@ translate french d10eshow_00884e7e:
 translate french d10eshow_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_e.rpy:1265
 translate french d10eshow_302f5477:
@@ -3654,91 +3654,91 @@ translate french d10eshow_302f5477:
 translate french d10eshow_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 translate french strings:
 
     # game/events_e.rpy:6
-    old "[mschoice] get closer"
-    new "[mschoice] se rapprocher"
+    old "get closer"
+    new "se rapprocher"
 
     # game/events_e.rpy:15
-    old "[mschoice] get really close"
-    new "[mschoice] s'approcher de très près"
+    old "get really close"
+    new "s'approcher de très près"
 
     # game/events_e.rpy:19
-    old "[mschoice] Wake her up"
-    new "[mschoice] La réveiller"
+    old "Wake her up"
+    new "La réveiller"
 
     # game/events_e.rpy:19
-    old "[mschoice] Just look"
-    new "[mschoice] Juste regarder"
+    old "Just look"
+    new "Juste regarder"
 
     # game/events_e.rpy:305
-    old "[mschoice] Look for her."
-    new "[mschoice] La chercher."
+    old "Look for her."
+    new "La chercher."
 
     # game/events_e.rpy:305
-    old "[mschoice] Don't look for her."
-    new "[mschoice] Ne pas la chercher."
+    old "Don't look for her."
+    new "Ne pas la chercher."
 
     # game/events_e.rpy:310
-    old "[mschoice] Get closer."
-    new "[mschoice] Se rapprocher."
+    old "Get closer."
+    new "Se rapprocher."
 
     # game/events_e.rpy:310
-    old "[mschoice] Leave."
-    new "[mschoice] Partir."
+    old "Leave."
+    new "Partir."
 
     # game/events_e.rpy:675
-    old "[mschoice] Shit this is..."
-    new "[mschoice] Merde c'est..."
+    old "Shit this is..."
+    new "Merde c'est..."
 
     # game/events_e.rpy:675
-    old "[mschoice] ...so wrong, I need to stop her!"
-    new "[mschoice] ...si mal, je dois l'arrêter !"
+    old "...so wrong, I need to stop her!"
+    new "...si mal, je dois l'arrêter !"
 
     # game/events_e.rpy:675
-    old "[mschoice] ...so hot, I can't believe she's doing this!"
-    new "[mschoice] ...si sexy, je ne peux pas croire qu'elle fasse ça !"
+    old "...so hot, I can't believe she's doing this!"
+    new "...si sexy, je ne peux pas croire qu'elle fasse ça !"
 
     # game/events_e.rpy:857
-    old "[mschoice] Her bed."
-    new "[mschoice] Son lit."
+    old "Her bed."
+    new "Son lit."
 
     # game/events_e.rpy:857
-    old "[mschoice] Your bed."
-    new "[mschoice] Votre lit."
+    old "Your bed."
+    new "Votre lit."
 
     # game/events_e.rpy:935
-    old "[mschoice] (Make a noise)"
-    new "[mschoice] (Faire un bruit)"
+    old "(Make a noise)"
+    new "(Faire un bruit)"
 
     # game/events_e.rpy:935
-    old "[mschoice] (Wait)"
-    new "[mschoice] (Attendre)"
+    old "(Wait)"
+    new "(Attendre)"
 
     # game/events_e.rpy:1201
-    old "[mschoice] Looks great, I like it."
-    new "[mschoice] C'est super, j'aime bien."
+    old "Looks great, I like it."
+    new "C'est super, j'aime bien."
 
     # game/events_e.rpy:1201
-    old "[mschoice] Nah, your normal outfit looks better."
-    new "[mschoice] Nan, ta tenue normale est mieux."
+    old "Nah, your normal outfit looks better."
+    new "Nan, ta tenue normale est mieux."
 
     # game/events_e.rpy:1211
-    old "[mschoice] Hot!"
-    new "[mschoice] Chaud !"
+    old "Hot!"
+    new "Chaud !"
 
     # game/events_e.rpy:1211
-    old "[mschoice] Nah, that's too goth style."
-    new "[mschoice] Nah, c'est trop style gothique."
+    old "Nah, that's too goth style."
+    new "Nah, c'est trop style gothique."
 
     # game/events_e.rpy:1220
-    old "[mschoice] Looks great, but isn't that a little bit too much for everyday use?"
-    new "[mschoice] Ça a l'air génial, mais n'est-ce pas un peu trop pour un usage quotidien ?"
+    old "Looks great, but isn't that a little bit too much for everyday use?"
+    new "Ça a l'air génial, mais n'est-ce pas un peu trop pour un usage quotidien ?"
 
     # game/events_e.rpy:1220
-    old "[mschoice] Luscious! I love it!"
-    new "[mschoice] Succulent ! Je l'adore !"
+    old "Luscious! I love it!"
+    new "Succulent ! Je l'adore !"
 

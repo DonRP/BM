@@ -36,7 +36,7 @@ translate french day0Morning_fe495e49:
 translate french day0Morning_1a156d9c:
 
     # pcthink "...and took my shoes off?"
-    pcthink "...et j'ai enlevé mes chaussures ?"
+    pcthink "...et a enlevé mes chaussures?"
 
 # game/events_mc.rpy:12
 translate french day0Morning_aff1c6b1:
@@ -72,7 +72,7 @@ translate french day0Morning_1f6ff3b9:
 translate french day0Morning_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:21
 translate french day0Morning_f92b90eb:
@@ -108,7 +108,7 @@ translate french childRoomDay0_ad420ce1:
 translate french childRoomDay0_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:33
 translate french childRoomDay0_eac0ec9f:
@@ -246,7 +246,7 @@ translate french kitchenBreakfastDay0_deadf7f8:
 translate french kitchenBreakfastDay0_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_mc.rpy:76
 translate french kitchenBreakfastDay0_2ce091cd:
@@ -258,13 +258,13 @@ translate french kitchenBreakfastDay0_2ce091cd:
 translate french kitchenBreakfastDay0_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:78
 translate french kitchenBreakfastDay0_72a33094_1:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_mc.rpy:79
 translate french kitchenBreakfastDay0_8b857d1c:
@@ -276,7 +276,7 @@ translate french kitchenBreakfastDay0_8b857d1c:
 translate french kitchenBreakfastDay0_72a33094_2:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_mc.rpy:81
 translate french kitchenBreakfastDay0_8096f560:
@@ -449,8 +449,8 @@ translate french pcDream1_e59fabcc:
 # game/events_mc.rpy:126
 translate french pcDream1_f7c84076:
 
-    # pcthink "e "surely has grown up, but... actually I thought she should be a bit older by now."
-    pcthink "e "a sûrement grandi, mais... en fait je pensais qu'elle devrait être un peu plus âgée maintenant."
+    # pcthink "[e] surely has grown up, but... actually I thought she should be a bit older by now."
+    pcthink "[e] a sûrement grandi, mais... en fait je pensais qu'elle devrait être un peu plus âgée maintenant."
 
 # game/events_mc.rpy:127
 translate french pcDream1_825c8758:
@@ -474,7 +474,7 @@ translate french pcDream1_f7cb6db2:
 translate french pcDream1_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:131
 translate french pcDream1_b45b7ed4:
@@ -570,13 +570,13 @@ translate french pcDream1_86b1fd11:
 translate french pcDream1_a19c3737:
 
     # m "I don't want to hear any excuses from you! You stupid [ds] of an asshole!"
-    m "Je ne veux pas entendre d'excuses de ta part ! Espèce de stupide [ds] de trou du cul !"
+    m "Je ne veux pas entendre d'excuses de ta part ! Espèce de stupide [ds!t] de trou du cul !"
 
 # game/events_mc.rpy:152
 translate french pcDream1_10b5ce69:
 
     # e "Mommy, please, [heshe] helped me!"
-    e "Maman, s'il te plaît, [heshe] m'a aidé !"
+    e "Maman, s'il te plaît, [heshe!t] m'a aidé !"
 
 # game/events_mc.rpy:153
 translate french pcDream1_c2cdcf05:
@@ -588,7 +588,7 @@ translate french pcDream1_c2cdcf05:
 translate french pcDream1_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:157
 translate french pcDream1_e2ee86ba:
@@ -612,7 +612,7 @@ translate french pcDream1_149222e3:
 translate french pcDream1_f0cac90d_1:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:162
 translate french pcDream1_e4520362:
@@ -648,7 +648,7 @@ translate french wakeupDay1_73d106f4:
 translate french wakeupDay1_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:178
 translate french wakeupDay1_dabeb1e2:
@@ -726,13 +726,13 @@ translate french wakeupDay1_ffc63eee:
 translate french wakeupDay1_4781350b:
 
     # m "Looks like someone wanted to cuddle a bit with her big [bs]."
-    m "On dirait que quelqu'un a voulu faire un peu de câlin avec son grand [bs]."
+    m "On dirait que quelqu'un a voulu faire un peu de câlin avec son grand [bs!t]."
 
 # game/events_mc.rpy:202
 translate french wakeupDay1_251417f1:
 
     # m "But, [e], you really shouldn't sneak into your [bs]'s room like this."
-    m "Mais, [e], tu ne devrais vraiment pas te faufiler dans la chambre de ton [bs] comme ça."
+    m "Mais, [e], tu ne devrais vraiment pas te faufiler dans la chambre de ton [bs!t] comme ça."
 
 # game/events_mc.rpy:208
 translate french wakeupDay1_fd57a2d8:
@@ -768,7 +768,7 @@ translate french wakeupDay1_dbd30717:
 translate french wakeupDay1_01fbb572:
 
     # m "Hahaha, don't worry, Hun. I have seen that before... even though, you've obviously become a [pcgender]..."
-    m "Hahaha, ne t'inquiète pas, Hun. J'ai déjà vu ça avant... même si, de toute évidence, tu es devenu un [pcgender]..."
+    m "Hahaha, ne t'inquiète pas, Hun. J'ai déjà vu ça avant... même si, de toute évidence, tu es devenu un [pcgender!t]..."
 
 # game/events_mc.rpy:221
 translate french wakeupDay1_d82c55e9:
@@ -840,7 +840,7 @@ translate french wakeupDay1_341ebece:
 translate french wakeupDay1_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:239
 translate french wakeupDay1_c7fd02d6:
@@ -852,7 +852,7 @@ translate french wakeupDay1_c7fd02d6:
 translate french wakeupDay1_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:241
 translate french wakeupDay1_088ca266:
@@ -864,7 +864,7 @@ translate french wakeupDay1_088ca266:
 translate french wakeupDay1_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:243
 translate french wakeupDay1_15ac3a2e:
@@ -876,7 +876,7 @@ translate french wakeupDay1_15ac3a2e:
 translate french wakeupDay1_a69377ef_4:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:245
 translate french wakeupDay1_f22ad3c6_1:
@@ -900,7 +900,7 @@ translate french wakeupDay1_ae6d2505:
 translate french wakeupDay1_a69377ef_5:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:252
 translate french wakeupDay1_c2505a61:
@@ -960,7 +960,7 @@ translate french dinnerDay2_3c8e055f:
 translate french dinnerDay2_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_mc.rpy:273
 translate french dinnerDay2_32ead6f8:
@@ -1068,7 +1068,7 @@ translate french stuffArrivesDay3_c87da698:
 translate french stuffArrivesDay3_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:305
 translate french stuffArrivesDay3_869ad9b7:
@@ -1158,7 +1158,7 @@ translate french getEfromSchool1_04e1c72c:
 translate french getEfromSchool1_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:333
 translate french getEfromSchool1_4071f137:
@@ -1224,7 +1224,7 @@ translate french getEfromSchool1_fc5cd1ac:
 translate french getEfromSchool1_7ec6f8c8:
 
     # j "{size=-10}...and you really should have told me how hot [heshe] is{/size}."
-    j "{size=-10}...et tu aurais vraiment dû me dire à quel point [heshe] est sexy{/size}."
+    j "{size=-10}...et tu aurais vraiment dû me dire à quel point [heshe!t] est sexy{/size}."
 
 # game/events_mc.rpy:351
 translate french getEfromSchool1_b5156e92:
@@ -1260,7 +1260,7 @@ translate french getEfromSchool1_2e48f33f:
 translate french getEfromSchool1_3e82ab9a:
 
     # j "Can't you at least wait until you're home before you hump your big [bs]?"
-    j "Ne peux-tu pas au moins attendre d'être à la maison avant de baiser ton gros [bs]?"
+    j "Ne peux-tu pas au moins attendre d'être à la maison avant de baiser ton grand [bs!t]?"
 
 # game/events_mc.rpy:362
 translate french getEfromSchool1_e262c0dd:
@@ -1428,7 +1428,7 @@ translate french afterGetEFromSchool_b4779b58:
 translate french afterGetEFromSchool_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:411
 translate french afterGetEFromSchool_012903ad:
@@ -1578,7 +1578,7 @@ translate french afterGetEFromSchool_7a959c1a:
 translate french afterGetEFromSchool_ae3b81a3:
 
     # j "...but he's still a man and men like to get a little peek from time to time, right [pc]?"
-    j "...mais il reste un homme et les hommes aiment avoir un petit coup d'œil de temps en temps, n'est-ce pas [pc]?"
+    j "...mais il reste un [boygirl!t] et les [boygirl!t] aiment avoir un petit coup d'œil de temps en temps, n'est-ce pas [pc]?"
 
 # game/events_mc.rpy:459
 translate french afterGetEFromSchool_a7c89ecd_1:
@@ -1734,7 +1734,7 @@ translate french haremChoice_f6a70ae5:
 translate french haremChoice_f42382f7:
 
     # j "I bet [heshe] wouldn't mind if we did share, hehe... right [pc]?"
-    j "Je parie que [heshe] ne verrait pas d'inconvénient à ce que nous partagions, héhé... n'est-ce pas [pc]?"
+    j "Je parie que [heshe!t] ne verrait pas d'inconvénient à ce que nous partagions, héhé... n'est-ce pas [pc]?"
 
 # game/events_mc.rpy:502
 translate french haremChoice_b9d784ee:
@@ -2022,7 +2022,7 @@ translate french pcroomnight3_7818a9aa:
 translate french pcroomnight3_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:604
 translate french pcroomnight3_b9b155fe:
@@ -2040,7 +2040,7 @@ translate french pcroomnight3_b9b155fe_1:
 translate french pcroomnight3_1a88aff7:
 
     # m "{size=-10}[e]? What are you doing up so late? Trying to sneak into your [bs]'s bed again?{/size}"
-    m "{taille=-10}[e]? Que fais-tu debout si tard ? Tu essaies encore de te faufiler dans le lit de ton [bs]? {/size}"
+    m "{size=-10}[e]? Que fais-tu debout si tard ? Tu essaies encore de te faufiler dans le lit de ton [bs!t]? {/size}"
 
 # game/events_mc.rpy:608
 translate french pcroomnight3_962b8eaa:
@@ -2052,7 +2052,7 @@ translate french pcroomnight3_962b8eaa:
 translate french pcroomnight3_a643ba94:
 
     # m "{size=-10}You should really let [himher] sleep [e]...{/size}"
-    m "{size=-10}Tu devrais vraiment laisser [himher] dormir [e]...{/size}"
+    m "{size=-10}Tu devrais vraiment me laisser dormir [e]...{/size}"
 
 # game/events_mc.rpy:610
 translate french pcroomnight3_2f115d4d:
@@ -2064,13 +2064,13 @@ translate french pcroomnight3_2f115d4d:
 translate french pcroomnight3_142bf015:
 
     # m "{size=-10}Listen [e], I know you're really happy that [pc] is back, but [heshe] just moved in and we both don't know if [heshe] intends to stay...{/size}"
-    m "{size=-10}Écoute [e], je sais que tu es vraiment heureuse que [pc] soit de retour, mais [heshe] vient d'emménager et nous ne savons pas si [heshe] a l'intention de rester...{/size}"
+    m "{size=-10}Écoute [e], je sais que tu es vraiment heureuse que [pc] soit de retour, mais [heshe!t] vient d'emménager et nous ne savons pas si [heshe!t] a l'intention de rester...{/size}"
 
 # game/events_mc.rpy:612
 translate french pcroomnight3_0e370ad3:
 
     # m "{size=-10}...also, [heshe]'s been away for a long time, we basically don't know anything about [himher]. Plus, do you even know if [heshe] is okay with you sleeping in [hisher] bed?{/size}"
-    m "{size=-10}...aussi, [heshe] est parti depuis longtemps, on ne sait rien de [himher]. En plus, est-ce que tu sais si [heshe] est d'accord pour que tu dormes dans le lit de [hisher] ? {/size}"
+    m "{size=-10}...aussi, [heshe!t] est parti depuis longtemps, on ne sait rien de [himher!t]. En plus, est-ce que tu sais si [heshe!t] est d'accord pour que tu dormes dans le lit de [hisher!t] ? {/size}"
 
 # game/events_mc.rpy:613
 translate french pcroomnight3_7e05c46a:
@@ -2082,13 +2082,13 @@ translate french pcroomnight3_7e05c46a:
 translate french pcroomnight3_9689d40d:
 
     # m "{size=-10}Come on [e], go back to your room. If [heshe]'s going to stay, you'll have enough opportunities to cuddle with [himher] in the future...{/size}"
-    m "{size=-10}Aller [e], retourne dans ta chambre. Si [heshe] va rester, tu auras assez d'occasions de faire des câlins à [himher] dans le futur...{/size}"
+    m "{size=-10}Aller [e], retourne dans ta chambre. Si [heshe!t] va rester, tu auras assez d'occasions de faire des câlins à [himher!t] dans le futur...{/size}"
 
 # game/events_mc.rpy:615
 translate french pcroomnight3_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:616
 translate french pcroomnight3_a3d517f0:
@@ -2112,7 +2112,7 @@ translate french pcroomnight3_25e7f477:
 translate french pcroomnight3_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:624
 translate french pcroomnight3_a2d15ea3:
@@ -2124,13 +2124,13 @@ translate french pcroomnight3_a2d15ea3:
 translate french pcroomnight3_eca096dd:
 
     # m "Can't you be a normal [boygirl] once in your life?"
-    m "Ne peux-tu pas être un [boygirl] normal une fois dans ta vie ?"
+    m "Ne peux-tu pas être un [boygirl!t] normal une fois dans ta vie ?"
 
 # game/events_mc.rpy:626
 translate french pcroomnight3_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:627
 translate french pcroomnight3_6095f49c:
@@ -2148,7 +2148,7 @@ translate french pcroomnight3_92df5d5f:
 translate french pcroomnight3_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:630
 translate french pcroomnight3_151099dc:
@@ -2160,7 +2160,7 @@ translate french pcroomnight3_151099dc:
 translate french pcroomnight3_a69377ef_4:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:632
 translate french pcroomnight3_28aa1485:
@@ -2172,7 +2172,7 @@ translate french pcroomnight3_28aa1485:
 translate french pcroomnight3_a69377ef_5:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:642
 translate french wakeupDay3_fe60ed33:
@@ -2184,7 +2184,7 @@ translate french wakeupDay3_fe60ed33:
 translate french wakeupDay3_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:645
 translate french wakeupDay3_1eec5249:
@@ -2202,7 +2202,7 @@ translate french wakeupDay3_0754dd99:
 translate french wakeupDay3_f0cac90d_1:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:648
 translate french wakeupDay3_27d07940:
@@ -2238,7 +2238,7 @@ translate french wakeupDay3_f730a80c:
 translate french wakeupDay3_f0cac90d_2:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:654
 translate french wakeupDay3_d1861303:
@@ -2532,7 +2532,7 @@ translate french pcCityDay3_7b2c5e7c:
 translate french pcCityDay3_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:730
 translate french pcCityDay3_878f0222:
@@ -2544,7 +2544,7 @@ translate french pcCityDay3_878f0222:
 translate french pcCityDay3_f0cac90d_1:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:732
 translate french pcCityDay3_36bb9d3d:
@@ -2556,7 +2556,7 @@ translate french pcCityDay3_36bb9d3d:
 translate french pcCityDay3_f0cac90d_2:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:734
 translate french pcCityDay3_038399c8:
@@ -2580,7 +2580,7 @@ translate french pcCityDay3_9677f25c:
 translate french pcCityDay3_f0cac90d_3:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:738
 translate french pcCityDay3_a0c75c22:
@@ -2592,7 +2592,7 @@ translate french pcCityDay3_a0c75c22:
 translate french pcCityDay3_f0cac90d_4:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:740
 translate french pcCityDay3_7fc028a8:
@@ -3030,7 +3030,7 @@ translate french ebdPreps_c9e9538c:
 translate french ebdPreps_1bb01731:
 
     # t "..."
-    new "[t]..."
+    t "..."
 
 # game/events_mc.rpy:844
 translate french ebdPreps_5d1b27ce:
@@ -3150,7 +3150,7 @@ translate french ebd_c350f789:
 translate french ebd_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:879
 translate french ebd_b7bc8b83:
@@ -3216,19 +3216,19 @@ translate french ebd_fba7b537:
 translate french ebd_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_mc.rpy:899
 translate french ebd_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_mc.rpy:900
 translate french ebd_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:902
 translate french ebd_f0a677d2:
@@ -3252,7 +3252,7 @@ translate french ebd_4abc8c9c:
 translate french ebd_72a33094_1:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_mc.rpy:907
 translate french ebd_bb3c8ee6:
@@ -3264,7 +3264,7 @@ translate french ebd_bb3c8ee6:
 translate french ebd_628d2bbd:
 
     # j "...WHAHAHA, [heshe] really fell out of the bed?"
-    j "...WHAHAHA, [heshe] vraiment tombé du lit ?"
+    j "...WHAHAHA, [heshe!t] vraiment tombé du lit ?"
 
 # game/events_mc.rpy:911
 translate french ebd_a702c4e1:
@@ -3276,7 +3276,7 @@ translate french ebd_a702c4e1:
 translate french ebd_adb99edb:
 
     # m "And guess what, [heshe] was sleeping completely naked, haha."
-    m "Et devines quoi, [heshe] dormait complètement nu, haha."
+    m "Et devines quoi, [heshe!t] dormait complètement nu, haha."
 
 # game/events_mc.rpy:913
 translate french ebd_258a582b:
@@ -3540,7 +3540,7 @@ translate french ebd2_d4ffef5b:
 translate french ebd2_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_mc.rpy:980
 translate french ebd2_0ab94a3c:
@@ -3558,7 +3558,7 @@ translate french ebd2_c11599d9:
 translate french ebd2_72a33094_1:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_mc.rpy:985
 translate french ebd2_e23650ca:
@@ -3582,7 +3582,7 @@ translate french ebd2_c77a48de:
 translate french ebd2_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    j "..."
 
 # game/events_mc.rpy:989
 translate french ebd2_54326bbc:
@@ -3612,7 +3612,7 @@ translate french ebd2_d1ed6d17:
 translate french ebd2_b4fa3fc0_1:
 
     # j "..."
-    new "[j]..."
+    j "..."
 
 # game/events_mc.rpy:994
 translate french ebd2_84db82c7:
@@ -3738,7 +3738,7 @@ translate french ebdEnd_0e681e16:
 translate french ebdEnd_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1035
 translate french ebdEnd_c52114ef:
@@ -3756,7 +3756,7 @@ translate french afterEBD_a479e7bc:
 translate french afterEBD_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1052
 translate french afterEBD_f12901fd:
@@ -3786,13 +3786,13 @@ translate french afterEBD_be5aaa98:
 translate french afterEBD_a0d3b905:
 
     # pcthink "...with her own [bs]?"
-    pcthink "...avec son propre [bs]?"
+    pcthink "...avec son propre [bs!t]?"
 
 # game/events_mc.rpy:1057
 translate french afterEBD_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:1058
 translate french afterEBD_7e43320d:
@@ -4416,7 +4416,7 @@ translate french officeFirst_5e6ec546:
 translate french officeFirst_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:1213
 translate french officeFirst_53fca454:
@@ -4434,7 +4434,7 @@ translate french officeFirst_2c00bbfc:
 translate french officeFirst_f0cac90d_1:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:1218
 translate french officeFirst_2d9183c8:
@@ -4662,7 +4662,7 @@ translate french officeFirst_5ebb18b5:
 translate french officeFirst_dcf7b7fd:
 
     # oc "..."
-    new "[oc]..."
+    oc "..."
 
 # game/events_mc.rpy:1271
 translate french officeFirst_c2974f5c:
@@ -4710,7 +4710,7 @@ translate french officeFirst_b568e141:
 translate french officeFirst_9c60277f:
 
     # oc "First of all, [heshe] is not {b}your{/b} prisoner..."
-    oc "Tout d'abord, [heshe] n'est pas {b}votre prisonnier{/b}..."
+    oc "Tout d'abord, [heshe!t] n'est pas {b}votre prisonnier{/b}..."
 
 # game/events_mc.rpy:1284
 translate french officeFirst_91fb484b:
@@ -4890,7 +4890,7 @@ translate french dinnerDay4Home_d9a23300:
 translate french dinnerDay4Home_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_mc.rpy:1329
 translate french dinnerDay4Home_f423bdd0:
@@ -4914,7 +4914,7 @@ translate french homeday4night_88d5a7a4:
 translate french homeday4night_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:1338
 translate french homeday4night_815350c3:
@@ -4926,7 +4926,7 @@ translate french homeday4night_815350c3:
 translate french homeday4night_f0cac90d_1:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:1340
 translate french homeday4night_9c027654:
@@ -4937,14 +4937,14 @@ translate french homeday4night_9c027654:
 # game/events_mc.rpy:1341
 translate french homeday4night_9ffe0b3c:
 
-    # pcthink "e "should be here by now..."
-    pcthink "e "devrait être là maintenant..."
+    # pcthink "[e] should be here by now..."
+    pcthink "[e] devrait être là maintenant..."
 
 # game/events_mc.rpy:1342
 translate french homeday4night_f0cac90d_2:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:1344
 translate french homeday4night_eb300fc6:
@@ -4974,7 +4974,7 @@ translate french homeday4night_45b128ac:
 translate french homeday4night_f0cac90d_3:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:1352
 translate french homeday4night_5b73bbbd:
@@ -4992,7 +4992,7 @@ translate french homeday4night_956ae696:
 translate french homeday4night_5bd3bf2f:
 
     # oc "Calm down, [m]. It doesn't help to yell at [himher]."
-    oc "Calme-toi, [m]. Ça ne sert à rien de crier sur [himher]."
+    oc "Calme-toi, [m]. Ça ne sert à rien de crier sur [himher!t]."
 
 # game/events_mc.rpy:1359
 translate french homeday4night_8aee846a:
@@ -5016,7 +5016,7 @@ translate french homeday4night_42a34ab2:
 translate french homeday4night_7feca2c9:
 
     # m "So what did [heshe] do this time?"
-    m "Alors, qu'a fait [heshe] cette fois-ci ?"
+    m "Alors, qu'a fait [heshe!t] cette fois-ci ?"
 
 # game/events_mc.rpy:1363
 translate french homeday4night_3c2af74d:
@@ -5028,19 +5028,19 @@ translate french homeday4night_3c2af74d:
 translate french homeday4night_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_mc.rpy:1365
 translate french homeday4night_99f84bee:
 
     # m "I'm sorry, [oc]... [heshe]'s just..."
-    m "Je suis désolé, [oc]... [heshe] est juste..."
+    m "Je suis désolé, [oc]... [heshe!t] est juste..."
 
 # game/events_mc.rpy:1366
 translate french homeday4night_149911e6:
 
     # m "I just can't stand [himher] any longer..."
-    m "Je ne supporte plus [himher] ..."
+    m "Je ne supporte plus [himher!t] ..."
 
 # game/events_mc.rpy:1375
 translate french d5morning_03946767:
@@ -5052,7 +5052,7 @@ translate french d5morning_03946767:
 translate french d5morning_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1377
 translate french d5morning_ebe882ba:
@@ -5100,13 +5100,13 @@ translate french d5morning_6ddfdaa0:
 translate french d5morning_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:1388
 translate french d5morning_9f541c54:
 
-    # pcthink "e "didn't come over..."
-    pcthink "e "n'est pas venu..."
+    # pcthink "[e] didn't come over..."
+    pcthink "[e] n'est pas venu..."
 
 # game/events_mc.rpy:1389
 translate french d5morning_c1686997:
@@ -5124,19 +5124,19 @@ translate french d5morning_453b4052:
 translate french d5morning_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1394
 translate french d5morning_e4a69cb1:
 
-    # pcthink "e "didn't look at me once yet..."
-    pcthink "e "ne m'a pas encore regardé une seule fois..."
+    # pcthink "[e] didn't look at me once yet..."
+    pcthink "[e] ne m'a pas encore regardé une seule fois..."
 
 # game/events_mc.rpy:1395
 translate french d5morning_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_mc.rpy:1396
 translate french d5morning_367e6ba5:
@@ -5208,7 +5208,7 @@ translate french d5morning_58feae78:
 translate french d5morning_72a33094_1:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_mc.rpy:1421
 translate french d5morning_4cd516c4:
@@ -5238,7 +5238,7 @@ translate french d5morning_20ad7ae7:
 translate french d5morning_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_mc.rpy:1429
 translate french d5morning_4f0f31e7:
@@ -5346,7 +5346,7 @@ translate french porn_vr_4_a14752ab:
 translate french porn_vr_4_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1471
 translate french porn_vr_4_4bcfd45d:
@@ -5388,19 +5388,19 @@ translate french d6morning_180d7c36:
 translate french d6morning_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1488
 translate french d6morning_ca66ede7:
 
-    # pcthink "e "is gone again..."
-    pcthink "e "a encore disparu..."
+    # pcthink "[e] is gone again..."
+    pcthink "[e] a encore disparu..."
 
 # game/events_mc.rpy:1490
 translate french d6morning_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1492
 translate french d6morning_2edac4fd:
@@ -5424,7 +5424,7 @@ translate french d6morning_71a5f304:
 translate french d6morning_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1496
 translate french d6morning_4cc63f49:
@@ -5532,7 +5532,7 @@ translate french d6morning_19b50a19:
 translate french d6morning_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1529
 translate french d6morning_227eb657:
@@ -5724,7 +5724,7 @@ translate french d6_backhome_2624f60c:
 translate french d6_backhome_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1594
 translate french d7_wakeup_8bf6dc88:
@@ -5988,7 +5988,7 @@ translate french d7_wakeup_10b9afd3:
 translate french d7_wakeup_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1669
 translate french d7_wakeup_7e3552b4:
@@ -6024,7 +6024,7 @@ translate french d7_wakeup_58714e34:
 translate french d7_wakeup_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    j "..."
 
 # game/events_mc.rpy:1675
 translate french d7_wakeup_2637c315:
@@ -6060,7 +6060,7 @@ translate french d7_wakeup_7fe431b0:
 translate french d7_wakeup_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1689
 translate french d7_wakeup_fdacea98:
@@ -6072,7 +6072,7 @@ translate french d7_wakeup_fdacea98:
 translate french d7_wakeup_b4fa3fc0_1:
 
     # j "..."
-    new "[j]..."
+    j "..."
 
 # game/events_mc.rpy:1694
 translate french d7_wakeup_f78b1475:
@@ -6174,19 +6174,19 @@ translate french d7_breakfast_d8728d98:
 translate french d7_breakfast_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1727
 translate french d7_breakfast_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_mc.rpy:1728
 translate french d7_breakfast_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    j "..."
 
 # game/events_mc.rpy:1730
 translate french d7_breakfast_7b551003:
@@ -6210,7 +6210,7 @@ translate french d7_breakfast_52d0cc61:
 translate french d7_breakfast_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1734
 translate french d7_breakfast_bb8fff34:
@@ -6288,7 +6288,7 @@ translate french d7_breakfast_9f9cc93e:
 translate french d7_breakfast_e612037c_1:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_mc.rpy:1762
 translate french d7_breakfast_294a0cae:
@@ -6318,7 +6318,7 @@ translate french d7_breakfast_176cf8c8:
 translate french d7_breakfast_e612037c_2:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_mc.rpy:1770
 translate french d7_breakfast_941a283f:
@@ -6342,7 +6342,7 @@ translate french d7_breakfast_c648d533:
 translate french d7_breakfast_c946a8f3:
 
     # j "[e] can have her big [bs] all for herself again, or maybe even..."
-    j "[e] peut à nouveau avoir son grand [bs] pour elle toute seule, ou peut-être même..."
+    j "[e] peut à nouveau avoir son grand [bs!t] pour elle toute seule, ou peut-être même..."
 
 # game/events_mc.rpy:1777
 translate french d7_breakfast_04348ff1:
@@ -6384,7 +6384,7 @@ translate french d7_breakfast_cf0b512e:
 translate french d7_breakfast_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:1787
 translate french d7_breakfast_324d7900:
@@ -6402,7 +6402,7 @@ translate french d7_breakfast_5f3edcc8:
 translate french d7_breakfast_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1792
 translate french d7_breakfast_b9b155fe:
@@ -6444,7 +6444,7 @@ translate french d7_breakfast_01f6d6fa:
 translate french d7_breakfast_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1799
 translate french d7_breakfast_dadf699b:
@@ -6468,7 +6468,7 @@ translate french d7_evening_3e9379b4:
 translate french d7_evening_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1808
 translate french d7_evening_6ea063df:
@@ -6504,7 +6504,7 @@ translate french d7_home_02970987:
 translate french d7_home_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1846
 translate french d7_home_b9b155fe:
@@ -6606,7 +6606,7 @@ translate french d8_morning_19392efe:
 translate french d8_morning_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1937
 translate french d8_morning_f2c88496:
@@ -6617,14 +6617,14 @@ translate french d8_morning_f2c88496:
 # game/events_mc.rpy:1938
 translate french d8_morning_6cafa954:
 
-    # pcthink "m "really changed, but I'm sure she's still hiding something from me."
-    pcthink "m "vraiment changé, mais je suis sûr qu'elle me cache encore quelque chose."
+    # pcthink [m] really changed, but I'm sure she's still hiding something from me."
+    pcthink "[m] vraiment changé, mais je suis sûr qu'elle me cache encore quelque chose."
 
 # game/events_mc.rpy:1939
 translate french d8_morning_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:1940
 translate french d8_morning_0eb791b9:
@@ -6780,7 +6780,7 @@ translate french d8_eveningWJada_072dc244:
 translate french d8_eveningWJada_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_mc.rpy:1991
 translate french d8_eveningWJada_a7ecf1ab:
@@ -6966,7 +6966,7 @@ translate french d8_eveningWJada_8bf6dc88:
 translate french d8_eveningWJada_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:2040
 translate french d8_eveningWJada_20b8f121:
@@ -7248,7 +7248,7 @@ translate french d8_eveningWJada_305b9374:
 translate french d8_eveningWJada_cfbbd79b:
 
     # j "{size=-10}...really like [himher]!{/size}"
-    j "{size=-10}...aime vraiment [himher]!{/size}"
+    j "{size=-10}...aime vraiment [himher!t]!{/size}"
 
 # game/events_mc.rpy:2124
 translate french d8_eveningWJada_75fc793d:
@@ -7476,7 +7476,7 @@ translate french d9_breakfast_fcf41317:
 translate french d9_breakfast_472b2611:
 
     # m "[j] you know that I'm not [hisher] mom."
-    m "[j] tu sais que je ne suis pas [hisher] maman."
+    m "[j] tu sais que je ne suis pas [hisher!t] maman."
 
 # game/events_mc.rpy:2192
 translate french d9_breakfast_3fa6b1c9:
@@ -7518,7 +7518,7 @@ translate french d9_breakfast_803c4437:
 translate french d9_breakfast_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:2205
 translate french d9_breakfast_c8768c83:
@@ -7530,7 +7530,7 @@ translate french d9_breakfast_c8768c83:
 translate french d9_breakfast_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_mc.rpy:2209
 translate french d9_breakfast_86d648c6:
@@ -7608,7 +7608,7 @@ translate french d9_breakfast_7f827474:
 translate french d9_breakfast_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:2233
 translate french d9_breakfast_b9b155fe:
@@ -7752,7 +7752,7 @@ translate french d9_breakfast_b9b155fe_5:
 translate french d9_breakfast_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:2278
 translate french d9_breakfast_af934448:
@@ -7788,7 +7788,7 @@ translate french d9_breakfast_38710895:
 translate french d9_breakfast_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:2284
 translate french d9_breakfast_b9b155fe_6:
@@ -7860,7 +7860,7 @@ translate french d9_breakfast_0e17cfdd:
 translate french d9_breakfast_2384fd4b:
 
     # st "..."
-    new "[st]..."
+    st "..."
 
 # game/events_mc.rpy:2296
 translate french d9_breakfast_203650b4:
@@ -7872,7 +7872,7 @@ translate french d9_breakfast_203650b4:
 translate french d9_breakfast_2384fd4b_1:
 
     # st "..."
-    new "[st]..."
+    st "..."
 
 # game/events_mc.rpy:2298
 translate french d9_breakfast_bcbd1c8f:
@@ -8580,7 +8580,7 @@ translate french d9dream_e24b33bd:
 translate french d9dream_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:2469
 translate french d9dream_da7061f8:
@@ -8622,7 +8622,7 @@ translate french d9dream_85c0867b:
 translate french d9dream_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:2476
 translate french d9dream_785d229f:
@@ -8748,7 +8748,7 @@ translate french d10wakeup_1c3a6ac3:
 translate french d10wakeup_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:2502
 translate french d10wakeup_015a74bc:
@@ -8766,7 +8766,7 @@ translate french d10wakeup_8fd5c2f4:
 translate french d10wakeup_f0cac90d_1:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:2505
 translate french d10wakeup_853f810c:
@@ -8879,8 +8879,8 @@ translate french d10johnson_32b17776:
 # game/events_mc.rpy:2543
 translate french d10johnson_9f733bc4:
 
-    # oc "m "called me after he was gone."
-    oc "m "m'a appelé après qu'il soit parti."
+    # oc "[m] called me after he was gone."
+    oc "[m] m'a appelé après qu'il soit parti."
 
 # game/events_mc.rpy:2545
 translate french d10johnson_a731af6d:
@@ -9054,7 +9054,7 @@ translate french d10johnson_36bb3adf:
 translate french d10johnson_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:2602
 translate french d10johnson_f57abf22:
@@ -9168,19 +9168,19 @@ translate french d10johnson_365476fa:
 translate french d10johnson_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    j "..."
 
 # game/events_mc.rpy:2636
 translate french d10johnson_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/events_mc.rpy:2638
 translate french d10johnson_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_mc.rpy:2639
 translate french d10johnson_a7c89ecd:
@@ -9270,7 +9270,7 @@ translate french d10johnson_f11f8b6b:
 translate french d10johnson_72a33094_1:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_mc.rpy:2666
 translate french d10johnson_a9ffb6ca:
@@ -9402,7 +9402,7 @@ translate french d10nightsex_3af9c0d7:
 translate french d10nightsex_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_mc.rpy:2714
 translate french d10nightsex_b74916c3:
@@ -9708,7 +9708,7 @@ translate french md10nle_6ac5ba71:
 translate french d10nlj_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    j "..."
 
 # game/events_mc.rpy:2853
 translate french d10nlj_6db3b035:
@@ -9792,7 +9792,7 @@ translate french d10nfe_57867369:
 translate french d10nfe_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    j "..."
 
 # game/events_mc.rpy:2890
 translate french d10nfe_fee914df:
@@ -9846,7 +9846,7 @@ translate french d10nfe_c2622bd7:
 translate french d10nfe_72a33094:
 
     # e "..."
-    new "[e]..."
+    e "..."
 
 # game/events_mc.rpy:2918
 translate french d10nfe_4d63df1b:
@@ -10140,7 +10140,7 @@ translate french d10nend_9455801f:
 translate french d10nend_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    j "..."
 
 # game/events_mc.rpy:3028
 translate french d10nend_19e9c6c1:
@@ -10650,7 +10650,7 @@ translate french d11wakeup_19c1e4e2:
 translate french d11wakeup_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/events_mc.rpy:3195
 translate french d11wakeup_cb5a7a19:
@@ -10692,7 +10692,7 @@ translate french d11bhpcroom_d6d25b7b:
 translate french d11bhpcroom_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:3210
 translate french d11bhpcroom_a2266564:
@@ -10716,7 +10716,7 @@ translate french d11bhpcroom_35ad042e:
 translate french d11bhpcroom_f0cac90d_1:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/events_mc.rpy:3215
 translate french d11bhpcroom_40a6633b:
