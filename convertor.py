@@ -16,8 +16,6 @@ dict = {
 \"""",
     """""": """\"\n\"""",
     """""": """\"\n\"""",
-    """    old \"""": """msgid \"[mschoice] """,
-    """    new \"""": """msgstr \"[mschoice] """,
 
     # search_text : replace_text
     """
@@ -80,7 +78,8 @@ msgid \"""",
     """HH:HH\n\n# XXtranslate""": """HH:HH# XXtranslate""",
     # potorpy only
     """msgstr \"[""": """msgstr \"\"[""",
-    """msgstr \"\"""": """msgstr \"""",
+    """    old \"""": """msgid \"[mschoice] """,
+    """    new \"""": """msgstr \"[mschoice] """,
     """""": """msgstr \"\"""",
     """#p---""": """msgid_plural""",
     """#---""": """msgstr[1]""",
