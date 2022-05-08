@@ -54,7 +54,7 @@ translate french intro_02f782dd:
 translate french intro_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/intro.rpy:16
 translate french intro_0160ca12:
@@ -276,7 +276,7 @@ translate french intro_e617caae:
 translate french intro_19e002f0:
 
     # pc "Fine... Here is my ID... and don't call me [boygirl]..."
-    pc "Bien... Voici ma carte... et ne m'appelez pas [boygirl]..."
+    pc "Bien... Voici ma carte... et ne m'appelez pas [boygirl!t]..."
 
 # game/intro.rpy:67
 translate french intro_d5ceade4:
@@ -372,7 +372,7 @@ translate french intro_88960d3f:
 translate french intro_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro.rpy:120
 translate french intro_0af51236:
@@ -407,10 +407,10 @@ translate french intro_b8e7ae91:
 translate french strings:
 
     # game/intro.rpy:85
-    old "[mschoice] Choose your first name."
-    new "[mschoice] Choisissez votre prénom."
+    old "Choose your first name."
+    new "Choisissez votre prénom."
 
     # game/intro.rpy:86
-    old "[mschoice] Choose your last name."
-    new "[mschoice] Choisissez votre nom de famille."
+    old "Choose your last name."
+    new "Choisissez votre nom de famille."
 

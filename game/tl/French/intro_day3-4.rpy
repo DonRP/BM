@@ -150,7 +150,7 @@ translate french intro_day3_af9ff73e:
 translate french intro_day3_6d74e256:
 
     # pcthink "Sounds like someone is having fun..."
-    pcthink "On dirait que quelqu'un s'amuse..."
+    pcthink "On dirait que quelqu'un baise..."
 
 # game/intro_day3-4.rpy:39
 translate french intro_day3_9fe8ca06:
@@ -174,7 +174,7 @@ translate french intro_day3_be5544eb_9:
 translate french intro_day3_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:44
 translate french intro_day3_d40b86d0:
@@ -204,7 +204,7 @@ translate french intro_day3_bb39f960_2:
 translate french intro_day3_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:53
 translate french intro_day3_bb39f960_3:
@@ -312,7 +312,7 @@ translate french intro_day3_c3bf98ed:
 translate french intro_day3_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:80
 translate french intro_day3_664a2e64:
@@ -384,7 +384,7 @@ translate french intro_day3_cc3e3444:
 translate french intro_day3_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:96
 translate french intro_day3_7e6d6fdd:
@@ -396,7 +396,7 @@ translate french intro_day3_7e6d6fdd:
 translate french intro_day3_a69377ef_4:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:98
 translate french intro_day3_a9db3efa:
@@ -414,7 +414,7 @@ translate french intro_day3_f391d1ab:
 translate french intro_day3_4fb2e850:
 
     # pc "I'm good."
-    pc "Je vais bien."
+    pc "J'en ai un, merci ça va."
 
 # game/intro_day3-4.rpy:104
 translate french intro_day3_dbcc0492:
@@ -426,7 +426,7 @@ translate french intro_day3_dbcc0492:
 translate french intro_day3_a69377ef_5:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:106
 translate french intro_day3_a08e5c45:
@@ -498,7 +498,7 @@ translate french intro_day3_dbcc0492_1:
 translate french intro_day3_a69377ef_6:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:122
 translate french intro_day3_a08e5c45_1:
@@ -552,7 +552,7 @@ translate french intro_day3_7581118d:
 translate french intro_day3_a69377ef_7:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:131
 translate french intro_day3_975a8e7f:
@@ -672,7 +672,7 @@ translate french intro_day3_90700f5d:
 translate french intro_day3_a69377ef_8:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:156
 translate french intro_day3_70b96ab6:
@@ -846,7 +846,7 @@ translate french intro_day3_54afc299:
 translate french intro_day3_a69377ef_9:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:208
 translate french intro_day3_b51a46fe:
@@ -894,7 +894,7 @@ translate french intro_day3_abf5a9d8:
 translate french intro_day3_a69377ef_10:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:217
 translate french intro_day3_53451717:
@@ -918,7 +918,7 @@ translate french intro_day3_51da6f48:
 translate french intro_day3_a69377ef_11:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:222
 translate french intro_day3_2478678e:
@@ -978,7 +978,7 @@ translate french intro_day3_feda8df7:
 translate french intro_day3_a69377ef_12:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:235
 translate french intro_day3_4a66bb26:
@@ -1020,7 +1020,7 @@ translate french intro_day3_e532763c:
 translate french intro_day3_a69377ef_13:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:243
 translate french intro_day3_0744fc33:
@@ -1050,13 +1050,13 @@ translate french intro_day3_e67c7e26:
 translate french intro_day3_a69377ef_14:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:251
 translate french intro_day3_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/intro_day3-4.rpy:252
 translate french intro_day3_3430c4a8:
@@ -1098,7 +1098,7 @@ translate french intro_day3_f19334c7:
 translate french intro_day3_e612037c_1:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/intro_day3-4.rpy:261
 translate french intro_day3_252f3573:
@@ -1200,7 +1200,7 @@ translate french intro_day3_55692374:
 translate french intro_day3_a69377ef_15:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day3-4.rpy:284
 translate french intro_day3_77dc25eb:

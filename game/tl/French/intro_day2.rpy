@@ -24,7 +24,7 @@ translate french intro_day2_d8b6e64b:
 translate french intro_day2_bb2cf764:
 
     # n "..."
-    new "[n]..."
+    n "..."
 
 # game/intro_day2.rpy:9
 translate french intro_day2_0de96e02:
@@ -210,7 +210,7 @@ translate french intro_day2_7e758acb:
 translate french intro_day2_bb2cf764_1:
 
     # n "..."
-    new "[n]..."
+    n "..."
 
 # game/intro_day2.rpy:46
 translate french intro_day2_c5c91f0a:
@@ -258,7 +258,7 @@ translate french intro_day2_63910f04:
 translate french intro_day2_bb2cf764_2:
 
     # n "..."
-    new "[n]..."
+    n "..."
 
 # game/intro_day2.rpy:58
 translate french intro_day2_43f05788:
@@ -276,7 +276,7 @@ translate french intro_day2_52870257:
 translate french intro_day2_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/intro_day2.rpy:62
 translate french intro_day2_c0a80341:
@@ -294,7 +294,7 @@ translate french intro_day2_45a95b9b:
 translate french intro_day2_f0cac90d_1:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/intro_day2.rpy:65
 translate french intro_day2_c6797f2e:
@@ -306,19 +306,19 @@ translate french intro_day2_c6797f2e:
 translate french intro_day2_dacdf372:
 
     # pcthink ".."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/intro_day2.rpy:67
 translate french intro_day2_f0cac90d_2:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/intro_day2.rpy:68
 translate french intro_day2_186bc44b:
 
     # pcthink "...."
-    new "[pcthink]...."
+    pcthink "...."
 
 # game/intro_day2.rpy:69
 translate french intro_day2_822db1c4:
@@ -330,19 +330,19 @@ translate french intro_day2_822db1c4:
 translate french intro_day2_dacdf372_1:
 
     # pcthink ".."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/intro_day2.rpy:71
 translate french intro_day2_f0cac90d_3:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/intro_day2.rpy:72
 translate french intro_day2_186bc44b_1:
 
     # pcthink "...."
-    new "[pcthink]...."
+    pcthink "...."
 
 # game/intro_day2.rpy:73
 translate french intro_day2_fb34457e:
@@ -414,13 +414,13 @@ translate french intro_day2_4cbe1206:
 translate french intro_day2_bb2cf764_3:
 
     # n "..."
-    new "[n]..."
+    n "..."
 
 # game/intro_day2.rpy:99
 translate french intro_day2_71c74e35:
 
     # m "[pc], are you there?"
-    m "[pc], vous êtes là?"
+    m "[pc], tu es là?"
 
 # game/intro_day2.rpy:100
 translate french intro_day2_8cbf4994:
@@ -432,13 +432,13 @@ translate french intro_day2_8cbf4994:
 translate french intro_day2_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/intro_day2.rpy:103
 translate french intro_day2_45e9ae7e:
 
-    # m "pc "I'm sorry for yesterday, I shouldn't have left so suddenly, but I..."
-    m "pc "Je suis désolée pour hier, je n'aurais pas dû partir si soudainement, mais je..."
+    # m "[pc] I'm sorry for yesterday, I shouldn't have left so suddenly, but I..."
+    m "[pc] Je suis désolée pour hier, je n'aurais pas dû partir si soudainement, mais je..."
 
 # game/intro_day2.rpy:105
 translate french intro_day2_8a231ed3:
@@ -486,7 +486,7 @@ translate french intro_day2_86b4f652:
 translate french intro_day2_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day2.rpy:113
 translate french intro_day2_528e81c9:
@@ -504,7 +504,7 @@ translate french intro_day2_5a6ad07b:
 translate french intro_day2_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day2.rpy:118
 translate french intro_day2_902b6f3a:
@@ -516,13 +516,13 @@ translate french intro_day2_902b6f3a:
 translate french intro_day2_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day2.rpy:120
 translate french intro_day2_e612037c_1:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/intro_day2.rpy:121
 translate french intro_day2_2dc7c0e3:
@@ -588,7 +588,7 @@ translate french intro_day2_fe44516e:
 translate french intro_day2_e612037c_2:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/intro_day2.rpy:132
 translate french intro_day2_eaef44ed:
@@ -678,7 +678,7 @@ translate french intro_day2_2b92fa12:
 translate french intro_day2_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day2.rpy:148
 translate french intro_day2_bb018fd9:
@@ -690,7 +690,7 @@ translate french intro_day2_bb018fd9:
 translate french intro_day2_e612037c_3:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/intro_day2.rpy:150
 translate french intro_day2_3375fd05:
@@ -732,7 +732,7 @@ translate french intro_day2_cd37c9a7:
 translate french intro_day2_a69377ef_4:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day2.rpy:159
 translate french intro_day2_f12901fd:
@@ -942,7 +942,7 @@ translate french intro_day2_2_feab064c:
 translate french intro_day2_2_fee0cc03:
 
     # r "I'm sorry..."
-    r "Je suis désolé..."
+    r "Je suis désolée..."
 
 # game/intro_day2.rpy:204
 translate french intro_day2_2_391b8c26:
@@ -978,7 +978,7 @@ translate french intro_day2_2_cdb206c5:
 translate french intro_day2_2_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/intro_day2.rpy:212
 translate french intro_day2_2_1560fd1d:
@@ -1007,10 +1007,10 @@ translate french intro_day2_2_8b8ab9fe:
 translate french strings:
 
     # game/intro_day2.rpy:88
-    old "[mschoice] No way, and tell her to never call again!"
-    new "[mschoice] Pas question, et dites-lui de ne plus jamais appeler!"
+    old "No way, and tell her to never call again!"
+    new "Pas question, et dites-lui de ne plus jamais appeler!"
 
     # game/intro_day2.rpy:88
-    old "[mschoice] ...yeah."
-    new "[mschoice] ...ouais."
+    old "...yeah."
+    new "...ouais."
 

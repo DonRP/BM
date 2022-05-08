@@ -162,7 +162,7 @@ translate french intro_day1_77c1565b:
 translate french intro_day1_adf9cc71:
 
     # Maggy" "Don't celebrate just yet. I can't promise anything. I'll try my best, but you should also have a look around for yourself [mrms] [pcsure]."
-    "Ne vous réjouissez pas tout de suite. Je ne peux rien vous promettre. Je ferai de mon mieux, mais vous devrez aussi jeter un coup d'œil par vous-même [mrms] [pcsure]."
+    "Ne vous réjouissez pas tout de suite. Je ne peux rien vous promettre. Je ferai de mon mieux, mais vous devrez aussi jeter un coup d'œil par vous-même [mrms!t] [pcsure!t]."
 
 # game/intro_day1.rpy:32
 translate french intro_day1_7232f241:
@@ -402,7 +402,7 @@ translate french intro_day1_ec6c00f8:
 translate french intro_day1_f0cac90d:
 
     # pcthink "..."
-    new "[pcthink]..."
+    pcthink "..."
 
 # game/intro_day1.rpy:95
 translate french intro_day1_f8b5811f:
@@ -510,7 +510,7 @@ translate french intro_day1_715efcc0:
 translate french intro_day1_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day1.rpy:120
 translate french intro_day1_752a743c:
@@ -588,13 +588,13 @@ translate french intro_day1_c3ba3aba:
 translate french intro_day1_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day1.rpy:134
 translate french intro_day1_e612037c:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/intro_day1.rpy:136
 translate french intro_day1_5aeed744:
@@ -690,13 +690,13 @@ translate french intro_day1_ee854e73:
 translate french intro_day1_e612037c_1:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/intro_day1.rpy:156
 translate french intro_day1_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day1.rpy:158
 translate french intro_day1_e0bec7d8:
@@ -828,7 +828,7 @@ translate french intro_day1_3a9da8e8:
 translate french intro_day1_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day1.rpy:198
 translate french intro_day1_1cba0a9b:
@@ -852,13 +852,13 @@ translate french intro_day1_979b4245:
 translate french intro_day1_e612037c_2:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/intro_day1.rpy:205
 translate french intro_day1_1dc31bd7:
 
-    # m "pc "I..."
-    m "pc "Je..."
+    # m "[pc] I..."
+    m "[pc] Je..."
 
 # game/intro_day1.rpy:207
 translate french intro_day1_859c53a1:
@@ -912,13 +912,13 @@ translate french intro_day1_432a5d6a:
 translate french intro_day1_e612037c_3:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/intro_day1.rpy:221
 translate french intro_day1_a69377ef_4:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day1.rpy:223
 translate french intro_day1_42a7fbc0:
@@ -930,7 +930,7 @@ translate french intro_day1_42a7fbc0:
 translate french intro_day1_a69377ef_5:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day1.rpy:225
 translate french intro_day1_60b61954:
@@ -966,7 +966,7 @@ translate french intro_day1_bebb5211:
 translate french intro_day1_2d69d5e9:
 
     # m "I hated you because you were his [ds]... and... that was wrong."
-    m "Je te détestais parce que tu étais son [ds]... et... c'était mal."
+    m "Je te détestais parce que tu étais [hisher!t] [ds!t]... et... c'était mal."
 
 # game/intro_day1.rpy:235
 translate french intro_day1_8e89036a:
@@ -978,13 +978,13 @@ translate french intro_day1_8e89036a:
 translate french intro_day1_a69377ef_6:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day1.rpy:237
 translate french intro_day1_e612037c_4:
 
     # m "..."
-    new "[m]..."
+    m "..."
 
 # game/intro_day1.rpy:238
 translate french intro_day1_cbd6000b:
@@ -1014,7 +1014,7 @@ translate french intro_day1_48d33e95:
 translate french intro_day1_a69377ef_7:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day1.rpy:245
 translate french intro_day1_709a16f1:
@@ -1044,7 +1044,7 @@ translate french intro_day1_93b96f13:
 translate french intro_day1_a69377ef_8:
 
     # pc "..."
-    new "[pc]..."
+    pc "..."
 
 # game/intro_day1.rpy:253
 translate french intro_day1_2bb5dc6d:
@@ -1091,10 +1091,10 @@ translate french intro_day1_2_e52e13f1:
 translate french strings:
 
     # game/intro_day1.rpy:167
-    old "[mschoice] Go with her."
-    new "[mschoice] Aller avec elle."
+    old "Go with her."
+    new "Aller avec elle."
 
     # game/intro_day1.rpy:167
-    old "[mschoice] Just leave."
-    new "[mschoice] Partir."
+    old "Just leave."
+    new "Partir."
 
