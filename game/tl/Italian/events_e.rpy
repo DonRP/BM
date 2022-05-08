@@ -1368,7 +1368,7 @@ translate italian eKitten_3a7ffe30:
 translate italian eKitten_a490b195:
 
     # Voice" "{size=-10}Nya!{/size}"
-    "Voce <unk> <unk> {size=-10}Nya!{/size}"
+    "Voce" "{size=-10}Nya!{/size}"
 
 # game/events_e.rpy:444
 translate italian eKitten_9525ded8:

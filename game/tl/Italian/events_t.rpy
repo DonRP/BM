@@ -30,7 +30,7 @@ translate italian tIntroductionDay1_39855995:
 translate italian tIntroductionDay1_49c00c69:
 
     # Voice" "{size=-10}Good afternoon [e]. How are you today? Did you do everything I told you?{/size}"
-    "Voce <unk> <unk> {size=-10}Buon pomeriggio [e]. Come sei oggi? Hai fatto tutto quello che ti ho detto?{/size}"
+    "Voce" "{size=-10}Buon pomeriggio [e]. Come sei oggi? Hai fatto tutto quello che ti ho detto?{/size}"
 
 # game/events_t.rpy:14
 translate italian tIntroductionDay1_78c37348:
@@ -48,7 +48,7 @@ translate italian tIntroductionDay1_7684f445:
 translate italian tIntroductionDay1_6195cba0:
 
     # Woman" "You must be [pc], I guess?"
-    "Donna <unk> <unk> Devi essere [pc], Immagino?"
+    "Donna" "Devi essere [pc], Immagino?"
 
 # game/events_t.rpy:19
 translate italian tIntroductionDay1_c19d9253:
@@ -60,7 +60,7 @@ translate italian tIntroductionDay1_c19d9253:
 translate italian tIntroductionDay1_e98c5f0a:
 
     # Woman" "Oh? No one told you about me?"
-    "Donna <unk> <unk> Oh? Nessuno ti ha detto di me?"
+    "Donna" "Oh? Nessuno ti ha detto di me?"
 
 # game/events_t.rpy:22
 translate italian tIntroductionDay1_daa5d770:
@@ -72,7 +72,7 @@ translate italian tIntroductionDay1_daa5d770:
 translate italian tIntroductionDay1_2c1d6a1f:
 
     # Woman" "I'm [e]'s therapist."
-    "Donna <unk> <unk> Sono il terapeuta di [e]."
+    "Donna" "Sono il terapeuta di [e]."
 
 # game/events_t.rpy:26
 translate italian tIntroductionDay1_eb2004dd:
@@ -2652,13 +2652,13 @@ translate italian d7_city_99590f90:
 translate italian d7_city_12de2011:
 
     # Girl" "Hey uncle, can you help me?"
-    "Ragazza <unk> Hey zio, puoi aiutarmi?"
+    "Ragazza" "Hey zio, puoi aiutarmi?"
 
 # game/events_t.rpy:833
 translate italian d7_city_829e4c46:
 
     # Girl" "Hey auntie, can you help me?"
-    "Ragazza <unk> Hey auntie, potete aiutarmi?"
+    "Ragazza" "Hey auntie, potete aiutarmi?"
 
 # game/events_t.rpy:834
 translate italian d7_city_b9a6cf60:
@@ -2676,7 +2676,7 @@ translate italian d7_city_eb36d218:
 translate italian d7_city_a5cd53d2:
 
     # Girl" "Over here!"
-    "Ragazza <unk> <unk> Sopra qui!"
+    "Ragazza" "Sopra qui!"
 
 # game/events_t.rpy:838
 translate italian d7_city_0aa6f3b9:
@@ -2712,7 +2712,7 @@ translate italian d7_city_02b4b74a:
 translate italian d7_city_089f38ce:
 
     # Girl" "Whoa, Katie! That was awesome!!"
-    "Ragazza <unk> <unk> Whoa, Katie! È stato fantastico!!"
+    "Ragazza" "Whoa, Katie! È stato fantastico!!"
 
 # game/events_t.rpy:851
 translate italian d7_city_86065e86:
@@ -2724,7 +2724,7 @@ translate italian d7_city_86065e86:
 translate italian d7_city_477faa76:
 
     # Girl" "Shorryyy Katie!"
-    "Ragazza <unk> <unk> Shorryyy Katie!"
+    "Ragazza" "Shorryyy Katie!"
 
 # game/events_t.rpy:854
 translate italian d7_city_1d57676d:
@@ -3282,7 +3282,7 @@ translate italian d7_city_6807f573:
 translate italian d7_city_e5339b17:
 
     # Girl" "WOOHOOO!"
-    "Ragazza <unk> WOOHOOO!"
+    "Ragazza" "WOOHOOO!"
 
 # game/events_t.rpy:1005
 translate italian d7_city_152da006:
@@ -3342,7 +3342,7 @@ translate italian d7_city_e5531711:
 translate italian d7_city_d47c4177:
 
     # Girl" "WOOOO!"
-    "Ragazza <unk> <unk> WOOOO!"
+    "Ragazza" "WOOOO!"
 
 # game/events_t.rpy:1019
 translate italian d7_city_88e56bff:
@@ -3384,7 +3384,7 @@ translate italian d7_city_1bb01731_4:
 translate italian d7_city_63e0631c:
 
     # Girl" "Katieeeee! Can you push me?!"
-    "Ragazza <unk> <unk> Katieeeee! Riesci a spingermi?!"
+    "Ragazza" "Katieeeee! Riesci a spingermi?!"
 
 # game/events_t.rpy:1031
 translate italian d7_city_1bb01731_5:
@@ -3534,7 +3534,7 @@ translate italian d7_city_c13c9007:
 translate italian d7_city_e5339b17_1:
 
     # Girl" "WOOHOOO!"
-    "Ragazza <unk> WOOHOOO!"
+    "Ragazza" "WOOHOOO!"
 
 # game/events_t.rpy:1067
 translate italian d7_city_a69377ef_2:
@@ -4806,7 +4806,7 @@ translate italian d10takekathome_472e2902:
 translate italian d10takekathome_aca552e2:
 
     # Guy" "[t], I was waiting for you."
-    "Guy <unk> <unk> [t], Io ti aspettavo."
+    "Guy" "[t], Io ti aspettavo."
 
 # game/events_t.rpy:1455
 translate italian d10takekathome_7c95b21a:
@@ -4818,7 +4818,7 @@ translate italian d10takekathome_7c95b21a:
 translate italian d10takekathome_3e0b47aa:
 
     # Guy" "But I wanted to apologize."
-    "Ragazzo <unk> <unk> Ma volevo scusarmi."
+    "Ragazzo" "Ma volevo scusarmi."
 
 # game/events_t.rpy:1459
 translate italian d10takekathome_40d05d5e:
@@ -4836,13 +4836,13 @@ translate italian d10takekathome_e57d7f7a:
 translate italian d10takekathome_bc41d869:
 
     # Guy" "Who's that?"
-    "Guy <unk> Chi è quello?"
+    "Guy" "Chi è quello?"
 
 # game/events_t.rpy:1465
 translate italian d10takekathome_6175cd27:
 
     # Guy" "Don't tell me he's..."
-    "Ragazzo <unk> <unk> Non mi dica di lui..."
+    "Ragazzo" "Non mi dica di lui..."
 
 # game/events_t.rpy:1467
 translate italian d10takekathome_17cda043:
@@ -4878,13 +4878,13 @@ translate italian d10takekathome_f3e7ce9d:
 translate italian d10takekathome_5319d021:
 
     # Guy" "W-What?"
-    "Ragazzo <unk> <unk> W-Cosa?"
+    "Ragazzo" "W-Cosa?"
 
 # game/events_t.rpy:1479
 translate italian d10takekathome_fd342644:
 
     # Guy" "A-Are you lesbian now?!"
-    "Ragazzo <unk> <unk> A-Sei lesbica ora?!"
+    "Ragazzo" "A-Sei lesbica ora?!"
 
 # game/events_t.rpy:1480
 translate italian d10takekathome_0c8e7f39:
@@ -4896,13 +4896,13 @@ translate italian d10takekathome_0c8e7f39:
 translate italian d10takekathome_d7533d38:
 
     # Guy" "B-But... but..."
-    "Ragazzo <unk> <unk> B-ma... ma..."
+    "Ragazzo" "B-ma... ma..."
 
 # game/events_t.rpy:1483
 translate italian d10takekathome_5416477b:
 
     # Guy" "T-That's NTR!!!"
-    "Ragazzo <unk> T-That's NTR!!!"
+    "Ragazzo" "T-That's NTR!!!"
 
 # game/events_t.rpy:1485
 translate italian d10takekathome_ae99a11e:

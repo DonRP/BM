@@ -1104,7 +1104,7 @@ translate italian getEfromSchool1_f8e84e65:
 translate italian getEfromSchool1_9a3323ff:
 
     # Voice" "Hey! Stop right there!"
-    "Voce <unk> <unk> Hey! Fermatevi proprio lì!"
+    "Voce" "Hey! Fermatevi proprio lì!"
 
 # game/events_mc.rpy:318
 translate italian getEfromSchool1_32ead6f8:
@@ -1122,7 +1122,7 @@ translate italian getEfromSchool1_efbb62e5:
 translate italian getEfromSchool1_f21e3a4e:
 
     # Cop" "Hey... *pant* ...I said... *pant* ... stop right there!"
-    "Cop <unk> <unk> Hey... *pant* ...Ho detto... *pant* ... fermatevi proprio lì!"
+    "Cop" "Hey... *pant* ...Ho detto... *pant* ... fermatevi proprio lì!"
 
 # game/events_mc.rpy:324
 translate italian getEfromSchool1_5a35ce3d:
@@ -1134,7 +1134,7 @@ translate italian getEfromSchool1_5a35ce3d:
 translate italian getEfromSchool1_c7dd96ed:
 
     # Cop" "You... *pant* ... shit..."
-    "Cop <unk> <unk> You... *pant* ... merda..."
+    "Cop" "You... *pant* ... merda..."
 
 # game/events_mc.rpy:326
 translate italian getEfromSchool1_38aa9b62:
@@ -1146,13 +1146,13 @@ translate italian getEfromSchool1_38aa9b62:
 translate italian getEfromSchool1_b5c7bd7a:
 
     # Cop" "You better shut it... *pant* ...smart ass."
-    "Cop <unk> <unk> È meglio chiuderlo... *pant* ...culo intelligente."
+    "Cop" "È meglio chiuderlo... *pant* ...culo intelligente."
 
 # game/events_mc.rpy:330
 translate italian getEfromSchool1_04e1c72c:
 
     # Cop" "Just so you know... I know about you... I have seen your files!"
-    "Cop <unk> <unk> Solo così sapete... So di voi... Ho visto i vostri file!"
+    "Cop" "Solo così sapete... So di voi... Ho visto i vostri file!"
 
 # game/events_mc.rpy:331
 translate italian getEfromSchool1_a69377ef:
@@ -1164,19 +1164,19 @@ translate italian getEfromSchool1_a69377ef:
 translate italian getEfromSchool1_4071f137:
 
     # Cop" "What?! Surprised?"
-    "Cop <unk> <unk> Cosa?! Sorpreso?"
+    "Cop" "Cosa?! Sorpreso?"
 
 # game/events_mc.rpy:335
 translate italian getEfromSchool1_5bd96603:
 
     # Cop" "It wasn't easy to get them *gasp* and my colleagues even told me to let it go, but I'm not a lazy bum like they are."
-    "Cop <unk> <unk> Non è stato facile ottenerli *gasp* e i miei colleghi mi hanno persino detto di lasciarlo andare, ma non sono un ragazzo pigro come loro."
+    "Cop" "Non è stato facile ottenerli *gasp* e i miei colleghi mi hanno persino detto di lasciarlo andare, ma non sono un ragazzo pigro come loro."
 
 # game/events_mc.rpy:336
 translate italian getEfromSchool1_e91b54e7:
 
     # Cop" "The case might be closed, but I know you have skeletons in your closet!"
-    "Cop <unk> <unk> Il caso potrebbe essere chiuso, ma so che hai scheletri nel tuo armadio!"
+    "Cop" "Il caso potrebbe essere chiuso, ma so che hai scheletri nel tuo armadio!"
 
 # game/events_mc.rpy:337
 translate italian getEfromSchool1_a08e5c45:
@@ -1188,7 +1188,7 @@ translate italian getEfromSchool1_a08e5c45:
 translate italian getEfromSchool1_b385900b:
 
     # Cop" "I'll be keeping an eye on you!"
-    "Cop <unk> <unk> Sarò tenere d'occhio su di voi!"
+    "Cop" "Sarò tenere d'occhio su di voi!"
 
 # game/events_mc.rpy:340
 translate italian getEfromSchool1_22c9823e:
@@ -1200,7 +1200,7 @@ translate italian getEfromSchool1_22c9823e:
 translate italian getEfromSchool1_9d86ab89:
 
     # Cop" "I'm watching you!"
-    "Cop <unk> <unk> Ti sto guardando!"
+    "Cop" "Ti sto guardando!"
 
 # game/events_mc.rpy:343
 translate italian getEfromSchool1_1f323051:
@@ -1974,7 +1974,7 @@ translate italian hallPCtalktoEllie_f78c2d8f:
 translate italian hallPCtalktoEllie_ab8c79c4:
 
     # Girls" "Heeey, elder unrelated roommate..."
-    "Ragazze <unk> Heeey, anziano compagno di camera..."
+    "Ragazze" "Heeey, anziano compagno di camera..."
 
 # game/events_mc.rpy:583
 translate italian hallPCtalktoEllie_e564218e:
@@ -2310,7 +2310,7 @@ translate italian pcCityDay3_3ec4a123:
 translate italian pcCityDay3_30b2640a:
 
     # Dude" "Sure..."
-    "Nudo <unk> <unk> Sure..."
+    "Nudo" "Sure..."
 
 # game/events_mc.rpy:678
 translate italian pcCityDay3_ec5691e0:
@@ -2322,7 +2322,7 @@ translate italian pcCityDay3_ec5691e0:
 translate italian pcCityDay3_37d2b588:
 
     # Dude" "Here you go..."
-    "Dude <unk> <unk> Qui vai..."
+    "Dude" "Qui vai..."
 
 # game/events_mc.rpy:681
 translate italian pcCityDay3_1376d297:
@@ -2340,7 +2340,7 @@ translate italian pcCityDay3_404de4ef:
 translate italian pcCityDay3_2d94c374:
 
     # Girl" "{size=-10}Yeah, bye!{/size}"
-    "Ragazza <unk> <unk> {size=-10}Yeah, bye!{/size}"
+    "Ragazza" "{size=-10}Yeah, bye!{/size}"
 
 # game/events_mc.rpy:685
 translate italian pcCityDay3_df2388d3:
@@ -2352,7 +2352,7 @@ translate italian pcCityDay3_df2388d3:
 translate italian pcCityDay3_f6920ce9:
 
     # Girl" "Oh, you."
-    "Ragazza <unk> <unk> Oh, voi."
+    "Ragazza" "Oh, voi."
 
 # game/events_mc.rpy:688
 translate italian pcCityDay3_9f72f07c:
@@ -2370,7 +2370,7 @@ translate italian pcCityDay3_deb02910:
 translate italian pcCityDay3_d16d473d:
 
     # Girl" "Ah sorry, haha. You looked really tired last time, that's why I remember you, haha."
-    "Ragazza <unk> <unk> Ah mi dispiace, haha. Sembri davvero stanco la volta scorsa, ecco perché ti ricordo, haha."
+    "Ragazza" "Ah mi dispiace, haha. Sembri davvero stanco la volta scorsa, ecco perché ti ricordo, haha."
 
 # game/events_mc.rpy:692
 translate italian pcCityDay3_528a0c0a:
@@ -2382,7 +2382,7 @@ translate italian pcCityDay3_528a0c0a:
 translate italian pcCityDay3_d7aed506:
 
     # Girl" "Haha no, not at all. Err... how is your friend?"
-    "Ragazza <unk> <unk> Haha no, non affatto. Errare... come è il tuo amico?"
+    "Ragazza" "Haha no, non affatto. Errare... come è il tuo amico?"
 
 # game/events_mc.rpy:694
 translate italian pcCityDay3_0ea4f12e:
@@ -2394,19 +2394,19 @@ translate italian pcCityDay3_0ea4f12e:
 translate italian pcCityDay3_14a251d1:
 
     # Girl" "The older woman..."
-    "Ragazza <unk> <unk> La donna anziana..."
+    "Ragazza" "La donna anziana..."
 
 # game/events_mc.rpy:696
 translate italian pcCityDay3_26a6d4b5:
 
     # Girl" "Oh that sounds mean. I didn't mean that she looks old or something, haha. She's a regular."
-    "Ragazza <unk> Oh che suona significa. Non intendevo che lei sembri vecchia o qualcosa, haha. È una regolare."
+    "Ragazza" "Oh che suona significa. Non intendevo che lei sembri vecchia o qualcosa, haha. È una regolare."
 
 # game/events_mc.rpy:697
 translate italian pcCityDay3_2643ac94:
 
     # Girl" "...but she looked really sad when she left the other day. I hope she's alright?"
-    "Ragazza <unk> <unk> ...ma sembrava davvero triste quando ha lasciato l'altro giorno. Spero che abbia ragione?"
+    "Ragazza" "...ma sembrava davvero triste quando ha lasciato l'altro giorno. Spero che abbia ragione?"
 
 # game/events_mc.rpy:698
 translate italian pcCityDay3_b3701ceb:
@@ -2418,7 +2418,7 @@ translate italian pcCityDay3_b3701ceb:
 translate italian pcCityDay3_1bd56328:
 
     # Girl" "Did you break up with her?"
-    "Ragazza <unk> <unk> Avete rotto con lei?"
+    "Ragazza" "Avete rotto con lei?"
 
 # game/events_mc.rpy:700
 translate italian pcCityDay3_c251847b:
@@ -2430,13 +2430,13 @@ translate italian pcCityDay3_c251847b:
 translate italian pcCityDay3_bf799a98:
 
     # Dude" "Hey [h], stop chattering, I want to go home!"
-    "Dude <unk> Hey [h], smettere di chiacchierare, voglio andare a casa!"
+    "Dude" "Hey [h], smettere di chiacchierare, voglio andare a casa!"
 
 # game/events_mc.rpy:703
 translate italian pcCityDay3_897e803a:
 
     # Girl" "Ugh... Looks like I have to start my shift."
-    "Ragazza <unk> <unk> Ugh... Sembra che io debba iniziare il mio turno."
+    "Ragazza" "Ugh... Sembra che io debba iniziare il mio turno."
 
 # game/events_mc.rpy:704
 translate italian pcCityDay3_0bea89ce:
@@ -2448,7 +2448,7 @@ translate italian pcCityDay3_0bea89ce:
 translate italian pcCityDay3_6be367f3:
 
     # Girl" "I'm [h] by the way."
-    "Ragazza <unk> <unk> Sono [h] a proposito."
+    "Ragazza" "Sono [h] a proposito."
 
 # game/events_mc.rpy:710
 translate italian pcCityDay3_1ca71d76:
@@ -2478,7 +2478,7 @@ translate italian pcCityDay3_f0e25423:
 translate italian pcCityDay3_607614bd:
 
     # Dude" "[h]!"
-    "Dude <unk> <unk> [h]!"
+    "Dude" "[h]!"
 
 # game/events_mc.rpy:716
 translate italian pcCityDay3_1799137c:
@@ -2694,25 +2694,25 @@ translate italian pcCityDay3_97439a5b:
 translate italian pcCityDay3_2d31c06d:
 
     # Reporter" "...building that burned down a few days ago."
-    "Reporter <unk> <unk> ...edificio che ha bruciato alcuni giorni fa."
+    "Reporter" "...edificio che ha bruciato alcuni giorni fa."
 
 # game/events_mc.rpy:763
 translate italian pcCityDay3_a2f0a046:
 
     # Reporter" "The man responsible for the fire stated that he wanted to protect his wife from becoming corrupted by another man."
-    "Reporter <unk> <unk> L'uomo responsabile del fuoco ha dichiarato che voleva proteggere sua moglie dal diventare corrotto da un altro uomo."
+    "Reporter" "L'uomo responsabile del fuoco ha dichiarato che voleva proteggere sua moglie dal diventare corrotto da un altro uomo."
 
 # game/events_mc.rpy:764
 translate italian pcCityDay3_58185e0f:
 
     # Reporter" "Police told us that the man believes that some unspecified person is using a magical serum to bend his wife's and other women's will."
-    "Reporter <unk> <unk> Police ci ha detto che l'uomo crede che qualche persona non specificata sta usando un siero magico per piegare la volontà di sua moglie e di altre donne."
+    "Reporter" "Police ci ha detto che l'uomo crede che qualche persona non specificata sta usando un siero magico per piegare la volontà di sua moglie e di altre donne."
 
 # game/events_mc.rpy:766
 translate italian pcCityDay3_3fc5d9e7:
 
     # Reporter" "He was sent to a mental hospital..."
-    "Reporter <unk> <unk> È stato inviato in un ospedale mentale..."
+    "Reporter" "È stato inviato in un ospedale mentale..."
 
 # game/events_mc.rpy:767
 translate italian pcCityDay3_5300c54f:
@@ -3888,7 +3888,7 @@ translate italian officeFirst_7af06681:
 translate italian officeFirst_4f3b0408:
 
     # Woman" "Y-yes?!"
-    "Donna <unk> Y-sì?!"
+    "Donna" "Y-sì?!"
 
 # game/events_mc.rpy:1086
 translate italian officeFirst_51a6f7e0:
@@ -3900,7 +3900,7 @@ translate italian officeFirst_51a6f7e0:
 translate italian officeFirst_eeaceb23:
 
     # Woman" "Y-yes!"
-    "Donna <unk> Y-sì!"
+    "Donna" "Y-sì!"
 
 # game/events_mc.rpy:1088
 translate italian officeFirst_b6ac243e:
@@ -3912,7 +3912,7 @@ translate italian officeFirst_b6ac243e:
 translate italian officeFirst_ba58eaa8:
 
     # Woman" "pc "[pcsure]?"
-    "Donna <unk> <unk> [pc] [pcsure]?"
+    "Donna" "[pc] [pcsure]?"
 
 # game/events_mc.rpy:1090
 translate italian officeFirst_5cf9f3a1:
@@ -3924,7 +3924,7 @@ translate italian officeFirst_5cf9f3a1:
 translate italian officeFirst_c9aca35f:
 
     # Woman" "O-oh, that's you... please, let's go inside!"
-    "Donna <unk> <unk> O-oh, sei tu... per favore, andiamo dentro!"
+    "Donna" "O-oh, sei tu... per favore, andiamo dentro!"
 
 # game/events_mc.rpy:1093
 translate italian officeFirst_d97311e5:
@@ -3942,7 +3942,7 @@ translate italian officeFirst_e9edfff6:
 translate italian officeFirst_ea7019d0:
 
     # Woman" "Why are you here?"
-    "Donna <unk> <unk> Perché sei qui?"
+    "Donna" "Perché sei qui?"
 
 # game/events_mc.rpy:1097
 translate italian officeFirst_225fadf5:
@@ -3954,7 +3954,7 @@ translate italian officeFirst_225fadf5:
 translate italian officeFirst_2f424692:
 
     # Woman" "I-I mean, you're starting tomorrow, why are you here today?"
-    "Donna <unk> <unk> I-Intendo dire, state iniziando domani, perché siete qui oggi?"
+    "Donna" "I-Intendo dire, state iniziando domani, perché siete qui oggi?"
 
 # game/events_mc.rpy:1099
 translate italian officeFirst_10609a33:
@@ -3966,7 +3966,7 @@ translate italian officeFirst_10609a33:
 translate italian officeFirst_0651871c:
 
     # Woman" "I see."
-    "Donna <unk> <unk> Io vedere."
+    "Donna" "Io vedere."
 
 # game/events_mc.rpy:1101
 translate italian officeFirst_0368c379:
@@ -3978,7 +3978,7 @@ translate italian officeFirst_0368c379:
 translate italian officeFirst_f2fbbb51:
 
     # Woman" "I... C.J... the boss asked me to bring in some papers."
-    "Donna <unk> <unk> I... C.J... il capo mi ha chiesto di portare in alcuni documenti."
+    "Donna" "I... C.J... il capo mi ha chiesto di portare in alcuni documenti."
 
 # game/events_mc.rpy:1103
 translate italian officeFirst_c7965c80:
@@ -3990,7 +3990,7 @@ translate italian officeFirst_c7965c80:
 translate italian officeFirst_225cc38a:
 
     # Woman" "Yes, like almost every Sunday."
-    "Donna <unk> <unk> Sì, come quasi ogni domenica."
+    "Donna" "Sì, come quasi ogni domenica."
 
 # game/events_mc.rpy:1105
 translate italian officeFirst_cb272a23:
@@ -4020,7 +4020,7 @@ translate italian officeFirst_c3f1eb0b:
 translate italian officeFirst_04e2f270:
 
     # Woman" "Uhm... I can show you a bit, why don't you follow me."
-    "Donna <unk> <unk> Uhm... Posso mostrarvi un po ', perché non mi seguite."
+    "Donna" "Uhm... Posso mostrarvi un po ', perché non mi seguite."
 
 # game/events_mc.rpy:1111
 translate italian officeFirst_d688a87b:
@@ -4032,7 +4032,7 @@ translate italian officeFirst_d688a87b:
 translate italian officeFirst_dbc67763:
 
     # Woman" "Stephanie..."
-    "Donna <unk> <unk> Stephanie..."
+    "Donna" "Stephanie..."
 
 # game/events_mc.rpy:1113
 translate italian officeFirst_f7e59657:
@@ -4332,7 +4332,7 @@ translate italian officeFirst_195d3dfd:
 translate italian officeFirst_53981479:
 
     # Cop" "Ouuch!"
-    "Cop <unk> <unk> Ouuch!"
+    "Cop" "Ouuch!"
 
 # game/events_mc.rpy:1188
 translate italian officeFirst_26b08e4a:
@@ -4344,7 +4344,7 @@ translate italian officeFirst_26b08e4a:
 translate italian officeFirst_228fb161:
 
     # Cop" "YOU!"
-    "Cop <unk> <unk> YOU!"
+    "Cop" "YOU!"
 
 # game/events_mc.rpy:1192
 translate italian officeFirst_95710a31:
@@ -4362,7 +4362,7 @@ translate italian officeFirst_17f6ad68:
 translate italian officeFirst_4acfd17a:
 
     # Cop" "So-so, not watching where we're going, are we?"
-    "Cop <unk> <unk> So-so, non guardare dove stiamo andando, siamo?"
+    "Cop" "So-so, non guardare dove stiamo andando, siamo?"
 
 # game/events_mc.rpy:1196
 translate italian officeFirst_25d64821:
@@ -4380,7 +4380,7 @@ translate italian officeFirst_261aa3ea:
 translate italian officeFirst_9a256965:
 
     # Cop" "What was that? Insulting an officer? W-wait... you ran into me, that was obviously an attack! Ha! Now I got you!"
-    "Cop <unk> <unk> Cos'era quello? Isolare un ufficiale? W-wait... ti sei imbattuto in me, che era ovviamente un attacco! Ciao! Ora ti ho preso!"
+    "Cop" "Cos'era quello? Isolare un ufficiale? W-wait... ti sei imbattuto in me, che era ovviamente un attacco! Ciao! Ora ti ho preso!"
 
 # game/events_mc.rpy:1200
 translate italian officeFirst_2ea675f7:
@@ -4392,7 +4392,7 @@ translate italian officeFirst_2ea675f7:
 translate italian officeFirst_f40d5809:
 
     # Cop" "Hands where I can see them, turn around, asshole!"
-    "Cop <unk> <unk> Mani dove posso vederli, girare intorno, stroncato!"
+    "Cop" "Mani dove posso vederli, girare intorno, stroncato!"
 
 # game/events_mc.rpy:1203
 translate italian officeFirst_5fdae6d7:
@@ -4458,13 +4458,13 @@ translate italian officeFirst_3e8305e8:
 translate italian officeFirst_3307dfad:
 
     # Prostitute" "Hey there, handsome. I haven't seen you here before."
-    "Prostitute <unk> <unk> Hey lì, bello. Non ti ho visto qui prima."
+    "Prostitute" "Hey lì, bello. Non ti ho visto qui prima."
 
 # game/events_mc.rpy:1227
 translate italian officeFirst_0429c5f5:
 
     # Prostitute" "Hey there, beautiful. I haven't seen you here before."
-    "Prostitute <unk> Ehi lì, bello. Non ti ho visto qui prima."
+    "Prostitute" "Ehi lì, bello. Non ti ho visto qui prima."
 
 # game/events_mc.rpy:1229
 translate italian officeFirst_9f4df712:
@@ -4476,7 +4476,7 @@ translate italian officeFirst_9f4df712:
 translate italian officeFirst_a4202cfa:
 
     # Prostitute" "Huh? What do you mean, honey?"
-    "Prostitute <unk> <unk> Huh? Cosa intendi, miele?"
+    "Prostitute" "Huh? Cosa intendi, miele?"
 
 # game/events_mc.rpy:1231
 translate italian officeFirst_2df6c4d3:
@@ -4488,7 +4488,7 @@ translate italian officeFirst_2df6c4d3:
 translate italian officeFirst_996f0cca:
 
     # Prostitute" "But it's never too late to have a bit fun, don't you think, sexy?"
-    "Prostitute <unk> <unk> Ma non è mai troppo tardi per divertirsi, non pensate, sexy?"
+    "Prostitute" "Ma non è mai troppo tardi per divertirsi, non pensate, sexy?"
 
 # game/events_mc.rpy:1236
 translate italian officeFirst_f9decee2:
@@ -4500,13 +4500,13 @@ translate italian officeFirst_f9decee2:
 translate italian officeFirst_fa635850:
 
     # Prostitute" "No risk, no fun."
-    "Prostitute <unk> <unk> Nessun rischio, nessun divertimento."
+    "Prostitute" "Nessun rischio, nessun divertimento."
 
 # game/events_mc.rpy:1239
 translate italian officeFirst_82943c22:
 
     # Prostitute" "Come on, sexy, I'll make it worth your time!"
-    "Prostitute <unk> <unk> Avanti, sexy, farò vale la pena il vostro tempo!"
+    "Prostitute" "Avanti, sexy, farò vale la pena il vostro tempo!"
 
 # game/events_mc.rpy:1240
 translate italian officeFirst_3151510c:
@@ -4518,7 +4518,7 @@ translate italian officeFirst_3151510c:
 translate italian officeFirst_df4ac260:
 
     # Prostitute" "Ughh, shit!"
-    "Prostitute <unk> <unk> Ughh, merda!"
+    "Prostitute" "Ughh, merda!"
 
 # game/events_mc.rpy:1243
 translate italian officeFirst_bf282ccb:
@@ -4530,7 +4530,7 @@ translate italian officeFirst_bf282ccb:
 translate italian officeFirst_086a64ed:
 
     # Prostitute" "Fuck off, old man, you're not my dad!"
-    "Prostitute <unk> <unk> Scopata fuori, vecchio uomo, non sei mio papà!"
+    "Prostitute" "Scopata fuori, vecchio uomo, non sei mio papà!"
 
 # game/events_mc.rpy:1246
 translate italian officeFirst_90d23aed:
@@ -4542,7 +4542,7 @@ translate italian officeFirst_90d23aed:
 translate italian officeFirst_9df8f015:
 
     # Prostitute" "Pfft..."
-    "Prostitute <unk> <unk> Pfft..."
+    "Prostitute" "Pfft..."
 
 # game/events_mc.rpy:1248
 translate italian officeFirst_88d25c77:
@@ -5298,7 +5298,7 @@ translate italian porn_vr_4_f834cc31:
 translate italian porn_vr_4_7cd59846:
 
     # Voice" "Mphh... mphhh..."
-    "Voce <unk> <unk> Mphh... mphh..."
+    "Voce" "Mphh... mphh..."
 
 # game/events_mc.rpy:1456
 translate italian porn_vr_4_594132e1:
@@ -5316,7 +5316,7 @@ translate italian porn_vr_4_010b482c:
 translate italian porn_vr_4_e499de78:
 
     # Girl 2" "Are you about to cum babe?"
-    "Ragazza 2 <unk> <unk> Stai per cum babe?"
+    "Ragazza 2" "Stai per cum babe?"
 
 # game/events_mc.rpy:1461
 translate italian porn_vr_4_794a11fa:
@@ -8550,7 +8550,7 @@ translate italian d9dream_e701d572:
 translate italian d9dream_9aef7dc5:
 
     # Dad" "Oh hey, [pc]... *sniff*"
-    "Papà <unk> <unk> Oh hey, [pc]... *sniff*"
+    "Papà" "Oh hey, [pc]... *sniff*"
 
 # game/events_mc.rpy:2464
 translate italian d9dream_e6e5c075:
@@ -8562,7 +8562,7 @@ translate italian d9dream_e6e5c075:
 translate italian d9dream_84c70355:
 
     # Dad" "You're back early..."
-    "Papà <unk> <unk> Sei tornato presto..."
+    "Papà" "Sei tornato presto..."
 
 # game/events_mc.rpy:2466
 translate italian d9dream_96535a88:
@@ -8574,7 +8574,7 @@ translate italian d9dream_96535a88:
 translate italian d9dream_e24b33bd:
 
     # Dad" "No... *sniff* ...must've gotten something in my eye..."
-    "Papà <unk> <unk> No... *sniff* ...deve aver ottenuto qualcosa nei miei occhi..."
+    "Papà" "No... *sniff* ...deve aver ottenuto qualcosa nei miei occhi..."
 
 # game/events_mc.rpy:2468
 translate italian d9dream_a69377ef:
@@ -8586,7 +8586,7 @@ translate italian d9dream_a69377ef:
 translate italian d9dream_da7061f8:
 
     # Dad" "Do you miss your mom, [pc]?"
-    "Papà <unk> <unk> Ti manca tua mamma, [pc]?"
+    "Papà" "Ti manca tua mamma, [pc]?"
 
 # game/events_mc.rpy:2470
 translate italian d9dream_3b5608b8:
@@ -8598,7 +8598,7 @@ translate italian d9dream_3b5608b8:
 translate italian d9dream_234a4777:
 
     # Dad" "Hm... you should forget about her..."
-    "Papà <unk> <unk> Hm... dovresti dimenticare di lei..."
+    "Papà" "Hm... dovresti dimenticare di lei..."
 
 # game/events_mc.rpy:2472
 translate italian d9dream_0628eca5:
@@ -8610,13 +8610,13 @@ translate italian d9dream_0628eca5:
 translate italian d9dream_d262fbf2:
 
     # Dad" "But it's better for you... for both of us..."
-    "Papà <unk> <unk> Ma è meglio per voi... per entrambi noi..."
+    "Papà" "Ma è meglio per voi... per entrambi noi..."
 
 # game/events_mc.rpy:2474
 translate italian d9dream_85c0867b:
 
     # Dad" "...and do yourself a favor and never fall in love..."
-    "Papà <unk> <unk> ...e farti un favore e non innamorarti mai..."
+    "Papà" "...e farti un favore e non innamorarti mai..."
 
 # game/events_mc.rpy:2475
 translate italian d9dream_a69377ef_1:
@@ -8640,25 +8640,25 @@ translate italian d9dream_f363bd8e:
 translate italian d9dream_51070d0f:
 
     # Dad" "[m]?! Pff..."
-    "Papà <unk> <unk> [m]?! Pff..."
+    "Papà" "[m]?! Pff..."
 
 # game/events_mc.rpy:2479
 translate italian d9dream_14cfced5:
 
     # Dad" "That b... she doesn't even know how to cook a proper meal, let alone how to suck a..."
-    "Papà <unk> <unk> Che b... non sa nemmeno come cucinare un pasto corretto, figuriamoci come succhiare..."
+    "Papà" "Che b... non sa nemmeno come cucinare un pasto corretto, figuriamoci come succhiare..."
 
 # game/events_mc.rpy:2480
 translate italian d9dream_8854a3cf:
 
     # Dad" "Uch... damn it..."
-    "Papà <unk> <unk> Uch... maledetto..."
+    "Papà" "Uch... maledetto..."
 
 # game/events_mc.rpy:2481
 translate italian d9dream_d582bfa7:
 
     # Dad" "Just always remember that she's not your mom, even if she tries to be... she's useless and she'll never be your mom!"
-    "Papà <unk> <unk> Basta ricordare sempre che non è tua mamma, anche se lei cerca di essere... è inutile e lei non sarà mai tua mamma!"
+    "Papà" "Basta ricordare sempre che non è tua mamma, anche se lei cerca di essere... è inutile e lei non sarà mai tua mamma!"
 
 # game/events_mc.rpy:2482
 translate italian d9dream_5d7119e2:
@@ -8670,7 +8670,7 @@ translate italian d9dream_5d7119e2:
 translate italian d9dream_155a3712:
 
     # Dad" "Now go back to your room or go out and play or whatever you do..."
-    "Papà <unk> <unk> Ora torna nella tua stanza o esci a giocare o qualsiasi cosa facci..."
+    "Papà" "Ora torna nella tua stanza o esci a giocare o qualsiasi cosa facci..."
 
 # game/events_mc.rpy:2484
 translate italian d9dream_880b4aa8:
@@ -8688,7 +8688,7 @@ translate italian d9dream_465f1434:
 translate italian d9dream_14e7ad76:
 
     # Dad" "[pc]?"
-    "Papà <unk> <unk> [pc]?"
+    "Papà" "[pc]?"
 
 # game/events_mc.rpy:2487
 translate italian d9dream_bbe33639:
@@ -8700,19 +8700,19 @@ translate italian d9dream_bbe33639:
 translate italian d9dream_0b01384d:
 
     # Dad" "I'm sorry that I..."
-    "Papà <unk> <unk> Mi dispiace che..."
+    "Papà" "Mi dispiace che..."
 
 # game/events_mc.rpy:2489
 translate italian d9dream_503d5266:
 
     # Dad" "...sometimes..."
-    "Papà <unk> <unk> ...A volte..."
+    "Papà" "...A volte..."
 
 # game/events_mc.rpy:2490
 translate italian d9dream_cde1b3be:
 
     # Dad" "..."
-    "Papà <unk> <unk> ..."
+    "Papà" "..."
 
 # game/events_mc.rpy:2491
 translate italian d9dream_b283b4e3:
@@ -9354,7 +9354,7 @@ translate italian d10johnson_3855fdcb:
 translate italian d10nightsex_38cd2de2:
 
     # Voice" "Wakey wakey." with slowdissolve
-    "Voce <unk> <unk> Wakey wakey." with slowdissolve
+    "Voce" "Wakey wakey." with slowdissolve
 
 # game/events_mc.rpy:2702
 translate italian d10nightsex_9f4f5a57:
@@ -9366,13 +9366,13 @@ translate italian d10nightsex_9f4f5a57:
 translate italian d10nightsex_9bdc0426:
 
     # Voice" "No, Silly, it's still night!"
-    "Voce <unk> <unk> No, Silly, è ancora notte!"
+    "Voce" "No, Silly, è ancora notte!"
 
 # game/events_mc.rpy:2704
 translate italian d10nightsex_109cf5a7:
 
     # Voice" "Khehehe."
-    "Voce <unk> <unk> Khehehe."
+    "Voce" "Khehehe."
 
 # game/events_mc.rpy:2706
 translate italian d10nightsex_61e4f5ac:

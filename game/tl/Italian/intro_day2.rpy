@@ -30,7 +30,7 @@ translate italian intro_day2_bb2cf764:
 translate italian intro_day2_0de96e02:
 
     # Loud Voice" "I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN!" with vpunch
-    "Voce rumorosa <unk> <unk> HAVE SEEN IT! NON DARE LIE TO ME AGAIN!" with vpunch
+    "Voce rumorosa" "HAVE SEEN IT! NON DARE LIE TO ME AGAIN!" with vpunch
 
 # game/intro_day2.rpy:10
 translate italian intro_day2_e7c86f6c:
@@ -42,19 +42,19 @@ translate italian intro_day2_e7c86f6c:
 translate italian intro_day2_46a27d87:
 
     # Loud Voice" "I FUCKIN' TOLD YOU WHAT'S GOIN TO HAPPEN, YOU FUCKIN' SLUT!"
-    "Loud Voice <unk> <unk> I FUCKIN' TOLD YOU COSA BENO A HAPPEN, YOU FUCKIN' SLUT!"
+    "Loud Voice" "I FUCKIN' TOLD YOU COSA BENO A HAPPEN, YOU FUCKIN' SLUT!"
 
 # game/intro_day2.rpy:12
 translate italian intro_day2_7b2b0f4d:
 
     # Female Voice" "No, please. I swear I didn't..."
-    "Voce femminile <unk> <unk> No, per favore. Giuro di no..."
+    "Voce femminile" "No, per favore. Giuro di no..."
 
 # game/intro_day2.rpy:13
 translate italian intro_day2_2d683f63:
 
     # Loud Voice" "SHUT THE FUCK UP, SLUT!"
-    "Voce forte <unk> <unk> SHUT THE FUCK UP, SLUT!"
+    "Voce forte" "SHUT THE FUCK UP, SLUT!"
 
 # game/intro_day2.rpy:15
 translate italian intro_day2_dbd9bc4b:
@@ -66,7 +66,7 @@ translate italian intro_day2_dbd9bc4b:
 translate italian intro_day2_234974f3:
 
     # Female Voice" "Ahh... n-no, p-please..."
-    "Voce femminile <unk> <unk> Ahh... n-no, p-per favore..."
+    "Voce femminile" "Ahh... n-no, p-per favore..."
 
 # game/intro_day2.rpy:18
 translate italian intro_day2_dbd9bc4b_1:
@@ -84,13 +84,13 @@ translate italian intro_day2_3fe3cd48:
 translate italian intro_day2_e3206cca:
 
     # Female Voice" "Please..."
-    "Voce Femminile <unk> <unk> Per favore..."
+    "Voce Femminile" "Per favore..."
 
 # game/intro_day2.rpy:21
 translate italian intro_day2_ab5649b7:
 
     # Loud Voice" "I TOLD YOU TO SHUT UP SLUT!"
-    "Voce forte <unk> <unk> TOLD YOU SHUT UP SLUT!"
+    "Voce forte" "TOLD YOU SHUT UP SLUT!"
 
 # game/intro_day2.rpy:23
 translate italian intro_day2_5dbe0428:
@@ -102,7 +102,7 @@ translate italian intro_day2_5dbe0428:
 translate italian intro_day2_801a666c:
 
     # Female Voice" "ACK"
-    "Voce Femmina <unk> <unk> ACK"
+    "Voce Femmina" "ACK"
 
 # game/intro_day2.rpy:25
 translate italian intro_day2_3fe3cd48_1:
@@ -114,13 +114,13 @@ translate italian intro_day2_3fe3cd48_1:
 translate italian intro_day2_92c9fe5c:
 
     # Female Voice" "I'm sorry... I'm sorry..."
-    "Voce femminile <unk> Mi dispiace... Mi dispiace..."
+    "Voce femminile" "Mi dispiace... Mi dispiace..."
 
 # game/intro_day2.rpy:27
 translate italian intro_day2_6d188e1b:
 
     # Loud Voice" "Yeah, you better be... now, suck it!"
-    "Voce forte <unk> Si, è meglio essere... ora, succhiatelo!"
+    "Voce forte" "Si, è meglio essere... ora, succhiatelo!"
 
 # game/intro_day2.rpy:28
 translate italian intro_day2_3fe3cd48_2:
@@ -132,19 +132,19 @@ translate italian intro_day2_3fe3cd48_2:
 translate italian intro_day2_912294a2:
 
     # Loud Voice" "I TOLD YOU TO SUCK!"
-    "Voce forte <unk> <unk> TOLD TU TO SUCK!"
+    "Voce forte" "TOLD TU TO SUCK!"
 
 # game/intro_day2.rpy:30
 translate italian intro_day2_420b7706:
 
     # Female Voice" "Yes, yes, I'm sorry..."
-    "Voce femminile <unk> <unk> Sì, sì, mi dispiace..."
+    "Voce femminile" "Sì, sì, mi dispiace..."
 
 # game/intro_day2.rpy:31
 translate italian intro_day2_c86c2e61:
 
     # Female Voice" "Unn..."
-    "Voce Femminile <unk> Unn..."
+    "Voce Femminile" "Unn..."
 
 # game/intro_day2.rpy:33
 translate italian intro_day2_a6b1be05:
@@ -174,7 +174,7 @@ translate italian intro_day2_cb56ae6b:
 translate italian intro_day2_e0e49eec:
 
     # Dad" "Hey, it's okay. [m] and I just had a small argument. Nothing special. Go to bed [boygirl]."
-    "Papà <unk> Hey, va bene. [m] e ho appena avuto un piccolo argomento. Niente di speciale. Vai a letto [boygirl]."
+    "Papà" "Hey, va bene. [m] e ho appena avuto un piccolo argomento. Niente di speciale. Vai a letto [boygirl]."
 
 # game/intro_day2.rpy:39
 translate italian intro_day2_cfb4c32d:
@@ -186,13 +186,13 @@ translate italian intro_day2_cfb4c32d:
 translate italian intro_day2_f9cf8ca5:
 
     # Dad" "It's okay, she was too stupid to watch where she was going and stumbled over something."
-    "Papà <unk> <unk> Va bene, era troppo stupida per guardare dove stava andando e inciampava su qualcosa."
+    "Papà" "Va bene, era troppo stupida per guardare dove stava andando e inciampava su qualcosa."
 
 # game/intro_day2.rpy:41
 translate italian intro_day2_1e2dd096:
 
     # Dad" "It's just a scratch, she's fine. Go to bed now."
-    "Papà <unk> <unk> È solo un graffio, sta bene. Vai a letto ora."
+    "Papà" "È solo un graffio, sta bene. Vai a letto ora."
 
 # game/intro_day2.rpy:42
 translate italian intro_day2_9914fdd0:
@@ -216,7 +216,7 @@ translate italian intro_day2_bb2cf764_1:
 translate italian intro_day2_c5c91f0a:
 
     # Dad" "{size=-10}Are you happy now? You woke [himher] up with your stupid screaming!{/size}"
-    "Papà <unk> <unk> {size=-10}Sei felice adesso? Ti sei svegliato [himher] con il tuo stupido grido!{/size}"
+    "Papà" "{size=-10}Sei felice adesso? Ti sei svegliato [himher] con il tuo stupido grido!{/size}"
 
 # game/intro_day2.rpy:47
 translate italian intro_day2_bf658c6a:
@@ -228,7 +228,7 @@ translate italian intro_day2_bf658c6a:
 translate italian intro_day2_c56ae62d:
 
     # Dad" "{size=-10}Stupid bitch. Turn around!{/size}"
-    "Papà <unk> <unk> {size=-10}Stupid bitch. Gira!{/size}"
+    "Papà" "{size=-10}Stupid bitch. Gira!{/size}"
 
 # game/intro_day2.rpy:50
 translate italian intro_day2_a27dcaa7:
@@ -246,7 +246,7 @@ translate italian intro_day2_b3c1c44e:
 translate italian intro_day2_1e4fe5fe:
 
     # Dad" "SHUT UP! I don't fucking care!"
-    "Papà <unk> <unk> SHUT UP! Non cazzo cura!"
+    "Papà" "SHUT UP! Non cazzo cura!"
 
 # game/intro_day2.rpy:54
 translate italian intro_day2_63910f04:
@@ -372,7 +372,7 @@ translate italian intro_day2_d72509a6:
 translate italian intro_day2_e9a37b17:
 
     # Voice" "Hello [mrms] [pcsure], this is the reception desk. We have a call from a woman named [m], who wants to talk to you."
-    "Voce <unk> <unk> Ciao [mrms] [pcsure], questa è la reception. Abbiamo una chiamata da una donna di nome [m], che vuole parlare con te."
+    "Voce" "Ciao [mrms] [pcsure], questa è la reception. Abbiamo una chiamata da una donna di nome [m], che vuole parlare con te."
 
 # game/intro_day2.rpy:84
 translate italian intro_day2_9f8e3996:
@@ -390,13 +390,13 @@ translate italian intro_day2_49062e41:
 translate italian intro_day2_e0758e04:
 
     # Voice" "Do you accept the call [mrms] [pcsure]?"
-    "Voce <unk> <unk> Accettate la chiamata [mrms] [pcsure]?"
+    "Voce" "Accettate la chiamata [mrms] [pcsure]?"
 
 # game/intro_day2.rpy:90
 translate italian intro_day2_fd18cf3d:
 
     # Voice" "O-Oh... okay, I will tell her..."
-    "Voce <unk> <unk> O-Oh... ok, Le dirò..."
+    "Voce" "O-Oh... ok, Le dirò..."
 
 # game/intro_day2.rpy:93
 translate italian intro_day2_ce4ced57:
@@ -408,7 +408,7 @@ translate italian intro_day2_ce4ced57:
 translate italian intro_day2_4cbe1206:
 
     # Voice" "Okay, one moment please..."
-    "Voce <unk> <unk> Okay, un momento per favore..."
+    "Voce" "Okay, un momento per favore..."
 
 # game/intro_day2.rpy:98
 translate italian intro_day2_bb2cf764_3:
@@ -816,7 +816,7 @@ translate italian intro_day2_2_e36dcd5f:
 translate italian intro_day2_2_2fcaf026:
 
     # Receptionist" "Oh, hello [mrms] [pcsure], I'm sorry, but that's not possible at the moment. We are awaiting a group of guests that arrive tomorrow."
-    "Receptionist <unk> <unk> Oh, ciao [mrms] [pcsure], mi dispiace, ma al momento non è possibile. Siamo in attesa di un gruppo di ospiti che arrivano domani."
+    "Receptionist" "Oh, ciao [mrms] [pcsure], mi dispiace, ma al momento non è possibile. Siamo in attesa di un gruppo di ospiti che arrivano domani."
 
 # game/intro_day2.rpy:180
 translate italian intro_day2_2_0df051d9:
@@ -828,7 +828,7 @@ translate italian intro_day2_2_0df051d9:
 translate italian intro_day2_2_9a03b783:
 
     # Receptionist" "Sorry [mrms] [pcsure], but in fact, all rooms are booked..."
-    "Receptionist <unk> <unk> Mi dispiace [mrms] [pcsure], ma infatti, tutte le camere sono prenotate..."
+    "Receptionist" "Mi dispiace [mrms] [pcsure], ma infatti, tutte le camere sono prenotate..."
 
 # game/intro_day2.rpy:182
 translate italian intro_day2_2_4c5f1a6d:
@@ -840,7 +840,7 @@ translate italian intro_day2_2_4c5f1a6d:
 translate italian intro_day2_2_76c3a2c1:
 
     # Receptionist" "Yes, there is an international trade fair over the next few weeks, so we are awaiting many guests."
-    "Receptionist <unk> <unk> Sì, c'è una fiera internazionale nelle prossime settimane, quindi siamo in attesa di molti ospiti."
+    "Receptionist" "Sì, c'è una fiera internazionale nelle prossime settimane, quindi siamo in attesa di molti ospiti."
 
 # game/intro_day2.rpy:184
 translate italian intro_day2_2_b2cce3fa:
@@ -852,13 +852,13 @@ translate italian intro_day2_2_b2cce3fa:
 translate italian intro_day2_2_c1b93604:
 
     # Receptionist" "I'm sorry, [mrms] [pcsure]. I guess you have to book a room somewhere else, but it's most likely that all of the major hotels are fully booked."
-    "Receptionist <unk> <unk> Mi dispiace, [mrms] [pcsure]. Immagino che tu debba prenotare una camera da qualche altra parte, ma è molto probabile che tutti i principali hotel siano completamente prenotati."
+    "Receptionist" "Mi dispiace, [mrms] [pcsure]. Immagino che tu debba prenotare una camera da qualche altra parte, ma è molto probabile che tutti i principali hotel siano completamente prenotati."
 
 # game/intro_day2.rpy:186
 translate italian intro_day2_2_1fd8babd:
 
     # Receptionist" "You could try some of the smaller motels around town. Maybe some of them still have rooms."
-    "Receptionist <unk> <unk> Si potrebbe provare alcuni dei motel più piccoli intorno alla città. Forse alcuni di loro hanno ancora stanze."
+    "Receptionist" "Si potrebbe provare alcuni dei motel più piccoli intorno alla città. Forse alcuni di loro hanno ancora stanze."
 
 # game/intro_day2.rpy:187
 translate italian intro_day2_2_34bbc6f2:
@@ -876,7 +876,7 @@ translate italian intro_day2_2_1539e91a:
 translate italian intro_day2_2_09e731f4:
 
     # Manager" "[r], what the hell!? How many times do I have to tell you that you have to wear a bra?"
-    "Manager <unk> <unk> [r], che inferno!? Quante volte devo dirti che devi indossare un reggiseno?"
+    "Manager" "[r], che inferno!? Quante volte devo dirti che devi indossare un reggiseno?"
 
 # game/intro_day2.rpy:192
 translate italian intro_day2_2_badfc039:
@@ -888,13 +888,13 @@ translate italian intro_day2_2_badfc039:
 translate italian intro_day2_2_c3851b52:
 
     # Manager" "You're sorry?! [r] you shouldn't be sorry, you should be ashamed!"
-    "Manager <unk> <unk> Ti dispiace?! [r] non dovresti essere dispiaciuto, dovresti vergognarti!"
+    "Manager" "Ti dispiace?! [r] non dovresti essere dispiaciuto, dovresti vergognarti!"
 
 # game/intro_day2.rpy:195
 translate italian intro_day2_2_f496b078:
 
     # Manager" "We have standards in this hotel, [r]! Your shameful behavior already got the attention of some of our guests. That's not acceptable."
-    "Manager <unk> <unk> Abbiamo standard in questo hotel, [r]! Il tuo comportamento vergognoso ha già ricevuto l'attenzione di alcuni dei nostri ospiti."
+    "Manager" "Abbiamo standard in questo hotel, [r]! Il tuo comportamento vergognoso ha già ricevuto l'attenzione di alcuni dei nostri ospiti."
 
 # game/intro_day2.rpy:196
 translate italian intro_day2_2_0906f490:
@@ -906,7 +906,7 @@ translate italian intro_day2_2_0906f490:
 translate italian intro_day2_2_bc1774a0:
 
     # Manager" "That's no excuse for dressing like a whore!"
-    "Manager <unk> <unk> Non è una scusa per vestirsi come una puttana!"
+    "Manager" "Non è una scusa per vestirsi come una puttana!"
 
 # game/intro_day2.rpy:198
 translate italian intro_day2_2_132a713a:
@@ -924,7 +924,7 @@ translate italian intro_day2_2_03697de9:
 translate italian intro_day2_2_97d4b59e:
 
     # Manager" "I'm tired of your excuses, [r]. I've had enough of this now. Get your stuff and leave."
-    "Manager <unk> <unk> Sono stanco delle tue scuse, [r]. Ne ho avuto abbastanza adesso. Prendi la tua roba e lascia."
+    "Manager" "Sono stanco delle tue scuse, [r]. Ne ho avuto abbastanza adesso. Prendi la tua roba e lascia."
 
 # game/intro_day2.rpy:201
 translate italian intro_day2_2_44ee4b94:
@@ -936,7 +936,7 @@ translate italian intro_day2_2_44ee4b94:
 translate italian intro_day2_2_feab064c:
 
     # Manager" "Don't make a scene now, it's your own fault, I've given you enough warnings!"
-    "Manager <unk> <unk> Non fare una scena ora, è colpa tua, ti ho dato abbastanza avvertimenti!"
+    "Manager" "Non fare una scena ora, è colpa tua, ti ho dato abbastanza avvertimenti!"
 
 # game/intro_day2.rpy:203
 translate italian intro_day2_2_fee0cc03:
@@ -948,7 +948,7 @@ translate italian intro_day2_2_fee0cc03:
 translate italian intro_day2_2_391b8c26:
 
     # Manager" "I'll send George over to take care of the reception and I expect you to be gone in half an hour at the latest!"
-    "Manager <unk> <unk> Invierò George per prendersi cura della reception e mi aspetto di essere andato in mezz'ora al più tardi!"
+    "Manager" "Invierò George per prendersi cura della reception e mi aspetto di essere andato in mezz'ora al più tardi!"
 
 # game/intro_day2.rpy:206
 translate italian intro_day2_2_5357dc76:

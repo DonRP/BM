@@ -120,7 +120,7 @@ translate italian intro_day3_be5544eb_4:
 translate italian intro_day3_4214b531:
 
     # Voice" "{size=-10}Ahh, yes!{/size}"
-    "Voce <unk> <unk> {size=-10}Ahh, sì!{/size}"
+    "Voce" "{size=-10}Ahh, sì!{/size}"
 
 # game/intro_day3-4.rpy:33
 translate italian intro_day3_be5544eb_5:
@@ -144,7 +144,7 @@ translate italian intro_day3_be5544eb_7:
 translate italian intro_day3_af9ff73e:
 
     # Voice" "{size=-10}Ahnn, babe!!{/size}"
-    "Voce <unk> <unk> {size=-10}Ahnn, babe!!{/size}"
+    "Voce" "{size=-10}Ahnn, babe!!{/size}"
 
 # game/intro_day3-4.rpy:37
 translate italian intro_day3_6d74e256:
@@ -354,7 +354,7 @@ translate italian intro_day3_f0bf90b6:
 translate italian intro_day3_c553ea32:
 
     # Voice" "[pc]?"
-    "Voce <unk> <unk> [pc]?"
+    "Voce" "[pc]?"
 
 # game/intro_day3-4.rpy:89
 translate italian intro_day3_61e4f5ac:

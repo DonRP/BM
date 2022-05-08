@@ -42,7 +42,7 @@ translate italian jadaFirstMeet_45a17cdf:
 translate italian jadaFirstMeet_1c30cb5a:
 
     # Girl" "Owww..." with hpunch
-    "Ragazza <unk> <unk> Owww..." with hpunch
+    "Ragazza" "Owww..." with hpunch
 
 # game/events_j.rpy:10
 translate italian jadaFirstMeet_26b08e4a:
@@ -66,7 +66,7 @@ translate italian jadaFirstMeet_5fc07764:
 translate italian jadaFirstMeet_fd6ca95e:
 
     # Girl" "Uhh... yeah... I-I guess."
-    "Ragazza <unk> <unk> Uhh... sì... I-Immagino."
+    "Ragazza" "Uhh... sì... I-Immagino."
 
 # game/events_j.rpy:15
 translate italian jadaFirstMeet_bb5b0f28:
@@ -78,13 +78,13 @@ translate italian jadaFirstMeet_bb5b0f28:
 translate italian jadaFirstMeet_8cf10d47:
 
     # Girl" "No, I'm sorry, I didn't expect somebody coming out of this room."
-    "Ragazza <unk> <unk> No, mi dispiace, non mi aspettavo qualcuno che venisse fuori da questa stanza."
+    "Ragazza" "No, mi dispiace, non mi aspettavo qualcuno che venisse fuori da questa stanza."
 
 # game/events_j.rpy:18
 translate italian jadaFirstMeet_8e6bf8f7:
 
     # Girl" "I'm [j] by the way. You're [e]'s big [bs], right?"
-    "Ragazza <unk> <unk> Sono [j] a proposito. Sei [e]grande [bs], vero?"
+    "Ragazza" "Sono [j] a proposito. Sei [e]grande [bs], vero?"
 
 # game/events_j.rpy:19
 translate italian jadaFirstMeet_59478f5c:
@@ -311,8 +311,8 @@ translate italian flirtyJ_44c4e007:
 # game/events_j.rpy:79
 translate italian flirtyJ_89728120:
 
-    # pcthink "e "must have told her that I left in the middle of night without telling anyone back then..."
-    pcthink "e "deve averle detto che sono partito in mezzo alla notte senza dire a nessuno allora..."
+    # pcthink "[e] must have told her that I left in the middle of night without telling anyone back then..."
+    pcthink "[e] deve averle detto che sono partito in mezzo alla notte senza dire a nessuno allora..."
 
 # game/events_j.rpy:80
 translate italian flirtyJ_8e929c01:
@@ -486,7 +486,7 @@ translate italian JVREbirthday_2efe3878:
 translate italian JVREbirthday_3713fca7:
 
     # {color=#570058}Girl1{/color}" "AHN, AH, HA, HAA..."
-    "{color=#570058}Girl1{/color} <unk> AHN, AH, HA, HAA..."
+    "{color=#570058}Girl1{/color}" "AHN, AH, HA, HAA..."
 
 # game/events_j.rpy:132
 translate italian JVREbirthday_44228de8:
@@ -498,13 +498,13 @@ translate italian JVREbirthday_44228de8:
 translate italian JVREbirthday_b1766523:
 
     # {color=#570058}Girl1{/color}" "HAA, HA, NHHH!"
-    "{color=#570058}Girl1{/color} <unk> HAA, HA, NHHH!"
+    "{color=#570058}Girl1{/color}" "HAA, HA, NHHH!"
 
 # game/events_j.rpy:134
 translate italian JVREbirthday_b509d9ed:
 
-    # {color=#cc5dcd}Girl2{/color}\" \"Yeees, fuck [himher], fuck [himher] \"Landlady\"!"
-    "{color=#cc5dcd}Girl2{/color}\" \"Yeees, cazzo [himher], cazzo [himher] \"Landlady\"!"
+    # {color=#cc5dcd}Girl2{/color}" "Yeees, fuck [himher], fuck [himher] \"Landlady\"!"
+    "{color=#cc5dcd}Girl2{/color}" "Yeees, cazzo [himher], cazzo [himher] \"Landlady\"!"
 
 # game/events_j.rpy:135
 translate italian JVREbirthday_55531a2f:
@@ -516,7 +516,7 @@ translate italian JVREbirthday_55531a2f:
 translate italian JVREbirthday_58e40556:
 
     # {color=#570058}Girl1{/color}" "Haa, Yes! Babe, I'm close!"
-    "{color=#570058}Girl1{/color} <unk> Haa, sì! Bambola, sono vicino!"
+    "{color=#570058}Girl1{/color}" "Haa, sì! Bambola, sono vicino!"
 
 # game/events_j.rpy:139
 translate italian JVREbirthday_1901fd06:
@@ -528,19 +528,19 @@ translate italian JVREbirthday_1901fd06:
 translate italian JVREbirthday_a5e2a79f:
 
     # Voice" "Holy shit, it's {i}really{/i} hot!"
-    "Voce <unk> <unk> Santa merda, è davvero {i}caldo{/i} caldo!"
+    "Voce" "Santa merda, è davvero {i}caldo{/i} caldo!"
 
 # game/events_j.rpy:141
 translate italian JVREbirthday_1a1fd458:
 
     # {color=#570058}Girl1{/color}" "HAA, HAA, HNAAH! YES! OH YES!"
-    "{color=#570058}Girl1{/color} <unk> <unk> HAA, HAA, HNAAH! SI! OH SI!"
+    "{color=#570058}Girl1{/color}" "HAA, HAA, HNAAH! SI! OH SI!"
 
 # game/events_j.rpy:142
 translate italian JVREbirthday_75c7eb86:
 
-    # {color=#cc5dcd}Girl2{/color}\" \"She's going to cum!"
-    "{color=#cc5dcd}Girl2{/color}\" \"Sta per cum!"
+    # {color=#cc5dcd}Girl2{/color}" "She's going to cum!"
+    "{color=#cc5dcd}Girl2{/color}" "Sta andando a cum!"
 
 # game/events_j.rpy:143
 translate italian JVREbirthday_0d2e7a55:
@@ -959,8 +959,8 @@ translate italian JVREbirthday_775ef588:
 # game/events_j.rpy:238
 translate italian JVREbirthday_5857c488:
 
-    # m "pc "what's the matter? Why did you..."
-    m "pc "qual è la questione? Perché hai fatto..."
+    # m "[pc] what's the matter? Why did you..."
+    m "[pc] qual è la questione? Perché hai fatto..."
 
 # game/events_j.rpy:240
 translate italian JVREbirthday_0e5440c7:
@@ -1751,8 +1751,8 @@ translate italian bjhcum_be9337b2:
 # game/events_j.rpy:463
 translate italian bjhcum_31979fb7:
 
-    # n "j "cleans up and tells you the right way to her home, she leans her head on your shoulders for the rest of the ride.{p}After a while you arrive at her home."
-    n "j "pulisce e ti dice la strada giusta per la sua casa, si appoggia la testa sulle spalle per il resto della corsa.{p}Dopo un po' arrivi a casa sua."
+    # n "[j] cleans up and tells you the right way to her home, she leans her head on your shoulders for the rest of the ride.{p}After a while you arrive at her home."
+    n "[j] pulisce e ti dice la strada giusta per la sua casa, si appoggia la testa sulle spalle per il resto della corsa.{p}Dopo un po' arrivi a casa sua."
 
 # game/events_j.rpy:464
 translate italian bjhcum_73cd711d:
@@ -3858,7 +3858,7 @@ translate italian d7_motel_225fadf5:
 translate italian d7_motel_afc5ac67:
 
     # Girl" "Yes, can you believe it? They're so bad!"
-    "Ragazza <unk> <unk> Sì, puoi crederci? Sono così male!"
+    "Ragazza" "Sì, puoi crederci? Sono così male!"
 
 # game/events_j.rpy:1104
 translate italian d7_motel_df6afe22:
@@ -4722,7 +4722,7 @@ translate italian d7_motel_r_0deff184:
 translate italian d7_motel_r_4ac9dc6d:
 
     # Girl" "Yes, I could hear it all, she was like \"yes [pcmd], give it to me [pcmd]\", haha."
-    "Ragazza <unk> <unk> Sì, ho potuto sentire tutto, lei era come \"sì [pcmd], darlo a me [pcmd]\", haha."
+    "Ragazza" "Sì, ho potuto sentire tutto, lei era come \"sì [pcmd], darlo a me [pcmd]\", haha."
 
 # game/events_j.rpy:1377
 translate italian d7_motel_r_905acf6d:
@@ -4734,19 +4734,19 @@ translate italian d7_motel_r_905acf6d:
 translate italian d7_motel_r_d9a79da0:
 
     # Girl" "[heshe!c] must be really good..."
-    "Ragazza <unk> <unk> [heshe!c] deve essere davvero buona..."
+    "Ragazza" "[heshe!c] deve essere davvero buona..."
 
 # game/events_j.rpy:1381
 translate italian d7_motel_r_fa79e39f:
 
     # Girl" "Ah, err..."
-    "Ragazza <unk> <unk> Ah, err..."
+    "Ragazza" "Ah, err..."
 
 # game/events_j.rpy:1383
 translate italian d7_motel_r_7b8ffb21:
 
     # Girl" "... t-that's what happens in the movie I told you about earlier... haha."
-    "Ragazza <unk> <unk> ... t-è quello che succede nel film ti ho detto di prima... haha."
+    "Ragazza" "... t-è quello che succede nel film ti ho detto di prima... haha."
 
 # game/events_j.rpy:1387
 translate italian d7_motel_r_c21b7fb6:
@@ -4829,8 +4829,8 @@ translate italian d9_morning_wakeup_9c7dcfaa:
 # game/events_j.rpy:1415
 translate italian d9_morning_wakeup_e98df516:
 
-    # j "m "is making breakfast and [e] is still asleep, so I thought I'd wake you up."
-    j "m "sta facendo colazione e [e] sta ancora dormendo, quindi pensavo che ti avrei svegliato."
+    # j "[m] is making breakfast and [e] is still asleep, so I thought I'd wake you up."
+    j "[m] sta facendo colazione e [e] sta ancora dormendo, quindi pensavo che ti avrei svegliato."
 
 # game/events_j.rpy:1416
 translate italian d9_morning_wakeup_e1c3688f:
@@ -6875,70 +6875,70 @@ translate italian d11stepladder_69c85e12:
 translate italian strings:
 
     # game/events_j.rpy:263
-    old "[mschoice] Take her home"
-    new "[mschoice] Portatela a casa"
+    old "Take her home"
+    new "Portatela a casa"
 
     # game/events_j.rpy:263
-    old "[mschoice] Don't take her home"
-    new "[mschoice] Non portarla a casa"
+    old "Don't take her home"
+    new "Non portarla a casa"
 
     # game/events_j.rpy:597
-    old "[mschoice] Kiss her"
-    new "[mschoice] La baci"
+    old "Kiss her"
+    new "La baci"
 
     # game/events_j.rpy:597
-    old "[mschoice] Don't kiss her"
-    new "[mschoice] Non baciarla"
+    old "Don't kiss her"
+    new "Non baciarla"
 
     # game/events_j.rpy:767
-    old "[mschoice] Alright, I guess it's okay for one night."
-    new "[mschoice] Bene, immagino che vada bene per una notte."
+    old "Alright, I guess it's okay for one night."
+    new "Bene, immagino che vada bene per una notte."
 
     # game/events_j.rpy:767
-    old "[mschoice] No, better not."
-    new "[mschoice] No, meglio no."
+    old "No, better not."
+    new "No, meglio no."
 
     # game/events_j.rpy:815
-    old "[mschoice] I'm not really into that."
-    new "[mschoice] Non sono davvero in quello."
+    old "I'm not really into that."
+    new "Non sono davvero in quello."
 
     # game/events_j.rpy:815
-    old "[mschoice] I actually like that!"
-    new "[mschoice] In realtà mi piace!"
+    old "I actually like that!"
+    new "In realtà mi piace!"
 
     # game/events_j.rpy:818
-    old "[mschoice] Okay, fine. If you want it so badly."
-    new "[mschoice] Ok, bene. Se lo vuoi così male."
+    old "Okay, fine. If you want it so badly."
+    new "Ok, bene. Se lo vuoi così male."
 
     # game/events_j.rpy:818
-    old "[mschoice] No, I don't think so."
-    new "[mschoice] No, non penso così."
+    old "No, I don't think so."
+    new "No, non penso così."
 
     # game/events_j.rpy:894
-    old "[mschoice] Grab her ass."
-    new "[mschoice] Afferra il suo culo."
+    old "Grab her ass."
+    new "Afferra il suo culo."
 
     # game/events_j.rpy:1154
-    old "[mschoice] Yes..."
-    new "[mschoice] Sì..."
+    old "Yes..."
+    new "Sì..."
 
     # game/events_j.rpy:1154
-    old "[mschoice] Of course!"
-    new "[mschoice] Certo!"
+    old "Of course!"
+    new "Certo!"
 
     # game/events_j.rpy:1268
-    old "[mschoice] I'm not sure honestly..."
-    new "[mschoice] Non sono sicuro onestamente..."
+    old "I'm not sure honestly..."
+    new "Non sono sicuro onestamente..."
 
     # game/events_j.rpy:1268
-    old "[mschoice] Yeah, sure!"
-    new "[mschoice] Sì, sicuro!"
+    old "Yeah, sure!"
+    new "Sì, sicuro!"
 
     # game/events_j.rpy:1909
-    old "[mschoice] Switch to her ass."
-    new "[mschoice] Passa al suo culo."
+    old "Switch to her ass."
+    new "Passa al suo culo."
 
     # game/events_j.rpy:1909
-    old "[mschoice] Don't."
-    new "[mschoice] No, no."
+    old "Don't."
+    new "No, no."
 

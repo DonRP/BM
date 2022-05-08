@@ -54,7 +54,7 @@ translate italian intro_day1_d72509a6:
 translate italian intro_day1_6c2bd191:
 
     # Voice" "Hello [mrms] [pcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
-    "Voce <unk> <unk> Ciao [mrms] [pcsure], questo è Maggy Shelter. Mi dispiace ma ho cattive notizie per te."
+    "Voce" "Ciao [mrms] [pcsure], questo è Maggy Shelter. Mi dispiace ma ho cattive notizie per te."
 
 # game/intro_day1.rpy:14
 translate italian intro_day1_e76b2b51:
@@ -78,7 +78,7 @@ translate italian intro_day1_7b411acf:
 translate italian intro_day1_5889fa60:
 
     # Maggy" "You know that the apartment burned down?"
-    "Maggy <unk> <unk> Sai che l'appartamento è bruciato?"
+    "Maggy" "Sai che l'appartamento è bruciato?"
 
 # game/intro_day1.rpy:18
 translate italian intro_day1_6742a0b1:
@@ -90,7 +90,7 @@ translate italian intro_day1_6742a0b1:
 translate italian intro_day1_f6bfe289:
 
     # Maggy" "Oh no, that must have been a shock to you."
-    "Maggy <unk> <unk> Oh no, che deve essere stato uno shock per voi."
+    "Maggy" "Oh no, che deve essere stato uno shock per voi."
 
 # game/intro_day1.rpy:20
 translate italian intro_day1_c396e8dd:
@@ -102,7 +102,7 @@ translate italian intro_day1_c396e8dd:
 translate italian intro_day1_fe20b456:
 
     # Maggy" "I'm so sorry [mrms] [pcsure]. Do you have somewhere else to stay?"
-    "Maggy <unk> <unk> Mi dispiace così tanto [mrms] [pcsure]. Hai un altro posto dove rimanere?"
+    "Maggy" "Mi dispiace così tanto [mrms] [pcsure]. Hai un altro posto dove rimanere?"
 
 # game/intro_day1.rpy:22
 translate italian intro_day1_b1b648a5:
@@ -114,7 +114,7 @@ translate italian intro_day1_b1b648a5:
 translate italian intro_day1_1642f9e0:
 
     # Maggy" "That's good to hear."
-    "Maggy <unk> <unk> È bello sentire."
+    "Maggy" "È bello sentire."
 
 # game/intro_day1.rpy:24
 translate italian intro_day1_15ea5f47:
@@ -126,13 +126,13 @@ translate italian intro_day1_15ea5f47:
 translate italian intro_day1_1dd487f2:
 
     # Maggy" "No, I'm sorry [mrms] [pcsure], there are no apartments free at the moment."
-    "Maggy <unk> <unk> No, mi dispiace [mrms] [pcsure], al momento non ci sono appartamenti gratuiti."
+    "Maggy" "No, mi dispiace [mrms] [pcsure], al momento non ci sono appartamenti gratuiti."
 
 # game/intro_day1.rpy:26
 translate italian intro_day1_e734f5df:
 
     # Maggy" "There is not much I can do, but you can be sure to get your money back and I promise to call you as soon as we have another apartment for you."
-    "Maggy <unk> Non c'è molto che posso fare, ma si può essere sicuri di ottenere il vostro denaro indietro e vi prometto di chiamare non appena abbiamo un altro appartamento per voi."
+    "Maggy" "Non c'è molto che posso fare, ma si può essere sicuri di ottenere il vostro denaro indietro e vi prometto di chiamare non appena abbiamo un altro appartamento per voi."
 
 # game/intro_day1.rpy:27
 translate italian intro_day1_6971775b:
@@ -150,7 +150,7 @@ translate italian intro_day1_830b6420:
 translate italian intro_day1_34d02470:
 
     # Maggy" "I... I might... but I have to make a few calls first."
-    "Maggy <unk> I... potremo... ma devo fare un paio di chiamate prima."
+    "Maggy" "I... potremo... ma devo fare un paio di chiamate prima."
 
 # game/intro_day1.rpy:30
 translate italian intro_day1_77c1565b:
@@ -162,7 +162,7 @@ translate italian intro_day1_77c1565b:
 translate italian intro_day1_adf9cc71:
 
     # Maggy" "Don't celebrate just yet. I can't promise anything. I'll try my best, but you should also have a look around for yourself [mrms] [pcsure]."
-    "Maggy <unk> <unk> Non festeggia ancora. Non posso promettere nulla. Proverò il mio meglio, ma dovresti anche avere uno sguardo intorno per te [mrms] [pcsure]."
+    "Maggy" "Non festeggia ancora. Non posso promettere nulla. Proverò il mio meglio, ma dovresti anche avere uno sguardo intorno per te [mrms] [pcsure]."
 
 # game/intro_day1.rpy:32
 translate italian intro_day1_7232f241:
@@ -174,7 +174,7 @@ translate italian intro_day1_7232f241:
 translate italian intro_day1_b61b07dd:
 
     # Maggy" "Okay then, I will call you as soon as I know something [mrms] [pcsure]."
-    "Maggy <unk> <unk> Va bene, allora ti chiamerò non appena conosco qualcosa di [mrms] [pcsure]."
+    "Maggy" "Va bene, allora ti chiamerò non appena conosco qualcosa di [mrms] [pcsure]."
 
 # game/intro_day1.rpy:34
 translate italian intro_day1_8931345c:
@@ -186,7 +186,7 @@ translate italian intro_day1_8931345c:
 translate italian intro_day1_827a732c:
 
     # Maggy" "Good bye [mrms].... ahem, [pc]."
-    "Maggy <unk> <unk> Buon addio [mrms].... ahem, [pc]."
+    "Maggy" "Buon addio [mrms].... ahem, [pc]."
 
 # game/intro_day1.rpy:36
 translate italian intro_day1_a77f3932:
@@ -258,13 +258,13 @@ translate italian intro_day1_c7379241:
 translate italian intro_day1_80fb1595:
 
     # Maggy" "Hey [mrms]..[pc]. Yes I might have something for you, but you have to hurry."
-    "Maggy <unk> <unk> Hey [mrms][pc]. Sì potrei avere qualcosa per voi, ma dovete sbrigarvi."
+    "Maggy" "Hey [mrms][pc]. Sì potrei avere qualcosa per voi, ma dovete sbrigarvi."
 
 # game/intro_day1.rpy:51
 translate italian intro_day1_5b7ef6d3:
 
     # Maggy" "It's an apartment in a nice part of town and it won't take long before it's gone again."
-    "Maggy <unk> <unk> E 'un appartamento in una bella parte della città e non ci vorrà molto prima che sia andato di nuovo."
+    "Maggy" "E 'un appartamento in una bella parte della città e non ci vorrà molto prima che sia andato di nuovo."
 
 # game/intro_day1.rpy:53
 translate italian intro_day1_3dcfbf46:
@@ -276,7 +276,7 @@ translate italian intro_day1_3dcfbf46:
 translate italian intro_day1_3d21c59c:
 
     # Maggy" "Haha, glad to help."
-    "Maggy <unk> Haha, felice di aiutare."
+    "Maggy" "Haha, felice di aiutare."
 
 # game/intro_day1.rpy:56
 translate italian intro_day1_237e9798:
@@ -396,7 +396,7 @@ translate italian intro_day1_e1d2b02a:
 translate italian intro_day1_ec6c00f8:
 
     # Girl" "Of course!"
-    "Ragazza <unk> <unk> Certo!"
+    "Ragazza" "Certo!"
 
 # game/intro_day1.rpy:93
 translate italian intro_day1_f0cac90d:

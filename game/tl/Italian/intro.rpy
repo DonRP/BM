@@ -96,13 +96,13 @@ translate italian intro_6dc07ea8:
 translate italian intro_ef06476f:
 
     # Cab driver" "Alright, that's as close as we can get."
-    "Cab driver <unk> <unk> Alright, che è il più vicino che possiamo ottenere."
+    "Cab driver" "Alright, che è il più vicino che possiamo ottenere."
 
 # game/intro.rpy:26
 translate italian intro_dbcbd63e:
 
     # Cab driver" "As I said earlier, the road is blocked by construction work, but it's not far from here anyway."
-    "Cab driver <unk> <unk> Come ho detto prima, la strada è bloccata dai lavori di costruzione, ma non è lontano da qui comunque."
+    "Cab driver" "Come ho detto prima, la strada è bloccata dai lavori di costruzione, ma non è lontano da qui comunque."
 
 # game/intro.rpy:27
 translate italian intro_25e6aa2b:
@@ -114,7 +114,7 @@ translate italian intro_25e6aa2b:
 translate italian intro_40374778:
 
     # Cab driver" "You know the way?"
-    "Cab driver <unk> <unk> Sai la strada?"
+    "Cab driver" "Sai la strada?"
 
 # game/intro.rpy:29
 translate italian intro_6f4510a3:
@@ -126,7 +126,7 @@ translate italian intro_6f4510a3:
 translate italian intro_f5a5e7ce:
 
     # Cab driver" "'Kay, good luck."
-    "Cab driver <unk> <unk> 'Kay, buona fortuna."
+    "Cab driver" "'Kay, buona fortuna."
 
 # game/intro.rpy:32
 translate italian intro_942da871:
@@ -210,7 +210,7 @@ translate italian intro_9e568e0a:
 translate italian intro_bd5fb625:
 
     # Cop" "Hey! Stop! What do you think you're doing?"
-    "Cop <unk> <unk> Hey! Fermatevi! Cosa pensi che stiate facendo?"
+    "Cop" "Hey! Fermatevi! Cosa pensi che stiate facendo?"
 
 # game/intro.rpy:54
 translate italian intro_f65bf6fb:
@@ -222,7 +222,7 @@ translate italian intro_f65bf6fb:
 translate italian intro_bfb964d4:
 
     # Cop" "Your apartment?"
-    "Cop <unk> <unk> Il tuo appartamento?"
+    "Cop" "Il tuo appartamento?"
 
 # game/intro.rpy:56
 translate italian intro_01afdbd0:
@@ -234,13 +234,13 @@ translate italian intro_01afdbd0:
 translate italian intro_55596f45:
 
     # Cop" "You haven't move in yet, and it's already on fire?"
-    "Cop <unk> <unk> Non si è ancora spostato, ed è già in fiamma?"
+    "Cop" "Non si è ancora spostato, ed è già in fiamma?"
 
 # game/intro.rpy:59
 translate italian intro_d011e9b5:
 
     # Cop" "...that sounds fishy! Let me see your ID!"
-    "Cop <unk> <unk> ...che suona di pesce! Lasciami vedere il tuo ID!"
+    "Cop" "...che suona di pesce! Lasciami vedere il tuo ID!"
 
 # game/intro.rpy:60
 translate italian intro_8be234d7:
@@ -252,7 +252,7 @@ translate italian intro_8be234d7:
 translate italian intro_7144fd86:
 
     # Cop" "Yeah, that's what they all say... Your ID!"
-    "Cop <unk> <unk> Yeah, è quello che tutti dicono... Il tuo ID!"
+    "Cop" "Yeah, è quello che tutti dicono... Il tuo ID!"
 
 # game/intro.rpy:62
 translate italian intro_ddbf7dad:
@@ -264,7 +264,7 @@ translate italian intro_ddbf7dad:
 translate italian intro_a512ea4d:
 
     # Cop" "Listen, [boygirl]! If you don't show me your ID right now, I have some comfortable cuffs and a cosy little holding cell waiting for you."
-    "Cop <unk> <unk> Ascolta, [boygirl]! Se non mi mostri il tuo documento d'identità in questo momento, ho dei polsini confortevoli e una piccola cella accogliente che ti aspetta."
+    "Cop" "Ascolta, [boygirl]! Se non mi mostri il tuo documento d'identità in questo momento, ho dei polsini confortevoli e una piccola cella accogliente che ti aspetta."
 
 # game/intro.rpy:64
 translate italian intro_e617caae:
@@ -294,7 +294,7 @@ translate italian intro_12354bf5:
 translate italian intro_69874e88:
 
     # Cop" "...and you better stay in the city, or you'll be in trouble!"
-    "Cop <unk> <unk> ...ed è meglio soggiornare in città, o sarete nei guai!"
+    "Cop" "...ed è meglio soggiornare in città, o sarete nei guai!"
 
 # game/intro.rpy:71
 translate italian intro_37a87cb8:
@@ -324,7 +324,7 @@ translate italian intro_932e84e0:
 translate italian intro_a09e7d34:
 
     # Receptionist" "Good evening, how can I help you?"
-    "Receptionist <unk> <unk> Buongiorno, come posso aiutarvi?"
+    "Receptionist" "Buongiorno, come posso aiutarvi?"
 
 # game/intro.rpy:81
 translate italian intro_da861a3e:
@@ -336,7 +336,7 @@ translate italian intro_da861a3e:
 translate italian intro_07b4f57e:
 
     # Receptionist" "Uhm... uh-huh, yes..."
-    "Receptionist <unk> <unk> Uhm... uh-huh, sì..."
+    "Receptionist" "Uhm... uh-huh, sì..."
 
 # game/intro.rpy:110
 translate italian intro_31133b56:
@@ -348,13 +348,13 @@ translate italian intro_31133b56:
 translate italian intro_7dc85376:
 
     # Receptionist" "It's room number 24 on the second floor."
-    "Receptionist <unk> <unk> È la stanza numero 24 al secondo piano."
+    "Receptionist" "È la stanza numero 24 al secondo piano."
 
 # game/intro.rpy:114
 translate italian intro_e8b2bd40:
 
     # Receptionist" "Here's the key. Have a pleasant stay!"
-    "Receptionist <unk> <unk> Ecco la chiave. Avere un piacevole soggiorno!"
+    "Receptionist" "Ecco la chiave. Avere un piacevole soggiorno!"
 
 # game/intro.rpy:115
 translate italian intro_0b71a1d8:

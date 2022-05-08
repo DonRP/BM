@@ -311,7 +311,7 @@ translate french flirtyJ_44c4e007:
 # game/events_j.rpy:79
 translate french flirtyJ_89728120:
 
-    # pcthink "e "must have told her that I left in the middle of night without telling anyone back then..."
+    # pcthink "[e] must have told her that I left in the middle of night without telling anyone back then..."
     pcthink "[e], j'aurais dû lui dire que je partais au milieu de la nuit sans prévenir personne à l'époque..."
 
 # game/events_j.rpy:80
@@ -450,7 +450,7 @@ translate french flirtyJ_091ceb88:
 translate french flirtyJ_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:111
 translate french flirtyJ_4a6a5fbf:
@@ -503,7 +503,7 @@ translate french JVREbirthday_b1766523:
 # game/events_j.rpy:134
 translate french JVREbirthday_b509d9ed:
 
-    # {color=#cc5dcd}Girl2{/color}\" \"Yeees, fuck [himher], fuck [himher] \"Landlady\"!"
+    # {color=#cc5dcd}Girl2{/color}" "Yeees, fuck [himher], fuck [himher] \"Landlady\"!"
     "{color=#cc5dcd}Fille2{/color}" "Ouuuii, baise [himher], baise [himher] 'La propriétaire'!"
 
 # game/events_j.rpy:135
@@ -539,7 +539,7 @@ translate french JVREbirthday_1a1fd458:
 # game/events_j.rpy:142
 translate french JVREbirthday_75c7eb86:
 
-    # {color=#cc5dcd}Girl2{/color}\" \"She's going to cum!"
+    # {color=#cc5dcd}Girl2{/color}" "She's going to cum!"
     "{color=#570058}Fille2{/color}" "Elle va jouir !"
 
 # game/events_j.rpy:143
@@ -959,8 +959,8 @@ translate french JVREbirthday_775ef588:
 # game/events_j.rpy:238
 translate french JVREbirthday_5857c488:
 
-    # m "pc "what's the matter? Why did you..."
-    m "pc "qu'est-ce qui se passe ? Pourquoi avez-vous..."
+    # m "[pc] what's the matter? Why did you..."
+    m "[pc] qu'est-ce qui se passe ? Pourquoi avez-vous..."
 
 # game/events_j.rpy:240
 translate french JVREbirthday_0e5440c7:
@@ -978,7 +978,7 @@ translate french JVREbirthday_6f04696f:
 translate french JVREbirthday_e612037c:
 
     # m "..."
-    new "[m]..."
+    "[m]..."
 
 # game/events_j.rpy:243
 translate french JVREbirthday_c629d3d5:
@@ -1080,7 +1080,7 @@ translate french ebdBringJadaHome_76f09948:
 translate french ebdBringJadaHome_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:276
 translate french ebdBringJadaHome_5888978f:
@@ -1236,7 +1236,7 @@ translate french bringJadaHome_b1026e6c:
 translate french bringJadaHome_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:312
 translate french bringJadaHome_302df6d4:
@@ -1266,7 +1266,7 @@ translate french bringJadaHome_95afde2b:
 translate french bringJadaHome_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:317
 translate french bringJadaHome_43861bf6:
@@ -1332,7 +1332,7 @@ translate french bringJadaHome_d2417153:
 translate french bringJadaHome_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:328
 translate french bringJadaHome_04fcda80:
@@ -1344,7 +1344,7 @@ translate french bringJadaHome_04fcda80:
 translate french bringJadaHome_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:331
 translate french bringJadaHome_0f659554:
@@ -1356,7 +1356,7 @@ translate french bringJadaHome_0f659554:
 translate french bringJadaHome_b4fa3fc0_1:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:333
 translate french bringJadaHome_3f8cb39e:
@@ -1404,7 +1404,7 @@ translate french bringJadaHome_4bc9b84a:
 translate french bringJadaHome_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:343
 translate french bringJadaHome_37abd0b4:
@@ -1416,13 +1416,13 @@ translate french bringJadaHome_37abd0b4:
 translate french bringJadaHome_a69377ef_4:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:345
 translate french bringJadaHome_b4fa3fc0_2:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:347
 translate french bringJadaHome_728a3091:
@@ -1440,7 +1440,7 @@ translate french bringJadaHome_9fe99c8b:
 translate french bringJadaHome_a69377ef_5:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:351
 translate french bringJadaHome_4b1e8249:
@@ -1890,7 +1890,7 @@ translate french bjhcum_07366fe2:
 translate french bjhcum_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:496
 translate french bjhcum_6110828c:
@@ -2400,7 +2400,7 @@ translate french d6_wayBackHome_77297a89:
 translate french d6_wayBackHome_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:643
 translate french d6_wayBackHome_abf8fb0a:
@@ -2472,7 +2472,7 @@ translate french d6_wayBackHome_77703424:
 translate french d6_wayBackHome_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:658
 translate french d6_wayBackHome_e4e67e3b:
@@ -2520,7 +2520,7 @@ translate french d6_wayBackHome_15f0c50a:
 translate french d6_wayBackHome_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:666
 translate french d6_wayBackHome_3f5665c0:
@@ -2706,7 +2706,7 @@ translate french d6_wayBackHome_21c28fb8:
 translate french d6_wayBackHome_b4fa3fc0_1:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:706
 translate french d6_wayBackHome_fd1068ce:
@@ -2838,7 +2838,7 @@ translate french d6_gotobed_f1fc8a8f:
 translate french d6_gotobed_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:747
 translate french d6_gotobed_2b2d2253:
@@ -3012,7 +3012,7 @@ translate french d6_gotobed_627ac800:
 translate french d6_gotobed_b4fa3fc0_1:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:799
 translate french d6_gotobed_214c98b3:
@@ -3684,7 +3684,7 @@ translate french d7_motel_cce67052:
 translate french d7_motel_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:1067
 translate french d7_motel_f3fecd9b:
@@ -4026,7 +4026,7 @@ translate french d7_motel_bb817c7d:
 translate french d7_motel_b4fa3fc0_1:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:1150
 translate french d7_motel_10df1efb:
@@ -4362,7 +4362,7 @@ translate french d7_motel_r_0786ed73:
 translate french d7_motel_r_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:1256
 translate french d7_motel_r_c4717d46:
@@ -4518,13 +4518,13 @@ translate french d7_motel_r_6093f043:
 translate french d7_motel_r_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:1318
 translate french d7_motel_r_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:1319
 translate french d7_motel_r_e57c9a72:
@@ -4608,13 +4608,13 @@ translate french d7_motel_r_9245b59d:
 translate french d7_motel_r_a69377ef_2:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:1344
 translate french d7_motel_r_b4fa3fc0_1:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:1346
 translate french d7_motel_r_b4821a29:
@@ -4758,7 +4758,7 @@ translate french d7_motel_r_c21b7fb6:
 translate french d7_motel_r_a69377ef_3:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:1397
 translate french d9_morning_wakeup_a2da44d8:
@@ -4829,8 +4829,8 @@ translate french d9_morning_wakeup_9c7dcfaa:
 # game/events_j.rpy:1415
 translate french d9_morning_wakeup_e98df516:
 
-    # j "m "is making breakfast and [e] is still asleep, so I thought I'd wake you up."
-    j "m "prépare le petit déjeuner et [e] dort encore, alors j'ai pensé te réveiller."
+    # j "[m] is making breakfast and [e] is still asleep, so I thought I'd wake you up."
+    j "[m] prépare le petit déjeuner et [e] dort encore, alors j'ai pensé te réveiller."
 
 # game/events_j.rpy:1416
 translate french d9_morning_wakeup_e1c3688f:
@@ -5514,7 +5514,7 @@ translate french d10pcroombeforekh_3acf70ec:
 translate french d10pcroombeforekh_a69377ef:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:1644
 translate french d10pcroombeforekh_5296d75f:
@@ -5976,7 +5976,7 @@ translate french d10pcroombeforekh_8aaac502:
 translate french d10pcroombeforekh_b4fa3fc0:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:1784
 translate french d10pcroombeforekh_1c2039bb:
@@ -5988,7 +5988,7 @@ translate french d10pcroombeforekh_1c2039bb:
 translate french d10pcroombeforekh_b4fa3fc0_1:
 
     # j "..."
-    new "[j]..."
+    "[j]..."
 
 # game/events_j.rpy:1786
 translate french d10pcroombeforekh_761a3ff7:
@@ -6048,7 +6048,7 @@ translate french d10pcroombeforekh_a02550bc:
 translate french d10pcroombeforekh_a69377ef_1:
 
     # pc "..."
-    new "[pc]..."
+    "[pc]..."
 
 # game/events_j.rpy:1808
 translate french d11jbeforl_fc6983f9:
@@ -6875,70 +6875,70 @@ translate french d11stepladder_69c85e12:
 translate french strings:
 
     # game/events_j.rpy:263
-    old "[mschoice] Take her home"
-    new "[mschoice] La ramener-la à la maison"
+    old "Take her home"
+    new "La ramener-la à la maison"
 
     # game/events_j.rpy:263
-    old "[mschoice] Don't take her home"
-    new "[mschoice] Ne pas la ramener à la maison"
+    old "Don't take her home"
+    new "Ne pas la ramener à la maison"
 
     # game/events_j.rpy:597
-    old "[mschoice] Kiss her"
-    new "[mschoice] L'embrasser"
+    old "Kiss her"
+    new "L'embrasser"
 
     # game/events_j.rpy:597
-    old "[mschoice] Don't kiss her"
-    new "[mschoice] Ne pas l'embrasser"
+    old "Don't kiss her"
+    new "Ne pas l'embrasser"
 
     # game/events_j.rpy:767
-    old "[mschoice] Alright, I guess it's okay for one night."
-    new "[mschoice] D'accord, je suppose que c'est bon pour une nuit."
+    old "Alright, I guess it's okay for one night."
+    new "D'accord, je suppose que c'est bon pour une nuit."
 
     # game/events_j.rpy:767
-    old "[mschoice] No, better not."
-    new "[mschoice] Non, il vaut mieux pas."
+    old "No, better not."
+    new "Non, il vaut mieux pas."
 
     # game/events_j.rpy:815
-    old "[mschoice] I'm not really into that."
-    new "[mschoice] Je ne suis pas vraiment dans ce domaine."
+    old "I'm not really into that."
+    new "Je ne suis pas vraiment dans ce domaine."
 
     # game/events_j.rpy:815
-    old "[mschoice] I actually like that!"
-    new "[mschoice] J'aime bien ça en fait !"
+    old "I actually like that!"
+    new "J'aime bien ça en fait !"
 
     # game/events_j.rpy:818
-    old "[mschoice] Okay, fine. If you want it so badly."
-    new "[mschoice] Ok, bien. Si tu le veux tellement."
+    old "Okay, fine. If you want it so badly."
+    new "Ok, bien. Si tu le veux tellement."
 
     # game/events_j.rpy:818
-    old "[mschoice] No, I don't think so."
-    new "[mschoice] Non, je ne pense pas."
+    old "No, I don't think so."
+    new "Non, je ne pense pas."
 
     # game/events_j.rpy:894
-    old "[mschoice] Grab her ass."
-    new "[mschoice] Attraper son cul."
+    old "Grab her ass."
+    new "Attraper son cul."
 
     # game/events_j.rpy:1154
-    old "[mschoice] Yes..."
-    new "[mschoice] Oui..."
+    old "Yes..."
+    new "Oui..."
 
     # game/events_j.rpy:1154
-    old "[mschoice] Of course!"
-    new "[mschoice] Bien sûr !"
+    old "Of course!"
+    new "Bien sûr !"
 
     # game/events_j.rpy:1268
-    old "[mschoice] I'm not sure honestly..."
-    new "[mschoice] Je ne suis pas sûr honnêtement..."
+    old "I'm not sure honestly..."
+    new "Je ne suis pas sûr honnêtement..."
 
     # game/events_j.rpy:1268
-    old "[mschoice] Yeah, sure!"
-    new "[mschoice] Oui, bien sûr !"
+    old "Yeah, sure!"
+    new "Oui, bien sûr !"
 
     # game/events_j.rpy:1909
-    old "[mschoice] Switch to her ass."
-    new "[mschoice] Passer à son cul."
+    old "Switch to her ass."
+    new "Passer à son cul."
 
     # game/events_j.rpy:1909
-    old "[mschoice] Don't."
-    new "[mschoice] Ne pas le faire."
+    old "Don't."
+    new "Ne pas le faire."
 
