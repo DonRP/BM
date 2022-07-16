@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-04 01:57\n"
+"PO-Revision-Date: 2022-07-16 23:15\n"
 
-# TODO: Translation updated at 2022-04-03 HH:HH# XXtranslate crowdin strings:XX# XX## game/options.rpy:15
+# TODO: Translation updated at 2022-07-16 HH:HH# XXtranslate crowdin strings:XX# XX## game/options.rpy:15
 msgid "[mschoice] Bad Memories"
 msgstr "[mschoice] Memorie errate"
 
