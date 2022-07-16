@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-05-03 20:31\n"
+"PO-Revision-Date: 2022-07-16 23:15\n"
 
-# TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day1.rpy:3 ## translate crowdin intro_day1_26086d61:
+# TODO: Translation updated at 2022-07-16 HH:HH# game/intro_day1.rpy:3 ## translate crowdin intro_day1_26086d61:
 msgid "[n] Next Day [withdissolve]"
 msgstr "[n] Jour suivant [withdissolve]"
 
