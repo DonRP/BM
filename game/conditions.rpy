@@ -26,6 +26,9 @@ default daylyActions = 15
 default livingHomeDays = 0
 default actionsUsed = 0
 default currentDay = 0
+default weekDay = False
+default wdList = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+default wdToday = ""
 
 default wday = tomorrow.strftime("%A")
 default day = tomorrow.strftime("%d.")
@@ -98,6 +101,7 @@ default gotoschool = True
 default vhd11 = True
 default mabjdeep = False
 default malickclit = False
+default mindplayer = False
 
 # dayly reset variables
 default bathscene1 = 0
@@ -111,6 +115,7 @@ default workTime = False
 default campov = False
 default pov1 = "nope.jpg"
 default pov2 = "nope.jpg"
+default povstart = True
 
 #music
 default mainbgm = "audio/BMBG.mp3"
@@ -122,6 +127,42 @@ default edress1a2 = renpy.random.randint(1, 2)
 default edress1a3 = renpy.random.choice([1, 3])
 
 # video anims
+init python:
+    class PlayLoop():
+        def __init__(self, mov, loops=True):
+            self.mov = mov
+            self.loops = loops
+
+        def play(self):
+            if not self.mov:
+                return
+            store._skipping = False
+            config.skipping = None
+            #store.suppress_overlay = True
+            c = renpy.get_registered_image(self.mov).channel
+            renpy.show(self.mov)
+            d = None
+            while not d:
+                renpy.ui.pausebehavior(.001, False)
+                rv = renpy.ui.interact()
+                d = renpy.music.get_duration(c)
+            while self.loops:
+                renpy.ui.saybehavior()
+                renpy.ui.pausebehavior(d, False)
+                rv = renpy.ui.interact()
+                if rv: break
+                if self.loops is not True: self.loops -= 1
+            p = None
+            while not p:
+                renpy.ui.pausebehavior(.001, False)
+                rv = renpy.ui.interact()
+                p = renpy.music.get_pos(c)
+            r = d - p
+            renpy.pause(r, hard=True)
+            renpy.hide(self.mov)
+            store.suppress_overlay = False
+            store._skipping = True
+            
 image porn_vr4 = Movie(play="anim/porn_vr4_30.webm")
 image es_02 = Movie(play="/anim/es02.webm")
 image d6jfinsert = Movie(play="anim/d6_jf_insert.webm", loop=False)
@@ -181,6 +222,45 @@ image d11maggyf3 = Movie(play="anim/d11maggy73f3_00.webm",start_image="jpg/d11ma
 image d11maggym1 = Movie(play="anim/mabj1_00.webm",start_image="jpg/mabj1_00.jpg",image="jpg/mabj1_00.jpg")
 image d11maggym2 = Movie(play="anim/mabj2_00.webm",start_image="jpg/mabj2_00.jpg",image="jpg/mabj2_00.jpg")
 
+image khj10_1 = Movie(play="anim/d11katvisithj10_1_00.webm", start_image="jpg/d11katvisithj10_1_00.jpg", image="jpg/d11katvisithj11_1_00.jpg")
+image khj10_2 = Movie(play="anim/d11katvisithj10_2_00.webm", start_image="jpg/d11katvisithj10_2_00.jpg", image="jpg/d11katvisithj11_2_00.jpg")
+image khj11_1 = Movie(play="anim/d11katvisitbj2_1.webm", start_image="jpg/d11katvisithj11_1_00.jpg", image="jpg/d11katvisithj14_1_00.jpg")
+image khj11_2 = Movie(play="anim/d11katvisitbj2_2.webm", start_image="jpg/d11katvisithj11_2_00.jpg", image="jpg/d11katvisithj14_1_00.jpg")
+image khj14_1 = Movie(play="anim/d11katvisithj14_1_00.webm", start_image="jpg/d11katvisithj14_1_00.jpg", image="jpg/d11katvisithj14_1_00.jpg")
+image khj14_2 = Movie(play="anim/d11katvisithj14_2_00.webm", start_image="jpg/d11katvisithj14_2_00.jpg", image="jpg/d11katvisithj14_2_00.jpg")
+image khj2bj = Movie(play="anim/d11katvisithj2bj.webm", start_image="jpg/d11katvisithj2_00.jpg", image="jpg/d11katvisithj10_1_00.jpg")
+
+image kgrind1 = Movie(play="anim/d11katvisit147_00.webm", start_image="jpg/d11katvisit147_00.jpg", image="jpg/d11katvisit147_3_00.jpg")
+image kgrind2 = Movie(play="anim/d11katvisit147_2_00.webm", start_image="jpg/d11katvisit147_2_00.jpg", image="jpg/d11katvisit147_2_00.jpg")
+image kgrind3 = Movie(play="anim/d11katvisit147_3_00.webm", start_image="jpg/d11katvisit147_3_00.jpg", image="jpg/d11katvisit147_00.jpg")
+image kinsert1 = Movie(play="anim/d11katvisit148_1_00.webm", start_image="jpg/d11katvisit148_1_00.jpg", image="jpg/d11katvisit149_00_i.jpg", loop=0)
+image kinsert2 = Movie(play="anim/d11katvisit149_00_i.webm", start_image="jpg/d11katvisit149_00_i.jpg", image="jpg/d11katvisit150_00_i.jpg", loop=0)
+image kinsert3 = Movie(play="anim/d11katvisit150_00_i.webm", start_image="jpg/d11katvisit150_00_i.jpg", image="jpg/d11katvisit150_58_i.jpg", loop=0)
+image kinsert4 = Movie(play="anim/d11katvisit157_000_i.webm", start_image="jpg/d11katvisit157_000_i.jpg", image="jpg/d11katvisit157.jpg", loop=0)
+
+image kf1 = Movie(play="anim/d11katvisit160_000_i.webm", start_image="jpg/d11katvisit160_000_i.jpg", image="jpg/d11katvisit160_000_i.jpg")
+image kf2 = Movie(play="anim/d11katvisit160_2.webm", start_image="jpg/d11katvisit160_2_000_i.jpg", image="jpg/d11katvisit160_2_000_i.jpg")
+image kf3 = Movie(play="anim/d11katvisit160_3.webm", start_image="jpg/d11katvisit160_3_000_i.jpg", image="jpg/d11katvisit160_3_000_i.jpg")
+
+image kli1 = Movie(play="anim/d11katvisitpp1_00.webm", start_image="jpg/d11katvisitpp1_00.jpg", image="jpg/d11katvisitpp1_00.jpg")
+image kli2 = Movie(play="anim/d11katvisitpp2.webm", start_image="jpg/d11katvisitpp2_00.jpg", image="jpg/d11katvisitpp3_00.jpg")
+image kli3 = Movie(play="anim/d11katvisitpp5.webm", start_image="jpg/d11katvisitpp5_00.jpg", image="jpg/d11katvisitpp5_00.jpg")
+image kli4 = Movie(play="anim/d11katvisitpp4_2_00.webm", start_image="jpg/d11katvisitpp4_2_00.jpg", image="jpg/d11katvisitpp4_2_00.jpg")
+
+
+image d12mfm1 = Movie(play="anim/d12mfm1.webm", start_image="jpg/d12mfm1_00.jpg", image="jpg/d12mfm1_00.jpg")
+image d12mfm2 = Movie(play="anim/d12mfm2.webm", start_image="jpg/d12mfm2_00.jpg", image="jpg/d12mfm2_00.jpg")
+image d12mfm3 = Movie(play="anim/d12mfm3.webm", start_image="jpg/d12mfm3_00.jpg", image="jpg/d12mfm3_00.jpg")
+image d12mfm4 = Movie(play="anim/d12mfm4.webm", start_image="jpg/d12mfm4_00.jpg", image="jpg/d12mfm4_00.jpg")
+image d12mfm5 = Movie(play="anim/d12mfm5.webm", start_image="jpg/d12mfm5_00.jpg", image="jpg/d12mfm5_00.jpg")
+image d12mfm5cum = Movie(play="anim/d12mfm5cum_30.webm", start_image="jpg/d12mfm5cum_00.jpg", image="jpg/d12morning45_m.jpg")
+
+
+image d12mff2 = Movie(play="anim/d12mff2.webm", start_image="jpg/d12mff2_000.jpg", image="jpg/d12mff2_179.jpg")
+image d12mff3 = Movie(play="anim/d12mff3.webm", start_image="jpg/d12mff4_00.jpg", image="jpg/d12mff4_00.jpg")
+image d12mff5 = Movie(play="anim/d12mff5.webm", start_image="jpg/d12mff5_00.jpg", image="jpg/d12mff5_00.jpg")
+image d12mff6 = Movie(play="anim/d12mff6.webm", start_image="jpg/d12mff6_00.jpg", image="jpg/d12mff6_00.jpg")
+image d12mff7 = Movie(play="anim/d12mff7.webm", start_image="jpg/d12mff7_00.jpg", image="jpg/d12mff7_00.jpg")
 
 # video switch
 image brTitties = ConditionSwitch(
@@ -292,6 +372,13 @@ image d11jf1 = ConditionSwitch(
 image d11jf2 = ConditionSwitch(
     "pcgender == 'woman'", Movie(play="anim/d11jlick1_00.webm"),
     "True", Movie(play="anim/jfuck2_00.webm"))
+    
+image d12mf = ConditionSwitch(
+    "pcgender == 'woman'", "d12mff3",
+    "True", Movie(play="anim/d12mfm3.webm", start_image="jpg/d12mfm3_00.jpg", image="jpg/d12mfm3_00.jpg"))
+image d12mf2 = ConditionSwitch(
+    "pcgender == 'woman'", "d12mff5",
+    "True", "d12mfm5")
 # Image switch
 image pcwalk = ConditionSwitch(
     "pcgender == 'woman'", "/jpg/pc walk fem.jpg",
@@ -1718,6 +1805,379 @@ image d11bhpcroom02= ConditionSwitch(
     "pcgender == 'woman'", "/jpg/d11bhpcroom02_f.jpg",
     "True", "/jpg/d11bhpcroom02.jpg")
     
+image d11katvisit51= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit51_f.jpg",
+    "True", "/jpg/d11katvisit51.jpg")
+image d11katvisit52= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit52_f.jpg",
+    "True", "/jpg/d11katvisit52.jpg")
+image d11katvisit53= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit53_f.jpg",
+    "True", "/jpg/d11katvisit53.jpg")
+image d11katvisit54= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit54_f.jpg",
+    "True", "/jpg/d11katvisit54.jpg")
+image d11katvisit55= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit55_f.jpg",
+    "True", "/jpg/d11katvisit55.jpg")
+image d11katvisit56= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit56_f.jpg",
+    "True", "/jpg/d11katvisit56.jpg")
+image d11katvisit53= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit53_f.jpg",
+    "True", "/jpg/d11katvisit53.jpg")
+image d11katvisit54= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit54_f.jpg",
+    "True", "/jpg/d11katvisit54.jpg")
+image d11katvisit55= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit55_f.jpg",
+    "True", "/jpg/d11katvisit55.jpg")
+image d11katvisit56= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit56_f.jpg",
+    "True", "/jpg/d11katvisit56.jpg")
+image d11katvisit63= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit63_f.jpg",
+    "True", "/jpg/d11katvisit63.jpg")
+image d11katvisit64= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit64_f.jpg",
+    "True", "/jpg/d11katvisit64.jpg")
+image d11katvisit82= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit82_f.jpg",
+    "True", "/jpg/d11katvisit82.jpg")
+image d11katvisit88= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit88_f.jpg",
+    "True", "/jpg/d11katvisit88.jpg")
+image d11katvisit89= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit89_f.jpg",
+    "True", "/jpg/d11katvisit89.jpg")
+image d11katvisit90= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit90_f.jpg",
+    "True", "/jpg/d11katvisit90.jpg")
+image d11katvisit91= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit91_f.jpg",
+    "True", "/jpg/d11katvisit91.jpg")
+image d11katvisit92a= ConditionSwitch(
+    "pcgender == 'woman'", Movie(play="anim/d11katvisit92fa.webm",start_image="jpg/d11katvisit92_f.jpg",image="jpg/d11katvisit92_f.jpg"),
+    "True", Movie(play="anim/d11katvisit92ma.webm",start_image="jpg/d11katvisit92.jpg",image="jpg/d11katvisit92.jpg"))
+image d11katvisit103= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit103_f.jpg",
+    "True", "/jpg/d11katvisit103.jpg")
+image d11katvisit104= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit104_f.jpg",
+    "True", "/jpg/d11katvisit104.jpg")
+image d11katvisit104a:
+    "d11katvisit103" with dissolve
+    pause 1.5
+    "d11katvisit104" with dissolve
+    pause 1.5
+    repeat
+image d11katvisit105= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit105_f.jpg",
+    "True", "/jpg/d11katvisit105.jpg")
+image d11katvisit106= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit106_f.jpg",
+    "True", "/jpg/d11katvisit106.jpg")
+image d11katvisit107= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit107_f.jpg",
+    "True", "/jpg/d11katvisit107.jpg")
+image d11katvisit113ma2= ConditionSwitch(
+    "pcgender == 'woman'", Movie(play="anim/d11katvisit113fa2_00.webm",start_image="jpg/d11katvisit113fa2_00.jpg",image="jpg/d11katvisit113fa2_00.jpg"),
+    "True", Movie(play="anim/d11katvisit113ma2_00.webm",start_image="jpg/d11katvisit113ma2_00.jpg",image="jpg/d11katvisit113ma2_00.jpg"))
+image d11katvisit121= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit121_f.jpg",
+    "True", "/jpg/d11katvisit121.jpg")
+image d11katvisit122= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit122_f.jpg",
+    "True", "/jpg/d11katvisit122.jpg")
+image d11katvisit125= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit125_f.jpg",
+    "True", "/jpg/d11katvisit125.jpg")
+image d11katvisit126= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit126_f.jpg",
+    "True", "/jpg/d11katvisit126.jpg")
+image d11katvisit127= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit127_f.jpg",
+    "True", "/jpg/d11katvisit127.jpg")
+image d11katvisit128= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit128_f.jpg",
+    "True", "/jpg/d11katvisit128.jpg")
+image d11katvisit129= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit129_f.jpg",
+    "True", "/jpg/d11katvisit129.jpg")
+image d11katvisit130m= ConditionSwitch(
+    "campov", "/jpg/d11katvisit130_2.jpg",
+    "True", "/jpg/d11katvisit130_1.jpg")
+image d11katvisit130= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit130_f.jpg",
+    "True", "d11katvisit130m")
+image d11katvisit131= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit131_f.jpg",
+    "True", "/jpg/d11katvisit131.jpg")
+image d11katvisit132= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit132_f.jpg",
+    "True", "/jpg/d11katvisit132.jpg")
+image d11katvisit133= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit133_f.jpg",
+    "True", "/jpg/d11katvisit133.jpg")
+image d11katvisit164= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit164_f.jpg",
+    "True", "/jpg/d11katvisit164.jpg")
+    
+image d11katvisit212= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit212_f.jpg",
+    "True", "/jpg/d11katvisit212.jpg")
+image d11katvisit213= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit213_f.jpg",
+    "True", "/jpg/d11katvisit213.jpg")
+image d11katvisit216= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit216_f.jpg",
+    "True", "/jpg/d11katvisit216.jpg")
+image d11katvisit217= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit217_f.jpg",
+    "True", "/jpg/d11katvisit217.jpg")
+image d11katvisit218= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit218_f.jpg",
+    "True", "/jpg/d11katvisit218.jpg")
+image d11katvisit219= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit219_f.jpg",
+    "True", "/jpg/d11katvisit219.jpg")
+image d11katvisit220= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit220_f.jpg",
+    "True", "/jpg/d11katvisit220.jpg")
+image d11katvisit222= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit222_f.jpg",
+    "True", "/jpg/d11katvisit222.jpg")
+image d11katvisit223_2= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit223_2_f.jpg",
+    "True", "/jpg/d11katvisit223_2.jpg")
+image d11katvisit224= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit224_f.jpg",
+    "True", "/jpg/d11katvisit224.jpg")
+image d11katvisit225= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit225_f.jpg",
+    "True", "/jpg/d11katvisit225.jpg")
+image d11katvisit226= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit226_f.jpg",
+    "True", "/jpg/d11katvisit226.jpg")
+image d11katvisit227= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit227_f.jpg",
+    "True", "/jpg/d11katvisit227.jpg")
+image d11katvisit228= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit228_f.jpg",
+    "True", "/jpg/d11katvisit228.jpg")
+image d11katvisit229= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit229_f.jpg",
+    "True", "/jpg/d11katvisit229.jpg")
+image d11katvisit230= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit230_f.jpg",
+    "True", "/jpg/d11katvisit230.jpg")
+image d11katvisit231= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit231_f.jpg",
+    "True", "/jpg/d11katvisit231.jpg")
+image d11katvisit232= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit232_f.jpg",
+    "True", "/jpg/d11katvisit232.jpg")
+image d11katvisit233= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit233_f.jpg",
+    "True", "/jpg/d11katvisit233.jpg")
+image d11katvisit234= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit234_f.jpg",
+    "True", "/jpg/d11katvisit234.jpg")
+image d11katvisit242= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit242_f.jpg",
+    "True", "/jpg/d11katvisit242.jpg")
+image d11katvisit245= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit245_f.jpg",
+    "True", "/jpg/d11katvisit245.jpg")
+    
+image d11katvisit224_5= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit224_5.jpg",
+    "True", "/jpg/d11katvisit224_5_m.jpg")
+    
+    
+image d11katvisit275= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit275_f.jpg",
+    "True", "/jpg/d11katvisit275.jpg")
+image d11katvisit278= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit278_f.jpg",
+    "True", "/jpg/d11katvisit278.jpg")
+image d11katvisit279= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11katvisit279_f.jpg",
+    "True", "/jpg/d11katvisit279.jpg")
+    
+image d11ev05_2= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11ev05_2_f.jpg",
+    "True", "/jpg/d11ev05_2.jpg")
+image d11ev05_2_e= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11ev05_2_f_e.jpg",
+    "True", "/jpg/d11ev05_2_e.jpg")
+image d11ev05_2_j= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11ev05_2_f_j.jpg",
+    "True", "/jpg/d11ev05_2_j.jpg")
+    
+image d11ev42= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11ev42.jpg",
+    "True", "/jpg/d11ev42_m.jpg")
+    
+image d11evpcroom28= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evpcroom28_f.jpg",
+    "True", "/jpg/d11evpcroom28.jpg")
+image d11evpcroom29= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evpcroom29_f.jpg",
+    "True", "/jpg/d11evpcroom29.jpg")
+image d11evpcroom30= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evpcroom30_f.jpg",
+    "True", "/jpg/d11evpcroom30.jpg")
+image d11evpcroom31= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evpcroom31_f.jpg",
+    "True", "/jpg/d11evpcroom31.jpg")
+image d11evpcroom32= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evpcroom32_f.jpg",
+    "True", "/jpg/d11evpcroom32.jpg")
+image d11evpcroom33= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evpcroom33_f.jpg",
+    "True", "/jpg/d11evpcroom33.jpg")
+image d11evpcroom34= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evpcroom34_f.jpg",
+    "True", "/jpg/d11evpcroom34.jpg")
+image d11evpcroom35= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evpcroom35_f.jpg",
+    "True", "/jpg/d11evpcroom35.jpg")
+image d11evpcroom36= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evpcroom36_f.jpg",
+    "True", "/jpg/d11evpcroom36.jpg")
+image d11evpcroom37= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evpcroom37_f.jpg",
+    "True", "/jpg/d11evpcroom37.jpg")
+image d11evpcroom38= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evpcroom38_f.jpg",
+    "True", "/jpg/d11evpcroom38.jpg")
+image d11evpcroom39= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evpcroom39_f.jpg",
+    "True", "/jpg/d11evpcroom39.jpg")
+image d11evpcroom40= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evpcroom40_f.jpg",
+    "True", "/jpg/d11evpcroom40.jpg")
+image d11evpcroom43= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evpcroom43_f.jpg",
+    "True", "/jpg/d11evpcroom43.jpg")
+    
+image d11evhall24= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evhall24.jpg",
+    "True", "/jpg/d11evhall24_m.jpg")
+image d11evhall25= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evhall25.jpg",
+    "True", "/jpg/d11evhall25_m.jpg")
+image d11evhall26= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11evhall26.jpg",
+    "True", "/jpg/d11evhall26_m.jpg")
+    
+image d11night01= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night01_f.png",
+    "True", "/jpg/d11night01.png")
+image d11night02= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night02_f.png",
+    "True", "/jpg/d11night02.png")
+image d11night03= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night03_f.png",
+    "True", "/jpg/d11night03.png")
+image d11night04= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night04_f.png",
+    "True", "/jpg/d11night04.png")
+image d11night05= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night05_f.png",
+    "True", "/jpg/d11night05.png")
+image d11night06= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night06_f.png",
+    "True", "/jpg/d11night06.png")
+image d11night07= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night07_f.png",
+    "True", "/jpg/d11night07.png")
+image d11night08= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night08_f.png",
+    "True", "/jpg/d11night08.png")
+image d11night09= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night09_f.jpg",
+    "True", "/jpg/d11night09.jpg")
+image d11night09_0= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night09_0_f.jpg",
+    "True", "/jpg/d11night09_0.jpg")
+image d11night10= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night10_f.jpg",
+    "True", "/jpg/d11night10.jpg")
+image d11night11= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night11_f.jpg",
+    "True", "/jpg/d11night11.jpg")
+    
+image d11night07_2= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night07_2.png",
+    "True", "/jpg/d11night07_2_m.png")
+image d11night08_2= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night08_2.png",
+    "True", "/jpg/d11night08_2_m.png")
+image d11night09_2= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night09_2.jpg",
+    "True", "/jpg/d11night09_2_m.jpg")
+image d11night09_0_2= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d11night09_0_2.jpg",
+    "True", "/jpg/d11night09_0_2_m.jpg")
+    
+image d12breakfast04= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d12breakfast04_f.jpg",
+    "True", "/jpg/d12breakfast04.jpg")
+    
+image d12morning30= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d12morning30.jpg",
+    "True", "/jpg/d12morning30_m.jpg")
+image d12morning31= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d12morning31.jpg",
+    "True", "/jpg/d12morning31_m.jpg")
+image d12morning32= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d12morning32.jpg",
+    "True", "/jpg/d12morning32_m.jpg")
+image d12morning32_2= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d12morning32_2.jpg",
+    "True", "/jpg/d12morning32_2_m.jpg")
+image d12morning32_3= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d12morning32_3.jpg",
+    "True", "/jpg/d12morning32_3_m.jpg")
+image d12morning33= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d12morning33.jpg",
+    "True", "/jpg/d12morning33_m.jpg")
+image d12morning33_2= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d12morning33_2.jpg",
+    "True", "/jpg/d12morning33_2_m.jpg")
+image d12morning33_3= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d12morning33_3.jpg",
+    "True", "/jpg/d12morning33_3_m.jpg")
+image d12morning33_4= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d12morning33_4.jpg",
+    "True", "/jpg/d12morning33_4_m.jpg")
+image d12morning34= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d12morning34.jpg",
+    "True", "/jpg/d12morning34_m.jpg")
+image d12morning35= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d12morning35.jpg",
+    "True", "/jpg/d12morning35_m.jpg")
+    
+image d12morning42= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d12morning42.jpg",
+    "True", "/jpg/d12morning42_m.jpg")
+image d12morning43= ConditionSwitch(
+    "pcgender == 'woman'", "/jpg/d12morning43.jpg",
+    "True", "/jpg/d12morning43_m.jpg")
+    
+image d12morning47= ConditionSwitch(
+    "pcgender == 'woman'"," d12morning47_f",
+    "True", "d12morning47_m")
+image d12morning48= ConditionSwitch(
+    "pcgender == 'woman'", "d12morning48_f",
+    "True", "d12morning48_m")
+image d12morning57= ConditionSwitch(
+    "pcgender == 'woman'", "d12morning57_f",
+    "True", "d12morning57_m")
+
+    
 label dateTime:
 
     $ daylyActions = daylyActions-actionsUsed
@@ -1726,6 +2186,12 @@ label dateTime:
     else:
         $ workTime = True
     if daylyActions <= 0:
+        if weekDay:
+            $ wdToday =  wdList[(weekDay%7)]
+            if weekDay == 6:
+                $ weekday = 0
+            else:
+                $ weekDay +=1
         $ bathscene1 = 0
         $ bathscene2 = 0
         $ bathscene3 = 0
@@ -1740,7 +2206,7 @@ label dateTime:
         $ gotowork = True
         $ currentDay = "Day " + str(livingHomeDays)
         scene black with fade
-        n "[currentDay]"
+        n "{size=+30}[currentDay]{/size}"
         window hide
         pause 2
         jump pcroom

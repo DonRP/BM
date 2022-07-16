@@ -40,7 +40,7 @@ label intro_day2:
     "Dad" "It's okay, she was too stupid to watch where she was going and stumbled over something."
     "Dad" "It's just a scratch, she's fine. Go to bed now."
     pc "Oh... okay."
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     n "He closes the door."
     n "..."
     "Dad" "{size=-10}Are you happy now? You woke [himher] up with your stupid screaming!{/size}"

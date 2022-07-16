@@ -65,7 +65,7 @@ label kitchenBreakfastDay0:
     scene livingroom diningtable elookatm with dissolve
     m "[e], don't you want to eat something?"
     scene livingroom diningtable eeat with dissolve
-    m "Alright, I'm going to make myself ready for work."
+    m "Alright, I'm going to get myself ready for work."
     scene livingroom diningtable ellie eat with dissolve
     m "[e] eat up, okay?"
     scene livingroom dinigtable ellie look with dissolve
@@ -218,11 +218,11 @@ label wakeupDay1:
     pc "FUCK!"
     m "Hahaha, don't worry, Hun. I have seen that before... even though, you've obviously become a [pcgender]..."
     scene pcroom wakeup pcleanup with dissolve
-    pc "Yeah, could you leave the room please!"
+    pc "Yeah, could you leave the room please?!"
     m "Hahaha, of course, I'm sorry honey."
     scene pcroom wakeup pcleanup doorclosed with dissolve
     pcthink "Shit! I was so surprised by [e] that I didn't think about sleeping naked..."
-    pcthink "That was embarassing..."
+    pcthink "That was embarrassing..."
     if pcgender == "man":
         pcthink "Especially with that morning wood..."
         pcthink "Wait, did [e] see that too?"
@@ -383,7 +383,7 @@ label getEfromSchool1:
     pc "You're coming with us?"
     j "Of course!"
     scene school jande look away back2 with dissolve
-    j "Someone has to make sure that a specific young lady doesn't get herself into trouble."
+    j "Someone has to make sure that a certain young lady doesn't get herself into trouble."
     pc "Eh... Not that I mind you coming with us, but I'm sure I can handle that."
     j "No you can't."
     pc "What? Why is that?"
@@ -500,7 +500,7 @@ label haremChoice:
     scene pcroom aftersmack4 with dissolve
     j "I bet [heshe] wouldn't mind if we did share, hehe... right [pc]?"
     pc "Eh...?"
-    pcthink "Did she just imply a threesome? WTF! How am I supposed to answer to that?"
+    pcthink "Did she just imply a threesome? Holy shit! How am I supposed to answer to that?"
     pcthink "Damn, if this would be one these adult games, this would probably be the harem choice..."
     menu:
         "{i}(Damn, I love the idea...){/i}":
@@ -546,7 +546,7 @@ label haremChoice:
         ###########
     pcthink "Damn, did [j] just stare at [m]s tits?!"
     scene pcroom rachelenter jandeleft with dissolve
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     m "Humph..."
     pcthink "Why is she closing the door?"
     scene pcroom rachelenter jandeleft2 with dissolve
@@ -720,7 +720,7 @@ label pcCityDay3:
             scene black with dissolve
             pcthink "Wow, she seemed kind of nervous at first... because of me?"
             pcthink "Cute..."
-        "Say good bye and leave.":
+        "Say bye and leave.":
             scene coffeehouse2_5 with dissolve
             pc "Yeah, well I have to go now. Bye..."
             scene black with dissolve
@@ -757,7 +757,7 @@ label pcCityDay3:
     pc "I'm back..."
     pcthink "...looks like [m] and [e] aren't back yet."
     scene black with dissolve
-    n "You hide the mobile in your room and after a while waiting for [m] and [e] to return you decide to spend some time watching TV."
+    n "You hide the mobile in your room and after waiting a while for [m] and [e] to return, you decide to spend some time watching TV."
     scene livingroom ttv with dissolve
     "Reporter" "...building that burned down a few days ago."
     "Reporter" "The man responsible for the fire stated that he wanted to protect his wife from becoming corrupted by another man."
@@ -1102,7 +1102,7 @@ label officeFirst:
     "Woman" "I... C.J... the boss asked me to bring in some papers."
     pc "He's here, too?"
     "Woman" "Yes, like almost every Sunday."
-    pcthink "WTF, he must be a workaholic..."
+    pcthink "Damn, he must be a workaholic..."
     pc "Every Sunday?"
     scene job intro3 with dissolve
     "Woman" "Yes... I can tell him that you are here."
@@ -1125,7 +1125,7 @@ label officeFirst:
     pc "Damn, this building is larger than I'd expected it to be..."
     scene black with dissolve
     pause 1
-    st "C.J, I have the papers you asked for."
+    st "[boss], I have the papers you asked for."
     boss "Oh good, thanks, [st]."
     st "There is something else..."
     scene boss_buro1 with dissolve
@@ -1135,7 +1135,7 @@ label officeFirst:
     pc "Err... yeah, I actually just wanted to have a look at the office, but then it started to rain and Stephanie was nice enough to let me in."
     boss "Anyway, nice to meet you."
     scene boss_buro3 with dissolve
-    boss "[st], why don't you go and get yourself and [pc] a towel to get dry with."
+    boss "[st], why don't you go and get yourself and [pc] a towel to get dry with?"
     st "Yes, [boss]."
     scene boss_buro4 with dissolve
     boss "You should have called me, I'd have let you in."
@@ -1151,7 +1151,7 @@ label officeFirst:
     boss "Ha! That's nothing. We're just doing the rough tasks here, but I've seen your work, now {b}that's{/b} impressive. You're a true artist."
     pc "Thanks, I do my best."
     scene boss_buro7 with dissolve
-    boss "That's why I hired you. Now let's sit down, there are a few things I need from you asap!"
+    boss "That's why I hired you. Now let's sit down, there are a few things I need from you ASAP!"
     scene black with fade
     n "After a quick introduction he tells you about a new project he's planning, and your role in it. It turns out that there is not much time left, you only have one week from start to finish for your part of the project."
     n "A while later."
@@ -1321,7 +1321,7 @@ label dinnerDay4Home:
     pc "Yeah, sure, I'm not a workaholic, [m]..."
     scene dinner_day4home_3 with dissolve
     m "That's good to hear."
-    pcthink "Jeez, is she just acting or does she really want me to stay home..."
+    pcthink "Jeez, is she just acting or does she really want me to stay home?"
     scene dinner_day4home2 with dissolve
     pcthink "...and why would she want me to be here?"
     scene dinner_day4home2_2 with dissolve
@@ -1673,7 +1673,7 @@ label d7_wakeup:
                 m "...okay..."
                 j "..."
                 m "Uhh... right, well I... I'll make some breakfast..."
-                play sound "audio/door_close.ogg"
+                play sound "audio/door-closing.ogg"
                 scene pcroom_d7_wakeup_j13 with dissolve
                 pause 1
                 scene pcroom_d7_wakeup_j14 with dissolve
@@ -2254,7 +2254,7 @@ label d9_breakfast:
     if mmom == "Mom":
         scene d9_pcroom_work0_3 with dissolve
         pause .9
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene d9_pcroom_work0 with dissolve
     pause .5
     if mmom == "Mom":
@@ -2291,7 +2291,7 @@ label d9_breakfast:
     st "Yes..."
     pc "Hum... okay, well it looks like I'll have an actual weekend then."
     st "Sorry... I'll send them to you as soon as I can."
-    pc "Yeah no sweat, it's the weekend we shouldn't be working in the first place..."
+    pc "Yeah no sweat, it's the weekend, we shouldn't be working in the first place..."
     st "..."
     pc "Thinking about it, I don't have much else to do, so maybe I'll come over later."
     st "..."
@@ -2415,7 +2415,7 @@ label d9_backhome_pcroom:
         pc "Yeah... sorry."
         h "It's okay, it's nice that you didn't forget about me."
         scene d9_end09 with dissolve
-        pc "How could I forget such a cute girl."
+        pc "How could I forget such a cute girl?"
         h "Haha, thanks!"
         pc "So where do you want to go tomorrow if everything's closed?"
         h "Oh I have an idea already, but I won't tell, hehe."
@@ -2596,14 +2596,14 @@ label d10johnson:
     scene d10ahd30 with dissolve
     pc "I know, thanks, [oc]."
     scene d10ahd31 with dissolve
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     pc "..."
     scene d10ahd32 with dissolve
     m "So, I think there's something we should talk about, [j]... but first..."
     scene d10ahd33 with dissolve
     m "...who is that [w] guy, [pc]?"
     scene black with slowdissolve
-    n "You explain the situation, how you met [w] on your very first day at the burning apartment and all the other occasions when you bumped into each other. How he suspected you to be a criminal for no reason..."
+    n "You explain the situation, how you met [w] on your very first day at the burning apartment, and all the other occasions when you bumped into each other. How he suspected you to be a criminal for no reason..."
     scene d10ahd34 with dissolve
     m "My god, I hope he doesn't dig too deep..."
     scene d10ahd35 with dissolve
@@ -2617,7 +2617,7 @@ label d10johnson:
     scene d10ahd39 with dissolve
     j "Eh... it's nothing, really!"
     scene d10ahd40 with dissolve
-    m "[j], if you want to live with us, then you should at least be honest !"
+    m "[j], if you want to live with us, then you should at least be honest!"
     if mob > 5:
         scene d10ahd41 with dissolve
         m "I mean..."
@@ -2682,7 +2682,7 @@ label d10johnson:
     scene d10ahd56 with dissolve
     j "Time to stop drooling over each other, dinner is readyyyyy~!"
     scene black with slowdissolve
-    n "You go have dinner and it tastes surprisingly well, even though you half expected it to be a disaster since [j] helped with it." with dissolve
+    n "You go have dinner and it tastes surprisingly good, even though you half expected it to be a disaster since [j] helped with it." with dissolve
     n "It's quite late already, so everyone quickly goes to bed after dinner, you decide do the same."
     scene black with slowdissolve
     
@@ -2725,7 +2725,7 @@ label d10nightsex:
     pc "Oh, I think I like where this is going!"
     scene d10night10 with dissolve
     j "So, are we allowed to stay a little longer, [pcmd]?"
-    pc "How could I possibly say no."
+    pc "How could I possibly say no?"
     j "Hmm, thank you, [pcmd]."
     scene d10night11 with dissolve
     j "*Smootch*"
@@ -3229,8 +3229,749 @@ label d11bhpcroom:
     pc "No, not that I remember..."
     scene d11bhpcroom07 with dissolve
     j "Oh no, I hope it's not that weird cop again..."
+    pc "Let me check."
+    scene black with slowdissolve
+    play sound "audio/door-opening.ogg"
+    scene black with dissolve
+    scene d11katvisit01 with dissolve
+    pc "[t]?"
+    jump d11tfirst
     
-$ renpy.run_action(QuickSave())
-scene black with dissolve
-pause .5
-jump endGame
+label d11evening:
+    scene black with fade
+    scene d11katvisit267 with dissolve
+    pcthink "Hum... not bad..."
+    play sound "audio/door-opening.ogg"
+    pc "I could probably..."
+    play sound "audio/door-closing.ogg"
+    scene d11katvisit268 with dissolve
+    pc "[t]? What's up? Done with the session?"
+    scene d11katvisit269 with dissolve
+    t "I'm just here to tell you that it's over."
+    scene d11katvisit268 with dissolve
+    pc "Over? What's over?"
+    scene d11katvisit270 with dissolve
+    t "Don't act stupid, you know what I mean, and I don't want you to ever interfere with my job and [e]'s therapy again!"
+    pc "Huh? Interfere? What?!"
+    scene d11katvisit271 with dissolve
+    t "Just stay away from me!"
+    play sound "audio/door-opening.ogg"
+    scene d11katvisit273 with dissolve
+    play sound "audio/door-closing.ogg"
+    pause .2
+    play audio "audio/door-break1.ogg"
+    scene d11katvisit274 with hpunch
+    pause .5
+    pc "...the fuck..."
+    pcthink "What the hell is wrong with the women in this town?!"
+    play sound "audio/phone-buzz.ogg" loop
+    n "Bzzzzz... bzzzzz"
+    scene d11katvisit275 with dissolve
+    pc "Ugh... Who's that now?"
+    pcthink "Isn't that [st]'s number?"
+    stop sound
+    scene d11katvisit276 with dissolve
+    pc "Yeah?"
+    st "Hello, this is [st] from Atomic Aeronautics."
+    scene d11katvisit277 with dissolve
+    pc "Hey, [st], what's up?"
+    st "I've send you a mail with all the changes necessary for the project."
+    if stl > 1:
+        pc "Huh? I thought we wanted to go through that after work?"
+        st "Yes, that..."
+        st "I thought it might be best to give you a rough outline beforehand. There are still some things we need to discuss."
+        pc "Oh, I see."
+        scene d11katvisit278 with dissolve
+        pc "So, when and where do you want to meet?"
+        st "I'm not sure, yet. Maybe tomorrow after work, if there's not too much to do."
+        pc "You mean too much work, after work?"
+        st "Uhm... yes..."
+        pc "You really work too much, [st], that's not healthy, you know."
+        st "I... I'll call you tomorrow."
+    else:
+        pc "Okay... when do you need it to be done?"
+        st "[boss] just called me and said he won't be back until next week, so it should be fine if everything is fixed until monday..."
+        pc "Does he do that often?"
+        st "What do you mean?"
+        pc "Just leave the company for several days. I mean, you'll have to do his work as well, don't you?"
+        st "It's... it's fine, I don't mind."
+        pc "Well, I'm sure you have tons of overtime already, don't you?"
+        st "I... I don't know... probably..."
+        pc "You really work too much, [st], that's not healthy, you know."
+        st "It's... I'm fine... with working that much... I..."
+        st "Let-me-know-when-you're-done-with-changes..."
+    play sound "audio/endcall.ogg" loop
+    pause .5
+    pcthink "What the..."
+    scene d11katvisit279 with dissolve
+    stop sound
+    pcthink "Jeez..."
+    pcthink "She's going to burn out if she's going on like that..."
+    scene d11katvisit280 with dissolve
+    pcthink "Maybe I should talk to [boss] about that."
+    pc "..."
+    pcthink "Or maybe I shouldn't, and even if, it's probably better to wait until he's back..."
+    extend "."
+    extend "."
+    extend "."
+    pcthink "Well, nothing I should worry about right now, let's see what the others are doing..."
+    scene black with slowdissolve
+    scene black with fade
+    scene d11ev01 with slowdissolve
+    m "Oh, by the way, [j], I've been talking to the principal..."
+    scene d11ev02 with dissolve
+    j "Huh?"
+    m "...he agreed to shorten your suspension if you behave."
+    scene d11ev03 with dissolve
+    m "I told him you'll do that from now on..."
+    scene d11ev04 with dissolve
+    m "...this means you can go back to school tomorrow, so please do me a favor and do behave."
+    scene d11ev05 with dissolve
+    j "Okay..."
+    menu:
+        "Grab [e]'s ass.":
+            scene d11ev05_2_e with dissolve
+            pause .7
+            scene d11ev06 with dissolve
+            pause .2
+            scene d11ev07 with dissolve
+            e "Eh?"
+        "Grab [j]'s ass." if jlo >= 3:
+            scene d11ev05_2_j with dissolve
+            pause .7
+            scene d11ev06 with dissolve
+            pause .2
+            scene d11ev07_2 with dissolve
+            j "Huh?"
+        "Both!" if jlo >= 3 and harem:
+            scene d11ev05_2 with dissolve
+            pause .7
+            scene d11ev06 with dissolve
+            pause .2
+            scene d11ev08 with dissolve
+            e "Eh?{w=.5}{nw}"
+            j "Huh?"
+        "Don't do anything.":
+            scene d11ev06 with dissolve
+            pc "..."
+            scene d11ev09_0 with dissolve
+            m "[pc]?"
+    
+    scene d11ev09 with dissolve
+    m "Oh, I didn't notice you, [pc]."
+    scene d11ev10 with dissolve
+    pc "I just came in."
+    scene d11ev11 with dissolve
+    m "Ah, okay, I just told [j] that she can go back to school tomorrow."
+    scene d11ev12 with dissolve
+    pc "Err, yeah, I heard that."
+    scene d11ev13 with dissolve
+    pc "By the way, [t] told me that her mentor was your therapist, [m]?"
+    scene d11ev14 with dissolve
+    m "Oh, that..."
+    scene d11ev15 with dissolve
+    m "I was so sad when I heard he died..."
+    scene d11ev16 with dissolve
+    pc "So it's true?"
+    scene d11ev17 with dissolve
+    m "Hm? Yes, yes he helped me get back on my feet... get to grips with... the past."
+    #scene d11ev18 with dissolve
+    pc "Why didn't you tell me about that?"
+    scene d11ev19 with dissolve
+    m "Oh, I didn't think it was important."
+    scene d11ev20 with dissolve
+    pc "Well, it would've helped a lot to understand the whole situation better."
+    scene d11ev21 with dissolve
+    m "What do you mean?"
+    scene d11ev22 with dissolve
+    pc "Well, why you choose [t] and..."
+    pc "...well."
+    extend "."
+    extend "."
+    pc "...I guess you're right, it's not that important anyway..."
+    scene d11ev23 with dissolve
+    m "Hmm..."
+    scene d11ev24 with dissolve
+    m "[e], [j], can you leave us alone for a moment?"
+    scene d11ev25 with dissolve
+    j "Uh... sure."
+    scene d11ev26 with dissolve
+    e "Hn."
+    scene d11ev27 with dissolve
+    pc "..."
+    scene d11ev27_2 with dissolve
+    m "I'm sorry, I should've told you..."
+    scene d11ev28 with dissolve
+    m "I promised to be honest with you..."
+    m "...and I should've expected you to want to know about what happened after you left."
+    pc "While I appreciate that, it's really not that important anymore..."
+    m "..."
+    if tc and jlo >= 3:
+        pc "Honestly, I kind of expected you to say something about what happened when you came back home, instead..."
+        scene d11ev29 with dissolve
+        if mob >= 5:
+            m "I... I'm sorry, we shouldn't have just entered your room..."
+            pc "Well, shit happens, I guess. I didn't expect you back so early, otherwise I would've locked the door."
+        elif mob <= 0:
+            m "I'm not going to ask what happened in your room, but maybe lock the door next time..."
+            pc "Welp, yeah, I should've done that."
+        else:
+            m "Didn't you hear us come back home?"
+            pc "I did, but a little too late..."
+            m "I see..."
+            pc "..."
+        m "I never thought [t] would..."
+        pcthink "Shit, she must've seen her leaving my room."
+    
+    scene d11ev30 with dissolve
+    pc "[m]..."
+    scene d11ev31 with dissolve
+    m "It's okay, I..."
+    scene d11ev31_ with dissolve
+    m "It was just unexpected..."
+    scene d11ev32 with dissolve
+    if mmom == "Mom":
+        pc "[m]."
+        pc "...[mmom]."
+        scene d11ev33 with dissolve
+        pc "Err... do you still want me to call you Mom?"
+        scene d11ev34 with dissolve
+        m "I... I'm okay with it..."
+        scene d11ev35 with dissolve
+        if not mend:
+            pc "Are you sure? Even if we..."
+        else:
+            pc "..."
+    if rpills:
+        scene d11ev36 with dissolve
+        m "Please..."
+        scene d11ev37 with dissolve
+        m "I..."
+        scene d11ev38 with dissolve
+        m "Can you give me one of the pills?"
+        scene d11ev39 with dissolve
+        pc "Don't you think you can do without them?"
+        scene d11ev40 with dissolve
+        m "Please... Hun."
+        scene d11ev41 with dissolve
+        pc "..."
+        pc "Fine... give me a sec."
+        scene black with dissolve
+        scene d11ev42 with dissolve
+        pc "Here..."
+        scene d11ev43 with dissolve
+        m "Thank you, Hun."
+        scene d11ev44 with dissolve
+        play audio "audio/running-water_full-short.ogg"
+        pause 2
+        scene d11ev45 with dissolve
+        pause 1
+        m "Ahh..."
+        scene d11ev46 with dissolve
+        m "I'll be in my room then..."
+        scene d11ev47 with dissolve
+        pc "..."
+        scene d11ev48 with dissolve
+        pcthink "Hmm..."
+    else:
+        m "I..."
+        scene d11ev46 with dissolve
+        m "I'll go to my room, it's time for my pills..."
+        scene d11ev47 with dissolve
+        pc "What? Wait! [mmom]!"
+        scene d11ev48 with dissolve
+        pc "Ugh... damn it..."
+    scene black with fade
+    play audio "audio/door-opening.ogg" fadein 1
+    scene d11evpcroom01 with dissolve
+    j "...there must be a cancel button somewhere!"
+    scene d11evpcroom02 with dissolve
+    j "Shit, maybe if you go back?"
+    play audio "audio/door-closing.ogg"
+    scene d11evpcroom03 with dissolve
+    e "Eh?"
+    scene d11evpcroom04 with dissolve
+    j "Oh, damn..."
+    scene d11evpcroom05 with dissolve
+    pc "What's going on?"
+    scene d11evpcroom06 with dissolve
+    j "Uh... we..."
+    scene d11evpcroom07 with dissolve
+    j "I think we... maybe... accidentally... bought a TV?"
+    scene d11evpcroom08 with dissolve
+    pc "You did what?! How can you buy something accidentally?"
+    scene d11evpcroom09 with dissolve
+    j "Eh... haha..."
+    scene d11evpcroom10 with dissolve
+    j "We were just joking around, and then..."
+    scene d11evpcroom11 with dissolve
+    j "We didn't expect \"buy now\" to really be one click..."
+    scene d11evpcroom12 with dissolve
+    pc "Eh, that's how it works, my credentials are saved, so \"buy now\", means buy now."
+    scene d11evpcroom10 with dissolve
+    j "Sorry... we didn't expect that..."
+    scene d11evpcroom11 with dissolve
+    j "There must be a way to cancel it, right?"
+    scene d11evpcroom14 with dissolve
+    pc "Was it the TV I had open?"
+    scene d11evpcroom15 with dissolve
+    j "Yeah..."
+    scene d11evpcroom16 with dissolve
+    pc "Well, I guess it's okay then, I was about to buy it anyway."
+    scene d11evpcroom17 with dissolve
+    j "A-are you sure? It's pretty expensive."
+    scene d11evpcroom18 with dissolve
+    pc "Yeah, but it's worth the money."
+    scene d11evpcroom19 with dissolve
+    j "It's not too much?"
+    scene d11evpcroom18 with dissolve
+    pc "Well, if you want a good TV, you need to pay good money for it, and with the new job I can afford it anyway."
+    pcthink "...once I get my first paycheck..."
+    scene d11evpcroom20 with dissolve
+    j "Okay..."
+    extend "."
+    extend "."
+    extend "."
+    extend " but you aren't mad?"
+    scene d11evpcroom21 with dissolve
+    pc "Well..."
+    menu:
+        "Don't use my stuff without asking me again.":
+            scene d11evpcroom22_1 with dissolve
+            j "Okay."
+        "It's fine, just be more careful next time.":
+            scene d11evpcroom22_2 with dissolve
+            j "Okay, of course!"
+    scene black with fade
+    pause .5
+    scene d11evpcroom23 with dissolve
+    j "Don't touch it, don't touch it!"
+    scene d11evpcroom24 with dissolve
+    j "Aww, she touched it!"
+    pc "..."
+    scene black with dissolve
+    scene d11evpcroom25 with dissolve
+    j "Uhh... scary..."
+    e "..."
+    scene black with dissolve
+    scene d11evpcroom26 with dissolve
+    j "..."
+    scene d11evpcroom27 with dissolve
+    j "I'll leave you two alone for a minute."
+    e "Hn."
+    pc "Sure."
+    scene d11evpcroom28 with dissolve
+    play audio "audio/door-opening.ogg"
+    pause 1
+    scene d11evpcroom29 with dissolve
+    play audio "audio/door-closing.ogg"
+    pause .5
+    scene black with fade
+    if hlo >= 3:
+        play audio "audio/phone-buzz-short.ogg"
+        n "Bzzzz Bzzzz"
+        pc "Huh?"
+        scene d11evpcroom30 with dissolve
+        pcthink "Oh shit..."
+        scene d11evpcroom31 with dissolve
+        pc "Hey, aren't we a little nosey?"
+        scene d11evpcroom32 with dissolve
+        e "Hnnn..."
+        scene d11evpcroom33 with dissolve
+        pause .5
+        scene d11evpcroom34 with dissolve
+        pause .5
+        if harem:
+            if not mend and tc:
+                pcthink "I better make it quick. [e] might be okay with me and [j], maybe even [m], but... It's bad enough they've seen me and [t] earlier..."
+                pcthink "Maybe they're even okay with that, but who knows how she'd react to someone she doesn't know..."
+            elif not mend:
+                pcthink "I better make it quick. [e] might be okay with me and [j], maybe even [m], but who knows how she'd react to someone she doesn't know..."
+            else:
+                pcthink "I better make it quick. [e] might be okay with me and [j], but who knows how she'd react to someone she doesn't know..."
+        else:
+            pcthink "I better make it quick..."
+        if renpy.variant("small"):
+            scene d11evpcroom35 at mobileZoom with dissolve
+            pause
+            scene d11evpcroom36 at mobileZoom with dissolve
+            pause
+            scene d11evpcroom37 at mobileZoom with dissolve
+            pause
+            scene d11evpcroom38 at mobileZoom with dissolve
+            pause
+        else:
+            scene d11evpcroom35 with dissolve
+            pause
+            scene d11evpcroom36 with dissolve
+            pause
+            scene d11evpcroom37 with dissolve
+            pause
+            scene d11evpcroom38 with dissolve
+            pause
+
+        pcthink "Damn, she's so cute."
+        scene d11evpcroom40 with dissolve
+        pcthink "I bet [e] would like her."
+    pcthink "..."
+    scene d11evpcroom42 with dissolve
+    pause .5
+    pcthink "Hmm... have I seen this scene before?"
+    pcthink "..."
+    pcthink "Anyway, I need to use the bathroom... I wonder what's taking [j] so long..."
+    scene d11evpcroom43 with dissolve
+    pc "I'll be right back back, [e]."
+    e "Hn."
+    scene black with fade
+    scene d11evhall01 with dissolve
+    pcthink "Hmm, I wonder if [j] is in the bathroom..."
+    scene d11evhall02 with dissolve
+    pc "..."
+    scene d11evhall03 with dissolve
+    pcthink "...or maybe she's..."
+    scene d11evhall04 with dissolve
+    j "Ahhhhh, ahhhaaa!"
+    pc "What the?!"
+    e "Huh?"
+    scene d11evhall05 with dissolve
+    pc "Whoa, [e]? Where did you come from?"
+    j "Haaaa!"
+    scene d11evhall06 with dissolve
+    e "..."
+    pc "Hmph, alright..."
+    scene d11evhall07 with dissolve
+    pc "Let's see what's going on in there!"
+    play audio "audio/door-opening.ogg"
+    scene d11evhall08 with dissolve
+    m "Hahahaha!"
+    scene d11evhall09 with dissolve
+    j "...and she was hanging there trying to reach the ladder with her feet while grunting and moaning like..."
+    scene d11evhall10 with dissolve
+    j "Oh... hey."
+    scene d11evhall11 with dissolve
+    pc "What's going on here, [j]?"
+    scene d11evhall12 with dissolve
+    m "Oh we were just talking about her mother."
+    scene d11evhall13 with dissolve
+    m "By the way, you should introduce us sometime in the future."
+    j "Sure!"
+    scene d11evhall14 with dissolve
+    j "That is... if she's ever going to talk to me again..."
+    scene d11evhall15 with dissolve
+    m "Don't be sad, honey, she's your mother, I'm sure she'll come around eventually."
+    scene d11evhall16 with dissolve
+    j "Maybe, but I have you guys now anyway, and I'm really thankful for that!"
+    scene d11evhall17 with dissolve
+    m "Aww, that's so cute of you to say!"
+    scene d11evhall18 with dissolve
+    m "Come here..."
+    scene d11evhall19 with dissolve
+    j "Uhm..."
+    scene d11evhall20 with dissolve
+    j "Oh mama!"
+    scene d11evhall20_2 with dissolve
+    m "It's okay, you're part of the family, Honey."
+    pcthink "Jeez, [j] is totally drooling over [m]'s tits..."
+    menu:
+        "Intervene.":
+            scene d11evhall27 with dissolve
+            pc "Ahem! [j] I think we should leave [m] alone for now."
+            scene d11evhall28 with dissolve
+            j "Aww..."
+            m "It's alright, Hun, I really don't mind."
+            scene d11evhall29 with dissolve
+            m "Oh, you know what, come here, I want to hug you, too."
+            scene d11evhall30 with dissolve
+            pc "Err..."
+            scene d11evhall31 with dissolve
+            e "..."
+            scene d11evhall32 with dissolve
+            j "Aww, how cute!."
+            scene d11evhall33 with dissolve
+            j "Group hug!"
+            scene d11evhall34 with dissolve
+            pause
+        "Let her have the 5 seconds of fun.":
+            scene d11evhall21 with dissolve
+            pc "Hmm?"
+            scene d11evhall22 with dissolve
+            pc "What are you up to, [e]?"
+            scene d11evhall23 with dissolve
+            pc "A group hug, eh?"
+            pc "Oh well, why not..."
+            scene d11evhall24 with dissolve
+            pc "..."
+            scene d11evhall25 with dissolve
+            m "I'm so glad I have you all..."
+            scene d11evhall26 with dissolve
+            pause
+    scene black with fade
+    n "A while later..."
+    scene black with slowdissolve
+    if hlo >= 3:
+        if renpy.variant("small"):
+            scene d11night01 with dissolve
+            pause .5
+            scene d11night01 at mobileZoom with dissolve
+            pause
+            scene d11night02 at mobileZoom with dissolve
+            pause
+            scene d11night03 at mobileZoom with dissolve
+            pause
+            scene d11night04 at mobileZoom with dissolve
+            pause
+            scene d11night05 at mobileZoom with dissolve
+            pause
+            scene d11night06 at mobileZoom with dissolve
+            pause
+            scene d11night07 at mobileZoom with dissolve
+            pause
+            scene d11night08 at mobileZoom with dissolve
+        else:
+            scene d11night01 with dissolve
+            pause
+            scene d11night02 with dissolve
+            pause
+            scene d11night03 with dissolve
+            pause
+            scene d11night04 with dissolve
+            pause
+            scene d11night05 with dissolve
+            pause
+            scene d11night06 with dissolve
+            pause
+            scene d11night07 with dissolve
+            pause
+            scene d11night08 with dissolve
+        play sound "audio/door-opening.ogg"
+        pause
+        play audio "audio/switch-on.ogg"
+        scene d11night09_0
+        scene d11night09 with dissolve
+    else:
+        scene d11night07 with slowdissolve
+        pcthink "Shit, why did I click on this damn spoiler..."
+        scene d11night08 with dissolve
+        play sound "audio/door-opening.ogg"
+        pause
+        play audio "audio/switch-on.ogg"
+        scene d11night09_0_2
+        scene d11night09_2 with dissolve
+        
+    scene d11night10 with dissolve
+    pc "Oww, fuck, [j]!?"
+    scene d11night11 with dissolve
+    play sound "audio/door-closing.ogg"
+    j "Oh, sorry!"
+    play audio "audio/switch-off.ogg"
+    scene d11night12 with dissolve
+    scene d11night12_1 with dissolve
+    pc "Jeez."
+    scene d11night13 with dissolve
+    pc "Shouldn't you be in bed? I thought you'd go back to school tomorrow."
+    scene d11night14 with dissolve
+    j "I was just in the bathroom and saw some light coming from your room."
+    scene d11night15 with dissolve
+    pc "And you just couldn't resist..."
+    scene d11night16 with dissolve
+    if jlo >= 3:
+        j "Well, we were supposed to have the whole week for us, but now..."
+    else:
+        j "Well, I thought I could use the rest of the week to get to know you a little better, but now..."
+    scene d11night17 with dissolve
+    pc "Yeah, but it's better that way, school's important."
+    scene d11night18 with dissolve
+    j "I know, but still..."
+    scene d11night19 with dissolve
+    j "..."
+    scene d11night17 with dissolve
+    pc "[e] is asleep?"
+    j "Mh-hm."
+    scene d11night19 with dissolve
+    pc "..."
+    if jlo >= 3:
+        scene d11night20 with dissolve
+        j "Do you mind if I just lay here for a while?"
+        scene d11night21 with dissolve
+        pc "Just laying?"
+        scene d11night22 with dissolve
+        j "Mh-mh."
+        pc "Go ahead."
+        scene d11night23 with dissolve
+        j "I mean, we can do naughty stuff if you want, I don't mind. I'd never mind having sex with you."
+        scene d11night24 with dissolve
+        pc "Heh, well, if you just want to lay here for a bit, I don't mind either way."
+        scene d11night25 with dissolve
+        j "..."
+        pc "..."
+        scene d11night26 with dissolve
+        j "I mean it though... if you want to have sex with me... I'll never refuse... you don't even have to ask."
+        j "You can {b}use{/b} me as you please... [pcmd]."
+        scene d11night27 with dissolve
+        pc "Dirty little girl, don't tempt me if you just want to lay here for a bit."
+        scene d11night28 with dissolve
+        j "Hehe, sorry, [pcmd]."
+        scene d11night29 with dissolve
+        pc "..."
+        j "..."
+        scene d11night30 with dissolve
+        j "I wish [m] would just let us sleep here..."
+        scene d11night31 with dissolve
+        pc "Yeah..."
+        j "..."
+        scene d11night32 with dissolve
+        pc "...don't fall asleep."
+        scene d11night33 with dissolve
+        j "I wont, don't worry..."
+        scene d11night32 with dissolve
+        pause
+    else:
+        scene d11night17 with dissolve
+        pc "Well, I was going to sleep as well, you should probably do the same, we can talk tomorrow if you want."
+        scene d11night17_2 with dissolve
+        j "Yeah...okay..."
+        scene d11night17_3 with dissolve
+        j "Good night, [pc]."
+        scene d11night17_4 with dissolve
+        pc "Night, [j]."
+        scene d11night17_5 with dissolve
+        j "Sweet dreams~"
+        pc "You too."
+    scene black with fade
+    $ actionsUsed = 15
+    call dateTime() from _call_dateTime_25
+    
+label d12morning:
+    if jlo >= 3:
+        n "Nh."
+        pc "..."
+        n "NHHHHHH!" with hpunch
+        scene d12wakeup01 with dissolve
+        scene black
+        scene d12wakeup01 with dissolve
+        scene black
+        scene d12wakeup01 with dissolve
+        pc "Ugh..."
+        pc "What's going on..."
+        scene black
+        scene d12wakeup02 with dissolve
+        pc "[e]?"
+        scene d12wakeup03 with dissolve
+        j "Nhhh..."
+        scene d12wakeup04 with hpunch
+        j "Oh shit! I fell asleep!"
+        scene d12wakeup05 with dissolve
+        j "What time is it, [e]?"
+        scene d12wakeup06 with dissolve
+        j "Hn!"
+        scene d12wakeup07 with dissolve
+        j "Shit, did [m] notice anything?"
+        scene d12wakeup08 with dissolve
+        e "Hnn."
+        scene d12wakeup09 with dissolve
+        j "Shit, shit, shit, I'm going to get ready asap!"
+        play audio "audio/door-opening.ogg"
+        scene d12wakeup10 with dissolve
+        play audio "audio/door-closing.ogg"
+        e "Hahaha."
+        scene d12wakeup11 with dissolve
+        pc "Heh... I guess I'll have to wait to use the bathroom."
+        scene d12wakeup12 with dissolve
+        e "Mhhhh..."
+        scene d12wakeup13 with dissolve
+        pc "Later, cutie."
+        play audio "audio/door-closing.ogg"
+        scene d12wakeup14 with dissolve
+        pcthink "I wonder if [m] noticed anything..."
+    else:
+        scene d12wakeup14 with dissolve
+        pc "Nnhhh... *yaaaawn*"
+        pcthink "It's morning already... feels like I just went to bed..."
+    scene black with slowdissolve
+    n "You stay in bed for a few more minutes until you get up."
+    n "Then take a quick shower before you head to the living room for breakfast."
+    scene d12breakfast01 with slowdissolve
+    pcthink "Hmm..."
+    scene d12breakfast02 with dissolve
+    pcthink "Guess [e] and [m] are done with breakfast."
+    scene d12breakfast03 with dissolve
+    pause .5
+    scene d12breakfast04 with dissolve
+    pc "Hey, [e]."
+    e "..."
+    pc "You're waiting for [j] to finish, huh?"
+    scene d12breakfast05 with dissolve
+    e "Hn!"
+    j "I'm almoft done!"
+    scene d12breakfast06 with dissolve
+    j "*chow*"
+    j "Juft a few more bitef left. *chomp*"
+    scene d12breakfast07 with dissolve
+    m "Good morning, Hun. Breakfast is on the table."
+    scene d12breakfast08 with dissolve
+    pc "Thanks, morning."
+    scene d12breakfast09 with dissolve
+    m "[j], hurry up, we're getting late!"
+    scene d12breakfast10 with dissolve
+    j "Mmphh!"
+    scene d12breakfast11 with dissolve
+    pc "..."
+    scene d12breakfast12 with dissolve
+    j "Emfoy your meal. *chomp*"
+    scene d12breakfast13 with dissolve
+    pc "Haha, thanks."
+    scene d12breakfast14 with dissolve
+    m "How did the presentation go by the way?"
+    scene d12breakfast15 with dissolve
+    pc "Huh?"
+    scene d12breakfast16 with dissolve
+    m "At work, your project."
+    scene d12breakfast17 with dissolve
+    pc "Oh that... yeah, quite good."
+    scene d12breakfast18 with dissolve
+    m "So, now you have some free days I guess?"
+    scene d12breakfast19 with dissolve
+    pc "More or less, I need to work on a few fixes, but nothing major."
+    scene d12breakfast20 with dissolve
+    m "Oh, but I guess you can still stay home?"
+    scene d12breakfast21 with dissolve
+    pc "Yeah, why do you ask?"
+    scene d12breakfast22 with hpunch
+    j "Doooone!"
+    scene d12breakfast23 with dissolve
+    j "I'll help!"
+    scene d12breakfast24 with dissolve
+    m "Thanks, Honey."
+    scene d12breakfast25 with dissolve
+    m "Oh, Hun, remember to take breaks, okay?"
+    scene d12breakfast26 with dissolve
+    pc "Sure... [mmom]."
+    scene d12breakfast14 with dissolve
+    pcthink "Hmm..."
+    scene black with fade
+    n "After [m], [j] and [e] left for work and school, you take your time to eat up and clear the table afterwards." with dissolve
+    scene d12morning01 with slowdissolve
+    pcthink "Alright, I guess I should have a look at the mail [st] send me yesterday."
+    play sound "audio/doorbell.ogg"
+    pc "Huh?"
+    scene d12morning02 with dissolve
+    pcthink "Did they forget something?"
+    scene black with dissolve
+    play sound "audio/door-opening.ogg"
+    scene d12morning03 with dissolve
+    pcthink "But why would they ring the doorbell... must be someone else."
+    scene black with dissolve
+    n "You open the door and see a huge package standing right in front of you, it takes a moment until you realize what it is..."
+    n "You carefully carry it inside..."
+    scene d12morning04 with dissolve
+    pcthink "Wow, I totally forgot about the TV..."
+    pcthink "This thing is bigger than I expected... wait, that's the new version, did they mess up?"
+    pcthink "Well, I won't complain about that. Let's bring it to my room right away..."
+    scene black with dissolve
+    pc "Shit, too unwieldy... I better push it over the floor..."
+    play sound "audio/drag.ogg"
+    pause 1
+    scene black with fade
+    stop sound
+    jump d12rachel
+    

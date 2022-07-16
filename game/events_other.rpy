@@ -95,7 +95,7 @@ label cafeBeforeOffice:
     jump officeFirst
     
 label cafe_d6:
-    if hlo == 3:
+    if hlo >= 3:
         play sound "audio/shop-chime.ogg"
         scene coffeehouse_d6 with dissolve
         pcthink "Huh? isn't that the guy from the other shift?"
@@ -750,9 +750,9 @@ label d10hcall:
     pcthink "[h]?"
     pcthink "Oh... right, today is the date!"
     scene d10hannacalls02 with dissolve
-    pc "Hey, Hanna!"
+    pc "Hey, [h]!"
     h "Hey! Good morning, I mean, evening! Err... good day! Haha."
-    pc "Haha, what's up Hanna, ready for the date later today?"
+    pc "Haha, what's up [h], ready for the date later today?"
     h "Yes!"
     h "I mean, not yet, but I will!"
     pc "Nice, will you tell me where we're going to go now?"
@@ -1219,7 +1219,7 @@ label d10hdate:
     h "It's... it's just our first date..."
     pc "Right... you're right, sorry I got a little too excited here."
     h "It's okay."
-    pc "Why don't we sit down and wait until the rains stops?"
+    pc "Why don't we sit down and wait until the rain stops?"
     scene d10date78 with dissolve
     h "Uh-huh."
     scene black with slowdissolve
@@ -1635,7 +1635,7 @@ label d11visitcafe:
         scene d11cafe69 with dissolve
         h "..."
         pc "..."
-        pc "Oh that reminds me, the house where you and your parent live, do you know what was in there when I was still a kid?"
+        pc "Oh that reminds me, the house where you and your parents live, do you know what was in there when I was still a kid?"
         scene d11cafe70 with dissolve
         h "Hm? No idea, what was it?"
         scene d11cafe69 with dissolve
@@ -1727,7 +1727,7 @@ label d11work:
     st "Oh my god, are you okay?"
     pc "I'm fine... I think."
     scene d11work07 with dissolve
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     st "I'm sorry, I thought there's no one in the room."
     pc "It's okay, just a flesh wound."
     scene d11work08 with dissolve
@@ -1978,7 +1978,7 @@ label d11maggylewd:
     pc "No problem."
     scene d11maggy23 with dissolve
     ma "Yes?"
-    pcthink "Damn, these curves!"
+    pcthink "Damn, those curves!"
     scene d11maggy24 with dissolve
     ma "Oh, is that so?"
     pcthink "Huh?"
@@ -1994,7 +1994,7 @@ label d11maggylewd:
     play sound "audio/hangup.ogg"
     pcthink "What's going on?"
     scene d11maggy29 with dissolve
-    ma "So, it looks like my boss will leave the office for a while..."
+    ma "So, it looks like my boss will have to leave the office for a while..."
     scene d11maggy30 with dissolve
     ma "...and he also advised me to find some documents in the meantime..."
     scene d11maggy31 with dissolve
@@ -2061,7 +2061,8 @@ label d11maggylewd:
     play sound "audio/clothing-rustle-c1.ogg"
     scene d11maggy53 with dissolve
     ma "Mhh, maybe I should stay right down here."
-    scene d11maggy54 with dissolve
+    if pcgender == "man":
+        scene d11maggy54 with dissolve
     pc "Go ahead, I definitely wouldn't mind."
     scene d11maggy55 with dissolve
     ma "Oh, I'm sure of that..."
@@ -2182,6 +2183,7 @@ label d11maggylewd:
         $ pov1 = "d11maggyf2"
         $ pov2 = "d11maggyf1"
         $ campov = False
+        $ povstart = True
         show screen povscreen(pov1) with dissolve
         pause
         pc "Oh god, [ma] this feels incredible!"
@@ -2257,7 +2259,7 @@ label d11maggylewd:
     scene d11maggy79 with dissolve
     pc "I wouldn't say better, but yeah, I should probably leave as well..."
     scene d11maggy80 with dissolve
-    ma "It would be quite embarrassing if my boss would come in on us now."
+    ma "It would be quite embarrassing if my boss walked in on us now."
     scene d11maggy81 with dissolve
     pc "Heh, yeah..."
     scene d11maggy82 with dissolve
@@ -2270,3 +2272,4 @@ label d11maggylewd:
     $ gotomaggy = False
     scene bm-map with dissolve
     call screen wmap with dissolve
+    

@@ -393,7 +393,7 @@ label ebdLookForE:
     scene childroom ebd2 with dissolve
     pcthink "Is she crying?"
     scene childroom ebd3 with dissolve
-    pc "Hey, what's wrong? For a second I thought you where crying..."
+    pc "Hey, what's wrong? For a second I thought you were crying..."
     scene childroom ebd4 with dissolve
     e "..."
     scene childroom ebd5 with dissolve
@@ -561,6 +561,7 @@ label makedinnerwithE:
     scene kitchen_e_searchforfood_kiss with dissolve
     $ pov1 = "kitchen_e_searchforfood_kiss"
     $ pov2 = "kitchenesearchforfoodkissmc"
+    $ povstart = True
     show screen povscreen(pov1)
     e "*Smootch*"
     scene kitchen_e_searchforfood5 with dissolve
@@ -613,7 +614,7 @@ label makedinnerwithE:
     m "{size=-10}[e], what are you...?! Oh...{/size}"
     pcthink "Hum, I didn't expect [e] to be so caring about her mother..."
     m "{size=-10}Thank you, but I'm not hungry.{/size}"
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     n "You can hear the door to [m]'s room closing."
     pcthink "Hah, looks like [e] doesn't accept a no as an answer..."
     scene black with dissolve
@@ -717,6 +718,7 @@ label eHumpNight5_r:
     scene es01 with dissolve
     $ pov1 = "es01"
     $ pov2 = "es_02"
+    $ povstart = True
     show screen povscreen(pov1)
     pause
     pcthink "Gaaawd..."
@@ -791,7 +793,7 @@ label d7_evening_e:
     pcthink "Oh wait, I still need some answers from [m], I should go ask her out first!"
     if rpills:
         pcthink "Wait, did I give her a pill today?"
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     pc "Huh?"
     scene d7_pcroom_kitty1 with dissolve
     pc "Oh hey, err..."
@@ -923,7 +925,7 @@ label d9_ebathroom:
     play sound "audio/shower_end.mp3"
     scene d9morningbr01 with dissolve
     pcthink "...time to get out."
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     pause .5
     scene d9_morning_br02 with dissolve
     pcthink "Hm? [e]?"
@@ -952,7 +954,7 @@ label d9_ebathroom:
     e "*Smooch*"
     scene d9_morning_br08 with dissolve
     pause 1
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene d9_morning_br09 with dissolve
     pcthink "Wow, she was still half asleep..."
     scene d9morningbr10 with dissolve
@@ -962,7 +964,7 @@ label d9_ebathroom:
     jump d9_breakfast
     
 label d9_pcroom_e01:
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     if _in_replay:
         show screen endRep
     pcthink "Alright, I guess I should look for..."
@@ -1075,6 +1077,7 @@ label d9_pcroom_e01:
     pause
     $ pov1 = "d9elicksuck1"
     $ pov2 = "d9elicksuck2"
+    $ povstart = True
     show screen povscreen(pov1)
     pcthink "Damn, now she's giving it her all..."
     

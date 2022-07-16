@@ -54,7 +54,7 @@ label intro:
     pc "T-That is my new apartment!"
     "Cop" "Your apartment?"
     pc "Y-yeah, I mean, I haven't moved in yet, but still..."
-    "Cop" "You haven't move in yet, and it's already on fire?"
+    "Cop" "You haven't moved in yet, and it's already on fire?"
     scene apartment burn police2 with dissolve
     "Cop" "...that sounds fishy! Let me see your ID!"
     pc "What? I just arrived in the city! I haven't been here for years!!"

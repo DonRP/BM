@@ -458,9 +458,9 @@ label rachelStuckInTraffic:
     pc "Sure... what is it?"
     m "{i}I'm stuck in traffic, could you pick [e] up at school? She must be waiting already.{/i}"
     pc "Yeah, sure. Did you call her?"
-    m "{i}No, I tried to reach [j], but she doesn't respond.{/i}"
+    m "{i}No, I tried to reach [j], but she didn't respond.{/i}"
     pc "Why didn't you call [e]?"
-    m "{i}She has doesn't have a mobile.{/i}"
+    m "{i}She doesn't have a mobile.{/i}"
     pc "Huh? Why?"
     m "{i}She wouldn't know how to use it. She's not really good with electronics.{/i}"
     pc "Err... Are you sure about that?"
@@ -484,6 +484,7 @@ label rachelStuckInTraffic:
 
 
 label rachelElliesBDayReminder:
+    $ weekDay = 4
     m "Just to make sure, you know what day tomorrow is, right?"
     pc "Uhh... tomorrow is [wday]..."
     m "That's not what I meant [pc]."
@@ -495,9 +496,9 @@ label rachelElliesBDayReminder:
     pc "Uhh... n-no... uh I guess tomorrow is..."
     pcthink "Shit...[day] of [month]... [day] of [month]..."
     pcthink "...wait, this date... there was something... something special..."
-    pc "Eh... [e]s birthday?"
+    pc "Eh... [e]'s birthday?"
     scene pcroom rachelenter jandeleft4 with dissolve
-    m "Oh you remember. Thats so nice, I wasn't sure."
+    m "Oh, you remember. Thats so nice, I wasn't sure."
     pc "Ehehe, of course I wouldn't forget that... hehe..."
     scene pcroom rachelenter jandeleft6 with dissolve
     m "Good, it would be quite embarrassing if you don't have a present for the most important day of a young woman's life..."
@@ -538,7 +539,6 @@ label rachelElliesBDayReminder:
     pc "..."
     scene pcroom rachel afterkisscheekleft with dissolve
     pcthink "Damn...I can still smell her perfume..."
-    pcthink "...and that ass... gaawd..."
     pc "..."
     stop music fadeout 2
     pcthink "Wait! ...is she playing with me?!"
@@ -554,7 +554,7 @@ label rachelElliesBDayReminder:
     scene black with dissolve
     pc "..."
     scene pcroomsitonchair2box with dissolve
-    pcthink "[e]s birthday... Why would she tell me about it if she's just playing with me? Is [e] really going to turn 18 tomorrow?"
+    pcthink "[e]'s birthday... Why would she tell me about it if she's just playing with me? Is [e] really going to turn 18 tomorrow?"
     pcthink "Shit, I don't get it... am I imagining things?"
     pcthink "Anyway I have to find a present for [e]. It's better to have one even if I don't need it..."
     pcthink "But what should I buy for her?"
@@ -694,8 +694,8 @@ label rachelPills3rd2:
     scene bedroom rachelmast titties kiss5 with dissolve
     m "Oh don't worry, Hun. You're a good kisser."
     pc "Haha, thanks. You too, [m]."
-    pc "Well, I better leave now, so you can go on with what you where doing before I came in."
-    pcthink "...before I'll do something stupid again..."
+    pc "Well, I better leave now, so you can go on with what you were doing before I came in."
+    pcthink "...before I do something stupid again..."
     m "Okay, Hun. I'll call you when dinner is ready."
     pc "Yeah, thanks [m]."
     pc "Oh and... think about me while you do what you do."
@@ -943,7 +943,7 @@ label rachelsaffair:
     pc "No thanks."
     play sound "audio/door-opening.ogg"
     scene black with dissolve
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene pcroom with dissolve
     pcthink "Shit, I have to find out what she's up to..."
     pcthink "Ugh... but I should change first..."
@@ -966,7 +966,7 @@ label rachelsaffair:
     m "Well, could you tell [e] that dinner will be ready soon?"
     pc "Sure..."
     m "Okay... thanks, Hun..."
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene pcroom_rachel_affair3 with dissolve
     pc "..."
     pcthink "Damn it! I almost started to trust her..."
@@ -977,7 +977,7 @@ label rachelsaffair:
     jump eKitten
     
 label rachelGivePills:
-    "Later this evening..."
+    "Later..."
     play sound "audio/knock-door1.ogg"
     "*Knock* *Knock*"
     m "It's me..."
@@ -1080,7 +1080,7 @@ label afterTcoerce2:
         scene pcroom_aftertcoerced2_rachel2 with dissolve
         m "No... I mean, yes, but that's not what I wanted to talk about..."
         pc "Okay...?"
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene pcroom_aftertcoerced2_rachel3 with dissolve
     m "Why don't we sit down?"
     pc "Sure..."
@@ -1130,7 +1130,7 @@ label afterTcoerce2:
     m "I'm sorry..."
     play sound "audio/door-opening.ogg"
     scene pcroom_atc2_rachel_run2 with dissolve
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     pause .5
     pc "..."
     pcthink "...and there's the second woman running out of my room today..."
@@ -1167,7 +1167,7 @@ label d6_backhomeRachel:
     stop music fadeout 2
     n "You follow her to her room. She closes the door behind you."
     scene bedroom_d6_backhome with dissolve
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     pc "Humph... don't want [e] to hear about it?"
     scene bedroom_d6_backhome1 with dissolve
     m "[t] is here too, I don't want to disturb the therapy..."
@@ -1402,7 +1402,7 @@ label d6_rachel_pills_r:
     pcthink "Damn... now I'm horny as fuck... and I didn't even ask her everything... AGAIN!"
     scene backhome_rachel_phone_topcroom with dissolve
     pcthink "I really need to focus on the questions next time..."
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene hall door pcroom with dissolve
     pcthink "Huh?"
     scene hall_d6_kat with dissolve
@@ -1814,7 +1814,7 @@ label d9_backhome:
     play sound "audio/door-opening.ogg"
     scene d9_backhome10 with dissolve
     pc "Yeah, later, [m]."
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene d9_backhome11 with dissolve
     pcthink "Well... that was weird..."
     pcthink "...did something change about her?"
@@ -1841,12 +1841,12 @@ label d10shower:
     if pcgender == "woman":
         scene d10shower01_2 with dissolve
     pcthink "Not that I've forgotten anything..."
-    pcthink "I'd just wish they'd stay buried in the back of my head where they used to be over the last few years... I don't want to remember that shit..."
+    pcthink "I'd just wish they'd stay buried in the back of my head, where they used to be over the last few years... I don't want to remember that shit..."
     scene d10shower02 with dissolve
     pcthink "Huh?"
     scene d10shower03 with dissolve
     pcthink "Shit, that's [m], isn't it? Damn, I forgot to lock the door again..."
-    pcthink "Is she... I don't think she's noticed that I've noticed her..."
+    pcthink "Is she... I don't think she's noticed that I've seen her..."
     scene d10shower04 with dissolve
     pcthink "Wow, I think she was checking me out..."
     scene black with slowdissolve
@@ -1854,7 +1854,7 @@ label d10shower:
     n "You finish up and head for breakfast."
     scene d10breakfast01 with dissolve
     pcthink "Hum, looks like breakfast for two?"
-    pcthink "Ah, it's the weekend, [e] won't get up for a while... and I guess [j] likes to sleep in as well."
+    pcthink "Ah, it's the weekend. [e] won't get up for a while... and I guess [j] likes to sleep in as well."
     m "Good morning, Hun."
     scene d10breakfast02 with dissolve
     m "Are you done in the bathroom?"
@@ -1863,10 +1863,10 @@ label d10shower:
     m "[e] and [j] will probably not get up soon, but I've made us some breakfast."
     if mob >= 5:
         m "I hope you don't mind, I thought you might be hungry."
-    elif mob <= -2:
+    elif mob <= 0:
         m "I believe it's something you liked."
     scene d10breakfast04 with dissolve
-    m "Why don't you sit down, I'll be there in a minute."
+    m "Why don't you sit down? I'll be there in a minute."
     pc "Sure, thanks."
     play music mainbgm fadein 1
     scene black with dissolve
@@ -1941,7 +1941,7 @@ label d10outdoor:
     pc "Yeah."
     pcthink "Thank god!"
     scene d10outdoor04 with dissolve
-    m "I must say I'm a bit surprised, I didn't think you'd keep up."
+    m "I must say I'm a bit surprised. I didn't think you'd keep up."
     scene d10outdoor05 with dissolve
     pc "Thanks."
     scene d10outdoor06 with dissolve
@@ -1950,7 +1950,7 @@ label d10outdoor:
     pc "As opposed to you it seems."
     scene d10outdoor08 with dissolve
     m "Well, I used to do it every day for a while, but it's hard to stay motivated."
-    m "I think last time I went for a workout was two months ago and even then it had been quite a while..."
+    m "I think the last time I went for a workout was two months ago, and even then it had been quite a while..."
     scene d10outdoor08_2 with dissolve
     menu:
         "You should keep doing workouts.":
@@ -2072,11 +2072,11 @@ label d10outdoor:
     pc "Much of the time before his death is... I don't know... foggy..."
     pc "I didn't understand much of what happened back then..."
     scene d10outdoor41 with dissolve
-    m "Understandably, you were a child."
+    m "Understandably, you were just a child."
     scene d10outdoor40 with dissolve
     pc "He always made it look like he didn't do anything bad, like it was never his fault."
     pc "\"[m] did something stupid again.\", \"[m] stumbled again.\", \"[m] is just weepy again.\""
-    pcthink "Thinking about it... I think I knew somewhere deep in the back of my head that he was lying, but..."
+    pcthink "Thinking about it... I think I knew somewhere deep in the back of my head, that he was lying, but..."
     pcthink "I guess I didn't want to accept it..."
     pc "As you said, I was just a child and he was my dad... why would he lie to me all the time..."
     scene d10outdoor38 with dissolve
@@ -2098,7 +2098,7 @@ label d10outdoor:
     scene d10outdoor45 with dissolve
     m "I'm so sorry, [pc]."
     scene d10outdoor43 with dissolve
-    m "Being drunk is no excuse for being... the way I've been towards you..."
+    m "Being drunk is no excuse for being... the way I was towards you..."
     pc "..."
     m "I won't ask you to forgive me... but if you give me a chance..."
     scene d10outdoor46 with dissolve
@@ -2202,7 +2202,7 @@ label d10outdoor:
     scene black with fade
     n "You make your way back home at a slow pace, occasionally engaging in some small talk followed by awkward moments of silence."
     n "[m] seems to feel relieved when you arrive home, you can't help but feel the same..."
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene d10ao01 with dissolve
     m "*Yaaaaawn*"
     scene d10ao02 with dissolve
@@ -2212,7 +2212,7 @@ label d10outdoor:
     scene d10ao03 with dissolve
     m "Oh good morning, [j]."
     pcthink "What the hell did she do in my room?"
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene d10ao04 with dissolve
     j "Mornin', where have you been?"
     scene d10ao05 with dissolve
@@ -2240,25 +2240,26 @@ label d10shower2:
         show screen endRep
     pcthink "Well, I guess I can at least take a shower now..."
     pcthink "I wonder if [m] is done already, maybe I should check."
-    menu:
-        "Check.":
-            scene black with dissolve
-            play sound "audio/shower.mp3" volume .4 loop fadein 1
-            scene d10kataes07 with dissolve
-            pcthink "Sounds like she's still under the shower..."
-            menu:
-                "Go in.":
-                    pcthink "Yeah, she's fine with it, right?"
-                    if mob >= 5:
-                        pcthink "And even if not..."
-                    $ d10mshowervisit = True
-                "Don't. (Go back to your room)":
-                    pcthink "Yeah, who wants to see a hot and naked milf..."
-                    $ renpy.end_replay()
-                    jump d10pcroombeforekh
-        "Go back to your room.":
-            $ renpy.end_replay()
-            jump d10pcroombeforekh
+    if not _in_replay:
+        menu:
+            "Check.":
+                scene black with dissolve
+                play sound "audio/shower.mp3" volume .4 loop fadein 1
+                scene d10kataes07 with dissolve
+                pcthink "Sounds like she's still under the shower..."
+                menu:
+                    "Go in.":
+                        pcthink "Yeah, she's fine with it, right?"
+                        if mob >= 5:
+                            pcthink "And even if not..."
+                        $ d10mshowervisit = True
+                    "Don't. (Go back to your room)":
+                        pcthink "Yeah, who wants to see a hot and naked milf..."
+                        stop sound fadeout 1
+                        jump d10pcroombeforekh
+            "Go back to your room.":
+                stop sound fadeout 1
+                jump d10pcroombeforekh
     stop sound
     play sound "audio/shower.mp3" loop
     scene d10rshower01 with dissolve
@@ -2343,3 +2344,464 @@ label d10shower2:
     scene black with dissolve
     n "A little bit later." with slowdissolve
     jump d10pcroombeforekh
+    
+label d12rachel:
+    n "An hour later."
+    scene d12morning05 with dissolve
+    pcthink "Phew, finally. What a toil..."
+    pcthink "That thing is huge, it would've been a lot easier with a helping hand..."
+    pcthink "But the image is great!"
+    pcthink "I'm glad the old socket was still there behind the painting, it's in the perfect spot to hide the cable."
+    if not mend:
+        pcthink "I almost expected it to be..."
+        play sound "audio/door-closing_muffled.ogg"
+        pause .5
+        scene d12morning06 with dissolve
+        pcthink "Huh?"
+        pcthink "That was the front door..."
+        scene black with dissolve
+        play sound "audio/door-opening.ogg"
+        scene d12morning03 with dissolve
+        pc "Hmm..."
+        scene d12morning07 with dissolve
+        pc "..."
+        scene d12morning08 with dissolve
+        pause
+        scene d12morning03 with dissolve
+        pc "Anybody here?"
+        m "{size=-10}Oh, sorry, it's just me.{/size}"
+        scene d11evhall04 with dissolve
+        pc "[m]?"
+        m "{size=-10}Yes, give me a minute...{/size}"
+        pc "Alright..."
+        scene black with dissolve
+        pcthink "I guess she forgot something..."
+        play sound "audio/door-closing.ogg"
+        scene d12morning09 with dissolve
+    else:
+        scene d12morning14 with dissolve
+    pcthink "Alright..."
+    scene d12morning10 with dissolve
+    pcthink "What do I do with the packaging..."
+    pcthink "It's probably better to not throw it away, yet..."
+    pcthink "Maybe there's room for it in the shed."
+    if not mend:
+        jump d12rachels
+    else:
+        play sound "audio/knock-door1.ogg"
+        pc "Hm?"
+        scene d12morning11 with dissolve
+        pc "Come in."
+        play sound "audio/door-opening.ogg"
+        scene d12morning11_2 with dissolve
+        m "Hey, Hun. Sorry, I..."
+        scene d12morning11_3 with dissolve
+        m "O-Oh, you got yourself a new TV?"
+        scene d12morning11_4 with dissolve
+        pc "Err... yeah, just finished setting it up."
+        scene d12morning11_5 with dissolve
+        m "Oh, well... anyway, I just forgot some papers for work, I have to leave again already."
+        scene d12morning11_6 with dissolve
+        pc "Yeah, I thought it must be something like that."
+        scene d12morning11_7 with dissolve
+        m "Alright, I need to hurry, see you later, Hun, and sorry for the trouble."
+        pc "No problem, see you later."
+        scene black with dissolve
+        play sound "audio/door-closing.ogg"
+        scene d12morning10 with dissolve
+    
+    jump d12shed
+        
+label d12rachels:
+    if _in_replay:
+        show screen endRep
+    if mob >= 5:
+        play sound "audio/knock-door1.ogg"
+        pc "Hm?"
+        scene d12morning11 with dissolve
+        pc "Come in."
+    play sound "audio/door-opening.ogg"
+    if mob <= 5:
+        pause .5
+    scene d12morning12 with dissolve
+    pcthink "Holy shit!"
+    scene d12morning13 with dissolve
+    m "O-Oh, you got yourself a new TV?"
+    scene d12morning14 with dissolve
+    play sound "audio/door-closing.ogg"
+    pc "Err... yeah, just finished setting it up."
+    scene d12morning15 with dissolve
+    m "It's so big..."
+    scene d12morning16 with dissolve
+    pc "Err... what's with this outfit, and shouldn't you be at work?"
+    scene d12morning17 with dissolve
+    if mob >= 5:
+        m "Oh, sorry, I... I thought I'd take a day off... I hope you don't mind... what do you think?"
+    else:
+        m "Oh, right... I took a day off... what do you think?"
+    scene d12morning21 with dissolve
+    pc "About the outfit?"
+    scene d12morning21_2 with dissolve
+    m "Yes."
+    scene d12morning18 with dissolve
+    pc "It's... incredibly hot."
+    scene d12morning19 with dissolve
+    m "Thank, you, I was hoping you'd like it."
+    scene d12morning20 with dissolve
+    m "To be honest, I wasn't even sure if it still fits."
+    scene d12morning21 with dissolve
+    pc "It fits perfectly."
+    m "Thanks, Hun."
+    scene d12morning22 with dissolve
+    m "You know..."
+    if d10mshowervisit:
+        m "...I thought that, since we're alone now..."
+        if mob >= 5:
+            m "... maybe... maybe you wanted to go on where we stopped last time under the shower?"
+        elif mob <= 0:
+            m "...I think we should go on where we stopped last time under the shower."
+        else:
+            m "I... we could go on where we stopped last time under the shower."
+    else:
+        m "I was thinking, maybe we should spend some time together..."
+        if mob >= 5:
+            m "... we could... I mean, we can do whatever you want..."
+        elif mob <= 0:
+            m "...get to know each other a little bit... closer."
+        else:
+            m "I mean... just if you want."
+    scene d12morning23 with dissolve
+    pcthink "Shit, why do I get the feeling that this is all a bit sudden?"
+    pc "Err... [mmom], don't get me wrong, but... what's going on all of a sudden, are you sure this is what you want?"
+    scene d12morning24 with dissolve
+    m "Huh? Y-Yes, of course, why do you ask?"
+    pc "I don't know, it's just a bit unexpected."
+    pc "I mean, I'm sure you know what's going on..."
+    m "..."
+    scene d12morning25 with dissolve
+    m "Yes..."
+    if harem:
+        if jlo >= 3:
+            m "I... I know I can't stop [j] from being the naughty girls she is..."
+            m "...and I can understand that you like her."
+        if tc:
+            m "I honestly didn't expect [t] to... I thought she'd be a bit more professional..."
+            if pcgender == "man":
+                m "I don't blame her though, you're a handsome man."
+            else:
+                m "I don't blame her though, you're a beautiful woman."
+        if jlo >= 3 and tc:
+            m "I can't believe she's okay with you being with multiple girls though..."
+        scene d12morning26 with dissolve
+        m "[e]..."
+        m "I honestly don't know what to think..."
+        m "The only thing I know is that I..."
+        scene d12morning27 with dissolve
+        m "That I'm willing to try... whatever you have in mind..."
+        scene d12morning28 with dissolve
+        pc "Whatever I have in mind?"
+        scene d12morning27 with dissolve
+        m "Yes, I... I don't know how far I'm ready to go, yet... but..."
+        if mob >=5:
+            m "I'd do almost anything... for you... if you let me."
+        else:
+            m "I'll try..."
+    else:
+        if jlo >= 3:
+            m "I... I know that [j] is your girlfriend..."
+            m "...and I can understand that you like her."
+        if tc:
+            m "I honestly didn't expect [t] to... who would've thought she'd want to be your girlfriend."
+        if jlo >= 3 and tc:
+            m "You should probably talk to them and make a decision."
+        scene d12morning26 with dissolve
+        m "[e]..."
+        m "I honestly don't know what to think... I'm not even entirely sure what's going on, but I try not to think about it..."
+        m "What I did think about is that..."
+        scene d12morning27 with dissolve
+        m "I know I'm not the youngest anymore, I know we have a bad past, and that it's all my fault..."
+        m "...but as long as there is a chance... I want to use it, and accept whatever you decide... for who you decide..."
+    scene d12morning28 with dissolve
+    pc "Are you really sure that's what you want?"
+    scene d12morning27 with dissolve
+    m "Yes, I'm ready to jump over the fence..."
+    scene d12morning28 with dissolve
+    pc "Well, that's... I don't know what to say, I honestly didn't expect that."
+    m "..."
+    scene d12morning29 with dissolve
+    m "Oh, I... I guess I've destroyed the mood now... I'm sorry, Hun."
+    menu:
+        "Kiss her.":
+            scene d12morning30 with dissolve
+            pc "You didn't."
+            scene d12morning31 with dissolve
+            pause .5
+            scene d12morning32 with dissolve
+            pause
+            scene d12morning32_2 with dissolve
+            pause
+            if mob <= 0:
+                scene d12morning32_3 with dissolve
+                m "Nhh..."
+            scene black with dissolve
+            scene d12morning35 with dissolve
+            m "So, do you want to see what's under my outfit?"
+            pc "I'd love to."
+            scene black with dissolve
+            play audio "audio/clothing-rustle-c2.ogg"
+            pause 1
+        "Rip her clothes off.":
+            pc "Shit, come here, [mmom]!"
+            scene d12morning33 with dissolve
+            m "Whaa!?"
+            scene d12morning33_2 with dissolve
+            pause .5
+            scene d12morning33_3 with dissolve
+            m "I guess not."
+            scene d12morning33_4 with dissolve
+            pc "Not with this outfit... let's see what's under there."
+            scene black with dissolve
+            play audio "audio/clothing-rustle-c2.ogg"
+            pause 1
+    scene d12morning34 with dissolve
+    pc "Damn, what a sight."
+    if pcgender == "woman":
+        pc "You have such a beautiful body, [mmom]!"
+        m "Thank you, Hun, but so do you!"
+    scene d12morning35 with dissolve
+    if mob <= 0:
+        m "Let's go to the bed, Hun."
+    elif mob >= 5:
+        m "Can we use the bed, Hun?"
+    else:
+        m "Shall we go over to the bed?"
+    pc "Sure."
+    scene black with slowdissolve
+    m "What are you looking at?"
+    scene d12morning36 with dissolve
+    pc "I'm looking at an incredibly hot woman."
+    scene d12morning37 with dissolve
+    m "Oh, thanks, Hun."
+    scene d12morning38 with dissolve
+    pc "Alright, let's go on."
+    if pcgender == "man":
+        scene d12morning39 with dissolve
+        pc "Mh-hm."
+        scene d12morning40 with dissolve
+        pause 1
+        scene d12morning41 with dissolve
+        pause 1
+        scene d12mfm1_00 with dissolve
+        pause 1
+        $ pov1 = "d12mfm1"
+        $ pov2 = "d12mfm2"
+        $ povstart = True
+        $ campov = False
+        show screen povscreen(pov1)
+        pause
+    else:
+        scene d12mff2 with dissolve
+        pause 5
+        scene black with dissolve
+        scene d12mff3_179 with dissolve
+    m "Haah... it's been so long..."
+    pc "How about this then?"
+    if pcgender == "man":
+        hide screen povscreen with dissolve
+        hide screen povbutton
+        $ pov1 = "d12mfm3"
+        $ pov2 = "d12mfm4"
+        $ povstart = True
+        show screen povscreen(pov1)
+    scene d12mf with dissolve
+    m "Hnn! Oh god, yes, Hun..."
+    pause
+    m "Nnnh, haaa..."
+    pcthink "She's getting close!"
+    m "Mmhh, hmmm..."
+    scene d12morning42
+    hide screen povscreen with hpunch
+    hide screen povbutton
+    m "Haaa... ahhh!"
+    scene d12morning43 with dissolve
+    m "Haaah... god... that felt so good... Hun..."
+    pc "And we've just started."
+    m "Haah... oh, I'm ready for more... don't let me stop you."
+    if pcgender == "woman":
+        scene d12morning44 with dissolve
+        pc "Let's try this then..."
+    scene black with dissolve
+    scene d12mf2 with dissolve
+    m "Ahh... haaa..."
+    pcthink "Damn, what a view!"
+    m "Oh god, yes!"
+    pause
+    if pcgender == "woman":
+        $ pov1 = "d12mff6"
+        $ pov2 = "d12mff7"
+        $ povstart = True
+        show screen povscreen(pov1)
+    m "Hnn... nnhh..."
+    if pcgender == "man":
+        if mob >=5:
+            m "Will... hnnn... will you come inside me?"
+            pc "Do you want that?"
+            m "Hnnn... I... don't know... haaa... I don't mind... haaa..."
+            m "I-I'm on the pill anyway... hnnn..."
+        else:
+            m "Mhhh... you can... ahnn... come inside me, if you want...hnnn..."
+            pc "Are you sure?"
+            m "I'm on the pill anyway... haaah..."
+        pc "Damn, I think even if I wanted to hold back, I wouldn't be able to..."
+        pc "Hngh!"
+        scene d12mfm5cum with hpunch
+        pause 2
+        m "Ahh... haah...{w=1}{nw}"
+        scene d12morning46_m with slowdissolve
+        pcthink "Shit, that felt good!"
+        scene black with slowdissolve
+    if pcgender == "woman":
+        m "You're so... mmhh... beautiful... haa..."
+        scene black
+        hide screen povscreen with slowdissolve
+        hide screen povbutton
+        m "Mhaaa... haaa!" with hpunch
+        m "Oh god, Hun..."
+    pc "Ready for another round, [mmom]?"
+    m "Of course, Hun!"
+    scene d12morning47 with slowdissolve
+    pause 2
+    scene black with slowdissolve
+    scene d12morning48 with dissolve
+    pause 3
+    scene black with slowdissolve
+    n "Hours later..."
+    scene d12morning50 with slowdissolve
+    m "Hmmm... I really needed that..."
+    scene d12morning51 with dissolve
+    pc "Glad I was able to help out."
+    scene d12morning52 with dissolve
+    m "Oh, don't sell yourself short, Hun. I'm glad we finally did it."
+    scene d12morning53 with dissolve
+    pc "I just hope it wasn't a one time thing."
+    scene d12morning51_3 with dissolve
+    m "We can do it as much as you like, Hun."
+    scene d12morning51_4 with dissolve
+    if d10mshowervisit:
+        pc "Well, you were very reluctant under the shower."
+        scene d12morning51_3 with dissolve
+        m "Oh... but that was only because we weren't alone at the time."
+    else:
+        pc "Well, you've never been like this before."
+        scene d12morning51_3 with dissolve
+        m "But that's because we were never alone."
+        scene d12morning51_4 with dissolve
+        pc "Well, we had some time alone before."
+        scene d12morning51_5 with dissolve
+        m "Yes, but... there has always been someone around the house..."
+    scene d12morning51_4 with dissolve
+    pc "There'll be someone around most of the time, but honestly, I don't care about that."
+    scene d12morning51_5 with dissolve
+    m "I..."
+    scene d12morning51_3 with dissolve
+    m "I'm sorry... I know I should be more open about it... It's just that... what if they hear us?"
+    scene d12morning51_4 with dissolve
+    pc "Who cares, they'll find out anyway."
+    scene d12morning51_6 with dissolve
+    m "..."
+    scene d12morning51_3 with dissolve
+    m "You're right... it won't work if I don't jump over my own fence. I'll do it!"
+    scene d12morning51_4 with dissolve
+    pc "Are you sure?"
+    scene d12morning51_3 with dissolve
+    m "Yes, I'll be more open from now on, a good relationship needs good sex. Otherwise it won't last long."
+    scene d12morning51_4 with dissolve
+    pc "That's true..."
+    pc "So you won't mind if I come over to your bedroom later?"
+    scene d12morning51_3 with dissolve
+    m "Of course I don't mind... we'll just have to be more quiet."
+    scene d12morning51_4 with dissolve
+    pc "Heh, I don't mind if they hear us."
+    scene d12morning51_3 with dissolve
+    m "Oh, I bet you don't..."
+    scene d12morning51_4 with dissolve
+    if harem and jlo >=3:
+        pc "And I bet [j] would enjoy hearing us."
+        scene d12morning51_5 with dissolve
+        m "Oh... that..."
+        scene d12morning51_7 with dissolve
+        m "Do you think she'd..."
+        scene d12morning51_8 with dissolve
+        pc "She'd probably want to join us."
+        scene d12morning51_6 with dissolve
+        m "..."
+        scene d12morning51_5 with dissolve
+        m "Do you..."
+        scene d12morning51_6 with dissolve
+        m "..."
+        scene d12morning51_7 with dissolve
+        m "I-I don't know if I can do that..."
+        if pcgender == "man":
+            scene d12morning51_8 with dissolve
+            pc "You had sex with a woman before..."
+            scene d12morning51_5 with dissolve
+            m "Yes... yes, but..."
+        if mob >=5:
+            scene d12morning51_8 with dissolve
+            pc "Didn't you say you'd do anything for me?"
+            scene d12morning51_5 with dissolve
+            m "Yes... yes... I..."
+            scene d12morning51_3 with dissolve
+            m "I promise, I'll try, but please give me a bit time, Hun."
+            scene d12morning51_4 with dissolve
+            pc "Sure, but don't take too much time."
+            scene d12morning51_3 with dissolve
+            m "I won't, I promise."
+        else:
+            scene d12morning51_3 with dissolve
+            m "Maybe if I'm in the right mood..."
+            scene d12morning51_4 with dissolve
+            pc "We don't need to push it."
+            scene d12morning51_3 with dissolve
+            m "Thanks, Hun."
+        scene d12morning51_5 with dissolve
+        m "Maybe I should wait to take my meds before you come..."
+        scene d12morning51_8 with dissolve
+        pc "Eh, you'd forget we had sex the moment the effect wears off."
+        scene d12morning51_7 with dissolve
+        m "But I'd still feel it, and I'd probably be more open to... things, while the effect lasts."
+        scene d12morning51_8 with dissolve
+        pc "Yeah, but I want you to be more open in general."
+        scene d12morning51_3 with dissolve
+        m "Oh, I know, and I'll try..."
+        scene d12morning51_4 with dissolve
+        pc "That's all I want."
+    else:
+        pc "Haha."
+    m "..."
+    scene d12morning51_5 with dissolve
+    m "I'm glad we can finally look behind the past..."
+    m "...maybe even forget about it."
+    scene d12morning51_6 with dissolve
+    pc "..."
+    play sound "audio/clothing-rustle-c3.ogg"
+    scene d12morning54 with dissolve
+    m "Oh, I should get ready. I need to pick up the girls."
+    scene d12morning55_2 with dissolve
+    pc "Yeah, right, it's probably time..."
+    scene d12morning55 with dissolve
+    m "Sorry, Hun. See you later."
+    scene d12morning56 with dissolve
+    m "*smooch*"
+    scene d12morning57 with dissolve
+    pc "Later, [mmom]."
+    scene d12morning58 with dissolve
+    pcthink "..."
+    $ renpy.end_replay()
+    play sound "audio/door-closing.ogg"
+    scene d12morning59 with dissolve
+    pcthink "...what a day..."
+    scene black with dissolve
+    scene d12morning60 with dissolve
+    
+    jump d12shed

@@ -250,7 +250,7 @@ label talkTone:
     pcthink "...no I don't think so... she would have acted differently if that'd be the case..."
     pcthink "Maybe what happens when she takes the pills can still affect her, even if she doesn't remember it?"
     pcthink "...maybe it's affecting her subconsciously..."
-    pcthink "Hum... I should have a look at the pills description next time..."
+    pcthink "Hum... I should have a look at the pills' description next time..."
     
     jump JVREbirthday
     
@@ -429,7 +429,7 @@ label tcoerce2:
     scene black with dissolve
     stop music fadeout 1
     n "You're about to get up, when suddenly..."
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene pcroomcodingwork with hpunch
     n "*Slam*"
     pcthink "What the..."
@@ -532,7 +532,7 @@ label tcoerce2:
             n "She storms off like a fury."
             play sound "audio/door-opening.ogg"
             scene pcroom_aftercodingwork with hpunch
-            play sound "audio/door_close.ogg"
+            play sound "audio/door-closing.ogg"
             pause 1
             pc "Jeez..."
             jump afterTcoerce2
@@ -629,7 +629,7 @@ label tcoerce2_r:
     n "She storms off like a fury."
     play sound "audio/door-opening.ogg"
     scene pcroom_aftercodingwork with hpunch
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     pause 1
     pcthink "Wow..."
     pcthink "What a little sub... and so feisty..."
@@ -651,7 +651,7 @@ label coerceT3:
     pc "We should talk."
     scene hall_d6_kat4 with dissolve
     t "Whaa?!"
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene pcroom_tcoerce3_1 with dissolve
     t "A-Again?"
     scene pcroom_tcoerce3_1_2 with dissolve
@@ -769,7 +769,7 @@ label coerceT3:
     $ renpy.end_replay()
     scene pcroom_tcoerce3_acum5 with dissolve
     t "Humph..."
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene pcroom_tcoerce3_aleft with dissolve
     pause .5
     pcthink "Okay...?"
@@ -1302,6 +1302,7 @@ label d10takekathome:
     scene black with slowdissolve
     n "You get into the car, [t] tells you the directions, but otherwise keeps silent."
     n "After a few minutes you reach the town center."
+    play sound "audio/driving.ogg" fadein 1
     scene d10bth01 with slowdissolve
     pc "..."
     scene d10bth02 with dissolve
@@ -1437,6 +1438,7 @@ label d10takekathome:
     pc "Isn't that your ex?"
     scene d10bth50 with dissolve
     t "Can you do me a favor?"
+    stop sound fadeout 2
     scene d10bth51 with dissolve
     pc "Depends..."
     scene d10bth52 with dissolve
@@ -1450,6 +1452,7 @@ label d10takekathome:
     scene d10bth55 with dissolve
     t "Fine, whatever, just... help me!"
     scene d10bth56 with dissolve
+    play sound "audio/traffic.ogg"
     "Guy" "[t], I was waiting for you."
     scene d10bth57 with dissolve
     t "Didn't I tell you that I don't want to see you again?"
@@ -1512,7 +1515,7 @@ label d10takekathome:
         scene d10bth77 with dissolve
         t "Bye..."
         pause 1
-        play sound "audio/door_close.ogg"
+        play sound "audio/door-closing.ogg"
         scene d10bth77_2 with dissolve
         pc "What?!"
         pcthink "Ugh... bitch!"
@@ -1992,7 +1995,7 @@ label d10takekathome:
         t "Close the door when you leave."
         scene kathouse101 with dissolve
         play sound "audio/door-opening.ogg"
-        play sound "audio/door_close.ogg"
+        play sound "audio/door-closing.ogg"
         pc "The fuck..."
         pcthink "?"
         pcthink "Right, she probably expects me to go after her like in a fury..."
@@ -2014,3 +2017,978 @@ label d10takekathome:
         jump d10hdate
     jump d10johnson
         
+label d11tfirst:
+    scene d11katvisit02 with dissolve
+    t "We need to talk..."
+    play sound "audio/door-closing.ogg"
+    scene d11katvisit03 with dissolve
+    j "Oh it's just you, [t]. Aren't you a little early?"
+    scene d11katvisit04 with dissolve
+    if harem and jlo > 3:
+        if pcgender == "man":
+            t "I need to talk to your boyfriend, [j]... alone."
+        else:
+            t "I need to talk to your girlfriend, [j]... alone."
+    else:
+        t "I need to talk to [pc]... alone."
+    scene d11katvisit05 with dissolve
+    j "Err... Okay, sure."
+    scene d11katvisit06 with dissolve
+    j "Just don't do anything I wouldn't do."
+    scene d11katvisit07 with dissolve
+    t "I presume that's not much..."
+    scene d11katvisit08 with dissolve
+    pc "What's this all about now?"
+    scene d11katvisit09 with dissolve
+    t "Let's go to your room, I don't want to talk in the hallway."
+    scene d11katvisit10 with dissolve
+    pcthink "Hmm, I wonder what she wants..."
+    scene d11katvisit11 with dissolve
+    pcthink "Probably about yesterday."
+    scene d11katvisit12 with dissolve
+    t "Are you going to keep standing there?"
+    if tc:
+        pc "Eh... no I was just admiring your rear."
+        scene d11katvisit13 with dissolve
+        t "Uch..."
+    else:
+        pc "Eh... no..."
+        scene d11katvisit13 with dissolve
+        pause .7
+    play sound "audio/door-closing.ogg"
+    scene d11katvisit14 with dissolve
+    pc "There's nobody home anyway, aside from me and [j], but I'm sure you knew that already..."
+    scene d11katvisit15 with dissolve
+    pc "So, why did you come so early and why do we need to be alone?"
+    if tc:
+        scene d11katvisit16 with dissolve
+        t "..."
+        scene d11katvisit15 with dissolve
+    ##################
+    t "It's about your past, your families past... and before you ask, I need to talk about it for [e]'s therapy."
+    pc "Okay... what exactly do you need to know?"
+    t "..."
+    t "I know your dad was abusive towards [m]..."
+    pc "..."
+    t "I know he was never really abusive towards you, is that correct?"
+    pc "Why do you ask if you know about it anyway?"
+    t "Because I've only heard one side of the story... or one and a half so to speak."
+    pc "One and a half?"
+    scene d11katvisit15_2 with dissolve
+    t "Not important, what's important is your answer."
+    scene d11katvisit17 with dissolve
+    pc "Hmph... sit down..."
+    scene d11katvisit18 with dissolve
+    pc "He wasn't... abusive..."
+    scene d11katvisit19 with dissolve
+    pc "Not to me, not like he was with [m]..."
+    pc "He was still an asshole, though, thinking I wouldn't notice anything."
+    scene d11katvisit19_2 with dissolve
+    t "So you knew how he was treating [m]?"
+    scene d11katvisit19_1 with dissolve
+    pc "Well, I wouldn't say I knew... I was a kid, I knew something was wrong, but I didn't understand it."
+    scene d11katvisit19_2 with dissolve
+    t "Weren't you in your teens before he died?"
+    scene d11katvisit19_1 with dissolve
+    pc "Yes, but that doesn't mean I fully understood it."
+    scene d11katvisit19_3 with dissolve
+    t "You didn't understand that your dad was beating her?"
+    pc "Listen, before my mom died, he was a totally normal guy, I think he was even a good dad from what I remember, and even after he met [m], everything was fine at first..."
+    scene d11katvisit19_1 with dissolve
+    pc "So as a kid I had no reason to not believe him when he said [m] was clumsy and hurt herself by accident..."
+    t "..."
+    pc "I basically grew up with it, so I simply thought it was her fault, that it was just the way she is. I only really understood what was going on when I grew older."
+    scene d11katvisit19_4 with dissolve
+    t "..."
+    scene d11katvisit19_5 with dissolve
+    t "I guess she didn't make it any easier either..."
+    scene d11katvisit19_4 with dissolve
+    pc "That's for sure..."
+    pc "After his death... when she started... being like that..."
+    pc "I even started thinking that she was always like that, that it was her fault that my dad became... the man he was before his death..."
+    t "..."
+    pc "..."
+    scene d11katvisit19_5 with dissolve
+    t "Did he..."
+    scene d11katvisit19_2 with dissolve
+    t "Did he ever touch [e]?"
+    scene d11katvisit19_1 with dissolve
+    pc "..."
+    pc "He was actually quite nice towards her until he died..."
+    scene d11katvisit19_3 with dissolve
+    t "That doesn't answer my question."
+    scene d11katvisit19_1_2 with dissolve
+    pc "..."
+    pc "I think he felt guilty for what he did to [m], so he kinda tried to make up for it by being nice to [e]..."
+    scene d11katvisit19_2 with dissolve
+    t "Is that your {i}analysis{/i}?"
+    scene d11katvisit19_1 with dissolve
+    pc "It's what I think. He treated her nicer than me, and he treated me nicer than [m]."
+    scene d11katvisit19_3 with dissolve
+    t "Have you been jealous of her? Of how he treated her?"
+    scene d11katvisit19_1 with dissolve
+    pc "Jealous of [e]? No..."
+    scene d11katvisit19_6 with dissolve
+    t "..."
+    pc "Well... maybe a little bit, but I can't remember being really jealous."
+    scene d11katvisit19_2 with dissolve
+    t "Do you remember how he died?"
+    pc "...really now?"
+    pc "I'm sure you heard it from [m], I'm even sure you've read the official documents, don't you have any other questions? Also, sit down!"
+    scene d11katvisit19_5 with dissolve
+    t "Hmph..."
+    t "..."
+    scene d11katvisit19_2 with dissolve
+    t "Do you intend to stay here?"
+    scene d11katvisit19_1 with dissolve
+    pc "What do you mean?"
+    scene d11katvisit19_2 with dissolve
+    t "Will you stay in this house, in this town, or do you intent to move away again."
+    scene d11katvisit19_1 with dissolve
+    pc "Funny, [j] asked me the same question a few days ago..."
+    scene d11katvisit20 with dissolve
+    t "And?"
+    scene d11katvisit21 with dissolve
+    pc "Well... why don't you sit down already."
+    scene d11katvisit22 with dissolve
+    t "I'm good, just answer."
+    scene d11katvisit23 with dissolve
+    pc "Hmph... suit yourself."
+    pc "The agreement with [m] was to live here until I find a new apartment."
+    scene d11katvisit24 with dissolve
+    t "That doesn't answer my question."
+    pc "Why do you even ask?"
+    scene d11katvisit25 with dissolve
+    t "It might as well be important for [e]'s therapy."
+    scene d11katvisit26 with dissolve
+    pc "For [e] huh? Are you sure it isn't something {b}you{/b} just want to know?"
+    scene d11katvisit27 with dissolve
+    t "Why would I? Also, I've told you about me yesterday, don't you think it's only fair to return the favor?"
+    scene d11katvisit26 with dissolve
+    pc "The favor? Aren't you the one who owes me a favor? And that aside, you didn't really tell me much anyway... I've told you a lot more just now."
+    scene d11katvisit28 with dissolve
+    t "Not much?!"
+    #scene d11katvisit26 with dissolve
+    pc "Well, most of it was you beating around the bush..."
+    scene d11katvisit25 with dissolve
+    t "I'm sorry I haven't had such a bad childhood as you had, but do you think that makes it easy for me to talk about that?"
+    scene d11katvisit26 with dissolve
+    pc "Well... probably not..."
+    pc "Oh well... I guess I can tell you that I wasn't sure about [m] at first..."
+    scene d11katvisit28 with dissolve
+    t "Whether or not she really changed?" 
+    pc "Yeah, I wouldn't stay any longer than I have to, if she hadn't changed."
+    scene d11katvisit29 with dissolve
+    t "Did you think she was lying?"
+    scene d11katvisit30 with dissolve
+    pc "Yes, to be honest. It's not like people just suddenly change, and trust doesn't come over night."
+    scene d11katvisit31 with dissolve
+    t "That's for sure, but I can tell you, she regrets what happened in the past, and she's not the same woman anymore."
+    scene d11katvisit32 with dissolve
+    pc "...and you know that because? Are you [m]'s therapist now, too?"
+    scene d11katvisit33 with dissolve
+    t "My mentor was her therapist, I have access to all of his documents, and even though her therapy ended a long time ago, we still talk from time to time."
+    scene d11katvisit34 with dissolve
+    pc "Your mentor was her therapist?"
+    scene d11katvisit35 with dissolve
+    t "Yes, didn't I tell you about that?"
+    scene d11katvisit36 with dissolve
+    pc "No you didn't, and it would've been nice to get that information a little earlier."
+    scene d11katvisit37 with dissolve
+    t "Well, my bad, I guess."
+    scene d11katvisit38 with dissolve
+    pc "Yeah, I can tell you're incredibly sorry..."
+    scene d11katvisit39 with dissolve
+    t "You should be happy I even told you about it, because technically it falls under medical discretion."
+    scene d11katvisit40 with dissolve
+    pc "Yeah, yeah. Technically you should sit down if you want to have a serious conversation."
+    scene d11katvisit41 with dissolve
+    t "Technically, you still didn't answer my question."
+    scene d11katvisit42 with dissolve
+    pc "Will you sit down if I answer your question?"
+    scene d11katvisit43 with dissolve
+    t "Maybe."
+    scene d11katvisit44 with dissolve
+    pcthink "Jeez..."
+    pc "Alright, I'm really not in the mood for that shit today, so yeah, I'll probably stay, but even if I decide to move, I'll stay in town and in touch."
+    scene d11katvisit45 with dissolve
+    t "Huh..."
+    pc "..."
+    scene d11katvisit46 with dissolve
+    pc "You didn't expect that answer, huh?"
+    scene d11katvisit47 with dissolve
+    t "I... didn't expect anything..."
+    scene d11katvisit48 with dissolve
+    pc "Will you sit down now?"
+    scene d11katvisit49 with dissolve
+    t "Actually... I don't have any more questions..."
+    if tc:
+        jump d11tfirsts
+    else:
+        pc "Huh?! You came this early, just to ask a few questions?"
+        scene d11katvisit50_e1 with dissolve
+        t "Well, I didn't know if you'd cooperate."
+        scene d11katvisit50_e2 with dissolve
+        pc "Sure, now it's my fault, huh?"
+        scene d11katvisit50_e3 with dissolve
+        t "Well, I got what I came here for, I'll be waiting in the living room. Have fun with your little stalker over there..."
+        pc "Huh?"
+        scene d11katvisit166_ with dissolve
+        pc "[j]?"
+        scene d11katvisit167 with dissolve
+        j "..."
+        scene d11katvisit168 with dissolve
+        play audio "audio/door-opening.ogg"
+        pause .5
+        scene d11katvisit50_e4 with dissolve
+        play audio "audio/door-closing.ogg"
+        pause .5
+        pcthink "Ugh, god damn..."
+        scene black with slowdissolve
+        
+    jump d11evening
+    
+label d11tfirsts:
+    if _in_replay:
+        show screen endRep
+    scene d11katvisit50 with dissolve
+    pc "..."
+    scene d11katvisit51 with dissolve
+    pc "Come here."
+    scene d11katvisit52 with dissolve
+    t "W-Why?"
+    scene d11katvisit53 with dissolve
+    pc "[t]..."
+    scene d11katvisit54 with dissolve
+    t "..."
+    scene d11katvisit55 with dissolve
+    pause .7
+    scene black with dissolve
+    scene d11katvisit56 with dissolve
+    pause .7
+    t "Why are you doing this..."
+    scene d11katvisit57 with dissolve
+    t "I told you I'm not going to be the fifth wheel."
+    pc "And I told you, you're not going to be the fifth wheel, or the third wheel, or whatever you want to call it."
+    scene d11katvisit58 with dissolve
+    pc "Look, I don't know what you're really looking for, and I'm not even sure you know it yourself..."
+    scene d11katvisit59 with dissolve
+    t "I..."
+    pc "{b}BUT{/b} we both know that whatever there is between us, we both enjoy it, and that's the important part."
+    pc "If you want more than that, then I'm willing to try, but ultimately, that's your decision. You just have to make up your mind."
+    scene d11katvisit60 with dissolve
+    if pcgender == "man":
+        t "Why do you even think I'd be interested in someone like you?"
+        scene d11katvisit61 with dissolve
+        pc "Someone like me, huh? If you think {b}that{/b} bad of me, then I wonder why you're sitting on my lap."
+    else:
+        t "Why do you even think I'd be interested in someone like you? Or a women at all."
+        scene d11katvisit61 with dissolve
+        pc "If you'd think {b}that{/b} bad of me, then I wonder why you're sitting on my lap."
+    scene d11katvisit62 with dissolve
+    t "T-That's just... because you made me."
+    scene d11katvisit63 with dissolve
+    pc "As I said..."
+    scene d11katvisit64 with dissolve
+    pc "You just have to make up your mind."
+    scene d11katvisit65 with dissolve
+    t "..."
+    scene d11katvisit66 with dissolve
+    pc "..."
+    pc "You know... I have a theory."
+    scene d11katvisit67 with dissolve
+    t "A theory?"
+    pc "Yeah, hug me."
+    scene d11katvisit68 with dissolve
+    t "W-What? Why?!"
+    scene d11katvisit69 with dissolve
+    pc "Just hug me."
+    scene d11katvisit70 with dissolve
+    t "No? Why would I?"
+    pc "To disprove my theory."
+    scene d11katvisit71 with dissolve
+    t "I don't even know what theory!"
+    scene d11katvisit72 with dissolve
+    pc "Well, you're quite cold to other people..."
+    scene d11katvisit73 with dissolve
+    t "I'm not cold!"
+    scene d11katvisit74 with dissolve
+    pc "...and you basically told me that your parents were cold as well."
+    scene d11katvisit75 with dissolve
+    t "I never said that they were cold!"
+    scene d11katvisit76 with dissolve
+    pc "No, not directly, but indirectly."
+    pc "You said they were very strict, and you had to study all the time, so I don't think your childhood was really the warmest either."
+    scene d11katvisit79 with dissolve
+    t "It was very warm!"
+    scene d11katvisit76 with dissolve
+    pc "Sure... did your parents cuddle with you regularly? Did you get many hugs from from them?"
+    scene d11katvisit77 with dissolve
+    t "Don't act like you're the therapist now!"
+    scene d11katvisit78 with dissolve
+    pc "Am I wrong?"
+    scene d11katvisit80 with dissolve
+    t "..."
+    scene d11katvisit81 with dissolve
+    pc "Just one hug to disprove my theory."
+    scene d11katvisit80 with dissolve
+    t "..."
+    scene d11katvisit82 with vpunch
+    pause .3
+    scene d11katvisit83 with dissolve
+    t "There... happy now?"
+    scene d11katvisit84 with dissolve
+    pc "What?! That wasn't a hug, you just bumped into me."
+    scene d11katvisit85 with dissolve
+    t "Of course, it was a hug, what are you talking about?"
+    scene d11katvisit86 with dissolve
+    pc "A hug doesn't just take a millisecond."
+    scene d11katvisit85 with dissolve
+    t "It was more than a millisecond!"
+    scene d11katvisit86 with dissolve
+    pc "Yeah, slightly..."
+    scene d11katvisit87 with dissolve
+    t "Ugh... fine..."
+    scene d11katvisit82 with vpunch
+    t "..."
+    $ campov = False
+    $ pov1 = "d11katvisit82"
+    $ pov2 = "d11katvisit88"
+    $ povstart = True
+    show screen povscreen(pov1)
+    pause
+    t "Is that long enough now, or how long do we need to do this to disprove your stupid theory?"
+    pc "As long as it takes."
+    t "As long as {b}what{/b} takes?"
+    pc "Does it make you feel so uncomfortable? You're not even really hugging me?"
+    t "I {b}am{/b} hugging you!"
+    pc "So, is it comfortable?"
+    t "I... it's awkward..."
+    pc "That's just because you're thinking too much about it, you need to relax."
+    t "Easy for you to say..."
+    pc "Well, I guess I'll need to help you relax, then."
+    t "What are you..."
+    scene d11katvisit82
+    hide screen povscreen with dissolve
+    hide screen povbutton
+    scene d11katvisit89 with dissolve
+    pause .3
+    scene d11katvisit90 with hpunch
+    t "Whaaa!"
+    pc "Just relax and keep hugging me."
+    t "T-That's not going to help me relax!"
+    pc "Try it."
+    t "Ugh..."
+    scene d11katvisit91 with dissolve
+    t "Just hurry up."
+    pc "As you wish."
+    scene d11katvisit92a with dissolve
+    t "Nh-hnn..."
+    pause
+    pc "Are you relaxing?"
+    t "I-I told you it's not going to hn...help."
+    pc "Are you even trying?"
+    t "You try mhh... relaxing while being molested."
+    pc "I'm just caressing you."
+    t "Call it how you want, I...nhh don't care."
+    pc "Hmm... I guess we should try something else then."
+    scene d11katvisit93 with dissolve
+    t "What's the point anyway?"
+    scene d11katvisit94 with dissolve
+    pc "As I said, to get you to relax."
+    scene d11katvisit95 with dissolve
+    t "As if..."
+    scene d11katvisit94 with dissolve
+    pc "Take your top off."
+    scene d11katvisit96 with dissolve
+    t "Tch... and how would that help?"
+    scene d11katvisit97 with dissolve
+    pc "You obviously have no idea how to relax, so just do what I'm saying, [t]."
+    scene d11katvisit98 with dissolve
+    t "Pff..."
+    scene d11katvisit99 with dissolve
+    t "..."
+    extend "."
+    extend "."
+    extend "."
+    scene d11katvisit100 with dissolve
+    pause .7
+    play sound "audio/clothing-rustle-c1.ogg"
+    scene d11katvisit101 with dissolve
+    play sound "audio/clothing-rustle-c2.ogg"
+    pause 1
+    play sound "audio/clothing-rustle-c3.ogg"
+    scene d11katvisit102 with dissolve
+    pause 1
+    scene d11katvisit103 with dissolve
+    pc "That's better, isn't it?"
+    scene d11katvisit104a with dissolve
+    t "You really can't think of anything else, can you?"
+    if pcgender == "woman":
+        t "...dyke."
+    scene d11katvisit105 with dissolve
+    pc "I'm just trying to prove or disprove my theory."
+    scene d11katvisit106 with dissolve
+    t "Hmph..."
+    scene d11katvisit104a with dissolve
+    if pcgender == "woman":
+        pc "Also, calling me a dyke won't hide the fact that you're interested in women..."
+    pc "We've done this several times already, and you're still turning red like a tomato."
+    t "T-That's not true..."
+    pc "Do you want me to take a photo to show you?"
+    t "N-No, don't you dare take a photo of me!"
+    if pcgender == "man":
+        pc "You should really be a bit more comfortable with your boyfriend."
+    else:
+        pc "You should really be a bit more comfortable with your girlfriend."
+    t "That's not even...{w=0.5}{nw}"
+    scene d11katvisit107 with dissolve
+    pc "Come, turn around."
+    scene d11katvisit108 with dissolve
+    t "What are you..."
+    scene d11katvisit109 with dissolve
+    pc "Trying to make it more comfortable for you."
+    scene d11katvisit110 with dissolve
+    t "Oh..."
+    pc "It'll help you relax."
+    scene d11katvisit111 with dissolve
+    t "Hmph, just stop acting as if you're doing it for me."
+    scene d11katvisit113ma2 with dissolve
+    pc "You think I'm doing this for myself?"
+    t "Of course you do."
+    scene d11katvisit114 with dissolve
+    pc "Oh really? Well I guess there's no point in going on then..."
+    scene d11katvisit112 with dissolve
+    t "You... you're just going to stop now?"
+    pc "Yeah, unless you want me to go on."
+    scene d11katvisit115 with dissolve
+    t "Hmph..."
+    extend "."
+    extend "."
+    scene d11katvisit116 with dissolve
+    t "..."
+    scene d11katvisit117 with dissolve
+    t "Fine..."
+    scene d11katvisit118 with dissolve
+    pc "Fine what?"
+    scene d11katvisit119 with dissolve
+    t "I'm going to play your stupid game..."
+    pc "My stupid game?"
+    scene d11katvisit120 with dissolve
+    t "..."
+    scene d11katvisit121 with dissolve
+    pc "Hm?"
+    scene d11katvisit122 with dissolve
+    t "Just take it off already..."
+    scene d11katvisit123 with dissolve
+    pc "You mean my pants? Didn't you just say..."
+    scene d11katvisit124 with dissolve
+    t "Just do it already."
+    pc "Well, if you insist..."
+    scene black with dissolve
+    play sound "audio/clothing-rustle-c2.ogg"
+    pause 1
+    play sound "audio/clothing-rustle-c3.ogg"
+    pause 1
+    scene d11katvisit125 with dissolve
+    pc "There we go."
+    scene d11katvisit126 with dissolve
+    t "..."
+    scene d11katvisit127 with dissolve
+    pause .7
+    play sound "audio/clothing-rustle-c4.ogg"
+    scene d11katvisit128 with dissolve
+    pause .5
+    scene d11katvisit129 with dissolve
+    t "..."
+    if pcgender == "man":
+        scene d11katvisithj1_00 with dissolve
+        scene khj2bj with dissolve
+        pause 30.2
+        scene d11katvisithj11_1_00
+        $ campov = False
+        $ pov1 = "khj10_1"
+        $ pov2 = "khj10_2"
+        $ povstart = True
+        show screen povscreen(pov1)
+        pause
+        pc "Not bad, [t]... not bad."
+        $ pov1 = "khj11_1"
+        $ pov2 = "khj11_2"
+        hide screen povscreen
+        hide screen povbutton
+        if campov:
+            show screen povscreen(pov2)
+        else:
+            show screen povscreen(pov1)
+        pause 5.9
+        $ pov1 = "khj14_1"
+        $ pov2 = "khj14_2"
+        hide screen povscreen
+        hide screen povbutton
+        if campov:
+            show screen povscreen(pov2)
+        else:
+            show screen povscreen(pov1)
+        pause
+        pcthink "Damn, this looks uncomfortable..."
+        pcthink "...and it doesn't feel that great either..."
+    else:
+        scene kli1 with dissolve
+        pause
+        scene kli2 with dissolve
+        pause 5.2
+        $ campov = False
+        $ pov1 = "kli3"
+        $ pov2 = "kli4"
+        $ povstart = True
+        show screen povscreen(pov1)
+        pc "Hmm, not bad, [t], not bad..."
+        pause
+    scene d11katvisit130
+    hide screen povscreen with dissolve
+    hide screen povbutton
+    pc "Alright, [t], get up."
+    scene d11katvisit131 with dissolve
+    t "W-Why?! Did I do something wrong?"
+    scene d11katvisit132 with dissolve
+    pc "Just do what I said."
+    scene d11katvisit133 with dissolve
+    t "You didn't even cum, yet..."
+    pc "As I said, it's not about me."
+    scene d11katvisit134 with dissolve
+    t "Fine... what do you want now?"
+    scene d11katvisit135 with dissolve
+    pc "Take your pants off."
+    scene d11katvisit136 with dissolve
+    t "..."
+    scene black with dissolve
+    play sound "audio/clothing-rustle-c2.ogg"
+    scene d11katvisit137 with dissolve
+    pause .7
+    scene d11katvisit138 with dissolve
+    play sound "audio/clothing-rustle-c3.ogg"
+    pause 1
+    scene d11katvisit139 with dissolve
+    t "What now?"
+    scene d11katvisit140 with dissolve
+    if pcgender == "man":
+        pc "Sit on my lap."
+        scene d11katvisit141 with dissolve
+        t "W-What?! I'm not going to sit on your dick!"
+        scene d11katvisit142 with dissolve
+        pc "You just had it in your mouth, what's the problem with sitting on it?"
+        scene d11katvisit143 with dissolve
+        t "That's something different..."
+        pc "Are you scared it could accidentally enter the wrong hole?"
+        t "It could accidentally enter any hole!"
+        scene d11katvisit144 with dissolve
+        pc "Heh... come here."
+    
+        scene black with dissolve
+        scene d11katvisit145 with dissolve
+        pc "See? It's not that... hard, right?"
+        t "..."
+        scene d11katvisit146 with dissolve
+        pc "Alright, why don't you grind on it?"
+        t "Just grind?"
+        pc "Just grind."
+        scene d11katvisit147 with dissolve
+        t "Okay..."
+        scene kgrind1 with dissolve
+        t "Like this?"
+        pc "Yeah."
+        $ campov = False
+        $ pov1 = "kgrind1"
+        $ pov2 = "kgrind3"
+        $ povstart = True
+        show screen povscreen(pov1)
+        pause
+        t "Nh..."
+        pc "Are you comfortable?"
+        t "Hnn... what kind of question is that?!"
+        pc "Hey, I'm just making sure it's feeling good for you."
+        t "It's... okay..."
+        pc "Come on, [t]."
+        t "Ugh... it's, nhh... it's good..."
+        pc "Do you like it, or not?"
+        t "C-Can you shut up?"
+        pc "Being bitchy again, huh?"
+        t "I'm not bitchy!"
+        pc "Alright, a little bit higher, [t]."
+        t "..."
+        scene d11katvisit148_1_00
+        hide screen povscreen with dissolve
+        hide screen povbutton
+        scene kinsert1 with dissolve
+        pause .5
+        t "Like this?"
+        pc "Higher."
+        scene kinsert2 with dissolve
+        pause .5
+        pc "A little more."
+        t "N-Nhhn..."
+        scene kinsert3 with dissolve
+        pause 1
+        t "Haah!"
+        pc "Oh, looks like it almost slipped in... accidentally."
+        scene d11katvisit152 with dissolve
+        t "A-Accidentally? As if you didn't plan to do this."
+        scene d11katvisit153 with dissolve
+        pc "Heh, it was totally by accident, but... what are we going to do about it?"
+        scene d11katvisit154 with dissolve
+        t "Hmrph..."
+        scene d11katvisit155 with dissolve
+        t "..."
+        scene d11katvisit156 with dissolve
+        t "Nh..."
+        scene kinsert4 with dissolve
+        pause .5
+        t "Haah..."
+        scene d11katvisit160_000_i with dissolve
+        pcthink "Wow, I didn't expect her to just slide it in."
+        scene d11katvisit161 with dissolve
+        pc "Looks like you accidentally slid down, [t]."
+        scene d11katvisit162 with dissolve
+        t "Humph..."
+        pc "*Smirks* go on."
+        scene d11katvisit157 with dissolve
+        t "..."
+        scene d11katvisit161 with dissolve
+        pause .5
+        $ campov = False
+        $ pov1 = "kf1"
+        $ pov2 = "kf3"
+        $ povstart = True
+        show screen povscreen(pov1) with dissolve
+        t "N-Nhh..."
+        pause
+        scene kf2
+        hide screen povscreen with dissolve
+        hide screen povbutton
+        pc "Are you finally relaxing?"
+        t "If...hnnhh... you want to call it that..."
+        pc "It's just that you should be a bit more comfortable with your boyfriend."
+        t "Nhhh... maybe..."
+        pc "No objections to the boyfriend part?"
+        t "N-Nhnn..."
+        $ campov = False
+        show screen povscreen(pov1) with dissolve
+        pause
+        
+        scene d11katvisit163
+        hide screen povscreen with dissolve
+        hide screen povbutton
+    else:
+        pc "Come closer, let me get a nice, close look between your sexy legs."
+        t "..."
+        scene black with dissolve
+        scene d11katvisit145_f with dissolve
+        t "I-I don't know if that's a good idea..."
+        scene d11katvisit146_f with dissolve
+        pc "Don't worry, I'll hold you."
+        scene d11katvisit162_f with dissolve
+        t "Nh..."
+        scene d11katvisit147_f with dissolve
+        pause .5
+        pc "Mhm, Looks tasty."
+        t "Just make sure you won't let me fall."
+        scene d11katvisit162_f with dissolve
+        pc "Do you really think I'd let my girlfriend fall?"
+        t "..."
+        pc "No objections to the girlfriend part?"
+        scene d11katvisit163_f with dissolve
+    pause .3
+    scene d11katvisit164 with dissolve
+    t "Huh?"
+    scene d11katvisit165 with hpunch
+    t "WHAAH!"
+    if jlo < 3:
+        $ renpy.end_replay()
+    pc "What the!?"
+    stop music fadeout 2
+    scene d11katvisit166_ with dissolve
+    pc "[j]?"
+    scene d11katvisit167 with dissolve
+    j "..."
+    scene d11katvisit168 with dissolve
+    t "God..."
+    scene d11katvisit169 with dissolve
+    t "I can't believe this, I..."
+    scene d11katvisit170 with hpunch
+    j "AU!"
+    scene d11katvisit168 with dissolve
+    pc "Shit..."
+    scene d11katvisit171 with dissolve
+    pc "I better have a look."
+    t "Yes."
+    scene black with dissolve
+    play music mainbgm fadein 1
+    scene d11katvisit172 with dissolve
+    j "Damn..."
+    scene d11katvisit173_0 with dissolve
+    pc "What happened, are you okay?"
+    scene d11katvisit173 with dissolve
+    j "I'm okay, I just slipped from the railing..."
+    pc "Well, that's what you get for peeping."
+    scene d11katvisit174 with dissolve
+    j "Hey, you were making weird noises, I was just checking..."
+    scene d11katvisit174_ with dissolve
+    pc "Yeah, sure... weird noises, huh..."
+    scene d11katvisit175 with dissolve
+    pc "Come on, you can go through my room."
+    scene d11katvisit176 with dissolve
+    t "..."
+    scene d11katvisit177 with dissolve
+    pause
+    scene d11katvisit178 with dissolve
+    j "Uhh... sorry for the interruption..."
+    scene d11katvisit179 with dissolve
+    t "Shouldn't you be mad or something?"
+    scene d11katvisit180 with dissolve
+    j "Uhh... should I?"
+    if jlo >= 3:
+        scene d11katvisit181 with dissolve
+        if pcgender == "man":
+            t "He's your boyfriend!"
+        else:
+            t "She's your girlfriend!"
+        scene d11katvisit182 with dissolve
+        j "And yours, too, right?"
+    scene d11katvisit183 with dissolve
+    pc "How long have you been watching?"
+    scene d11katvisit184 with dissolve
+    j "Uhh..."
+    scene d11katvisit185 with dissolve
+    if jlo >= 3:
+        t "How can you be okay with that?!"
+        scene d11katvisit186 with dissolve
+        pc "I told you she'd be fine with it, didn't I?"
+    else:
+        t "How can you be okay with that?! [e] is your best friend!"
+        scene d11katvisit186 with dissolve
+        pc "I told you [e] would be fine with it, didn't I?"
+    scene d11katvisit187 with dissolve
+    t "Uch, you're both weird..."
+    if jlo >= 3:
+        scene d11katvisit188 with dissolve
+        j "Hey."
+        scene d11katvisit189_0 with dissolve
+        j "How would you know that I'm fine with it?"
+        scene d11katvisit189 with dissolve
+        pc "Well, you basically said it yourself, on my second day here, after I got you and [e] from school, remember?"
+        scene d11katvisit190 with dissolve
+        j "Oh..."
+        scene d11katvisit191 with dissolve
+        j "Uh, hey, [t], you really don't need to put your clothes back on, I'll leave you two alone if you want."
+    else:
+        scene d11katvisit191 with dissolve
+        j "Uh, hey, [t], you really don't need to put your clothes back on, I'll leave you two alone..."
+    scene d11katvisit192 with dissolve
+    t "No thanks, I'll just be leaving."
+    scene d11katvisit193 with dissolve
+    j "Aww, come on, don't leave. I'm sorry, okay?"
+    scene d11katvisit194 with dissolve
+    t "You two can do what ever you want, but I don't need to be part of it."
+    scene d11katvisit195 with dissolve
+    t "Just do me a favor and don't tell anyone what you've seen today..."
+    scene d11katvisit196 with dissolve
+    j "Of course not..."
+    scene d11katvisit197 with dissolve
+    j "I mean..."
+    j "Uhh..."
+    scene d11katvisit198 with dissolve
+    j "That means you owe me something, right?"
+    scene d11katvisit199 with dissolve
+    if jlo >= 3:
+        t "Ugh, you two really are a perfect match!"
+    else:
+        t "Ugh, you two would make a perfect couple!"
+    scene d11katvisit200 with dissolve
+    j "Hehe."
+    scene d11katvisit201 with dissolve
+    t "What do you want?"
+    scene d11katvisit202 with dissolve
+    j "Hey, don't be mad, I just want you to stay. You have an appointment with [e] anyway, don't you?"
+    scene d11katvisit203 with dissolve
+    t "Hmph... fine."
+    scene d11katvisit204 with dissolve
+    t "...but I'm just going to sit and wait until [e] is home for her therapy..."
+    scene d11katvisit205 with dissolve
+    pause 2
+    scene d11katvisit206 with dissolve
+    j "..."
+    scene d11katvisit207 with dissolve
+    j "Well, okay."
+    scene d11katvisit208 with dissolve
+    t "..."
+    scene d11katvisit209 with dissolve
+    j "What are you standing there like a lost sheep, come, sit between us!"
+    scene d11katvisit210 with dissolve
+    t "Ugh..."
+    scene d11katvisit211 with dissolve
+    if jlo >= 3:
+        pause .5
+        scene d11katvisit212 with dissolve
+        j "Nothing better than cuddling with your girlfriendssss, right?"
+        scene d11katvisit213 with dissolve
+        pc "Heh, right."
+        scene d11katvisit214 with dissolve
+        pc "Wouldn't you say, too, [t]?"
+    else:
+        j "..."
+    scene d11katvisit215 with dissolve
+    t "*grml*"
+    scene d11katvisit216 with dissolve
+    pc "Come on, [t]."
+    scene d11katvisit217 with dissolve
+    pc "Shit happens sometimes, right?"
+    scene d11katvisit218 with dissolve
+    t "..."
+    scene d11katvisit219 with dissolve
+    if pcgender == "man":
+        j "Come on, [t], there's nothing wrong with having fun with your boyfriend."
+    else:
+        j "Come on, [t], there's nothing wrong with having fun with your girlfriend."
+    if jlo >= 3:
+        scene d11katvisit220 with dissolve
+        pc "Err..."
+    j "I won't tell anybody, promise."
+    if jlo >= 3:
+        pcthink "Damn, [j] is such a naughty little..."
+    play sound "audio/door-closing_muffled.ogg"
+    pause .3
+    scene d11katvisit221 with dissolve
+    pc "Sounds like [m] and [e] are back."
+    scene d11katvisit222 with dissolve
+    t "Good, time to do my job."
+    scene d11katvisit223 with dissolve
+    if jlo >= 3:
+        pause .5
+        scene d11katvisit223_2 with dissolve
+        j "She has a really nice ass in those pants."
+        t "Hmph..."
+        play sound "audio/door-opening.ogg"
+        scene d11katvisit224 with dissolve
+        play sound "audio/door-closing.ogg"
+        pause .5
+        j "No wonder you like her."
+        scene d11katvisit225 with dissolve
+        j "Too bad [e] and [m] just came back home."
+        scene d11katvisit226 with dissolve
+        pc "I doubt that them coming home changed much."
+        scene d11katvisit227 with dissolve
+        j "Aww, sorry, I'll be more careful next time."
+        scene d11katvisit228 with dissolve
+        pc "More careful? You shouldn't peep in the first place."
+        scene d11katvisit229 with dissolve
+        j "Hrm..."
+        pc "Seriously, [j]."
+        scene d11katvisit230 with dissolve
+        j "Sorry, I won't do it again."
+        scene d11katvisit231 with dissolve
+        pc "I hope so, otherwise I'll have to punish you, young lady."
+        scene d11katvisit232 with dissolve
+        j "Hehe, don't tempt me, [pcmd]."
+        scene d11katvisit233 with dissolve
+        pc "But seriously, [j], don't do it again, unless you know everyone is fine with it."
+        scene d11katvisit234 with dissolve
+        j "I won't, promise."
+    else:
+        j "She has a really nice ass in those pants."
+        t "Hmph..."
+        play sound "audio/door-opening.ogg"
+        scene d11katvisit224_2 with dissolve
+        play sound "audio/door-closing.ogg"
+        j "No wonder you like her."
+        j "Too bad [e] and [m] just came back home."
+        scene d11katvisit224_3 with dissolve
+        pc "I doubt that them coming home changed much."
+        scene d11katvisit224_4 with dissolve
+        j "Sorry, I guess I..."
+    play sound "audio/door-opening.ogg"
+    pause .5
+    scene d11katvisit235 with dissolve
+    j "Hey, [e], welcome back."
+    scene d11katvisit236 with dissolve
+    t "Come on, [e], I don't have much time..."
+    scene d11katvisit237 with dissolve
+    t "Ugh, are you still..."
+    scene d11katvisit238 with dissolve
+    e "Huh?"
+    scene d11katvisit239 with dissolve
+    m "Hey, what's going..."
+    scene d11katvisit240
+    m "O-Oh... err..."
+    scene d11katvisit241 with dissolve
+    m "Come on, [e], [t] is waiting for you."
+    e "Whaa..."
+    if jlo < 3:
+        scene d11katvisit224_5 with dissolve
+        pc "Shit, I better put my pants on."
+        j "Yeah... sorry..."
+        scene d11katvisit224_6 with dissolve
+        j "...I'll go see if [m] needs help with anything..."
+        pc "Sure..."
+    else:
+        scene d11katvisit242 with dissolve
+        pc "Shit, I better put my pants on."
+        j "yeah... too bad..."
+        scene d11katvisit243 with dissolve
+        pc "Well, at least they didn't see me and [t]."
+        scene d11katvisit244 with dissolve
+        j "Hehe, yeah, that might've ended up worse than it did."
+        scene d11katvisit245 with dissolve
+        pc "Yeah..."
+        j "Too bad [m] isn't okay with us, yet, this could've ended up in a nice little orgy."
+        scene d11katvisit246 with dissolve
+        pc "Damn, [j]..."
+        scene d11katvisit247 with dissolve
+        j "What?"
+        scene d11katvisit248 with dissolve
+        pc "What do mean by \"yet\" by the way?"
+        scene d11katvisit249 with dissolve
+        j "Well, we obviously need to convince her to join your little harem, right?"
+        scene d11katvisit250 with dissolve
+        pc "My harem? Why do I get the feeling that that's more like what {b}you{/b} want?"
+        scene d11katvisit251 with dissolve
+        j "Nah, that'd be too much work for me..."
+        scene d11katvisit252 with dissolve
+        pc "Oh, so you let me do all the hard work."
+        scene d11katvisit253 with dissolve
+        j "Hey, I'm trying to help you! Also, it's not only hard, but also juicy, isn't it?"
+        scene d11katvisit254 with dissolve
+        pc "Heh, well, kind of."
+        scene d11katvisit255 with dissolve
+        j "See? And it's not like I'm not doing my part, hehe."
+        $ renpy.end_replay()
+        scene d11katvisit256 with dissolve
+        pc "Yeah... and you really are okay with that?"
+        scene d11katvisit257 with dissolve
+        j "Yeah, sure, I mean..."
+        scene d11katvisit258 with dissolve
+        j "..."
+        scene d11katvisit259 with dissolve
+        pc "[j]?"
+        scene d11katvisit260 with dissolve
+        j "Err... yeah, haha."
+        scene d11katvisit261 with dissolve
+        j "Absolutely!"
+        scene d11katvisit262 with dissolve
+        pc "..."
+        scene d11katvisit263 with dissolve
+        j "..."
+        scene d11katvisit263_2 with dissolve
+        j "Well..."
+        scene d11katvisit264 with dissolve
+        j "...I'll go see if [m] needs help with anything..."
+        scene d11katvisit265 with dissolve
+        j "..."
+        scene d11katvisit266 with dissolve
+        play sound "audio/door-closing.ogg"
+        pause .5
+        pcthink "Is she lying?"
+        pcthink "But why would she say she's okay with it, if she's not okay with it?"
+    scene black with slowdissolve
+
+    jump d11evening

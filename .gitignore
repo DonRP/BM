@@ -11,3 +11,5 @@ res
 *.exe
 game/saves
 log.txt
+traceback.txt
+game/script_version.txt

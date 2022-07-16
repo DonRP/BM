@@ -87,7 +87,24 @@ define nameByID = ["bathroom pcfem mirror",
                 "d10bth70",
                 "kathouse41",
                 "d10date70",
-                "d11maggy59"
+                "d11maggy59",
+                "d11katvisit116",
+                "d11katvisit145",
+                "d11katvisit162_f",
+                "d11katvisit176",
+                "d11ev04",
+                "d11evhall23",
+                "d11evhall34",
+                "d11night32",
+                "d12wakeup08",
+                "d12morning12",
+                "d12morning36",
+                "d12morning44",
+                "d12morning46_m",
+                "d12morning47",
+                "d12morning48",
+                "d12morning57",
+                "d12morning58"
                 ]
 
 define nameByIDscene = [["bedroomrachelpcgrabtits","rachelPills2nd"],
@@ -107,7 +124,9 @@ define nameByIDscene = [["bedroomrachelpcgrabtits","rachelPills2nd"],
                 ["d10rshower05","d10shower2"],
                 ["d10night38","d10nightsex"],
                 ["d11beforel12","d11jbeforlsex"],
-                ["d11maggy56","d11maggylewd"]
+                ["d11maggy56","d11maggylewd"],
+                ["d11katvisit66","d11tfirsts"],
+                ["d12morning12","d12rachels"]
                 ]
                 
 define nameByIDSpecial = [["4",_("One of my ealiest test render from when I was working on the livingroom, added a char to test the lighting, kudos to you if you recognize the character, it's a really early version ;)")],

@@ -82,6 +82,9 @@ screen scrbjhtrd():
     zorder 99   
     imagebutton auto "switch_cam2_%s.png" clicked Jump("bjhpov") yalign .01 xalign .99 at btnzoom
 screen povbutton():
+    if povstart:
+        add "switch_cam1_idle.png" yalign .01 xalign .99 at btnZoomSwitch
+        $ store.povstart = False
     if campov:
         imagebutton auto "switch_cam1_%s.png" action [ ToggleVariable("campov", true_value=True,false_value=False), Show("povscreen", povimage=pov1) ] yalign .01 xalign .99 at btnzoom
     else:
@@ -89,8 +92,6 @@ screen povbutton():
 screen povscreen(povimage):
     add povimage
     use povbutton
-screen povswitch():
-    add "switch_cam1_idle.png" yalign .01 xalign .99 at btnZoomSwitch
 
 label pcroom:
     $ pcLocation = "h_pcroom"
@@ -137,6 +138,8 @@ label pcroom:
         
     elif livingHomeDays == 11 and d11morning:
         jump d11wakeup
+    elif livingHomeDays == 12:
+        jump d12morning
     else:
         scene pcroom with dissolve
         pause

@@ -28,7 +28,7 @@ label jadaFirstMeet:
     j "Later [pc]."
     pc "Yeah, later."
     scene hall jada back with dissolve
-    pcthink "Hm... [e]s classmate? She looks older than [e]..."
+    pcthink "Hm... [e]'s classmate? She looks older than [e]..."
     scene hall jada back2 with dissolve
     pcthink "...uff... what a gap!"
     scene hall jada look back with dissolve
@@ -55,7 +55,7 @@ label flirtyJ:
     pc "Damn [j]!"
     scene pcroom flirtyj1surprise3 with dissolve
     j "I'm going to leave..."
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene pcroom flirtyj1surprise4 with dissolve
     pc "Okay, but... the exit isn't in my room you know."
     scene pcroom flirtyj1surprise5 with dissolve
@@ -105,7 +105,7 @@ label flirtyJ:
     scene pcroom flirtyj1surpriseleave with dissolve
     j "Good, seeya tomorrow~!"
     pc "Seeya..."
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene pcroom door close with dissolve
     pc "..."
     pcthink "Shit... Did me leaving have such an impact on her?"
@@ -185,7 +185,7 @@ label JVREbirthday:
     scene pcroom ebd_jadavr8 with dissolve
     j "She is a freaking booze hater now."
     pc "What?! Really?"
-    j "Yeah, she doesn't even use linctus, because it used to have alcohol in it."
+    j "Yeah, she doesn't even use cough syrup, because it used to have alcohol in it."
     pc "Wow, I didn't know."
     pcthink "Now that she mentioned it, I haven't seen [m] drink any alcohol since I've been back..."
     j "That's why I'm telling you, hehe."
@@ -194,7 +194,7 @@ label JVREbirthday:
     j "Well, I'm sure [m] made her famous {size=-10}{i}boring{/i}{/size} fruit punch again."
     j "Don't get me wrong, it tastes awesome, but it's without alcohol and that's where this nice little bottle comes into play, hehe."
     pc "Don't you think she'll taste the difference?"
-    j "Naah, this stuff doesn't really have it's own taste, its just sweet and it fits the punch's flavor perfectly."
+    j "Naah, this stuff doesn't really have its own taste, its just sweet and it fits the punch's flavor perfectly."
     pc "...and you want me to help you with that."
     j "Nah, I have a plan, hehe."
     pc "Somehow I have the feeling that this won't end well..."
@@ -376,12 +376,9 @@ label bringJadaHome:
     pcthink "Weird, that I have to think about that right now..."
     j "Hmmh... look at this beauty. I wonder how it tastes..."
     pc "Just try it out, I bet you'll like it."
-    show screen povswitch
-    pause 1
     jump bjhpov
     
 label bjhpov:
-    hide screen povswitch
     hide screen scrbjhtrd
     scene bjhmovpov with dissolve
     show screen scrbjhpov
@@ -409,7 +406,6 @@ label bjhpov:
     jump bjhcum
     
 label bjhtrd:
-    hide screen povswitch
     hide screen scrbjhpov
     scene bjhmovtrd with dissolve
     show screen scrbjhtrd
@@ -600,6 +596,7 @@ label d6_wayBackHome:
                 $ pov1 = "after_kandbf8_2"
                 $ pov2 = "jkiss"
                 scene after_kandbf8_2 with dissolve
+                $ povstart = True
                 show screen povscreen(pov1)
                 pause
                 scene afterkbf9 with dissolve
@@ -685,7 +682,7 @@ label d6_wayBackHome:
     scene black with fade
     scene d6_comehome_j2 with dissolve
     play music mainbgm fadein 2
-    j "There we are~"
+    j "Here we are~"
     scene d6_comehome_j1 with dissolve
     pc "Yeah, thanks for the ride."
     scene d6_comehome_j2 with dissolve
@@ -943,6 +940,7 @@ label d6_gotobed_withj:
     $ pov1 = "d6jl1"
     $ pov2 = "d6jl2"
     $ campov = False
+    $ povstart = True
     show screen povscreen(pov1)
     pause
     scene d6jl3 with dissolve
@@ -1285,6 +1283,7 @@ label d7_motel_r:
     $ pov1 = "jmotelf"
     $ pov2 = "jmotelf2"
     $ campov = False
+    $ povstart = True
     show screen povscreen(pov1)
     pause
     j "Hnnn, yes, [pcmd]!"
@@ -1376,7 +1375,7 @@ label d7_motel_r:
     "Girl" "Yes, I could hear it all, she was like \"yes [pcmd], give it to me [pcmd]\", haha."
     pcthink "Oh shit..."
     "Girl" "[heshe!c] must be really good..."
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene d7_motel_leave2 with dissolve
     "Girl" "Ah, err..."
     scene d7_motel_leave3 with dissolve
@@ -1534,6 +1533,7 @@ label d9_backhome_j_fun:
             j "Hnnn..."
             $ pov1 = "d9jbj02"
             $ pov2 = "d9jbj02side"
+            $ povstart = True
             show screen povscreen(pov1)
             pause
             pc "Shit, yeah, that's it!"
@@ -1601,7 +1601,7 @@ label d9_jhall:
     scene d9_jhall00 with dissolve
     j "Thanks, [m]! Hehe."
     pcthink "What the..."
-    play sound "audio/door_close.ogg"
+    play sound "audio/door-closing.ogg"
     scene d9_jhall01 with dissolve
     j "Oh hey, [pc]."
     pc "What are you doing here, [j]? Didn't [m] tell you she doesn't want to get disturbed when she takes the pills?"
@@ -1812,7 +1812,7 @@ label d11jbeforl:
     scene d11beforel01 with dissolve
     pc "I was just checking the code one last time."
     scene d11beforel03 with dissolve
-    j "Didn't you do that yesterday already?"
+    j "Didn't you do that yesterday?"
     pc "Yeah, just making sure."
     scene d11beforel04 with dissolve
     j "You should spend some time with me instead, hehe."
@@ -1844,7 +1844,7 @@ label d11jbeforlsex:
     scene d11beforel12 with dissolve
     j "Of course, [pcmd]!"
     pc "No panties... naughty little girl."
-    j "I thought I won't need them today."
+    j "I thought I wouldn't need them today."
     scene d11beforel13 with dissolve
     pc "I see... too bad I don't have much time today."
     j "We still have the whole week though!"
@@ -1874,6 +1874,7 @@ label d11jbeforlsex:
     scene black with dissolve
     $ pov1 = "d11jf1"
     $ pov2 = "d11jf2"
+    $ povstart = True
     show screen povscreen(pov1)
     j "Haaa, yes, [pcmd]! Nhhh!"
     pause
@@ -1918,7 +1919,7 @@ label d11jbeforlsex:
                 else:
                     show screen povscreen(pov1)
                 j "Oh gawd, yes, [pcmd]!"
-                pcthink "Gawd, so tight!"
+                pcthink "So tight!"
             "Don't.":
                 pass
     j "We could, haaaah... have sex all day... hnnnn!"
@@ -1952,7 +1953,7 @@ label d11jbeforlsex:
         scene d11jcum2 with dissolve
     else:
         scene d11jcum1 with dissolve
-    j "Sheeet, that was great!"
+    j "Shiiit, that was great!"
     pc "Damn, you're crazy [j], but yes, it was."
     j "Haha."
     if pcgender == "man":
@@ -1970,7 +1971,7 @@ label d11jbeforlsex:
     pc "Yeah, I don't know how long it'll take at work and I still need to get those papers to the rental company..."
     $ renpy.end_replay()
 label d11jbeforll:
-    j "Do you mind if I accompany you to town?"
+    j "Do you mind if I tag along?"
     pc "I don't, but I can't take you with me to my workplace."
     j "That's okay, I'll just do some window shopping."
     pc "Alright then."
@@ -2073,3 +2074,385 @@ label d11stepladder:
     scene black with slowdissolve
     n "You go to your room."
     jump d11bhpcroom
+    
+label d12shed:
+    pcthink "Alright, let's get the packaging to the shed..."
+    scene black with slowdissolve
+    n "You take the empty packaging to the shed."
+    scene d12morningshed1 with dissolve
+    pc "Shit..."
+    pcthink "What a mess, everything's just put somewhere without any system..."
+    pcthink "...I guess I'll have to make some room."
+    scene black with slowdissolve
+    scene d12morningshed2 with dissolve
+    pcthink "Look at that, the old toolbox still exists. [mmom] must've forgotten about it."
+    scene d12morningshed3 with dissolve
+    pcthink "Eh... almost all of the tools are missing... oh well..."
+    scene black with slowdissolve
+    pause .7
+    pcthink "There we go!"
+    scene d12morningshed_done with dissolve
+    pcthink "...Now there's more space even with the packaging in it."
+    pcthink "Maybe I should tell the girls to not make it all messy again..."
+    pcthink "..."
+    pcthink "Hmm, time to head back in, I still have to fix some stuff for work..."
+    scene black with slowdissolve
+    scene d12morningjada01 with dissolve
+    pause .7
+    scene d12morningjada02 with dissolve
+    pc "[j]?!"
+    scene d12morningjada03 with dissolve
+    j "Oh, there you are!"
+    scene d12morningjada04 with dissolve
+    play audio "audio/door-closing.ogg"
+    pc "What are you doing here? Shouldn't you be at school?"
+    scene d12morningjada05 with dissolve
+    j "Err... well, yeah... you know... the thing is..."
+    scene d12morningjada06 with dissolve
+    pc "Don't tell me you got kicked out again."
+    scene d12morningjada07 with dissolve
+    j "I-It wasn't my fault!"
+    scene d12morningjada08 with dissolve
+    pc "Seriously, [j]."
+    scene d12morningjada09 with dissolve
+    j "Honestly, it really wasn't my fault, not this time!"
+    scene d12morningjada10 with dissolve
+    pc "Are you sure about that?"
+    scene d12morningjada11 with dissolve
+    j "Yes, a thousand percent!"
+    scene d12morningjada12 with dissolve
+    j "She was asking questions and always picked me to answer them, knowing very well that I can't answer them all..."
+    scene d12morningjada13 with dissolve
+    pc "And?"
+    j "...I kept calm, and I answered what I was able to answer."
+    scene d12morningjada14 with dissolve
+    pc "So, what's the problem?"
+    scene d12morningjada15 with dissolve
+    j "She kept asking and asking..."
+    scene d12morningjada16 with dissolve
+    j "...and when I was struggling to answer, she made comments implying that I'm stupid!"
+    scene d12morningjada17 with dissolve
+    pc "And you called her names in response?"
+    scene d12morningjada18 with dissolve
+    j "No, I stopped answering."
+    scene d12morningjada19 with dissolve
+    pc "You stopped?"
+    scene d12morningjada20 with dissolve
+    j "Yes, I kept quiet."
+    scene d12morningjada21 with dissolve
+    pc "And she didn't like that."
+    scene d12morningjada22 with dissolve
+    j "She kicked me out for not taking part in classes..."
+    pc "Really now?!"
+    scene d12morningjada23 with dissolve
+    j "Yes, even though I was answering all of her stupid questions before... as good as I could..."
+    scene d12morningjada24 with dissolve
+    pc "You didn't say anything offensive?"
+    scene d12morningjada25 with dissolve
+    j "No, nothing! I've been really nice!"
+    scene d12morningjada26 with dissolve
+    pc "{b}You{/b}'ve been nice?"
+    scene d12morningjada27 with dissolve
+    j "Yes, I've been acting of course, but I didn't say anything offensive. I didn't even hint at anything that could've been taken as offense..."
+    scene d12morningjada28 with dissolve
+    pc "I guess she wanted to get back at you."
+    scene d12morningjada29 with dissolve
+    j "Yes, that bitch just wanted to find a reason to kick me out."
+    scene d12morningjada30 with dissolve
+    pc "Did you apologize for last time?"
+    scene d12morningjada31 with dissolve
+    j "N-no?!"
+    scene d12morningjada32 with dissolve
+    pc "Maybe you should've done that."
+    scene d12morningjada33 with dissolve
+    j "Awwwww, I just hate her!!!"
+    scene d12morningjada34 with dissolve
+    pc "I know it sucks, [j], but you need to play along if you want to get a degree."
+    j "Mmmh..."
+    scene d12morningjada35 with dissolve
+    j "I won't get a job anyway, even if I get a degree. My grades suck..."
+    scene d12morningjada36 with dissolve
+    pc "Hey, don't just give up, my grades sucked as well, and look at me now."
+    j "..."
+    scene d12morningjada37 with dissolve
+    j "You know what?"
+    pc "What?"
+    scene d12morningjada38 with dissolve
+    if jlo >=3:
+        j "I'll just be your personal little whore, hehe."
+        scene d12morningjada39 with dissolve
+        pc "What?!"
+        scene d12morningjada40 with dissolve
+        j "Well, [e] will probably get a nice job, she has better grades than me, so she won't be home half the day."
+        if not mend:
+            j "[m] already has a job, so she also won't be home most of the time."
+        if tc:
+            j "...and [t] has a job as well, and one day her therapy sessions with [e] will end."
+        scene d12morningjada41 with dissolve
+        j "So, logically, I'll be the only one available for most of the day."
+        scene d12morningjada42 with dissolve
+        if pcgender == "man":
+            j "I said it already, but you can fuck me whenever you want, and I'll suck your dick whenever you want."
+            scene d12morningjada43 with dissolve
+            j "I can suck it while you're working... I'll be sitting under the table, naked and suck it all day, like in some of those VN's, hehe."
+            scene d12morningjada44 with dissolve
+            j "And of course you can fill me with your seed all day, [pcmd]."
+        else:
+            j "I said it already, we can have sex whenever you want, and I'll lick your pussy whenever you want."
+            scene d12morningjada43 with dissolve
+            j "I can lick it while you're working... I'll be sitting under the table, naked, licking it and make you cum all day, like in some of those VN's, hehe."
+            scene d12morningjada44 with dissolve
+            j "And of course you can lick me too whenever you want, play with my body however you want, [pcmd]."
+        pc "Damn it, [j]."
+        
+    else:
+        j "I can be your personal maid!"
+        scene d12morningjada39 with dissolve
+        pc "What?!"
+        scene d12morningjada40 with dissolve
+        j "I'll bring you coffee in the morning, snacks in the afternoon..."
+        scene d12morningjada43 with dissolve
+        j "I'll make lunch for you... I'll clean the room for you... I can assist you in any way you want."
+    scene d12morningjada45 with dissolve
+    pc "Is that what you want to do with your life?"
+    scene d12morningjada46 with dissolve
+    j "Definitely, you know I like it here, I honestly think it would be nice!"
+    scene d12morningjada47 with dissolve
+    pc "Oh [j]..."
+    scene d12morningjada48 with dissolve
+    j "I mean it, I'd like that!"
+    if jlo >=3:
+        scene d12morningjada49 with dissolve
+        pc "And you're sure you really want to be a whore?"
+        scene d12morningjada50 with dissolve
+        j "No, I don't want to be a whore! I want to be {b}your{/b} whore. Your personal one, and only yours, [pcmd]!"
+    scene d12morningjada49 with dissolve
+    pc "Hmm... Well, I'll think about it, under one condition."
+    scene d12morningjada51 with dissolve
+    j "Yay! I'll do it, whatever it is!"
+    scene d12morningjada52 with dissolve
+    pc "You'll apologize and get your degree."
+    scene d12morningjada53 with dissolve
+    j "Awww........"
+    pc "That's the condition."
+    scene d12morningjada54 with dissolve
+    j "Fine... if I must..."
+    scene d12morningjada55 with dissolve
+    pc "I mean it, [j]."
+    scene d12morningjada56 with dissolve
+    j "Understood... I'll..."
+    scene d12morningjada57 with dissolve
+    j "I'll do it, promise."
+    scene d12morningjada58 with dissolve
+    pc "..."
+    j "..."
+    scene d12morningjada59 with dissolve
+    j "So..."
+    scene d12morningjada60 with dissolve
+    j "...did you have fun with [m]?"
+    if not mend:
+        scene d12morningjada61 with dissolve
+        pc "Huh? How do you..."
+        scene d12morningjada62 with dissolve
+        j "So you did! It worked! How was it?"
+        scene d12morningjada61 with dissolve
+        pc "Err... it was... wait, what worked?"
+        scene d12morningjada63 with dissolve
+        j "Uhh... nothing?"
+        pc "[j]?"
+        scene d12morningjada64 with dissolve
+        j "What?"
+        scene d12morningjada65 with dissolve
+        pc "Did you suggest something to her while she was under the influence of the pills?"
+        scene d12morningjada35 with dissolve
+        j "I-I just told her that, if she wants to be closer to you, she has to leap over her own fence."
+        scene d12morningjada36 with dissolve
+        pc "That's all?"
+        scene d12morningjada64 with dissolve
+        j "Yes, I mean, it's obvious that she likes you, isn't it? She was just too scared to do something about it. It's not like I told her to do something naughty........ {size=-15}not directly{/size}."
+        scene d12morningjada58 with dissolve
+        pc "[j]."
+        scene d12morningjada57 with dissolve
+        j "Awww... I just told her that she has a great body and you'd probably like to see it, I didn't tell her to have sex with you..."
+        scene d12morningjada58 with dissolve
+        pc "Damn it, [j]..."
+        scene d12morningjada57 with dissolve
+        j "I-I just told her the truth, it's what you both wanted, and you both enjoyed it, didn't you?"
+        scene d12morningjada58 with dissolve
+        menu:
+            "You're right, it helped.":
+                scene d12morningjada60 with dissolve
+                j "Right?! I actually wanted to suggest a lot more, but I wasn't sure if you'd be okay with that."
+                scene d12morningjada61 with dissolve
+                menu:
+                    "You could've just asked me.":
+                        scene d12morningjada64 with dissolve
+                        j "But I wanted it to be a surprise... sorry."
+                        scene d12morningjada66 with dissolve
+                        pc "It was definitely unexpected."
+                        scene d12morningjada60 with dissolve
+                        j "Hehe, plan succeeded!"
+                        if harem and jlo >= 3:
+                            scene d12morningjada62 with dissolve
+                            j "Sooo... now that your little harem is growing..."
+                            j "Maybe we could use the pills to convince her to sleep in your bed with us, hehe."
+                            scene d12morningjada61 with dissolve
+                            menu:
+                                "We better not play games with her mind.":
+                                    scene d12morningjada59 with dissolve
+                                    j "Oh... right, yeah, that might be a bad idea."
+                                    scene d12morningjada58 with dissolve
+                                    pc "We can try to convince her without the pills."
+                                    scene d12morningjada56 with dissolve
+                                    j "Yeah, but I doubt she'll ever agree..."
+                                    scene d12morningjada58 with dissolve
+                                    pc "Maybe she wont, but we'll have to accept it."
+                                    scene d12morningjada59 with dissolve
+                                    j "Yeah, I'd prefer it if she'd join us, but it's fine if she doesn't."
+                                    scene d12morningjada67 with dissolve
+                                "Sounds like a plan!":
+                                    $ mindplayer = True
+                                    scene d12morningjada51 with dissolve
+                                    j "Yes! We'll have orgies every night, [pcmd]! I can't wait!"
+                                    scene d12morningjada52 with dissolve
+                                    pc "Heh, that might take some time."
+                                    scene d12morningjada46 with dissolve
+                                    j "Maybe, but I can wait!"
+                                    scene d12morningjada47 with dissolve
+                        elif not harem and jlo >= 3:
+                            scene d12morningjada47 with dissolve
+                            pc "You're aware that she's going to compete with you?"
+                            scene d12morningjada46 with dissolve
+                            j "Yeah..."
+                            scene d12morningjada47 with dissolve
+                        elif not harem and jlo <3:
+                            scene d12morningjada61 with dissolve
+                            pc "But you better don't do that again, [j]. Playing with peoples mind can be dangerous."
+                            scene d12morningjada59 with dissolve
+                            j "Yeah, you're right, maybe I shouldn't have done it at all..."
+                            scene d12morningjada58 with dissolve
+                            pc "Maybe, but now it's too late."
+                            scene d12morningjada56 with dissolve
+                            j "Yeah... damn it, I hope it wasn't a mistake..."
+                            scene d12morningjada58 with dissolve
+                            pc "Probably not, but don't risk it."
+                            scene d12morningjada57 with dissolve
+                            j "Right, now I'm feeling bad... I won't do it ever again!"
+                            scene d12morningjada58 with dissolve
+                    "You better not do that again.":
+                        scene d12morningjada64 with dissolve
+                        j "Awww, but it helped..."
+                        scene d12morningjada58 with dissolve
+                        pc "Playing with peoples mind can be dangerous, [j]."
+                        scene d12morningjada56 with dissolve
+                        j "Yeah, you're right, maybe I shouldn't have done it at all..."
+                        scene d12morningjada55 with dissolve
+                        pc "Maybe, but now it's too late."
+                        scene d12morningjada57 with dissolve
+                        j "Yeah... damn it, I hope it wasn't a mistake..."
+                        scene d12morningjada58 with dissolve
+                        pc "Probably not, but don't risk it."
+                        scene d12morningjada59 with dissolve
+                        j "Right, now I'm feeling bad... I won't do it ever again!"
+                        scene d12morningjada58 with dissolve
+            "That's not right.":
+                pc "She trusts you, [j], and you betrayed her trust."
+                scene d12morningjada57 with dissolve
+                j "But I just wanted to help!"
+                scene d12morningjada58 with dissolve
+                pc "It's the wrong way, [j]!"
+                scene d12morningjada56 with dissolve
+                j "Awww, I'm sorry... I really just wanted to help..."
+                j "Why do I always mess everything up..."
+                scene d12morningjada55 with dissolve
+                pc "Because you don't think before you act, and you really should start doing that if you don't want to lose everyone and everything that means something to you."
+                pc "Shit, [oc] told me exactly the same once... and you know what?"
+                scene d12morningjada57 with dissolve
+                j "...What?"
+                scene d12morningjada58 with dissolve
+                pc "He was right, but I wasn't ready to see it, yet."
+                scene d12morningjada59 with dissolve
+                j "I know it's true... but I only ever realize it when it's too late..."
+    else:
+        scene d12morningjada61 with dissolve
+        pc "Huh? What are you talking about?"
+        scene d12morningjada62 with dissolve
+        j "I saw her leaving when I came back."
+        scene d12morningjada61 with dissolve
+        pc "You saw her leaving? She left almost an hour ago."
+        scene d12morningjada60 with dissolve
+        j "I was walking, so it took me a while to get here."
+        scene d12morningjada61 with dissolve
+        pc "Why didn't you take the bus?"
+        scene d12morningjada64 with dissolve
+        j "I missed it by a few minutes..."
+        scene d12morningjada66 with dissolve
+        pc "Damn, you walked all the way from school?"
+        scene d12morningjada68 with dissolve
+        j "Yeah... it feels like my feet are almost falling off..."
+        scene d12morningjada66 with dissolve
+        pc "Well, at least you can relax now."
+        scene d12morningjada64 with dissolve
+        j "Yeah, finally..."
+        scene d12morningjada60 with dissolve
+        j "So, how was it?"
+        scene d12morningjada61 with dissolve
+        pc "How was what?"
+        scene d12morningjada50 with dissolve
+        j "You and [m]?"
+        scene d12morningjada61 with dissolve
+        pc "There was nothing, she just forgot something, she got it, and went back to work."
+        scene d12morningjada48 with dissolve
+        j "Really?"
+        scene d12morningjada49 with dissolve
+        pc "Yes, really."
+        scene d12morningjada64 with dissolve
+        j "Oh... how boring..."
+        scene d12morningjada66 with dissolve
+        pc "Do you want me to get something going with her?"
+        if harem and jlo >=3:
+            scene d12morningjada60 with dissolve
+            j "Of course, more girls for your harem!"
+            scene d12morningjada61 with dissolve
+        elif harem and jlo <3:
+            scene d12morningjada60 with dissolve
+            j "Of course, you'd make a great couple, and [e] would be happy as well!"
+            scene d12morningjada61 with dissolve
+            pc "You think it would make [e] happy?"
+            j "Mh-hm."
+        elif not harem and jlo >=3:
+            scene d12morningjada60 with dissolve
+            j "Why not? I don't mind, [e] would be happy, and maybe I can watch you two in the future, hehe."
+            scene d12morningjada61 with dissolve
+            pc "You think [e] would like me to be with [m]?"
+            scene d12morningjada60 with dissolve
+            j "Yeah, sure..."
+            scene d12morningjada61 with dissolve
+    pc "..."
+    pcthink "[j] is really a weird one... sometimes I'm not even sure if she's being honest or not..."
+    scene d12morningjada36 with dissolve
+    j "..."
+    pc "Hm?"
+    scene d12morningjada69 with dissolve
+    j "Aaaaawww, I can't do this anymore..."
+    pc "Huh? What? What are you talking about?"
+    scene d12morningjada70 with dissolve
+    j "..."
+    pc "[j]?"
+    scene d12morningjada71 with dissolve
+    j "...dammit... shit..."
+    pc "What the hell is wrong, [j]?!"
+    scene d12morningjada72 with dissolve
+    j "It's... I think..."
+    pcthink "What's wrong with her now?"
+    scene d12morningjada73 with dissolve
+    j "I like you, okay? And it's because of [e]... I just can't..."
+    play sound "audio/door-opening.ogg"
+    "voice" "{size=+15}[j]!{/size}" with hpunch
+    scene d12morningjada74 with dissolve
+    pc "[e]?!"
+
+$ renpy.run_action(QuickSave())
+scene black with dissolve
+pause .5
+jump endGame

@@ -11,19 +11,6 @@ init -2 python:
             if renpy.get_widget(self.screen_name,self.input_id):
                 return str(renpy.get_widget(self.screen_name,self.input_id).content)
 init python:
-    def playmov(mov):
-        m = renpy.get_registered_image(mov)
-        if not m:
-            return
-        c = m.channel
-        renpy.show(mov)
-        d = 0
-        while d == 0:
-            renpy.pause(.001)
-            d = renpy.music.get_duration(c)
-        renpy.pause(d)
-        renpy.hide(mov)
-        
     def ResetToDefaults():
         _preferences.volumes['music'] = 0.4
         _preferences.volumes['sfx'] = 0.5
@@ -32,6 +19,7 @@ init python:
 
     renpy.music.register_channel("music", "music", True)
     renpy.music.register_channel("sbgm", "music", True)
+    
 default preferences.show_empty_window = False           
 define config.gestures = { "n" : "hide_windows", "e" : "skip", "s" : "game_menu", "w" : "rollback" }              
 #narrator
@@ -304,6 +292,31 @@ image d10bth:
     "images/jpg/d10bth21.jpg" with dissolve
     pause .2
     "images/jpg/d10bth21_2.jpg" with dissolve
+    
+image d12morning47_f:
+    "images/jpg/d12morning47.jpg" with dissolve
+    pause .75
+    "images/jpg/d12morning47_2.jpg" with dissolve
+    pause .75
+    repeat
+image d12morning47_m:
+    "images/jpg/d12morning47_m.jpg" with dissolve
+    pause .75
+    "images/jpg/d12morning47_2_m.jpg" with dissolve
+    pause .75
+    repeat
+image d12morning48_f:
+    "images/jpg/d12morning48.jpg" with dissolve
+    pause .75
+    "images/jpg/d12morning48_2.jpg" with dissolve
+    pause .75
+    repeat
+image d12morning48_m:
+    "images/jpg/d12morning48_m.jpg" with dissolve
+    pause .75
+    "images/jpg/d12morning48_2_m.jpg" with dissolve
+    pause .75
+    repeat
 
 transform zoomEffect:
     ease 7 truecenter zoom 1.1
@@ -323,6 +336,11 @@ transform delbtn:
     zoom 0.3
     xalign 0.99
     ypos -80
+transform mobileZoom:
+    zoom 1.75
+    xalign 0.5
+    yalign 0.8
+
 label splashscreen:
     scene childroom back with dissolve
     pause 1
@@ -337,15 +355,17 @@ label splashscreen:
             _preferences.volumes['music'] *= .4
             _preferences.volumes['sfx'] *= .5
             _preferences.volumes['voice'] *= .4
+    $achievement.sync()
 return
 label start:
     stop music
     $ pc_name = "You"
     $ pcthink_name = pc_name
     if not steamy:
-        n "This game is a work of fiction, all characters are at least 99 years old and obviously not related to any living persons.\n" with fade
+        n "This game is a work of fiction, all characters are at least 99 years old and obviously not related to, or meant to display any living, or dead persons.\n" with fade
     else:
-        n "This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old. None of the characters are in any way related to any living persons.\n" with fade
+        n "This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old.\nNone of the characters are in any way related to, or meant to display any living, or dead persons.\n" with fade
+    n "Also note that some situations in this game might come off as offensive, and\/or aggressive and should {b}NEVER{/b} be practised in real life or without consent!" with dissolve
     n "If you're not an adult, close the game now, delete it, and burn your computer/mac/phone! DON'T CLICK AGAIN, OR...\n"
     extend "...or the game starts as usual ;_;"
     $ renpy.set_style_preference("txtbox", "on")

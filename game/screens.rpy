@@ -199,7 +199,7 @@ init python:
     renpy.register_style_preference("txtbox", "off", style.thinking_dialogue, "yfill", True)
     renpy.register_style_preference("txtbox", "off", style.thinking_dialogue, "color", "#000")
     renpy.register_style_preference("txtbox", "off", style.thinking_dialogue, "size", 32)
-    renpy.register_style_preference("txtbox", "off", style.thinking_dialogue, "outlines", [ (absolute(4), "#bbb", absolute(0), absolute(0)) ])
+    renpy.register_style_preference("txtbox", "off", style.thinking_dialogue, "outlines", [ (absolute(4), "#888", absolute(0), absolute(0)) ])
     
 
 screen showtextbox():
@@ -386,6 +386,8 @@ screen navigation():
             elif not main_menu:
 
                 textbutton _("Main Menu") action MainMenu()
+                
+                textbutton _("Gallery") action ShowMenu("gallery")
 
             textbutton _("About") action ShowMenu("about")
 
@@ -857,7 +859,7 @@ screen preferences():
 
                     # Real languages should go alphabetical order by English name.
                     textbutton "English" text_font "DejaVuSans.ttf" action Language(None)
-                    text "{size=-10}{color=#ff0000}All translations are fan-made.{/color}{/size}"
+                    text _("{size=-10}{color=#ff0000}All translations are fan-made.{/color}{/size}")
                     for i in range(len(languages)):
                         textbutton _(languages[i]) text_font "DejaVuSans.ttf" action Language(languages[i])
                 #vbox:
