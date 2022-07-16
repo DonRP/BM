@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-15 02:44\n"
+"PO-Revision-Date: 2022-07-16 23:15\n"
 
-# TODO: Translation updated at 2022-04-03 HH:HH# XXtranslate crowdin strings:XX# XX## game/options.rpy:15
+# TODO: Translation updated at 2022-07-16 HH:HH# XXtranslate crowdin strings:XX# XX## game/options.rpy:15
 msgid "[mschoice] Bad Memories"
 msgstr "[mschoice] Mauvais souvenirs"
 
