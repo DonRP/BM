@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-07 16:41\n"
+"PO-Revision-Date: 2022-07-16 23:15\n"
 
-# TODO: Translation updated at 2022-04-03 HH:HH# game/events_m.rpy:6 ## translate crowdin rachelBathroomDay0_da4f73a4:
+# TODO: Translation updated at 2022-07-16 HH:HH# game/events_m.rpy:6 ## translate crowdin rachelBathroomDay0_da4f73a4:
 msgid "[pcthink] HOLY!!!"
 msgstr "[pcthink] HOLY!!!"
 
@@ -124,7 +124,7 @@ msgstr "[m] Sì, spero che vada bene?"
 msgid "[pc] Yeah... thanks."
 msgstr "[pc] Sì... grazie."
 
-# game/events_m.rpy:58 ## translate crowdin rachelBathroomDay0_9c288c7c:
+# game/events_m.rpy:59 ## translate crowdin rachelBathroomDay0_9c288c7c:
 msgid "[q] Ask if she needs help with the breakfast? [nointeract]"
 msgstr "[q] Chiedi se ha bisogno di aiuto per la colazione? [nointeract]"
 
@@ -184,7 +184,7 @@ msgstr "[m] Buongiorno [pc]. Hai dormito bene?"
 msgid "[pc] Yeah, thanks."
 msgstr "[pc] Sì, grazie."
 
-# game/events_m.rpy:91 ## translate crowdin rachelMorningKitchen_29009c22:
+# game/events_m.rpy:92 ## translate crowdin rachelMorningKitchen_29009c22:
 msgid "[n] Ask if she needs help? [nointeract]"
 msgstr "[n] Chiedi se ha bisogno di aiuto? [nointeract]"
 
@@ -1176,17 +1176,17 @@ msgstr "[m] {i}Sono bloccato nel traffico, potresti prendere [e] a scuola? Deve 
 msgid "[pc] Yeah, sure. Did you call her?"
 msgstr "[pc] Sì, certo. La hai chiamata?"
 
-# game/events_m.rpy:461 ## translate crowdin rachelStuckInTraffic_91d11be8:
-msgid "[m] {i}No, I tried to reach [j], but she doesn't respond.{/i}"
-msgstr "[m] {i}No, ho provato a raggiungere [j], ma non risponde.{/i}"
+# game/events_m.rpy:461 ## translate crowdin rachelStuckInTraffic_19fc2fc3:
+msgid "[m] {i}No, I tried to reach [j], but she didn't respond.{/i}"
+msgstr "[m] {i}No, ho provato a contattare [j], ma non ha risposto."
 
 # game/events_m.rpy:462 ## translate crowdin rachelStuckInTraffic_dc34f487:
 msgid "[pc] Why didn't you call [e]?"
 msgstr "[pc] Perché non hai chiamato [e]?"
 
-# game/events_m.rpy:463 ## translate crowdin rachelStuckInTraffic_bfe70063:
-msgid "[m] {i}She has doesn't have a mobile.{/i}"
-msgstr "[m] {i}Non ha un cellulare.{/i}"
+# game/events_m.rpy:463 ## translate crowdin rachelStuckInTraffic_7060bb83:
+msgid "[m] {i}She doesn't have a mobile.{/i}"
+msgstr "[m] {i}Non ha un cellulare."
 
 # game/events_m.rpy:464 ## translate crowdin rachelStuckInTraffic_b16e9261:
 msgid "[pc] Huh? Why?"
@@ -1244,169 +1244,165 @@ msgstr "[pcthink] Perché [e] fingere di essere male con l'elettronica?"
 msgid "[pcthink] Anyway, I better hurry!"
 msgstr "[pcthink] In ogni caso, mi fretta meglio!"
 
-# game/events_m.rpy:487 ## translate crowdin rachelElliesBDayReminder_a33f8fd3:
+# game/events_m.rpy:488 ## translate crowdin rachelElliesBDayReminder_a33f8fd3:
 msgid "[m] Just to make sure, you know what day tomorrow is, right?"
 msgstr "[m] Per essere sicuri, sai qual è il giorno di domani, giusto?"
 
-# game/events_m.rpy:488 ## translate crowdin rachelElliesBDayReminder_66a14db0:
+# game/events_m.rpy:489 ## translate crowdin rachelElliesBDayReminder_66a14db0:
 msgid "[pc] Uhh... tomorrow is [wday]..."
 msgstr "[pc] Uhh... domani è [wday]..."
 
-# game/events_m.rpy:489 ## translate crowdin rachelElliesBDayReminder_409a7abd:
+# game/events_m.rpy:490 ## translate crowdin rachelElliesBDayReminder_409a7abd:
 msgid "[m] That's not what I meant [pc]."
 msgstr "[m] Non è quello che intendevo [pc]."
 
-# game/events_m.rpy:490 ## translate crowdin rachelElliesBDayReminder_733fc4cb:
+# game/events_m.rpy:491 ## translate crowdin rachelElliesBDayReminder_733fc4cb:
 msgid "[pcthink] Err... shit, tomorrow must be some kind of special day..."
 msgstr "[pcthink] Err... merda, domani deve essere una sorta di giorno speciale..."
 
-# game/events_m.rpy:491 ## translate crowdin rachelElliesBDayReminder_9ba6f0bd:
+# game/events_m.rpy:492 ## translate crowdin rachelElliesBDayReminder_9ba6f0bd:
 msgid "[pcthink] Okay let me think... today is [dtoday], so tomorrow is the..."
 msgstr "[pcthink] Okay let me think... today is [dtoday], so domani is the..."
 
-# game/events_m.rpy:492 ## translate crowdin rachelElliesBDayReminder_f5f05cfc:
+# game/events_m.rpy:493 ## translate crowdin rachelElliesBDayReminder_f5f05cfc:
 msgid "[pcthink] ...[day].. damn time flies by..."
 msgstr "[pcthink] ...[day].. il tempo maledetto vola da..."
 
-# game/events_m.rpy:494 ## translate crowdin rachelElliesBDayReminder_9d6171d2:
+# game/events_m.rpy:495 ## translate crowdin rachelElliesBDayReminder_9d6171d2:
 msgid "[m] Did you forget it?"
 msgstr "[m] L'hai dimenticato?"
 
-# game/events_m.rpy:495 ## translate crowdin rachelElliesBDayReminder_1e59de98:
+# game/events_m.rpy:496 ## translate crowdin rachelElliesBDayReminder_1e59de98:
 msgid "[pc] Uhh... n-no... uh I guess tomorrow is..."
 msgstr "[pc] Uhh... n-no... uh immagino che domani è..."
 
-# game/events_m.rpy:496 ## translate crowdin rachelElliesBDayReminder_cd28e43f:
+# game/events_m.rpy:497 ## translate crowdin rachelElliesBDayReminder_cd28e43f:
 msgid "[pcthink] Shit...[day] of [month]... [day] of [month]..."
 msgstr "[pcthink] Merda...[day] di [month]... [day] di [month]..."
 
-# game/events_m.rpy:497 ## translate crowdin rachelElliesBDayReminder_a78a262e:
+# game/events_m.rpy:498 ## translate crowdin rachelElliesBDayReminder_a78a262e:
 msgid "[pcthink] ...wait, this date... there was something... something special..."
 msgstr "[pcthink] ...aspetta, questa data... c'era qualcosa... qualcosa di speciale..."
 
-# game/events_m.rpy:498 ## translate crowdin rachelElliesBDayReminder_3b072602:
-msgid "[pc] Eh... [e]s birthday?"
-msgstr "[pc] Eh... [e]s compleanno?"
+# game/events_m.rpy:499 ## translate crowdin rachelElliesBDayReminder_1408134f:
+msgid "[pc] Eh... [e]'s birthday?"
+msgstr "[pc] Eh... [e]compie gli anni?"
 
-# game/events_m.rpy:500 ## translate crowdin rachelElliesBDayReminder_9b232551:
-msgid "[m] Oh you remember. Thats so nice, I wasn't sure."
-msgstr "[m] Oh ti ricordi. Questo è così bello, non ero sicuro."
+# game/events_m.rpy:501 ## translate crowdin rachelElliesBDayReminder_42689387:
+msgid "[m] Oh, you remember. Thats so nice, I wasn't sure."
+msgstr "[m] Oh, ti ricordi. Che bello, non ne ero sicuro."
 
-# game/events_m.rpy:501 ## translate crowdin rachelElliesBDayReminder_c45d242c:
+# game/events_m.rpy:502 ## translate crowdin rachelElliesBDayReminder_c45d242c:
 msgid "[pc] Ehehe, of course I wouldn't forget that... hehe..."
 msgstr "[pc] Ehehe, ovviamente non lo dimentichere... lui..."
 
-# game/events_m.rpy:503 ## translate crowdin rachelElliesBDayReminder_a052ed46:
+# game/events_m.rpy:504 ## translate crowdin rachelElliesBDayReminder_a052ed46:
 msgid "[m] Good, it would be quite embarrassing if you don't have a present for the most important day of a young woman's life..."
 msgstr "[m] Bene, sarebbe abbastanza imbarazzante se non avessi un regalo per il giorno più importante della vita di una giovane donna..."
 
-# game/events_m.rpy:504 ## translate crowdin rachelElliesBDayReminder_b6205519:
+# game/events_m.rpy:505 ## translate crowdin rachelElliesBDayReminder_b6205519:
 msgid "[pcthink] *gulp* ...a present... fuck! Of course I don't have a present."
 msgstr "[pcthink] *gulp* ... un presente... cazzo! Naturalmente non ho un regalo."
 
-# game/events_m.rpy:505 ## translate crowdin rachelElliesBDayReminder_1e1fb7d2:
+# game/events_m.rpy:506 ## translate crowdin rachelElliesBDayReminder_1e1fb7d2:
 msgid "[pc] Err... yeah, that's true hehe..."
 msgstr "[pc] Err... sì, è vero lui..."
 
-# game/events_m.rpy:506 ## translate crowdin rachelElliesBDayReminder_5d61c2ce:
+# game/events_m.rpy:507 ## translate crowdin rachelElliesBDayReminder_5d61c2ce:
 msgid "[pcthink] Fuck, she knows it!"
 msgstr "[pcthink] Cazzo lo sanno!"
 
-# game/events_m.rpy:507 ## translate crowdin rachelElliesBDayReminder_31c71597:
+# game/events_m.rpy:508 ## translate crowdin rachelElliesBDayReminder_31c71597:
 msgid "[m] Right? I mean you only become 18 once in your life..."
 msgstr "[m] Giusto? Voglio dire che diventate solo 18 una volta nella vostra vita..."
 
-# game/events_m.rpy:508 ## translate crowdin rachelElliesBDayReminder_10d1077c:
+# game/events_m.rpy:509 ## translate crowdin rachelElliesBDayReminder_10d1077c:
 msgid "[pc] Absolutely..."
 msgstr "[pc] Assolutamente..."
 
-# game/events_m.rpy:509 ## translate crowdin rachelElliesBDayReminder_9c8c9966:
+# game/events_m.rpy:510 ## translate crowdin rachelElliesBDayReminder_9c8c9966:
 msgid "[pc] Wait, what? 18?!"
 msgstr "[pc] Aspetta, cosa? 18?!"
 
-# game/events_m.rpy:511 ## translate crowdin rachelElliesBDayReminder_88f81bd4:
+# game/events_m.rpy:512 ## translate crowdin rachelElliesBDayReminder_88f81bd4:
 msgid "[m] Uh.. yes? Don't tell me you don't know how old your sister is."
 msgstr "[m] Uh.. sì? Non dirmi che non sai quanto è vecchia tua sorella."
 
-# game/events_m.rpy:512 ## translate crowdin rachelElliesBDayReminder_e2f289d2:
+# game/events_m.rpy:513 ## translate crowdin rachelElliesBDayReminder_e2f289d2:
 msgid "[pc] I... uh..."
 msgstr "[pc] I... uh..."
 
-# game/events_m.rpy:513 ## translate crowdin rachelElliesBDayReminder_019291b1:
+# game/events_m.rpy:514 ## translate crowdin rachelElliesBDayReminder_019291b1:
 msgid "[m] Oh, dear."
 msgstr "[m] Oh, caro."
 
-# game/events_m.rpy:514 ## translate crowdin rachelElliesBDayReminder_45830844:
+# game/events_m.rpy:515 ## translate crowdin rachelElliesBDayReminder_45830844:
 msgid "[pcthink] How can [e] be 18? She looks so much younger than that!"
 msgstr "[pcthink] Come può [e] essere 18? Sembra molto più giovane di quello!"
 
-# game/events_m.rpy:515 ## translate crowdin rachelElliesBDayReminder_259a7740:
+# game/events_m.rpy:516 ## translate crowdin rachelElliesBDayReminder_259a7740:
 msgid "[m] Well, I guess I can't really blame you. You were probably blinded by her looks. I know she's a bit underdeveloped for her age."
 msgstr "[m] Beh, immagino di non poterti incolpare. Probabilmente sei stato accecato dai suoi sguardi. So che è un po' sottosviluppata per la sua età."
 
-# game/events_m.rpy:516 ## translate crowdin rachelElliesBDayReminder_5cb9c95d:
+# game/events_m.rpy:517 ## translate crowdin rachelElliesBDayReminder_5cb9c95d:
 msgid "[pcthink] Shit! Why didn't I read the signs. [j] looks way older than [e] and they are classmates. And then [e] is way too flirty and... sexual... for how young she looks..."
 msgstr "[pcthink] Merda! Perché non ho letto i segni. [j] sembra molto più vecchio di [e] e sono compagni di classe. E poi [e] è troppo flirty e... sessuale... per quanto giovane lei guarda..."
 
-# game/events_m.rpy:518 ## translate crowdin rachelElliesBDayReminder_eb102296:
+# game/events_m.rpy:519 ## translate crowdin rachelElliesBDayReminder_eb102296:
 msgid "[m] Maybe you should buy {b}another{/b} present for her tomorrow morning?"
 msgstr "[m] Forse dovresti comprare {b}un altro{/b} presente per lei domani mattina?"
 
-# game/events_m.rpy:519 ## translate crowdin rachelElliesBDayReminder_e789eaa5:
+# game/events_m.rpy:520 ## translate crowdin rachelElliesBDayReminder_e789eaa5:
 msgid "[pc] Yeah... I guess I should do that..."
 msgstr "[pc] Sì... Immagino che dovrei farlo..."
 
-# game/events_m.rpy:521 ## translate crowdin rachelElliesBDayReminder_de2b212b:
+# game/events_m.rpy:522 ## translate crowdin rachelElliesBDayReminder_de2b212b:
 msgid "[m] I'm taking her on a small shopping trip tomorrow morning... well... when she wakes up..."
 msgstr "[m] La sto prendendo in un piccolo viaggio di shopping domani mattina... beh, quando si sveglia..."
 
-# game/events_m.rpy:522 ## translate crowdin rachelElliesBDayReminder_7e2b6fa5:
+# game/events_m.rpy:523 ## translate crowdin rachelElliesBDayReminder_7e2b6fa5:
 msgid "[m] She tends to oversleep on weekends, so you'll have a bit of time."
 msgstr "[m] Lei tende a dormire troppo nei fine settimana, quindi avrai un po' di tempo."
 
-# game/events_m.rpy:523 ## translate crowdin rachelElliesBDayReminder_d8ad5259:
+# game/events_m.rpy:524 ## translate crowdin rachelElliesBDayReminder_d8ad5259:
 msgid "[pc] That's good, thanks [m]."
 msgstr "[pc] Va bene, grazie [m]."
 
-# game/events_m.rpy:524 ## translate crowdin rachelElliesBDayReminder_a800b964:
+# game/events_m.rpy:525 ## translate crowdin rachelElliesBDayReminder_a800b964:
 msgid "[m] Anytime, Hun."
 msgstr "[m] In qualsiasi momento, Caccio."
 
-# game/events_m.rpy:525 ## translate crowdin rachelElliesBDayReminder_41e3ea3f:
+# game/events_m.rpy:526 ## translate crowdin rachelElliesBDayReminder_41e3ea3f:
 msgid "[m] Well... I'm going to my room then... you... do remember what that means... right?"
 msgstr "[m] Beh, allora andrò nella mia stanza... tu... ricordati che cosa significa... giusto?"
 
-# game/events_m.rpy:526 ## translate crowdin rachelElliesBDayReminder_31fc1329:
+# game/events_m.rpy:527 ## translate crowdin rachelElliesBDayReminder_31fc1329:
 msgid "[pc] Yeah, don't disturb..."
 msgstr "[pc] Sì, non disturbare..."
 
-# game/events_m.rpy:528 ## translate crowdin rachelElliesBDayReminder_b04c0709:
+# game/events_m.rpy:529 ## translate crowdin rachelElliesBDayReminder_b04c0709:
 msgid "[m] Right... Thank you, Hun!"
 msgstr "[m] A destra... Grazie, Caccio!"
 
-# game/events_m.rpy:530 ## translate crowdin rachelElliesBDayReminder_8d33f75b:
+# game/events_m.rpy:531 ## translate crowdin rachelElliesBDayReminder_8d33f75b:
 msgid "[pcthink] Whoa, what the...?!"
 msgstr "[pcthink] Choa, cosa...?!"
 
-# game/events_m.rpy:534 ## translate crowdin rachelElliesBDayReminder_e1de03cc:
+# game/events_m.rpy:535 ## translate crowdin rachelElliesBDayReminder_e1de03cc:
 msgid "[pcthink] ... a kiss on the cheek!?"
 msgstr "[pcthink] ... un bacio sulla guancia!?"
 
-# game/events_m.rpy:536 ## translate crowdin rachelElliesBDayReminder_d7f2678b:
+# game/events_m.rpy:537 ## translate crowdin rachelElliesBDayReminder_d7f2678b:
 msgid "[pcthink] What the hell, she's never done that before!"
 msgstr "[pcthink] Che inferno, non lo ha mai fatto prima!"
 
-# game/events_m.rpy:538 ## translate crowdin rachelElliesBDayReminder_a69377ef:
+# game/events_m.rpy:539 ## translate crowdin rachelElliesBDayReminder_a69377ef:
 msgid "[pc] ..."
 msgstr "[pc] ..."
 
-# game/events_m.rpy:540 ## translate crowdin rachelElliesBDayReminder_8196b5e4:
+# game/events_m.rpy:541 ## translate crowdin rachelElliesBDayReminder_8196b5e4:
 msgid "[pcthink] Damn...I can still smell her perfume..."
 msgstr "[pcthink] Dannazione... Posso ancora odore il suo profumo..."
-
-# game/events_m.rpy:541 ## translate crowdin rachelElliesBDayReminder_208b8d59:
-msgid "[pcthink] ...and that ass... gaawd..."
-msgstr "[pcthink] ...e quel culo... gaawd..."
 
 # game/events_m.rpy:542 ## translate crowdin rachelElliesBDayReminder_a69377ef_1:
 msgid "[pc] ..."
@@ -1452,9 +1448,9 @@ msgstr "[pcthink] Bene, spaccherò il resto e mi siederò per un po'..."
 msgid "[pc] ..."
 msgstr "[pc] ..."
 
-# game/events_m.rpy:557 ## translate crowdin rachelElliesBDayReminder_b9e2d34a:
-msgid "[pcthink] [e]s birthday... Why would she tell me about it if she's just playing with me? Is [e] really going to turn 18 tomorrow?"
-msgstr "[pcthink] [e]s birthday... Why would she would me about it if she is just playing with me? Is [e] really going to turn 18 Domani?"
+# game/events_m.rpy:557 ## translate crowdin rachelElliesBDayReminder_59acf002:
+msgid "[pcthink] [e]'s birthday... Why would she tell me about it if she's just playing with me? Is [e] really going to turn 18 tomorrow?"
+msgstr "[pcthink] [e]compleanno... Perché me ne ha parlato se sta solo giocando con me? [e] compie davvero 18 anni domani?"
 
 # game/events_m.rpy:558 ## translate crowdin rachelElliesBDayReminder_cc383178:
 msgid "[pcthink] Shit, I don't get it... am I imagining things?"
@@ -1808,13 +1804,13 @@ msgstr "[m] Oh non ti preoccupare, Hun. Sei un buon kisser."
 msgid "[pc] Haha, thanks. You too, [m]."
 msgstr "[pc] Haha, grazie. Anche te. [m]."
 
-# game/events_m.rpy:697 ## translate crowdin rachelPills3rd2_10914812:
-msgid "[pc] Well, I better leave now, so you can go on with what you where doing before I came in."
-msgstr "[pc] Beh, meglio se ne vado adesso, così puoi andare avanti con quello che fai dove faccio prima di entrare."
+# game/events_m.rpy:697 ## translate crowdin rachelPills3rd2_0679d7a7:
+msgid "[pc] Well, I better leave now, so you can go on with what you were doing before I came in."
+msgstr "[pc] È meglio che me ne vada ora, così potete continuare a fare quello che stavate facendo prima che io entrassi."
 
-# game/events_m.rpy:698 ## translate crowdin rachelPills3rd2_f13ca8a9:
-msgid "[pcthink] ...before I'll do something stupid again..."
-msgstr "[pcthink] ... prima di fare di nuovo qualcosa di stupido..."
+# game/events_m.rpy:698 ## translate crowdin rachelPills3rd2_0360cd24:
+msgid "[pcthink] ...before I do something stupid again..."
+msgstr "[pcthink] ...prima che faccia di nuovo qualcosa di stupido..."
 
 # game/events_m.rpy:699 ## translate crowdin rachelPills3rd2_7248de78:
 msgid "[m] Okay, Hun. I'll call you when dinner is ready."
@@ -2588,9 +2584,9 @@ msgstr "[pcthink] ..."
 msgid "[pcthink] Ugh... well, let's see what [e] is doing. At least I can trust her... hopefully..."
 msgstr "[pcthink] Ugh... beh, vediamo cosa [e] sta facendo. Almeno posso fidarmi di lei... speriamo..."
 
-# game/events_m.rpy:980 ## translate crowdin rachelGivePills_2c1aea61:
-msgid "Later this evening..."
-msgstr "Più tardi questa sera..."
+# game/events_m.rpy:980 ## translate crowdin rachelGivePills_9669528e:
+msgid "Later..."
+msgstr "Più tardi..."
 
 # game/events_m.rpy:982 ## translate crowdin rachelGivePills_bca3ac64:
 msgid "*Knock* *Knock*"
@@ -4384,7 +4380,7 @@ msgstr "[pc] Eh...?"
 msgid "[pcthink] Is she talking about... me?"
 msgstr "[pcthink] Sta parlando... me?"
 
-# game/events_m.rpy:1681 ## translate crowdin d8_rachel_pills_770f82f1:
+# game/events_m.rpy:1682 ## translate crowdin d8_rachel_pills_770f82f1:
 msgid "[pc] I think you should... [nointeract]"
 msgstr "[pc] Penso che dovresti dare... [nointeract]"
 
@@ -4716,9 +4712,9 @@ msgstr "[pcthink] Tornando qui sembra innescare un sacco di vecchi ricordi..."
 msgid "[pcthink] Not that I've forgotten anything..."
 msgstr "[pcthink] Non che ho dimenticato niente..."
 
-# game/events_m.rpy:1844 ## translate crowdin d10shower_d87b1201:
-msgid "[pcthink] I'd just wish they'd stay buried in the back of my head where they used to be over the last few years... I don't want to remember that shit..."
-msgstr "[pcthink] Vorrei solo che restassero sepolti nella parte posteriore della mia testa dove erano negli ultimi anni. . Non voglio ricordare quella merda..."
+# game/events_m.rpy:1844 ## translate crowdin d10shower_1eca58c2:
+msgid "[pcthink] I'd just wish they'd stay buried in the back of my head, where they used to be over the last few years... I don't want to remember that shit..."
+msgstr "[pcthink] Vorrei solo che rimanessero sepolti nella parte posteriore della mia testa, dove sono stati negli ultimi anni... Non voglio ricordare quella merda..."
 
 # game/events_m.rpy:1846 ## translate crowdin d10shower_32ead6f8:
 msgid "[pcthink] Huh?"
@@ -4728,9 +4724,9 @@ msgstr "[pcthink] Huh?"
 msgid "[pcthink] Shit, that's [m], isn't it? Damn, I forgot to lock the door again..."
 msgstr "[pcthink] Merda, è [m], vero? Dannazione, ho dimenticato di chiudere di nuovo la porta..."
 
-# game/events_m.rpy:1849 ## translate crowdin d10shower_595117c0:
-msgid "[pcthink] Is she... I don't think she's noticed that I've noticed her..."
-msgstr "[pcthink] È lei... Non penso che lei abbia notato che l'ho notata..."
+# game/events_m.rpy:1849 ## translate crowdin d10shower_16afb295:
+msgid "[pcthink] Is she... I don't think she's noticed that I've seen her..."
+msgstr "[pcthink] Lei è... Non credo che si sia accorta che l'ho vista..."
 
 # game/events_m.rpy:1851 ## translate crowdin d10shower_92e8785a:
 msgid "[pcthink] Wow, I think she was checking me out..."
@@ -4744,9 +4740,9 @@ msgstr "[n] Finisci e vai a colazione."
 msgid "[pcthink] Hum, looks like breakfast for two?"
 msgstr "[pcthink] Hum, sembra la colazione per due?"
 
-# game/events_m.rpy:1857 ## translate crowdin d10shower_5989ac04:
-msgid "[pcthink] Ah, it's the weekend, [e] won't get up for a while... and I guess [j] likes to sleep in as well."
-msgstr "[pcthink] Ah, è il fine settimana, [e] non si alzerà per un po'... e credo che [j] mi piace dormire anche dentro."
+# game/events_m.rpy:1857 ## translate crowdin d10shower_ed8955fb:
+msgid "[pcthink] Ah, it's the weekend. [e] won't get up for a while... and I guess [j] likes to sleep in as well."
+msgstr "[pcthink] Ah, è il fine settimana. [e] non si alzerà per un po'... e credo che anche a [j] piaccia dormire fino a tardi."
 
 # game/events_m.rpy:1858 ## translate crowdin d10shower_f422d8e0:
 msgid "[m] Good morning, Hun."
@@ -4772,9 +4768,9 @@ msgstr "[m] Spero che non vi importi, pensavo che avreste potuto avere fame."
 msgid "[m] I believe it's something you liked."
 msgstr "[m] Credo che sia qualcosa che ti piace."
 
-# game/events_m.rpy:1869 ## translate crowdin d10shower_4a59937d:
-msgid "[m] Why don't you sit down, I'll be there in a minute."
-msgstr "[m] Perché non ti siedi, ci sarò tra un minuto."
+# game/events_m.rpy:1869 ## translate crowdin d10shower_f80b7850:
+msgid "[m] Why don't you sit down? I'll be there in a minute."
+msgstr "[m] Perché non ti siedi? Sarò lì tra un minuto."
 
 # game/events_m.rpy:1870 ## translate crowdin d10shower_6041deb1:
 msgid "[pc] Sure, thanks."
@@ -4916,9 +4912,9 @@ msgstr "[pc] Sì."
 msgid "[pcthink] Thank god!"
 msgstr "[pcthink] Grazie Dio!"
 
-# game/events_m.rpy:1944 ## translate crowdin d10outdoor_3a940087:
-msgid "[m] I must say I'm a bit surprised, I didn't think you'd keep up."
-msgstr "[m] Devo dire che sono un po' sorpreso, non pensavo che avessi tenuto il passo."
+# game/events_m.rpy:1944 ## translate crowdin d10outdoor_23684742:
+msgid "[m] I must say I'm a bit surprised. I didn't think you'd keep up."
+msgstr "[m] Devo dire che sono un po' sorpreso. Non pensavo che avresti tenuto il passo."
 
 # game/events_m.rpy:1946 ## translate crowdin d10outdoor_a9a2d1b9:
 msgid "[pc] Thanks."
@@ -4936,9 +4932,9 @@ msgstr "[pc] Al contrario di te sembra."
 msgid "[m] Well, I used to do it every day for a while, but it's hard to stay motivated."
 msgstr "[m] Beh, ero solito farlo ogni giorno per un po', ma è difficile rimanere motivato."
 
-# game/events_m.rpy:1953 ## translate crowdin d10outdoor_15689087:
-msgid "[m] I think last time I went for a workout was two months ago and even then it had been quite a while..."
-msgstr "[m] Penso che l'ultima volta che sono andato per un allenamento era due mesi fa e anche allora era stato un bel po'..."
+# game/events_m.rpy:1953 ## translate crowdin d10outdoor_7fca2e94:
+msgid "[m] I think the last time I went for a workout was two months ago, and even then it had been quite a while..."
+msgstr "[m] Credo che l'ultima volta che sono andata ad allenarmi sia stato due mesi fa, e anche allora era passato un bel po' di tempo..."
 
 # game/events_m.rpy:1958 ## translate crowdin d10outdoor_822027ef:
 msgid "[pc] It'll help you stay fit and healthy."
@@ -5192,9 +5188,9 @@ msgstr "[pc] Molto tempo prima della sua morte è... non lo so... nebbia..."
 msgid "[pc] I didn't understand much of what happened back then..."
 msgstr "[pc] Non ho capito molto di quello che è successo allora..."
 
-# game/events_m.rpy:2075 ## translate crowdin d10outdoor_601fbd1d:
-msgid "[m] Understandably, you were a child."
-msgstr "[m] Comprensibilmente, eri un bambino."
+# game/events_m.rpy:2075 ## translate crowdin d10outdoor_d6efa01a:
+msgid "[m] Understandably, you were just a child."
+msgstr "[m] È comprensibile che tu fossi solo un bambino."
 
 # game/events_m.rpy:2077 ## translate crowdin d10outdoor_1a1395b0:
 msgid "[pc] He always made it look like he didn't do anything bad, like it was never his fault."
@@ -5204,9 +5200,9 @@ msgstr "[pc] Ha sempre fatto sembrare che non facesse nulla di male, come non er
 msgid "[pc] \"[m] did something stupid again.\", \"[m] stumbled again.\", \"[m] is just weepy again.\""
 msgstr "[pc] \"[m] ha fatto qualcosa di stupido di nuovo.\", \"[m] inciampato di nuovo.\", \"[m] è solo pianto di nuovo.\""
 
-# game/events_m.rpy:2079 ## translate crowdin d10outdoor_a8354bfb:
-msgid "[pcthink] Thinking about it... I think I knew somewhere deep in the back of my head that he was lying, but..."
-msgstr "[pcthink] Pensandochar@@0 Credo di aver saputo da qualche parte nella parte posteriore della mia testa che stava mentendo, ma..."
+# game/events_m.rpy:2079 ## translate crowdin d10outdoor_e68c88de:
+msgid "[pcthink] Thinking about it... I think I knew somewhere deep in the back of my head, that he was lying, but..."
+msgstr "[pcthink] Ripensandoci... Credo di aver capito, in fondo alla mia testa, che stava mentendo, ma..."
 
 # game/events_m.rpy:2080 ## translate crowdin d10outdoor_df645e65:
 msgid "[pcthink] I guess I didn't want to accept it..."
@@ -5272,9 +5268,9 @@ msgstr "[pc] ...e poi hai iniziato a bere..."
 msgid "[m] I'm so sorry, [pc]."
 msgstr "[m] Mi dispiace, [pc]."
 
-# game/events_m.rpy:2101 ## translate crowdin d10outdoor_e8c7d3ae:
-msgid "[m] Being drunk is no excuse for being... the way I've been towards you..."
-msgstr "[m] Essere ubriaco non è una scusa per essere... il modo in cui sono stato verso di te..."
+# game/events_m.rpy:2101 ## translate crowdin d10outdoor_fbb33512:
+msgid "[m] Being drunk is no excuse for being... the way I was towards you..."
+msgstr "[m] Essere ubriachi non è una scusa per essere... il modo in cui mi sono comportato con te..."
 
 # game/events_m.rpy:2102 ## translate crowdin d10outdoor_a69377ef_4:
 msgid "[pc] ..."
@@ -5572,149 +5568,953 @@ msgstr "[pcthink] Beh, immagino che posso almeno fare una doccia ora..."
 msgid "[pcthink] I wonder if [m] is done already, maybe I should check."
 msgstr "[pcthink] Mi chiedo se [m] sia già fatto, forse dovrei controllare."
 
-# game/events_m.rpy:2248 ## translate crowdin d10shower2_dbb7dcbd:
+# game/events_m.rpy:2249 ## translate crowdin d10shower2_dbb7dcbd:
 msgid "[pcthink] Sounds like she's still under the shower..."
 msgstr "[pcthink] Suona come se fosse ancora sotto la doccia..."
 
-# game/events_m.rpy:2251 ## translate crowdin d10shower2_460903de:
+# game/events_m.rpy:2252 ## translate crowdin d10shower2_460903de:
 msgid "[pcthink] Yeah, she's fine with it, right?"
 msgstr "[pcthink] Sì, sta bene con esso, giusto?"
 
-# game/events_m.rpy:2253 ## translate crowdin d10shower2_4fef9fe3:
+# game/events_m.rpy:2254 ## translate crowdin d10shower2_4fef9fe3:
 msgid "[pcthink] And even if not..."
 msgstr "[pcthink] E anche se non..."
 
-# game/events_m.rpy:2256 ## translate crowdin d10shower2_286949fc:
+# game/events_m.rpy:2257 ## translate crowdin d10shower2_286949fc:
 msgid "[pcthink] Yeah, who wants to see a hot and naked milf..."
 msgstr "[pcthink] Sì, che vuole vedere un caldo e nudo milf..."
 
-# game/events_m.rpy:2265 ## translate crowdin d10shower2_00920066:
+# game/events_m.rpy:2266 ## translate crowdin d10shower2_00920066:
 msgid "[pcthink] Damn she's hot!"
 msgstr "[pcthink] Dannazione è caldo!"
 
-# game/events_m.rpy:2267 ## translate crowdin d10shower2_713e6480:
+# game/events_m.rpy:2268 ## translate crowdin d10shower2_713e6480:
 msgid "[pcthink] Phew!"
 msgstr "[pcthink] Phew!"
 
-# game/events_m.rpy:2269 ## translate crowdin d10shower2_3babc156:
+# game/events_m.rpy:2270 ## translate crowdin d10shower2_3babc156:
 msgid "[m] O-Oh...[pc]..."
 msgstr "[m] O-Oh...[pc]..."
 
-# game/events_m.rpy:2271 ## translate crowdin d10shower2_1af068ca:
+# game/events_m.rpy:2272 ## translate crowdin d10shower2_1af068ca:
 msgid "[pcthink] Now we'll see if she's really okay with it..."
 msgstr "[pcthink] Ora vedremo se sta davvero bene con esso..."
 
-# game/events_m.rpy:2273 ## translate crowdin d10shower2_e612037c:
+# game/events_m.rpy:2274 ## translate crowdin d10shower2_e612037c:
 msgid "[m] ..."
 msgstr "[m] ..."
 
-# game/events_m.rpy:2275 ## translate crowdin d10shower2_42139ae9:
+# game/events_m.rpy:2276 ## translate crowdin d10shower2_42139ae9:
 msgid "[pcthink] Wow... I guess she is..."
 msgstr "[pcthink] Wow... Immagino che lei sia..."
 
-# game/events_m.rpy:2277 ## translate crowdin d10shower2_797b9195:
+# game/events_m.rpy:2278 ## translate crowdin d10shower2_797b9195:
 msgid "[pcthink] Well, time to join her."
 msgstr "[pcthink] Beh, è il momento di unirsi a lei."
 
-# game/events_m.rpy:2280 ## translate crowdin d10shower2_a69377ef:
+# game/events_m.rpy:2281 ## translate crowdin d10shower2_a69377ef:
 msgid "[pc] ..."
 msgstr "[pc] ..."
 
-# game/events_m.rpy:2282 ## translate crowdin d10shower2_feecf759:
+# game/events_m.rpy:2283 ## translate crowdin d10shower2_feecf759:
 msgid "[pcthink] Looks like she's a bit unsure..."
 msgstr "[pcthink] Sembra che lei sia un po' insicura..."
 
-# game/events_m.rpy:2288 ## translate crowdin d10shower2_c88c0b08:
+# game/events_m.rpy:2289 ## translate crowdin d10shower2_c88c0b08:
 msgid "[m] Are you... sure this is what you want, [pc]?"
 msgstr "[m] Sei sicuro... questo è quello che vuoi, [pc]?"
 
-# game/events_m.rpy:2290 ## translate crowdin d10shower2_8c029670:
+# game/events_m.rpy:2291 ## translate crowdin d10shower2_8c029670:
 msgid "[pc] I am..."
 msgstr "[pc] Io sono..."
 
-# game/events_m.rpy:2292 ## translate crowdin d10shower2_397e4be2:
+# game/events_m.rpy:2293 ## translate crowdin d10shower2_397e4be2:
 msgid "[m] Mhmm..."
 msgstr "[m] Mhmm..."
 
-# game/events_m.rpy:2300 ## translate crowdin d10shower2_07d8873b:
+# game/events_m.rpy:2301 ## translate crowdin d10shower2_07d8873b:
 msgid "[m] Hnnn..."
 msgstr "[m] Hnnn..."
 
-# game/events_m.rpy:2302 ## translate crowdin d10shower2_9d27c58e:
+# game/events_m.rpy:2303 ## translate crowdin d10shower2_9d27c58e:
 msgid "[m] [pc]..."
 msgstr "[m] [pc]..."
 
-# game/events_m.rpy:2312 ## translate crowdin d10shower2_efbf3953:
+# game/events_m.rpy:2313 ## translate crowdin d10shower2_efbf3953:
 msgid "[m] Nnnh..."
 msgstr "[m] Nnnh..."
 
-# game/events_m.rpy:2314 ## translate crowdin d10shower2_51d78bd4:
+# game/events_m.rpy:2315 ## translate crowdin d10shower2_51d78bd4:
 msgid "[m] N-No, [pc]..."
 msgstr "[m] N-No, [pc]..."
 
-# game/events_m.rpy:2316 ## translate crowdin d10shower2_255fef2a:
+# game/events_m.rpy:2317 ## translate crowdin d10shower2_255fef2a:
 msgid "[pc] What's wrong?"
 msgstr "[pc] Cosa c'è di sbagliato?"
 
-# game/events_m.rpy:2318 ## translate crowdin d10shower2_4d8d089e:
+# game/events_m.rpy:2319 ## translate crowdin d10shower2_4d8d089e:
 msgid "[m] I... the others could hear us."
 msgstr "[m] Io... gli altri potrebbero sentirci."
 
-# game/events_m.rpy:2320 ## translate crowdin d10shower2_498b8172:
+# game/events_m.rpy:2321 ## translate crowdin d10shower2_498b8172:
 msgid "[pc] We just have to be quiet."
 msgstr "[pc] Dobbiamo solo essere tranquilli."
 
-# game/events_m.rpy:2322 ## translate crowdin d10shower2_2a34dca1:
+# game/events_m.rpy:2323 ## translate crowdin d10shower2_2a34dca1:
 msgid "[m] I-I... can't..."
 msgstr "[m] I-I... non può..."
 
-# game/events_m.rpy:2323 ## translate crowdin d10shower2_04fccbd1:
+# game/events_m.rpy:2324 ## translate crowdin d10shower2_04fccbd1:
 msgid "[pc] Why, what's wrong, [m]?"
 msgstr "[pc] Perché, cosa c'è di sbagliato, [m]?"
 
-# game/events_m.rpy:2325 ## translate crowdin d10shower2_223ebebc:
+# game/events_m.rpy:2326 ## translate crowdin d10shower2_223ebebc:
 msgid "[m] That was [t] at the door, right?"
 msgstr "[m] Era [t] alla porta, giusto?"
 
-# game/events_m.rpy:2326 ## translate crowdin d10shower2_8d1dce03:
+# game/events_m.rpy:2327 ## translate crowdin d10shower2_8d1dce03:
 msgid "[pc] Yeah, why?"
 msgstr "[pc] Sì, perché?"
 
-# game/events_m.rpy:2327 ## translate crowdin d10shower2_2e77b6a3:
+# game/events_m.rpy:2328 ## translate crowdin d10shower2_2e77b6a3:
 msgid "[m] So we have two visitors, [t] and [j]..."
 msgstr "[m] Quindi abbiamo due visitatori, [t] e [j]..."
 
-# game/events_m.rpy:2329 ## translate crowdin d10shower2_e6b5c996:
+# game/events_m.rpy:2330 ## translate crowdin d10shower2_e6b5c996:
 msgid "[m] I-I just don't feel comfortable... like that..."
 msgstr "[m] I-Non mi sento a mio agno... così..."
 
-# game/events_m.rpy:2331 ## translate crowdin d10shower2_d0150a9e:
+# game/events_m.rpy:2332 ## translate crowdin d10shower2_d0150a9e:
 msgid "[pc] [t] and [e] are busy with their session."
 msgstr "[pc] [t] e [e] sono occupati con la loro sessione."
 
-# game/events_m.rpy:2333 ## translate crowdin d10shower2_327a82b7:
+# game/events_m.rpy:2334 ## translate crowdin d10shower2_327a82b7:
 msgid "[m] Which means [j] has nothing to do... you know her..."
 msgstr "[m] Il che significa che [j] non ha nulla da fare... la conosci..."
 
-# game/events_m.rpy:2335 ## translate crowdin d10shower2_e535f312:
+# game/events_m.rpy:2336 ## translate crowdin d10shower2_e535f312:
 msgid "[m] We can still wash each other if you like."
 msgstr "[m] Possiamo ancora lavarci a vicenda se ti piace."
 
-# game/events_m.rpy:2336 ## translate crowdin d10shower2_1e3d9f05:
+# game/events_m.rpy:2337 ## translate crowdin d10shower2_1e3d9f05:
 msgid "[pc] Hmph... fine..."
 msgstr "[pc] Hmph... fine..."
 
-# game/events_m.rpy:2339 ## translate crowdin d10shower2_db6d7bdc:
+# game/events_m.rpy:2340 ## translate crowdin d10shower2_db6d7bdc:
 msgid "[n] Highly disappointed, you help [m] wash herself and she returns the favor, cautiously avoiding every sensitive spot."
 msgstr "[n] Altamente delusa, aiuterai [m] a lavarsi e lei restituisce il favore, evitando con cautela ogni punto sensibile."
 
-# game/events_m.rpy:2341 ## translate crowdin d10shower2_069f3e25:
+# game/events_m.rpy:2342 ## translate crowdin d10shower2_069f3e25:
 msgid "[n] She also completely ignores that you have a boner..."
 msgstr "[n] Lei ignora anche completamente che si ha un boner..."
 
-# game/events_m.rpy:2344 ## translate crowdin d10shower2_2aacafaf:
+# game/events_m.rpy:2345 ## translate crowdin d10shower2_2aacafaf:
 msgid "[n] A little bit later. [withslowdissolve]"
 msgstr "[n] Un po' più tardi. [withslowdissolve]"
+
+# game/events_m.rpy:2349 ## translate crowdin d12rachel_5f3edcc8:
+msgid "[n] An hour later."
+msgstr "[n] Un'ora dopo."
+
+# game/events_m.rpy:2351 ## translate crowdin d12rachel_ad5565f4:
+msgid "[pcthink] Phew, finally. What a toil..."
+msgstr "[pcthink] Finalmente. Che fatica..."
+
+# game/events_m.rpy:2352 ## translate crowdin d12rachel_07f57e0d:
+msgid "[pcthink] That thing is huge, it would've been a lot easier with a helping hand..."
+msgstr "[pcthink] Quella cosa è enorme, sarebbe stato molto più facile con una mano..."
+
+# game/events_m.rpy:2353 ## translate crowdin d12rachel_73250a0f:
+msgid "[pcthink] But the image is great!"
+msgstr "[pcthink] Ma l'immagine è fantastica!"
+
+# game/events_m.rpy:2354 ## translate crowdin d12rachel_c60ab0c8:
+msgid "[pcthink] I'm glad the old socket was still there behind the painting, it's in the perfect spot to hide the cable."
+msgstr "[pcthink] Sono contento che la vecchia presa fosse ancora lì dietro il quadro, è nel punto perfetto per nascondere il cavo."
+
+# game/events_m.rpy:2356 ## translate crowdin d12rachel_4acfbf8d:
+msgid "[pcthink] I almost expected it to be..."
+msgstr "[pcthink] Mi aspettavo quasi che fosse..."
+
+# game/events_m.rpy:2360 ## translate crowdin d12rachel_32ead6f8:
+msgid "[pcthink] Huh?"
+msgstr "[pcthink] Huh?"
+
+# game/events_m.rpy:2361 ## translate crowdin d12rachel_b284a0d5:
+msgid "[pcthink] That was the front door..."
+msgstr "[pcthink] Quella era la porta d'ingresso..."
+
+# game/events_m.rpy:2365 ## translate crowdin d12rachel_11d0bf6b:
+msgid "[pc] Hmm..."
+msgstr "[pc] Hmm..."
+
+# game/events_m.rpy:2367 ## translate crowdin d12rachel_a69377ef:
+msgid "[pc] ..."
+msgstr "[pc] ..."
+
+# game/events_m.rpy:2371 ## translate crowdin d12rachel_fb72934b:
+msgid "[pc] Anybody here?"
+msgstr "[pc] C'è qualcuno qui?"
+
+# game/events_m.rpy:2372 ## translate crowdin d12rachel_b1762422:
+msgid "[m] {size=-10}Oh, sorry, it's just me.{/size}"
+msgstr "[m] {Oh, scusate, sono solo io."
+
+# game/events_m.rpy:2374 ## translate crowdin d12rachel_77711451:
+msgid "[pc] [m]?"
+msgstr "[pc] [m]?"
+
+# game/events_m.rpy:2375 ## translate crowdin d12rachel_0e11bc7b:
+msgid "[m] {size=-10}Yes, give me a minute...{/size}"
+msgstr "[m] {Si', mi dia un minuto..."
+
+# game/events_m.rpy:2376 ## translate crowdin d12rachel_95e7b821:
+msgid "[pc] Alright..."
+msgstr "[pc] Bene..."
+
+# game/events_m.rpy:2378 ## translate crowdin d12rachel_50f0d0d7:
+msgid "[pcthink] I guess she forgot something..."
+msgstr "[pcthink] Credo che abbia dimenticato qualcosa..."
+
+# game/events_m.rpy:2383 ## translate crowdin d12rachel_87c6d927:
+msgid "[pcthink] Alright..."
+msgstr "[pcthink] Bene..."
+
+# game/events_m.rpy:2385 ## translate crowdin d12rachel_bc3872d9:
+msgid "[pcthink] What do I do with the packaging..."
+msgstr "[pcthink] Cosa devo fare con l'imballaggio..."
+
+# game/events_m.rpy:2386 ## translate crowdin d12rachel_87cf48dd:
+msgid "[pcthink] It's probably better to not throw it away, yet..."
+msgstr "[pcthink] Forse è meglio non buttarlo via, ancora..."
+
+# game/events_m.rpy:2387 ## translate crowdin d12rachel_de61a11c:
+msgid "[pcthink] Maybe there's room for it in the shed."
+msgstr "[pcthink] Forse c'è spazio per il capanno."
+
+# game/events_m.rpy:2392 ## translate crowdin d12rachel_9455801f:
+msgid "[pc] Hm?"
+msgstr "[pc] Hm?"
+
+# game/events_m.rpy:2394 ## translate crowdin d12rachel_3fcd8c27:
+msgid "[pc] Come in."
+msgstr "[pc] Entra."
+
+# game/events_m.rpy:2397 ## translate crowdin d12rachel_3bf30197:
+msgid "[m] Hey, Hun. Sorry, I..."
+msgstr "[m] Ehi, Hun. Scusa, io..."
+
+# game/events_m.rpy:2399 ## translate crowdin d12rachel_877ee2af:
+msgid "[m] O-Oh, you got yourself a new TV?"
+msgstr "[m] Hai comprato un nuovo televisore?"
+
+# game/events_m.rpy:2401 ## translate crowdin d12rachel_e7de3889:
+msgid "[pc] Err... yeah, just finished setting it up."
+msgstr "[pc] Ehm... sì, ho appena finito di configurarlo."
+
+# game/events_m.rpy:2403 ## translate crowdin d12rachel_54d918bb:
+msgid "[m] Oh, well... anyway, I just forgot some papers for work, I have to leave again already."
+msgstr "[m] Oh, beh... comunque, ho dimenticato dei documenti per il lavoro, devo già ripartire."
+
+# game/events_m.rpy:2405 ## translate crowdin d12rachel_bd4a7dcf:
+msgid "[pc] Yeah, I thought it must be something like that."
+msgstr "[pc] Sì, ho pensato che si trattasse di qualcosa del genere."
+
+# game/events_m.rpy:2407 ## translate crowdin d12rachel_66997ed8:
+msgid "[m] Alright, I need to hurry, see you later, Hun, and sorry for the trouble."
+msgstr "[m] Va bene, devo sbrigarmi, ci vediamo dopo, Hun, e scusa per il disturbo."
+
+# game/events_m.rpy:2408 ## translate crowdin d12rachel_fef99c42:
+msgid "[pc] No problem, see you later."
+msgstr "[pc] Nessun problema, ci vediamo dopo."
+
+# game/events_m.rpy:2420 ## translate crowdin d12rachels_9455801f:
+msgid "[pc] Hm?"
+msgstr "[pc] Hm?"
+
+# game/events_m.rpy:2422 ## translate crowdin d12rachels_3fcd8c27:
+msgid "[pc] Come in."
+msgstr "[pc] Entra."
+
+# game/events_m.rpy:2427 ## translate crowdin d12rachels_0a4b4607:
+msgid "[pcthink] Holy shit!"
+msgstr "[pcthink] Merda santa!"
+
+# game/events_m.rpy:2429 ## translate crowdin d12rachels_877ee2af:
+msgid "[m] O-Oh, you got yourself a new TV?"
+msgstr "[m] Hai comprato un nuovo televisore?"
+
+# game/events_m.rpy:2432 ## translate crowdin d12rachels_e7de3889:
+msgid "[pc] Err... yeah, just finished setting it up."
+msgstr "[pc] Ehm... sì, ho appena finito di configurarlo."
+
+# game/events_m.rpy:2434 ## translate crowdin d12rachels_8552b989:
+msgid "[m] It's so big..."
+msgstr "[m] È così grande..."
+
+# game/events_m.rpy:2436 ## translate crowdin d12rachels_9404bf45:
+msgid "[pc] Err... what's with this outfit, and shouldn't you be at work?"
+msgstr "[pc] Come mai sei vestita così e non dovresti essere al lavoro?"
+
+# game/events_m.rpy:2439 ## translate crowdin d12rachels_45a43805:
+msgid "[m] Oh, sorry, I... I thought I'd take a day off... I hope you don't mind... what do you think?"
+msgstr "[m] Oh, scusate, io... Ho pensato di prendermi un giorno libero... Spero che non ti dispiaccia... cosa ne pensi?"
+
+# game/events_m.rpy:2441 ## translate crowdin d12rachels_04b93f1f:
+msgid "[m] Oh, right... I took a day off... what do you think?"
+msgstr "[m] Oh, giusto... Mi sono preso un giorno di riposo... che ne pensi?"
+
+# game/events_m.rpy:2443 ## translate crowdin d12rachels_3608b690:
+msgid "[pc] About the outfit?"
+msgstr "[pc] Per quanto riguarda l'abbigliamento?"
+
+# game/events_m.rpy:2445 ## translate crowdin d12rachels_8cb62253:
+msgid "[m] Yes."
+msgstr "[m] Sì."
+
+# game/events_m.rpy:2447 ## translate crowdin d12rachels_ec36e104:
+msgid "[pc] It's... incredibly hot."
+msgstr "[pc] È... incredibilmente caldo."
+
+# game/events_m.rpy:2449 ## translate crowdin d12rachels_34002d1f:
+msgid "[m] Thank, you, I was hoping you'd like it."
+msgstr "[m] Grazie, speravo che ti piacesse."
+
+# game/events_m.rpy:2451 ## translate crowdin d12rachels_d3e0887f:
+msgid "[m] To be honest, I wasn't even sure if it still fits."
+msgstr "[m] A dire il vero, non ero nemmeno sicuro che andasse ancora bene."
+
+# game/events_m.rpy:2453 ## translate crowdin d12rachels_2dc95ef1:
+msgid "[pc] It fits perfectly."
+msgstr "[pc] Si adatta perfettamente."
+
+# game/events_m.rpy:2454 ## translate crowdin d12rachels_6f4c46dc:
+msgid "[m] Thanks, Hun."
+msgstr "[m] Grazie, Hun."
+
+# game/events_m.rpy:2456 ## translate crowdin d12rachels_c5602319:
+msgid "[m] You know..."
+msgstr "[m] Sai..."
+
+# game/events_m.rpy:2458 ## translate crowdin d12rachels_cb9517e0:
+msgid "[m] ...I thought that, since we're alone now..."
+msgstr "[m] ...pensavo che, dato che siamo soli ora..."
+
+# game/events_m.rpy:2460 ## translate crowdin d12rachels_c2bea8b0:
+msgid "[m] ... maybe... maybe you wanted to go on where we stopped last time under the shower?"
+msgstr "[m] ... forse... forse volevi continuare dove ci siamo fermati l'ultima volta, sotto la doccia?"
+
+# game/events_m.rpy:2462 ## translate crowdin d12rachels_9621de32:
+msgid "[m] ...I think we should go on where we stopped last time under the shower."
+msgstr "[m] ...credo che dovremmo continuare dove ci siamo fermati l'ultima volta, sotto la doccia."
+
+# game/events_m.rpy:2464 ## translate crowdin d12rachels_be017c1c:
+msgid "[m] I... we could go on where we stopped last time under the shower."
+msgstr "[m] Io... potremmo continuare dove ci siamo fermati l'ultima volta, sotto la doccia."
+
+# game/events_m.rpy:2466 ## translate crowdin d12rachels_30d2a7c7:
+msgid "[m] I was thinking, maybe we should spend some time together..."
+msgstr "[m] Stavo pensando che forse dovremmo passare un po' di tempo insieme..."
+
+# game/events_m.rpy:2468 ## translate crowdin d12rachels_79b801f0:
+msgid "[m] ... we could... I mean, we can do whatever you want..."
+msgstr "[m] ... potremmo... Cioè, possiamo fare quello che vuoi..."
+
+# game/events_m.rpy:2470 ## translate crowdin d12rachels_0db079ef:
+msgid "[m] ...get to know each other a little bit... closer."
+msgstr "[m] ...conoscerci un po' di più... più da vicino."
+
+# game/events_m.rpy:2472 ## translate crowdin d12rachels_374f77b8:
+msgid "[m] I mean... just if you want."
+msgstr "[m] Voglio dire... solo se vuoi."
+
+# game/events_m.rpy:2474 ## translate crowdin d12rachels_092bb6ac:
+msgid "[pcthink] Shit, why do I get the feeling that this is all a bit sudden?"
+msgstr "[pcthink] Merda, perché ho la sensazione che tutto questo sia un po' improvviso?"
+
+# game/events_m.rpy:2475 ## translate crowdin d12rachels_b8dbe8ba:
+msgid "[pc] Err... [mmom], don't get me wrong, but... what's going on all of a sudden, are you sure this is what you want?"
+msgstr "[pc] Ehm... [mmom]Non fraintendetemi, ma... cosa sta succedendo all'improvviso, siete sicuri di volere questo?"
+
+# game/events_m.rpy:2477 ## translate crowdin d12rachels_39230627:
+msgid "[m] Huh? Y-Yes, of course, why do you ask?"
+msgstr "[m] Eh? Sì, certo, perché me lo chiede?"
+
+# game/events_m.rpy:2478 ## translate crowdin d12rachels_06d53d86:
+msgid "[pc] I don't know, it's just a bit unexpected."
+msgstr "[pc] Non so, è solo un po' inaspettato."
+
+# game/events_m.rpy:2479 ## translate crowdin d12rachels_d604b002:
+msgid "[pc] I mean, I'm sure you know what's going on..."
+msgstr "[pc] Voglio dire, sono sicuro che sai cosa sta succedendo..."
+
+# game/events_m.rpy:2480 ## translate crowdin d12rachels_e612037c:
+msgid "[m] ..."
+msgstr "[m] ..."
+
+# game/events_m.rpy:2482 ## translate crowdin d12rachels_d0add6a8:
+msgid "[m] Yes..."
+msgstr "[m] Sì..."
+
+# game/events_m.rpy:2485 ## translate crowdin d12rachels_64258b5a:
+msgid "[m] I... I know I can't stop [j] from being the naughty girls she is..."
+msgstr "[m] I... So che non posso impedire a [j] di essere la ragazza cattiva che è..."
+
+# game/events_m.rpy:2486 ## translate crowdin d12rachels_9ffbd0c6:
+msgid "[m] ...and I can understand that you like her."
+msgstr "[m] ...e posso capire che ti piaccia."
+
+# game/events_m.rpy:2488 ## translate crowdin d12rachels_48336caa:
+msgid "[m] I honestly didn't expect [t] to... I thought she'd be a bit more professional..."
+msgstr "[m] Sinceramente non mi aspettavo che [t] ... Pensavo che sarebbe stata un po' più professionale..."
+
+# game/events_m.rpy:2490 ## translate crowdin d12rachels_504df604:
+msgid "[m] I don't blame her though, you're a handsome man."
+msgstr "[m] Non la biasimo però, lei è un bell'uomo."
+
+# game/events_m.rpy:2492 ## translate crowdin d12rachels_84d1787f:
+msgid "[m] I don't blame her though, you're a beautiful woman."
+msgstr "[m] Non la biasimo però, lei è una bella donna."
+
+# game/events_m.rpy:2494 ## translate crowdin d12rachels_217ea8f2:
+msgid "[m] I can't believe she's okay with you being with multiple girls though..."
+msgstr "[m] Non posso credere che le vada bene che tu stia con più ragazze..."
+
+# game/events_m.rpy:2496 ## translate crowdin d12rachels_4fc4d2a2:
+msgid "[m] [e]..."
+msgstr "[m] [e]..."
+
+# game/events_m.rpy:2497 ## translate crowdin d12rachels_a4cd34bc:
+msgid "[m] I honestly don't know what to think..."
+msgstr "[m] Onestamente non so cosa pensare..."
+
+# game/events_m.rpy:2498 ## translate crowdin d12rachels_4bdad18e:
+msgid "[m] The only thing I know is that I..."
+msgstr "[m] L'unica cosa che so è che..."
+
+# game/events_m.rpy:2500 ## translate crowdin d12rachels_5ec3ef0d:
+msgid "[m] That I'm willing to try... whatever you have in mind..."
+msgstr "[m] Che sono disposto a provare... qualsiasi cosa tu abbia in mente..."
+
+# game/events_m.rpy:2502 ## translate crowdin d12rachels_387d9e8d:
+msgid "[pc] Whatever I have in mind?"
+msgstr "[pc] Qualunque cosa abbia in mente?"
+
+# game/events_m.rpy:2504 ## translate crowdin d12rachels_cddec1ba:
+msgid "[m] Yes, I... I don't know how far I'm ready to go, yet... but..."
+msgstr "[m] Sì, io... Non so ancora fino a che punto sono pronto a spingermi, ma..."
+
+# game/events_m.rpy:2506 ## translate crowdin d12rachels_5d73cc41:
+msgid "[m] I'd do almost anything... for you... if you let me."
+msgstr "[m] Farei quasi tutto... per te... se me lo permettessi."
+
+# game/events_m.rpy:2508 ## translate crowdin d12rachels_22e66383:
+msgid "[m] I'll try..."
+msgstr "[m] Cercherò..."
+
+# game/events_m.rpy:2511 ## translate crowdin d12rachels_6d6d7589:
+msgid "[m] I... I know that [j] is your girlfriend..."
+msgstr "[m] I... So che [j] è la tua ragazza..."
+
+# game/events_m.rpy:2512 ## translate crowdin d12rachels_9ffbd0c6_1:
+msgid "[m] ...and I can understand that you like her."
+msgstr "[m] ...e posso capire che ti piaccia."
+
+# game/events_m.rpy:2514 ## translate crowdin d12rachels_b3980218:
+msgid "[m] I honestly didn't expect [t] to... who would've thought she'd want to be your girlfriend."
+msgstr "[m] Sinceramente non mi aspettavo che [t] ... chi avrebbe mai pensato che volesse essere la tua ragazza."
+
+# game/events_m.rpy:2516 ## translate crowdin d12rachels_32b58cad:
+msgid "[m] You should probably talk to them and make a decision."
+msgstr "[m] Probabilmente dovreste parlare con loro e prendere una decisione."
+
+# game/events_m.rpy:2518 ## translate crowdin d12rachels_4fc4d2a2_1:
+msgid "[m] [e]..."
+msgstr "[m] [e]..."
+
+# game/events_m.rpy:2519 ## translate crowdin d12rachels_b407019a:
+msgid "[m] I honestly don't know what to think... I'm not even entirely sure what's going on, but I try not to think about it..."
+msgstr "[m] Sinceramente non so cosa pensare... Non sono nemmeno del tutto sicuro di quello che sta succedendo, ma cerco di non pensarci..."
+
+# game/events_m.rpy:2520 ## translate crowdin d12rachels_eb687e8a:
+msgid "[m] What I did think about is that..."
+msgstr "[m] Quello che ho pensato è che..."
+
+# game/events_m.rpy:2522 ## translate crowdin d12rachels_324a9b88:
+msgid "[m] I know I'm not the youngest anymore, I know we have a bad past, and that it's all my fault..."
+msgstr "[m] So di non essere più la più giovane, so che abbiamo un brutto passato e che è tutta colpa mia..."
+
+# game/events_m.rpy:2523 ## translate crowdin d12rachels_00b6a9b4:
+msgid "[m] ...but as long as there is a chance... I want to use it, and accept whatever you decide... for who you decide..."
+msgstr "[m] ...ma finché c'è una possibilità... voglio sfruttarla, e accettare qualsiasi cosa decidiate... per chi decidete voi..."
+
+# game/events_m.rpy:2525 ## translate crowdin d12rachels_5545af20:
+msgid "[pc] Are you really sure that's what you want?"
+msgstr "[pc] Siete davvero sicuri di volere questo?"
+
+# game/events_m.rpy:2527 ## translate crowdin d12rachels_620da104:
+msgid "[m] Yes, I'm ready to jump over the fence..."
+msgstr "[m] Sì, sono pronto a saltare la recinzione..."
+
+# game/events_m.rpy:2529 ## translate crowdin d12rachels_9e66bcae:
+msgid "[pc] Well, that's... I don't know what to say, I honestly didn't expect that."
+msgstr "[pc] Beh, è... Non so cosa dire, sinceramente non me l'aspettavo."
+
+# game/events_m.rpy:2530 ## translate crowdin d12rachels_e612037c_1:
+msgid "[m] ..."
+msgstr "[m] ..."
+
+# game/events_m.rpy:2532 ## translate crowdin d12rachels_6977e6de:
+msgid "[m] Oh, I... I guess I've destroyed the mood now... I'm sorry, Hun."
+msgstr "[m] Oh, io... Credo di aver distrutto l'atmosfera... Mi dispiace, Hun."
+
+# game/events_m.rpy:2536 ## translate crowdin d12rachels_426c9181:
+msgid "[pc] You didn't."
+msgstr "[pc] Non l'hai fatto."
+
+# game/events_m.rpy:2545 ## translate crowdin d12rachels_008acec1:
+msgid "[m] Nhh..."
+msgstr "[m] Nhh..."
+
+# game/events_m.rpy:2548 ## translate crowdin d12rachels_e7230675:
+msgid "[m] So, do you want to see what's under my outfit?"
+msgstr "[m] Allora, vuoi vedere cosa c'è sotto il mio vestito?"
+
+# game/events_m.rpy:2549 ## translate crowdin d12rachels_0691c9a4:
+msgid "[pc] I'd love to."
+msgstr "[pc] Mi piacerebbe molto."
+
+# game/events_m.rpy:2554 ## translate crowdin d12rachels_b55b5391:
+msgid "[pc] Shit, come here, [mmom]!"
+msgstr "[pc] Merda, vieni qui, [mmom]!"
+
+# game/events_m.rpy:2556 ## translate crowdin d12rachels_083e29cd:
+msgid "[m] Whaa!?"
+msgstr "[m] Cosa?"
+
+# game/events_m.rpy:2560 ## translate crowdin d12rachels_f4e4bc17:
+msgid "[m] I guess not."
+msgstr "[m] Credo di no."
+
+# game/events_m.rpy:2562 ## translate crowdin d12rachels_787d9166:
+msgid "[pc] Not with this outfit... let's see what's under there."
+msgstr "[pc] Non con questo vestito... vediamo cosa c'è sotto."
+
+# game/events_m.rpy:2567 ## translate crowdin d12rachels_ede64d0d:
+msgid "[pc] Damn, what a sight."
+msgstr "[pc] Accidenti, che spettacolo."
+
+# game/events_m.rpy:2569 ## translate crowdin d12rachels_1e2db76c:
+msgid "[pc] You have such a beautiful body, [mmom]!"
+msgstr "[pc] Hai un corpo così bello, [mmom]!"
+
+# game/events_m.rpy:2570 ## translate crowdin d12rachels_5bf2b37b:
+msgid "[m] Thank you, Hun, but so do you!"
+msgstr "[m] Grazie, Hun, ma anche tu!"
+
+# game/events_m.rpy:2573 ## translate crowdin d12rachels_74458453:
+msgid "[m] Let's go to the bed, Hun."
+msgstr "[m] Andiamo a letto, Hun."
+
+# game/events_m.rpy:2575 ## translate crowdin d12rachels_28e94aae:
+msgid "[m] Can we use the bed, Hun?"
+msgstr "[m] Possiamo usare il letto, Hun?"
+
+# game/events_m.rpy:2577 ## translate crowdin d12rachels_a36db7cc:
+msgid "[m] Shall we go over to the bed?"
+msgstr "[m] Andiamo sul letto?"
+
+# game/events_m.rpy:2578 ## translate crowdin d12rachels_61f77a4c:
+msgid "[pc] Sure."
+msgstr "[pc] Certo."
+
+# game/events_m.rpy:2580 ## translate crowdin d12rachels_88649592:
+msgid "[m] What are you looking at?"
+msgstr "[m] Cosa stai guardando?"
+
+# game/events_m.rpy:2582 ## translate crowdin d12rachels_f775aff7:
+msgid "[pc] I'm looking at an incredibly hot woman."
+msgstr "[pc] Sto guardando una donna incredibilmente sexy."
+
+# game/events_m.rpy:2584 ## translate crowdin d12rachels_218d7931:
+msgid "[m] Oh, thanks, Hun."
+msgstr "[m] Oh, grazie, Hun."
+
+# game/events_m.rpy:2586 ## translate crowdin d12rachels_2dca7422:
+msgid "[pc] Alright, let's go on."
+msgstr "[pc] Va bene, andiamo avanti."
+
+# game/events_m.rpy:2589 ## translate crowdin d12rachels_fffae1c1:
+msgid "[pc] Mh-hm."
+msgstr "[pc] Mh-hm."
+
+# game/events_m.rpy:2607 ## translate crowdin d12rachels_c72f1396:
+msgid "[m] Haah... it's been so long..."
+msgstr "[m] Ah... è passato così tanto tempo..."
+
+# game/events_m.rpy:2608 ## translate crowdin d12rachels_82e405f1:
+msgid "[pc] How about this then?"
+msgstr "[pc] Che ne dite di questo?"
+
+# game/events_m.rpy:2617 ## translate crowdin d12rachels_82cb9f22:
+msgid "[m] Hnn! Oh god, yes, Hun..."
+msgstr "[m] Hnn! Oh Dio, sì, Hun..."
+
+# game/events_m.rpy:2619 ## translate crowdin d12rachels_30fbf381:
+msgid "[m] Nnnh, haaa..."
+msgstr "[m] Nnnh, haaa..."
+
+# game/events_m.rpy:2620 ## translate crowdin d12rachels_3e218ee8:
+msgid "[pcthink] She's getting close!"
+msgstr "[pcthink] Si sta avvicinando!"
+
+# game/events_m.rpy:2621 ## translate crowdin d12rachels_902a5e48:
+msgid "[m] Mmhh, hmmm..."
+msgstr "[m] Mmhh, hmmm..."
+
+# game/events_m.rpy:2625 ## translate crowdin d12rachels_ed0d357c:
+msgid "[m] Haaa... ahhh!"
+msgstr "[m] Haaa... ahhh!"
+
+# game/events_m.rpy:2627 ## translate crowdin d12rachels_324d8d7f:
+msgid "[m] Haaah... god... that felt so good... Hun..."
+msgstr "[m] Haaah... Dio... che bella sensazione... Hun..."
+
+# game/events_m.rpy:2628 ## translate crowdin d12rachels_c441c93e:
+msgid "[pc] And we've just started."
+msgstr "[pc] E abbiamo appena iniziato."
+
+# game/events_m.rpy:2629 ## translate crowdin d12rachels_984b7eb6:
+msgid "[m] Haah... oh, I'm ready for more... don't let me stop you."
+msgstr "[m] Haah... oh, sono pronto per altro... non lasciare che ti fermi."
+
+# game/events_m.rpy:2632 ## translate crowdin d12rachels_d9ee65ad:
+msgid "[pc] Let's try this then..."
+msgstr "[pc] Proviamo allora..."
+
+# game/events_m.rpy:2635 ## translate crowdin d12rachels_442356a5:
+msgid "[m] Ahh... haaa..."
+msgstr "[m] Ahh... haaa..."
+
+# game/events_m.rpy:2636 ## translate crowdin d12rachels_16c8aea3:
+msgid "[pcthink] Damn, what a view!"
+msgstr "[pcthink] Accidenti, che vista!"
+
+# game/events_m.rpy:2637 ## translate crowdin d12rachels_60690d8b:
+msgid "[m] Oh god, yes!"
+msgstr "[m] Oh Dio, sì!"
+
+# game/events_m.rpy:2644 ## translate crowdin d12rachels_1064d32a:
+msgid "[m] Hnn... nnhh..."
+msgstr "[m] Hnn... nnhh..."
+
+# game/events_m.rpy:2647 ## translate crowdin d12rachels_c7829391:
+msgid "[m] Will... hnnn... will you come inside me?"
+msgstr "[m] Verrai... hnnn... verrai dentro di me?"
+
+# game/events_m.rpy:2648 ## translate crowdin d12rachels_ce604f92:
+msgid "[pc] Do you want that?"
+msgstr "[pc] Lo vuoi?"
+
+# game/events_m.rpy:2649 ## translate crowdin d12rachels_cc71f5ad:
+msgid "[m] Hnnn... I... don't know... haaa... I don't mind... haaa..."
+msgstr "[m] Hnnn... Io... non so... haaa... non mi dispiace... haaa..."
+
+# game/events_m.rpy:2650 ## translate crowdin d12rachels_07fea3ab:
+msgid "[m] I-I'm on the pill anyway... hnnn..."
+msgstr "[m] Comunque prendo la pillola... hnnn..."
+
+# game/events_m.rpy:2652 ## translate crowdin d12rachels_403c0481:
+msgid "[m] Mhhh... you can... ahnn... come inside me, if you want...hnnn..."
+msgstr "[m] Mhhh... puoi... ahnn... venire dentro di me, se vuoi... hnnn..."
+
+# game/events_m.rpy:2653 ## translate crowdin d12rachels_659c9116:
+msgid "[pc] Are you sure?"
+msgstr "[pc] Sei sicuro?"
+
+# game/events_m.rpy:2654 ## translate crowdin d12rachels_f4a590a5:
+msgid "[m] I'm on the pill anyway... haaah..."
+msgstr "[m] Comunque prendo la pillola... haaah..."
+
+# game/events_m.rpy:2655 ## translate crowdin d12rachels_d8455014:
+msgid "[pc] Damn, I think even if I wanted to hold back, I wouldn't be able to..."
+msgstr "[pc] Dannazione, credo che anche se volessi trattenermi, non ci riuscirei..."
+
+# game/events_m.rpy:2656 ## translate crowdin d12rachels_63f15e3e:
+msgid "[pc] Hngh!"
+msgstr "[pc] Hngh!"
+
+# game/events_m.rpy:2659 ## translate crowdin d12rachels_e6bfe51d:
+msgid "[m] Ahh... haah...{w=1}{nw}"
+msgstr "[m] Ahh... haah... {w=1}{nw}"
+
+# game/events_m.rpy:2661 ## translate crowdin d12rachels_845b255b:
+msgid "[pcthink] Shit, that felt good!"
+msgstr "[pcthink] Cazzo, che bella sensazione!"
+
+# game/events_m.rpy:2664 ## translate crowdin d12rachels_1ce0b818:
+msgid "[m] You're so... mmhh... beautiful... haa..."
+msgstr "[m] Sei così... mmhh... bella... haa..."
+
+# game/events_m.rpy:2668 ## translate crowdin d12rachels_a5f93caf:
+msgid "[m] Mhaaa... haaa! [withhpunch]"
+msgstr "[m] Mhaaa... haaa! [withhpunch]"
+
+# game/events_m.rpy:2669 ## translate crowdin d12rachels_23c8b861:
+msgid "[m] Oh god, Hun..."
+msgstr "[m] Oh Dio, Hun..."
+
+# game/events_m.rpy:2670 ## translate crowdin d12rachels_498eadec:
+msgid "[pc] Ready for another round, [mmom]?"
+msgstr "[pc] Pronto per un altro giro, [mmom]?"
+
+# game/events_m.rpy:2671 ## translate crowdin d12rachels_4a2fb722:
+msgid "[m] Of course, Hun!"
+msgstr "[m] Certo, Hun!"
+
+# game/events_m.rpy:2678 ## translate crowdin d12rachels_e5c2d6fb:
+msgid "[n] Hours later..."
+msgstr "[n] Ore dopo..."
+
+# game/events_m.rpy:2680 ## translate crowdin d12rachels_d9d8c021:
+msgid "[m] Hmmm... I really needed that..."
+msgstr "[m] Hmmm... Ne avevo proprio bisogno..."
+
+# game/events_m.rpy:2682 ## translate crowdin d12rachels_cff8741f:
+msgid "[pc] Glad I was able to help out."
+msgstr "[pc] Sono felice di aver potuto dare una mano."
+
+# game/events_m.rpy:2684 ## translate crowdin d12rachels_fe140204:
+msgid "[m] Oh, don't sell yourself short, Hun. I'm glad we finally did it."
+msgstr "[m] Oh, non ti sminuire, Hun. Sono felice che alla fine ce l'abbiamo fatta."
+
+# game/events_m.rpy:2686 ## translate crowdin d12rachels_71b6bdc7:
+msgid "[pc] I just hope it wasn't a one time thing."
+msgstr "[pc] Spero solo che non si tratti di un caso isolato."
+
+# game/events_m.rpy:2688 ## translate crowdin d12rachels_b0a54000:
+msgid "[m] We can do it as much as you like, Hun."
+msgstr "[m] Possiamo farlo quanto vuoi, Hun."
+
+# game/events_m.rpy:2691 ## translate crowdin d12rachels_5b762609:
+msgid "[pc] Well, you were very reluctant under the shower."
+msgstr "[pc] Beh, eri molto riluttante sotto la doccia."
+
+# game/events_m.rpy:2693 ## translate crowdin d12rachels_c0d50767:
+msgid "[m] Oh... but that was only because we weren't alone at the time."
+msgstr "[m] Oh... ma questo solo perché non eravamo soli in quel momento."
+
+# game/events_m.rpy:2695 ## translate crowdin d12rachels_b5ca8430:
+msgid "[pc] Well, you've never been like this before."
+msgstr "[pc] Beh, non sei mai stato così prima d'ora."
+
+# game/events_m.rpy:2697 ## translate crowdin d12rachels_24b26cfa:
+msgid "[m] But that's because we were never alone."
+msgstr "[m] Ma questo perché non siamo mai stati soli."
+
+# game/events_m.rpy:2699 ## translate crowdin d12rachels_4f2d737d:
+msgid "[pc] Well, we had some time alone before."
+msgstr "[pc] Abbiamo passato un po' di tempo da soli prima."
+
+# game/events_m.rpy:2701 ## translate crowdin d12rachels_21b67d8d:
+msgid "[m] Yes, but... there has always been someone around the house..."
+msgstr "[m] Sì, ma... c'è sempre stato qualcuno in casa..."
+
+# game/events_m.rpy:2703 ## translate crowdin d12rachels_b73934b9:
+msgid "[pc] There'll be someone around most of the time, but honestly, I don't care about that."
+msgstr "[pc] Ci sarà qualcuno in giro per la maggior parte del tempo, ma onestamente non mi interessa."
+
+# game/events_m.rpy:2705 ## translate crowdin d12rachels_3c8e055f:
+msgid "[m] I..."
+msgstr "[m] I..."
+
+# game/events_m.rpy:2707 ## translate crowdin d12rachels_c68f4101:
+msgid "[m] I'm sorry... I know I should be more open about it... It's just that... what if they hear us?"
+msgstr "[m] Mi dispiace... So che dovrei essere più aperta... È solo che... e se ci sentissero?"
+
+# game/events_m.rpy:2709 ## translate crowdin d12rachels_f9e2c3e8:
+msgid "[pc] Who cares, they'll find out anyway."
+msgstr "[pc] Chi se ne frega, lo scopriranno comunque."
+
+# game/events_m.rpy:2711 ## translate crowdin d12rachels_e612037c_2:
+msgid "[m] ..."
+msgstr "[m] ..."
+
+# game/events_m.rpy:2713 ## translate crowdin d12rachels_0aa3b07a:
+msgid "[m] You're right... it won't work if I don't jump over my own fence. I'll do it!"
+msgstr "[m] Hai ragione... non funzionerà se non salto il mio stesso recinto. Lo farò!"
+
+# game/events_m.rpy:2715 ## translate crowdin d12rachels_659c9116_1:
+msgid "[pc] Are you sure?"
+msgstr "[pc] Sei sicuro?"
+
+# game/events_m.rpy:2717 ## translate crowdin d12rachels_6fe63bad:
+msgid "[m] Yes, I'll be more open from now on, a good relationship needs good sex. Otherwise it won't last long."
+msgstr "[m] Sì, d'ora in poi sarò più aperto, una buona relazione ha bisogno di buon sesso. Altrimenti non durerà a lungo."
+
+# game/events_m.rpy:2719 ## translate crowdin d12rachels_75f50ca9:
+msgid "[pc] That's true..."
+msgstr "[pc] È vero..."
+
+# game/events_m.rpy:2720 ## translate crowdin d12rachels_3b3296e5:
+msgid "[pc] So you won't mind if I come over to your bedroom later?"
+msgstr "[pc] Quindi non ti dispiace se vengo in camera tua più tardi?"
+
+# game/events_m.rpy:2722 ## translate crowdin d12rachels_005dde1d:
+msgid "[m] Of course I don't mind... we'll just have to be more quiet."
+msgstr "[m] Naturalmente non mi dispiace... dovremo solo essere più silenziosi."
+
+# game/events_m.rpy:2724 ## translate crowdin d12rachels_4edac914:
+msgid "[pc] Heh, I don't mind if they hear us."
+msgstr "[pc] Non mi importa se ci sentono."
+
+# game/events_m.rpy:2726 ## translate crowdin d12rachels_33e32971:
+msgid "[m] Oh, I bet you don't..."
+msgstr "[m] Oh, scommetto che non lo sai..."
+
+# game/events_m.rpy:2729 ## translate crowdin d12rachels_99484a91:
+msgid "[pc] And I bet [j] would enjoy hearing us."
+msgstr "[pc] E scommetto che a [j] piacerebbe ascoltarci."
+
+# game/events_m.rpy:2731 ## translate crowdin d12rachels_061f9ecb:
+msgid "[m] Oh... that..."
+msgstr "[m] Oh... quello..."
+
+# game/events_m.rpy:2733 ## translate crowdin d12rachels_8e27e9d4:
+msgid "[m] Do you think she'd..."
+msgstr "[m] Pensi che lei..."
+
+# game/events_m.rpy:2735 ## translate crowdin d12rachels_968a039c:
+msgid "[pc] She'd probably want to join us."
+msgstr "[pc] Probabilmente vorrebbe unirsi a noi."
+
+# game/events_m.rpy:2737 ## translate crowdin d12rachels_e612037c_3:
+msgid "[m] ..."
+msgstr "[m] ..."
+
+# game/events_m.rpy:2739 ## translate crowdin d12rachels_cc7a323c:
+msgid "[m] Do you..."
+msgstr "[m] Tu..."
+
+# game/events_m.rpy:2741 ## translate crowdin d12rachels_e612037c_4:
+msgid "[m] ..."
+msgstr "[m] ..."
+
+# game/events_m.rpy:2743 ## translate crowdin d12rachels_08b59ef1:
+msgid "[m] I-I don't know if I can do that..."
+msgstr "[m] Non so se posso farlo..."
+
+# game/events_m.rpy:2746 ## translate crowdin d12rachels_e88577b4:
+msgid "[pc] You had sex with a woman before..."
+msgstr "[pc] Hai fatto sesso con una donna prima..."
+
+# game/events_m.rpy:2748 ## translate crowdin d12rachels_f2e306f4:
+msgid "[m] Yes... yes, but..."
+msgstr "[m] Sì... sì, ma..."
+
+# game/events_m.rpy:2751 ## translate crowdin d12rachels_faeb9346:
+msgid "[pc] Didn't you say you'd do anything for me?"
+msgstr "[pc] Non avevi detto che avresti fatto qualsiasi cosa per me?"
+
+# game/events_m.rpy:2753 ## translate crowdin d12rachels_ea4942f9:
+msgid "[m] Yes... yes... I..."
+msgstr "[m] Sì... sì... I..."
+
+# game/events_m.rpy:2755 ## translate crowdin d12rachels_46fb0fa9:
+msgid "[m] I promise, I'll try, but please give me a bit time, Hun."
+msgstr "[m] Ti prometto che ci proverò, ma per favore dammi un po' di tempo, Hun."
+
+# game/events_m.rpy:2757 ## translate crowdin d12rachels_617dbdda:
+msgid "[pc] Sure, but don't take too much time."
+msgstr "[pc] Certo, ma non prendetevi troppo tempo."
+
+# game/events_m.rpy:2759 ## translate crowdin d12rachels_ad1c97ff:
+msgid "[m] I won't, I promise."
+msgstr "[m] Non lo farò, te lo prometto."
+
+# game/events_m.rpy:2762 ## translate crowdin d12rachels_af2b49d8:
+msgid "[m] Maybe if I'm in the right mood..."
+msgstr "[m] Forse se sono dell'umore giusto..."
+
+# game/events_m.rpy:2764 ## translate crowdin d12rachels_4c963edc:
+msgid "[pc] We don't need to push it."
+msgstr "[pc] Non c'è bisogno di insistere."
+
+# game/events_m.rpy:2766 ## translate crowdin d12rachels_6f4c46dc_1:
+msgid "[m] Thanks, Hun."
+msgstr "[m] Grazie, Hun."
+
+# game/events_m.rpy:2768 ## translate crowdin d12rachels_aaf37f29:
+msgid "[m] Maybe I should wait to take my meds before you come..."
+msgstr "[m] Forse dovrei aspettare di prendere le mie medicine prima che tu venga..."
+
+# game/events_m.rpy:2770 ## translate crowdin d12rachels_94f4bba6:
+msgid "[pc] Eh, you'd forget we had sex the moment the effect wears off."
+msgstr "[pc] Eh, ti dimenticheresti di aver fatto sesso nel momento in cui l'effetto svanisce."
+
+# game/events_m.rpy:2772 ## translate crowdin d12rachels_70cba569:
+msgid "[m] But I'd still feel it, and I'd probably be more open to... things, while the effect lasts."
+msgstr "[m] Ma lo sentirei ancora, e probabilmente sarei più aperto a... cose, finché dura l'effetto."
+
+# game/events_m.rpy:2774 ## translate crowdin d12rachels_dd1bbf5e:
+msgid "[pc] Yeah, but I want you to be more open in general."
+msgstr "[pc] Sì, ma voglio che tu sia più aperto in generale."
+
+# game/events_m.rpy:2776 ## translate crowdin d12rachels_ad323304:
+msgid "[m] Oh, I know, and I'll try..."
+msgstr "[m] Oh, lo so, e ci proverò..."
+
+# game/events_m.rpy:2778 ## translate crowdin d12rachels_7260e161:
+msgid "[pc] That's all I want."
+msgstr "[pc] È tutto ciò che voglio."
+
+# game/events_m.rpy:2780 ## translate crowdin d12rachels_ab0407ce:
+msgid "[pc] Haha."
+msgstr "[pc] Haha."
+
+# game/events_m.rpy:2781 ## translate crowdin d12rachels_e612037c_5:
+msgid "[m] ..."
+msgstr "[m] ..."
+
+# game/events_m.rpy:2783 ## translate crowdin d12rachels_7044aecc:
+msgid "[m] I'm glad we can finally look behind the past..."
+msgstr "[m] Sono contento che finalmente possiamo guardare dietro al passato..."
+
+# game/events_m.rpy:2784 ## translate crowdin d12rachels_c72f4019:
+msgid "[m] ...maybe even forget about it."
+msgstr "[m] ... forse anche di dimenticarlo."
+
+# game/events_m.rpy:2786 ## translate crowdin d12rachels_a69377ef:
+msgid "[pc] ..."
+msgstr "[pc] ..."
+
+# game/events_m.rpy:2789 ## translate crowdin d12rachels_4b84156e:
+msgid "[m] Oh, I should get ready. I need to pick up the girls."
+msgstr "[m] Oh, dovrei prepararmi. Devo andare a prendere le ragazze."
+
+# game/events_m.rpy:2791 ## translate crowdin d12rachels_3ad08854:
+msgid "[pc] Yeah, right, it's probably time..."
+msgstr "[pc] Sì, giusto, probabilmente è ora..."
+
+# game/events_m.rpy:2793 ## translate crowdin d12rachels_a33a4f8c:
+msgid "[m] Sorry, Hun. See you later."
+msgstr "[m] Mi dispiace, Hun. Ci vediamo dopo."
+
+# game/events_m.rpy:2795 ## translate crowdin d12rachels_1a79366e:
+msgid "[m] *smooch*"
+msgstr "[m] *smooch*"
+
+# game/events_m.rpy:2797 ## translate crowdin d12rachels_f6121b87:
+msgid "[pc] Later, [mmom]."
+msgstr "[pc] In seguito, [mmom]."
+
+# game/events_m.rpy:2799 ## translate crowdin d12rachels_f0cac90d:
+msgid "[pcthink] ..."
+msgstr "[pcthink] ..."
+
+# game/events_m.rpy:2803 ## translate crowdin d12rachels_960ac1fd:
+msgid "[pcthink] ...what a day..."
+msgstr "[pcthink] ...che giornata..."
 
 # XXtranslate crowdin strings:XX# XX## game/events_m.rpy:75
 msgid "[mschoice] Knock at the door"
@@ -5812,19 +6612,27 @@ msgstr "[mschoice] Chiedetele se le dispiacerebbe vederla di nuovo sotto la docc
 msgid "[mschoice] Tease her."
 msgstr "[mschoice] La insegnate."
 
-# XX## game/events_m.rpy:2243
+# XX## game/events_m.rpy:2244
 msgid "[mschoice] Check."
 msgstr "[mschoice] Verifica."
 
-# XX## game/events_m.rpy:2243
+# XX## game/events_m.rpy:2244
 msgid "[mschoice] Go back to your room."
 msgstr "[mschoice] Torna alla tua stanza."
 
-# XX## game/events_m.rpy:2249
+# XX## game/events_m.rpy:2250
 msgid "[mschoice] Go in."
 msgstr "[mschoice] Vai dentro."
 
-# XX## game/events_m.rpy:2249
+# XX## game/events_m.rpy:2250
 msgid "[mschoice] Don't. (Go back to your room)"
 msgstr "[mschoice] Non tornare alla tua stanza)"
+
+# XX## game/events_m.rpy:2533
+msgid "[mschoice] Kiss her."
+msgstr "[mschoice] Baciarla."
+
+# XX## game/events_m.rpy:2533
+msgid "[mschoice] Rip her clothes off."
+msgstr "[mschoice] Strapparle i vestiti di dosso."
 
