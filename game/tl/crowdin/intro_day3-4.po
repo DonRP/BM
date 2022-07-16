@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-03 HH:HH# game/intro_day3-4.rpy:3 ## translate crowdin intro_day3_8046137e:
+﻿# TODO: Translation updated at 2022-07-16 HH:HH# game/intro_day3-4.rpy:3 ## translate crowdin intro_day3_8046137e:
 msgid "[n] Next morning in the motel [withdissolve]"
 msgstr "[n] Next morning in the motel [withdissolve]"
 
