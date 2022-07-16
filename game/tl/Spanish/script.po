@@ -10,41 +10,44 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-05-03 03:03\n"
+"PO-Revision-Date: 2022-07-16 23:16\n"
 
-# TODO: Translation updated at 2022-04-03 HH:HH# game/script.rpy:346 ## translate crowdin start_7dd9eee1:
-msgid "[n] This game is a work of fiction, all characters are at least 99 years old and obviously not related to any living persons.\n"
+# TODO: Translation updated at 2022-07-16 HH:HH# game/script.rpy:365 ## translate crowdin start_e4253911:
+msgid "[n] This game is a work of fiction, all characters are at least 99 years old and obviously not related to, or meant to display any living, or dead persons.\n"
 " [withfade]"
-msgstr "[n] Este juego es una obra de ficción, todos los personajes tienen al menos 99 años y obviamente no están relacionados con ninguna persona viva.\n"
-" [withfade]"
+msgstr ""
 
-# game/script.rpy:348 ## translate crowdin start_af67b41c:
-msgid "[n] This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old. None of the characters are in any way related to any living persons.\n"
+# game/script.rpy:367 ## translate crowdin start_eb52a69f:
+msgid "[n] This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old.\n"
+"None of the characters are in any way related to, or meant to display any living, or dead persons.\n"
 " [withfade]"
-msgstr "[n] Este juego es una obra de ficción, todos los personajes están diseñados para representar su edad en el juego y tienen al menos 18 años. Ninguno de los personajes está relacionado de ninguna manera con ninguna persona viva.\n"
-" [withfade]"
+msgstr ""
 
-# game/script.rpy:349 ## translate crowdin start_36a0049e:
+# game/script.rpy:368 ## translate crowdin start_e2e26806:
+msgid "[n] Also note that some situations in this game might come off as offensive, and/or aggressive and should {b}NEVER{/b} be practised in real life or without consent! [withdissolve]"
+msgstr ""
+
+# game/script.rpy:369 ## translate crowdin start_36a0049e:
 msgid "[n] If you're not an adult, close the game now, delete it, and burn your computer/mac/phone! DON'T CLICK AGAIN, OR...\n"
 msgstr "[n] Si no eres adulto, cierra el juego ahora, borralo, y quema tu computadora/mac/telefono! NO VUELVAS A CLICKEAR DE NUEVO, O...\n"
 
-# game/script.rpy:350 ## translate crowdin start_200b5921:
+# game/script.rpy:370 ## translate crowdin start_200b5921:
 msgid "[extend] ...or the game starts as usual ;_;"
 msgstr "[extend] ... o el juego comienza como siempre ;_;"
 
-# game/script.rpy:389 ## translate crowdin start_rachel_aac27f06:
+# game/script.rpy:409 ## translate crowdin start_rachel_aac27f06:
 msgid "[m] Hello [pc] [pcsure], this is a test!"
 msgstr "[m] Hola [pc] [pcsure], esto es una prueba!"
 
-# game/script.rpy:395 ## translate crowdin endGame_9b5f61b4:
+# game/script.rpy:415 ## translate crowdin endGame_9b5f61b4:
 msgid "[n] This is the end of the current version, a quick save has been created."
 msgstr "[n] Este es el final de la versión actual, se ha creado un guardado rápido."
 
-# game/script.rpy:396 ## translate crowdin endGame_e7eca580:
+# game/script.rpy:416 ## translate crowdin endGame_e7eca580:
 msgid "[n] I hope you had fun! Be sure to check back soon. The story will progress a lot over time ;)"
 msgstr "[n] ¡Espero que te hayas divertido! Asegúrese de volver pronto. La historia progresará mucho con el tiempo ;)"
 
-# game/script.rpy:402 ## translate crowdin endGame_3ab21b59:
+# game/script.rpy:422 ## translate crowdin endGame_3ab21b59:
 msgid "[n] {size=+20}{b}Special thanks to all my {a=https://www.patreon.com/bmgames}{b}{color=#FF9D1F}Patrons{/color}{/b}{/a} and {a=https://subscribestar.adult/bm-games}{b}{color=#FF9D1F}Subscriber{/color}{/b}{/a}\n"
 "and everyone who helped me in some way.\n"
 "you guys are awesome!{/b}{/size}"
@@ -52,57 +55,57 @@ msgstr "[n] {size= + 20}{b}Especial gracias a todos mis {a=https: //www.patreon.
 "y todos los que me ayudaron de alguna manera.\n"
 "ustedes son impresionantes! {/b} {/size}"
 
-# game/script.rpy:404 ## translate crowdin endGame_a5f61313:
+# game/script.rpy:424 ## translate crowdin endGame_a5f61313:
 msgid "[n] {size=+20}{b}Special thanks to all my supporters, testers and everyone who helped me in some way.\n"
 "you guys are awesome!{/b}{/size}"
 msgstr "[n] {size=+20}{b}Un agradecimiento especial a todos mis seguidores, testers y todos los que me ayudaron de alguna otra manera.\n"
 "ustedes son increíbles!{/b} {tamaño}"
 
-# game/script.rpy:411 ## translate crowdin gameOverE_9ad555d3:
+# game/script.rpy:431 ## translate crowdin gameOverE_9ad555d3:
 msgid "[n] Congratulation! You broke her heart...idiot!"
 msgstr "[n] ¡Felicidades! ¡Le has roto el corazón... idiota!"
 
-# XXtranslate crowdin strings:XX# XX## game/script.rpy:352
+# XXtranslate crowdin strings:XX# XX## game/script.rpy:372
 msgid "[mschoice] Play as Man"
 msgstr "[mschoice] Jugar como hombre"
 
-# XX## game/script.rpy:352
+# XX## game/script.rpy:372
 msgid "[mschoice] Play as Woman (lesbian)"
 msgstr "[mschoice] Jugar como mujer (lesbiana)"
 
-# XX## game/script.rpy:363
+# XX## game/script.rpy:383
 msgid "[mschoice] female"
 msgstr "[mschoice] mujer"
 
-# XX## game/script.rpy:365
+# XX## game/script.rpy:385
 msgid "[mschoice] Ms."
 msgstr "[mschoice] Sra."
 
-# XX## game/script.rpy:366
+# XX## game/script.rpy:386
 msgid "[mschoice] she"
 msgstr "[mschoice] ella"
 
-# XX## game/script.rpy:367
+# XX## game/script.rpy:387
 msgid "[mschoice] girl"
 msgstr "[mschoice] niña"
 
-# XX## game/script.rpy:368
+# XX## game/script.rpy:388
 msgid "[mschoice] Mommy"
 msgstr "[mschoice] Mami"
 
-# XX## game/script.rpy:369
+# XX## game/script.rpy:389
 msgid "[mschoice] daughter"
 msgstr "[mschoice] hija"
 
-# XX## game/script.rpy:370
+# XX## game/script.rpy:390
 msgid "[mschoice] her"
 msgstr "[mschoice] ella"
 
-# XX## game/script.rpy:371
+# XX## game/script.rpy:391
 msgid "[mschoice] Jill"
 msgstr "[mschoice] Jill"
 
-# XX## game/script.rpy:372
+# XX## game/script.rpy:392
 msgid "[mschoice] sister"
 msgstr "[mschoice] hermana"
 
