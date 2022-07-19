@@ -126,3 +126,17 @@ translate italian strings:
     old "sister"
     new "sorella"
 
+# TODO: Translation updated at 2022-07-19 18:49
+
+# game/script.rpy:346
+translate italian start_7dd9eee1:
+
+    # n "This game is a work of fiction, all characters are at least 99 years old and obviously not related to any living persons.\n" with fade
+    n "Questo gioco è un'opera di fantasia, tutti i personaggi hanno almeno 99 anni e ovviamente non sono legati ad alcuna persona vivente.\n" with fade
+
+# game/script.rpy:348
+translate italian start_af67b41c:
+
+    # n "This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old. None of the characters are in any way related to any living persons.\n" with fade
+    n "Questo gioco è un'opera di fantasia, tutti i personaggi sono progettati per rappresentare la loro età nel gioco e hanno almeno 18 anni. Nessuno dei personaggi è in alcun modo legato a persone viventi.\n" with fade
+
