@@ -1,134 +1,162 @@
-msgid ""
-msgstr ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: bad-memories\n"
-"X-Crowdin-Project-ID: 507994\n"
-"X-Crowdin-Language: it\n"
-"X-Crowdin-File: /main/game/tl/crowdin/conditions.po\n"
-"X-Crowdin-File-ID: 3606\n"
-"Project-Id-Version: bad-memories\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Italian\n"
-"Language: it_IT\n"
-"PO-Revision-Date: 2022-07-16 23:15\n"
+# msgid ""
+# msgstr ""
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-italian-Project: bad-memories\n"
+# "X-italian-Project-ID: 507994\n"
+# "X-italian-Language: it\n"
+# "X-italian-File: /main/game/tl/italian/conditions.po\n"
+# "X-italian-File-ID: 3606\n"
+# "Project-Id-Version: bad-memories\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Italian\n"
+# "Language: it_IT\n"
+# "PO-Revision-Date: 2022-07-16 23:15\n"
 
-# TODO: Translation updated at 2022-07-16 HH:HH# game/conditions.rpy:2209 ## translate crowdin dateTime_3e0aad91:
-msgid "[n] {size=+30}[currentDay]{/size}"
-msgstr "[n] {size=+30}[currentDay]{/size}"
+# TODO: Translation updated at 2022-07-16 HH:HH
 
-# game/conditions.rpy:2219 ## translate crowdin whatToDoHome_970716ba:
-msgid "[q] What do you want to do? [nointeract]"
-msgstr "[q] Cosa vuoi fare? [nointeract]"
+# game/conditions.rpy:2209
+translate italian dateTime_3e0aad91:
 
-# game/conditions.rpy:2222 ## translate crowdin whatToDoHome_87461463:
-msgid "[pcthink] I guess I could use a bit more sleep. There's nothing to do anyway until my stuff arrives..."
-msgstr "[pcthink] Immagino che potrei usare un po' più di sonno. Non c'è niente da fare in ogni caso fino a quando non arriva la mia roba..."
+    # n "{size=+30}[currentDay]{/size}"
+    n "{size=+30}[currentDay]{/size}"
 
-# game/conditions.rpy:2242 ## translate crowdin whatToDoHome_70aa1e0b:
-msgid "[n] Later [withdissolve]"
-msgstr "[n] Più tardi [withdissolve]"
+# game/conditions.rpy:2219
+translate italian whatToDoHome_970716ba:
 
-# game/conditions.rpy:2254 ## translate crowdin hall_23b4c9e6:
-msgid "[pcthink] Okay, the bathroom should be the last room on the left if I remember correctly..."
-msgstr "[pcthink] Va bene, il bagno dovrebbe essere l'ultima stanza a sinistra se ricordo correttamente..."
+    # q "What do you want to do?" nointeract
+    q "Cosa vuoi fare?" nointeract
 
-# game/conditions.rpy:2282 ## translate crowdin livingroom_c0f55507:
-msgid "[pc] S-shit, sorry."
-msgstr "[pc] S-shit, spiacente."
+# game/conditions.rpy:2222
+translate italian whatToDoHome_87461463:
 
-# game/conditions.rpy:2297 ## translate crowdin pcStareMBath_85f8cf00:
-msgid "[m] Um... [pc]? Are you staring at me?"
-msgstr "[m] Um... [pc]? Mi stai fissando?"
+    # pcthink "I guess I could use a bit more sleep. There's nothing to do anyway until my stuff arrives..."
+    pcthink "Immagino che potrei usare un po' più di sonno. Non c'è niente da fare in ogni caso fino a quando non arriva la mia roba..."
 
-# game/conditions.rpy:2298 ## translate crowdin pcStareMBath_7d2421b6:
-msgid "[pc] Ugh... shit, s-sorry."
-msgstr "[pc] Ugh... merda, mi dispiace."
+# game/conditions.rpy:2242
+translate italian whatToDoHome_70aa1e0b:
 
-# game/conditions.rpy:2320 ## translate crowdin bathroom_fd2724fb:
-msgid "[pcthink] Ups..."
-msgstr "[pcthink] Su..."
+    # n "Later" with dissolve
+    n "Più tardi" with dissolve
 
-# game/conditions.rpy:2326 ## translate crowdin bathroom_e0ffe4b5:
-msgid "[pcthink] Whoa... looks like [m] just got out of the shower."
-msgstr "[pcthink] Whoa... sembra [m] appena uscito dalla doccia."
+# game/conditions.rpy:2254
+translate italian hall_23b4c9e6:
 
-# game/conditions.rpy:2330 ## translate crowdin bathroom_ed5a9fb8:
-msgid "[m] [pc]!?"
-msgstr "[m] [pc]!?"
+    # pcthink "Okay, the bathroom should be the last room on the left if I remember correctly..."
+    pcthink "Va bene, il bagno dovrebbe essere l'ultima stanza a sinistra se ricordo correttamente..."
 
-# game/conditions.rpy:2331 ## translate crowdin bathroom_72087c33:
-msgid "[pcthink] Uhh..."
-msgstr "[pcthink] Uhh..."
+# game/conditions.rpy:2282
+translate italian livingroom_c0f55507:
 
-# XXtranslate crowdin strings:XX# XX## game/conditions.rpy:10
-msgid "[mschoice] Mr."
-msgstr "[mschoice] Sig."
+    # pc "S-shit, sorry."
+    pc "S-shit, spiacente."
 
-# XX## game/conditions.rpy:11
-msgid "[mschoice] he"
-msgstr "[mschoice] lui"
+# game/conditions.rpy:2297
+translate italian pcStareMBath_85f8cf00:
 
-# XX## game/conditions.rpy:12
-msgid "[mschoice] boy"
-msgstr "[mschoice] ragazzo"
+    # m "Um... [pc]? Are you staring at me?"
+    m "Um... [pc]? Mi stai fissando?"
 
-# XX## game/conditions.rpy:13
-msgid "[mschoice] Daddy"
-msgstr "[mschoice] Papà"
+# game/conditions.rpy:2298
+translate italian pcStareMBath_7d2421b6:
 
-# XX## game/conditions.rpy:14
-msgid "[mschoice] son"
-msgstr "[mschoice] figlio"
+    # pc "Ugh... shit, s-sorry."
+    pc "Ugh... merda, mi dispiace."
 
-# XX## game/conditions.rpy:15
-msgid "[mschoice] him"
-msgstr "[mschoice] lui"
+# game/conditions.rpy:2320
+translate italian bathroom_fd2724fb:
 
-# XX## game/conditions.rpy:16
-msgid "[mschoice] John"
-msgstr "[mschoice] John"
+    # pcthink "Ups..."
+    pcthink "Su..."
 
-# XX## game/conditions.rpy:17
-msgid "[mschoice] brother"
-msgstr "[mschoice] fratello"
+# game/conditions.rpy:2326
+translate italian bathroom_e0ffe4b5:
 
-# XX## game/conditions.rpy:18
-msgid "[mschoice] his"
-msgstr "[mschoice] suo"
+    # pcthink "Whoa... looks like [m] just got out of the shower."
+    pcthink "Whoa... sembra [m] appena uscito dalla doccia."
 
-# XX## game/conditions.rpy:21
-msgid "[mschoice] male"
-msgstr "[mschoice] maschio"
+# game/conditions.rpy:2330
+translate italian bathroom_ed5a9fb8:
 
-# XX## game/conditions.rpy:22
-msgid "[mschoice] Doe"
-msgstr "[mschoice] Doe"
+    # m "[pc]!?"
+    m "[pc]!?"
 
-# XX## game/conditions.rpy:2218
-msgid "[mschoice] Take a nap"
-msgstr "[mschoice] Scatta un nap"
+# game/conditions.rpy:2331
+translate italian bathroom_72087c33:
 
-# XX## game/conditions.rpy:2218
-msgid "[mschoice] Look for [e]"
-msgstr "[mschoice] Cerca [e]"
+    # pcthink "Uhh..."
+    pcthink "Uhh..."
 
-# XX## game/conditions.rpy:2218
-msgid "[mschoice] Look for [m]"
-msgstr "[mschoice] Cerca [m]"
+translate italian strings:
 
-# XX## game/conditions.rpy:2218
-msgid "[mschoice] Turn the pc on"
-msgstr "[mschoice] Accendi il pc"
+    # game/conditions.rpy:10
+    old "Mr."
+    new "Sig."
 
-# XX## game/conditions.rpy:2218
-msgid "[mschoice] Leave"
-msgstr "[mschoice] Lascia"
+    # game/conditions.rpy:11
+    old "he"
+    new "lui"
 
-# XX## game/conditions.rpy:2218
-msgid "[mschoice] Look around"
-msgstr "[mschoice] Guarda intorno"
+    # game/conditions.rpy:12
+    old "boy"
+    new "ragazzo"
 
-# XX## game/conditions.rpy:2327
-msgid "[mschoice] Look"
-msgstr "[mschoice] Look"
+    # game/conditions.rpy:13
+    old "Daddy"
+    new "Papà"
+
+    # game/conditions.rpy:14
+    old "son"
+    new "figlio"
+
+    # game/conditions.rpy:15
+    old "him"
+    new "lui"
+
+    # game/conditions.rpy:16
+    old "John"
+    new "John"
+
+    # game/conditions.rpy:17
+    old "brother"
+    new "fratello"
+
+    # game/conditions.rpy:18
+    old "his"
+    new "suo"
+
+    # game/conditions.rpy:21
+    old "male"
+    new "maschio"
+
+    # game/conditions.rpy:22
+    old "Doe"
+    new "Doe"
+
+    # game/conditions.rpy:2218
+    old "Take a nap"
+    new "Scatta un nap"
+
+    # game/conditions.rpy:2218
+    old "Look for [e]"
+    new "Cerca [e]"
+
+    # game/conditions.rpy:2218
+    old "Look for [m]"
+    new "Cerca [m]"
+
+    # game/conditions.rpy:2218
+    old "Turn the pc on"
+    new "Accendi il pc"
+
+    # game/conditions.rpy:2218
+    old "Leave"
+    new "Lascia"
+
+    # game/conditions.rpy:2218
+    old "Look around"
+    new "Guarda intorno"
+
+    # game/conditions.rpy:2327
+    old "Look"
+    new "Look"
 
