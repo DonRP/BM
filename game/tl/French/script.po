@@ -10,22 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-16 23:15\n"
+"PO-Revision-Date: 2022-07-21 12:27\n"
 
 # TODO: Translation updated at 2022-07-16 HH:HH# game/script.rpy:365 ## translate crowdin start_e4253911:
 msgid "[n] This game is a work of fiction, all characters are at least 99 years old and obviously not related to, or meant to display any living, or dead persons.\n"
 " [withfade]"
-msgstr ""
+msgstr "[n] Ce jeu est une œuvre de fiction, tous les personnages ont au moins 99 ans et n'ont évidemment aucun lien avec des personnes vivantes ou mortes, ni ne sont censés les représenter.\n"
+" [withfade]"
 
 # game/script.rpy:367 ## translate crowdin start_eb52a69f:
 msgid "[n] This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old.\n"
 "None of the characters are in any way related to, or meant to display any living, or dead persons.\n"
 " [withfade]"
-msgstr ""
+msgstr "[n] Ce jeu est une œuvre de fiction, tous les personnages sont conçus pour représenter leur âge dans le jeu et sont âgés d'au moins 18 ans.\n"
+"Aucun des personnages n'est lié de quelque manière que ce soit à une personne vivante ou décédée, ou n'est censé la représenter.\n"
+" [withfade]"
 
 # game/script.rpy:368 ## translate crowdin start_e2e26806:
 msgid "[n] Also note that some situations in this game might come off as offensive, and/or aggressive and should {b}NEVER{/b} be practised in real life or without consent! [withdissolve]"
-msgstr ""
+msgstr "[n] Notez également que certaines situations dans ce jeu peuvent être considérées comme offensantes et/ou agressives et ne devraient {b}JAMAIS{/b} être pratiquées dans la vie réelle ou sans consentement ! [withdissolve]"
 
 # game/script.rpy:369 ## translate crowdin start_36a0049e:
 msgid "[n] If you're not an adult, close the game now, delete it, and burn your computer/mac/phone! DON'T CLICK AGAIN, OR...\n"
