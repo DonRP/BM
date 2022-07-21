@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-16 23:15\n"
+"PO-Revision-Date: 2022-07-21 12:27\n"
 
 # TODO: Translation updated at 2022-07-16 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:208
 msgid "[mschoice] {b}Show dialogue background box?{/b}"
@@ -82,7 +82,7 @@ msgstr "[mschoice] Menu principal"
 
 # XX## game/screens.rpy:390
 msgid "[mschoice] Gallery"
-msgstr ""
+msgstr "[mschoice] Galerie"
 
 # XX## game/screens.rpy:392
 msgid "[mschoice] About"
@@ -196,7 +196,7 @@ msgstr "[mschoice] Langue"
 
 # XX## game/screens.rpy:862
 msgid "[mschoice] {size=-10}{color=#ff0000}All translations are fan-made.{/color}{/size}"
-msgstr ""
+msgstr "[mschoice] {size=-10}{color=#ff0000}Toutes les traductions sont faites par des fans. {/color}{/size}"
 
 # XX## game/screens.rpy:881
 msgid "[mschoice] Text Speed"
