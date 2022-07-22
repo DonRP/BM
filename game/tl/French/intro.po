@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-16 23:15\n"
+"PO-Revision-Date: 2022-07-22 00:31\n"
 
 # TODO: Translation updated at 2022-07-16 HH:HH# game/intro.rpy:5 ## translate crowdin intro_af100c11:
 msgid "[n] Somewhere in a cab."
@@ -158,7 +158,7 @@ msgstr "[pc] O-oui, je veux dire, je n'ai pas encore emménagé, mais quand mêm
 
 # game/intro.rpy:57 ## translate crowdin intro_de262cb5:
 msgid "Cop || You haven't moved in yet, and it's already on fire?"
-msgstr ""
+msgstr "Vous n'avez pas encore emménagé et il y a déjà le feu ?"
 
 # game/intro.rpy:59 ## translate crowdin intro_d011e9b5:
 msgid "Cop || ...that sounds fishy! Let me see your ID!"
