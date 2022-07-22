@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-16 23:15\n"
+"PO-Revision-Date: 2022-07-22 00:31\n"
 
 # TODO: Translation updated at 2022-07-16 HH:HH# game/events_other.rpy:2 ## translate crowdin cafeBeforeOffice_a5da8788:
 msgid "[pc] Hey, [h]!"
@@ -1650,7 +1650,7 @@ msgstr "[h] Hé! Bonjour, je veux dire, bonsoir ! Err... bonne journée ! Haha."
 
 # game/events_other.rpy:755 ## translate crowdin d10hcall_1b77d4aa:
 msgid "[pc] Haha, what's up [h], ready for the date later today?"
-msgstr ""
+msgstr "[pc] Haha, quoi de neuf [h], prêt pour le rendez-vous d'aujourd'hui ?"
 
 # game/events_other.rpy:756 ## translate crowdin d10hcall_e5312ba5:
 msgid "[h] Yes!"
@@ -2678,7 +2678,7 @@ msgstr "[h] C'est bon."
 
 # game/events_other.rpy:1222 ## translate crowdin d10hdate_02d55c10:
 msgid "[pc] Why don't we sit down and wait until the rain stops?"
-msgstr ""
+msgstr "[pc] Pourquoi ne pas s'asseoir et attendre que la pluie s'arrête ?"
 
 # game/events_other.rpy:1224 ## translate crowdin d10hdate_62775254_2:
 msgid "[h] Uh-huh."
@@ -3514,7 +3514,7 @@ msgstr "[pc]..."
 
 # game/events_other.rpy:1638 ## translate crowdin d11visitcafe_29bacce0:
 msgid "[pc] Oh that reminds me, the house where you and your parents live, do you know what was in there when I was still a kid?"
-msgstr ""
+msgstr "[pc] Oh, ça me fait penser, la maison où vous vivez avec vos parents, vous savez ce qu'il y avait dedans quand j'étais encore enfant ?"
 
 # game/events_other.rpy:1640 ## translate crowdin d11visitcafe_edd2e8da:
 msgid "[h] Hm? No idea, what was it?"
@@ -4246,7 +4246,7 @@ msgstr "[ma] Oui?"
 
 # game/events_other.rpy:1981 ## translate crowdin d11maggylewd_4971e686:
 msgid "[pcthink] Damn, those curves!"
-msgstr ""
+msgstr "[pcthink] Bon sang, ces courbes !"
 
 # game/events_other.rpy:1983 ## translate crowdin d11maggylewd_29b7ddeb:
 msgid "[ma] Oh, is that so?"
@@ -4282,7 +4282,7 @@ msgstr "[pcthink] Qu'est-ce qui se passe ?"
 
 # game/events_other.rpy:1997 ## translate crowdin d11maggylewd_eada2743:
 msgid "[ma] So, it looks like my boss will have to leave the office for a while..."
-msgstr ""
+msgstr "[ma] Donc, on dirait que mon patron va devoir quitter le bureau pour un moment..."
 
 # game/events_other.rpy:1999 ## translate crowdin d11maggylewd_a060ad30:
 msgid "[ma] ...and he also advised me to find some documents in the meantime..."
@@ -4682,7 +4682,7 @@ msgstr "[pc] Je ne dirais pas meilleures, mais oui, je devrais probablement part
 
 # game/events_other.rpy:2262 ## translate crowdin d11malfm_cc975594:
 msgid "[ma] It would be quite embarrassing if my boss walked in on us now."
-msgstr ""
+msgstr "[ma] Ce serait assez embarrassant si mon patron nous surprenait maintenant."
 
 # game/events_other.rpy:2264 ## translate crowdin d11malfm_d27e75ff:
 msgid "[pc] Heh, yeah..."
