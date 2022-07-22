@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-16 23:15\n"
+"PO-Revision-Date: 2022-07-22 00:31\n"
 
 # TODO: Translation updated at 2022-07-16 HH:HH# game/events_e.rpy:4 ## translate crowdin elliePCRoomSleepDay0_28f54d83:
 msgid "[pcthink] What?! [e]?"
@@ -802,7 +802,7 @@ msgstr "[pcthink] Est-ce qu'elle pleure ?"
 
 # game/events_e.rpy:396 ## translate crowdin ebdLookForE_89071559:
 msgid "[pc] Hey, what's wrong? For a second I thought you were crying..."
-msgstr ""
+msgstr "[pc] Hey, qu'est-ce qui ne va pas ? Pendant une seconde, j'ai cru que tu pleurais..."
 
 # game/events_e.rpy:398 ## translate crowdin ebdLookForE_72a33094:
 msgid "[e] ..."
